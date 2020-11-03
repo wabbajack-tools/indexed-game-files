@@ -1,1546 +1,2897 @@
 ﻿[
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "atimgpud.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "bmhHRlbNP+o=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|atimgpud.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 165304,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "atimgpud.dll",
+      "Hash": "bmhHRlbNP+o=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|atimgpud.dll"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "binkw32.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "9V3rKf5Yw+I=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|binkw32.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 214016,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "binkw32.dll",
+      "Hash": "9V3rKf5Yw+I=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|binkw32.dll"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Dawnguard.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "lTXMBk5LvHI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Dawnguard.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1187540597,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Dawnguard.bsa",
+      "Hash": "lTXMBk5LvHI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Dawnguard.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Dawnguard.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "VV1NWq20Mog=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Dawnguard.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 25056932,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Dawnguard.esm",
+      "Hash": "VV1NWq20Mog=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Dawnguard.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Dragonborn.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "GNvijUQOE3c=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Dragonborn.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1803105365,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Dragonborn.bsa",
+      "Hash": "GNvijUQOE3c=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Dragonborn.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Dragonborn.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "KzHIkcGoC9A=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Dragonborn.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 64510413,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Dragonborn.esm",
+      "Hash": "KzHIkcGoC9A=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Dragonborn.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\HearthFires.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "BN+6KyTmJnk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HearthFires.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 140252452,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\HearthFires.bsa",
+      "Hash": "BN+6KyTmJnk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HearthFires.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\HearthFires.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Fcs688GVuXk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HearthFires.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 3565491,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\HearthFires.esm",
+      "Hash": "Fcs688GVuXk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HearthFires.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\HighResTexturePack01.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "nVAm8wNLK5k=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack01.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1640626582,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\HighResTexturePack01.bsa",
+      "Hash": "nVAm8wNLK5k=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack01.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\HighResTexturePack01.esp",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "TZSjM1FtOMA=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack01.esp"
+    "Meta": null,
+    "Name": "",
+    "Size": 66,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\HighResTexturePack01.esp",
+      "Hash": "TZSjM1FtOMA=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack01.esp"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\HighResTexturePack02.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "sYbDVIuEmyE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack02.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1875868906,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\HighResTexturePack02.bsa",
+      "Hash": "sYbDVIuEmyE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack02.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\HighResTexturePack02.esp",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "TZSjM1FtOMA=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack02.esp"
+    "Meta": null,
+    "Name": "",
+    "Size": 66,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\HighResTexturePack02.esp",
+      "Hash": "TZSjM1FtOMA=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack02.esp"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\HighResTexturePack03.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "iJQp35fgb3k=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack03.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1201576510,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\HighResTexturePack03.bsa",
+      "Hash": "iJQp35fgb3k=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack03.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\HighResTexturePack03.esp",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "TZSjM1FtOMA=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack03.esp"
+    "Meta": null,
+    "Name": "",
+    "Size": 66,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\HighResTexturePack03.esp",
+      "Hash": "TZSjM1FtOMA=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\HighResTexturePack03.esp"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Interface\\Translate_ENGLISH.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "JubHLScuDoo=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Interface\\Translate_ENGLISH.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 20356,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Interface\\Translate_ENGLISH.txt",
+      "Hash": "JubHLScuDoo=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Interface\\Translate_ENGLISH.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - Animations.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "bqyXBHerX3g=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Animations.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 42365780,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - Animations.bsa",
+      "Hash": "bqyXBHerX3g=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Animations.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - Interface.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "nIkCigLzAnE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Interface.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 34708888,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - Interface.bsa",
+      "Hash": "nIkCigLzAnE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Interface.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - Meshes.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "nAqvGhw9CiM=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Meshes.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1520899887,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - Meshes.bsa",
+      "Hash": "nAqvGhw9CiM=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Meshes.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - Misc.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "3uNERHJhgvQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Misc.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 177490631,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - Misc.bsa",
+      "Hash": "3uNERHJhgvQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Misc.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - Shaders.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "MTJYEu0KkYU=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Shaders.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 25690987,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - Shaders.bsa",
+      "Hash": "MTJYEu0KkYU=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Shaders.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - Sounds.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "wcCxsG1Tg0I=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Sounds.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 953785521,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - Sounds.bsa",
+      "Hash": "wcCxsG1Tg0I=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Sounds.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - Textures.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ng1Cnrr46Cw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Textures.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1388866502,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - Textures.bsa",
+      "Hash": "ng1Cnrr46Cw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Textures.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - Voices.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "rXoyKe2sfH0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Voices.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1458554685,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - Voices.bsa",
+      "Hash": "rXoyKe2sfH0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - Voices.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim - VoicesExtra.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "aTBH1QSj1/M=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - VoicesExtra.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 13016190,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim - VoicesExtra.bsa",
+      "Hash": "aTBH1QSj1/M=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim - VoicesExtra.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Skyrim.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "MpBR1evs8+Y=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 249371467,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Skyrim.esm",
+      "Hash": "MpBR1evs8+Y=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Skyrim.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Strings\\Skyrim_English.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "WST9kWEOn+M=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Skyrim_English.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2442981,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Strings\\Skyrim_English.DLSTRINGS",
+      "Hash": "WST9kWEOn+M=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Skyrim_English.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Strings\\Skyrim_English.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yNzuZmJMLTg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Skyrim_English.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2711842,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Strings\\Skyrim_English.ILSTRINGS",
+      "Hash": "yNzuZmJMLTg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Skyrim_English.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Strings\\Skyrim_English.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "6bssQsVLKVM=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Skyrim_English.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 833753,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Strings\\Skyrim_English.STRINGS",
+      "Hash": "6bssQsVLKVM=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Skyrim_English.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Strings\\Update_English.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "kD3s7gW1oDE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Update_English.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 44864,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Strings\\Update_English.DLSTRINGS",
+      "Hash": "kD3s7gW1oDE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Update_English.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Strings\\Update_English.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ct1uK6ahO60=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Update_English.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 13055,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Strings\\Update_English.ILSTRINGS",
+      "Hash": "ct1uK6ahO60=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Update_English.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Strings\\Update_English.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "UU+q6aVQyGo=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Update_English.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 20312,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Strings\\Update_English.STRINGS",
+      "Hash": "UU+q6aVQyGo=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Strings\\Update_English.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Update.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "QW6dCJqR7Rk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Update.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 17428297,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Update.bsa",
+      "Hash": "QW6dCJqR7Rk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Update.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Update.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "BG/s9Ld9eRc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Update.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 1518686,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Update.esm",
+      "Hash": "BG/s9Ld9eRc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Update.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Data\\Video\\BGS_Logo.bik",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "SLDKju9V9T8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Video\\BGS_Logo.bik"
+    "Meta": null,
+    "Name": "",
+    "Size": 1809540,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Data\\Video\\BGS_Logo.bik",
+      "Hash": "SLDKju9V9T8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Data\\Video\\BGS_Logo.bik"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2005_d3dx9_25_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "YoWWd60GUn8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2005_d3dx9_25_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1347354,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2005_d3dx9_25_x64.cab",
+      "Hash": "YoWWd60GUn8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2005_d3dx9_25_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2005_d3dx9_25_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "lM6rkabSDJY=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2005_d3dx9_25_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1078962,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2005_d3dx9_25_x86.cab",
+      "Hash": "lM6rkabSDJY=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2005_d3dx9_25_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2006_d3dx9_30_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "83tXsY3Eayk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_d3dx9_30_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1397830,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2006_d3dx9_30_x64.cab",
+      "Hash": "83tXsY3Eayk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_d3dx9_30_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2006_d3dx9_30_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "pOd13rhSnzQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_d3dx9_30_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1115221,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2006_d3dx9_30_x86.cab",
+      "Hash": "pOd13rhSnzQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_d3dx9_30_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2006_MDX1_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "+6m5BPBBzj4=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_MDX1_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 916430,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2006_MDX1_x86.cab",
+      "Hash": "+6m5BPBBzj4=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_MDX1_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2006_MDX1_x86_Archive.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "v9Jx2TkvU7s=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_MDX1_x86_Archive.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 4162630,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2006_MDX1_x86_Archive.cab",
+      "Hash": "v9Jx2TkvU7s=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_MDX1_x86_Archive.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2006_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "KE5hLjUkA80=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 179133,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2006_XACT_x64.cab",
+      "Hash": "KE5hLjUkA80=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2006_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "wzmbyHXSPxk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 133103,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2006_XACT_x86.cab",
+      "Hash": "wzmbyHXSPxk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2006_xinput_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "JBMCUnKwQGk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_xinput_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 87101,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2006_xinput_x64.cab",
+      "Hash": "JBMCUnKwQGk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_xinput_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Apr2006_xinput_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "l+PRADe1AE0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_xinput_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 46010,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Apr2006_xinput_x86.cab",
+      "Hash": "l+PRADe1AE0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Apr2006_xinput_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\APR2007_d3dx10_33_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "o5t4eA8LZT4=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_d3dx10_33_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 698612,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\APR2007_d3dx10_33_x64.cab",
+      "Hash": "o5t4eA8LZT4=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_d3dx10_33_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\APR2007_d3dx10_33_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "h9DpCDgsnW4=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_d3dx10_33_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 695865,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\APR2007_d3dx10_33_x86.cab",
+      "Hash": "h9DpCDgsnW4=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_d3dx10_33_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\APR2007_d3dx9_33_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "sJR/sSRBmmU=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_d3dx9_33_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1607358,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\APR2007_d3dx9_33_x64.cab",
+      "Hash": "sJR/sSRBmmU=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_d3dx9_33_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\APR2007_d3dx9_33_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "4zaDz9VJZvY=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_d3dx9_33_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1606039,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\APR2007_d3dx9_33_x86.cab",
+      "Hash": "4zaDz9VJZvY=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_d3dx9_33_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\APR2007_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "j7erYdfUKnM=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 195766,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\APR2007_XACT_x64.cab",
+      "Hash": "j7erYdfUKnM=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\APR2007_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ZBeGU8ZD3Lk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 151225,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\APR2007_XACT_x86.cab",
+      "Hash": "ZBeGU8ZD3Lk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\APR2007_xinput_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "eM2S9jrVhW0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_xinput_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 96817,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\APR2007_xinput_x64.cab",
+      "Hash": "eM2S9jrVhW0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_xinput_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\APR2007_xinput_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "MlvIoERcHn8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_xinput_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 53302,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\APR2007_xinput_x86.cab",
+      "Hash": "MlvIoERcHn8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\APR2007_xinput_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2005_d3dx9_27_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "VF1u74LhNso=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2005_d3dx9_27_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1350542,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2005_d3dx9_27_x64.cab",
+      "Hash": "VF1u74LhNso=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2005_d3dx9_27_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2005_d3dx9_27_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "DF7tdXWPlIE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2005_d3dx9_27_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1077644,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2005_d3dx9_27_x86.cab",
+      "Hash": "DF7tdXWPlIE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2005_d3dx9_27_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2006_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "eCKNlk5GIF4=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2006_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 182903,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2006_XACT_x64.cab",
+      "Hash": "eCKNlk5GIF4=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2006_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2006_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "dugXWJaveg8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2006_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 137235,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2006_XACT_x86.cab",
+      "Hash": "dugXWJaveg8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2006_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2006_xinput_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "9hdvngmBPzA=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2006_xinput_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 87142,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2006_xinput_x64.cab",
+      "Hash": "9hdvngmBPzA=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2006_xinput_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2006_xinput_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "/oJyggqZaJY=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2006_xinput_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 46058,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2006_xinput_x86.cab",
+      "Hash": "/oJyggqZaJY=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2006_xinput_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2007_d3dx10_35_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "x3auhPcWO1o=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_d3dx10_35_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 852286,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2007_d3dx10_35_x64.cab",
+      "Hash": "x3auhPcWO1o=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_d3dx10_35_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2007_d3dx10_35_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yF3rz986ndQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_d3dx10_35_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 796867,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2007_d3dx10_35_x86.cab",
+      "Hash": "yF3rz986ndQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_d3dx10_35_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2007_d3dx9_35_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "bZvAmu3g5eg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_d3dx9_35_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1800160,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2007_d3dx9_35_x64.cab",
+      "Hash": "bZvAmu3g5eg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_d3dx9_35_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2007_d3dx9_35_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "mZEoSJ/yJO8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_d3dx9_35_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1708152,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2007_d3dx9_35_x86.cab",
+      "Hash": "mZEoSJ/yJO8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_d3dx9_35_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2007_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "EsvJ0kNS+jE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 198096,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2007_XACT_x64.cab",
+      "Hash": "EsvJ0kNS+jE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\AUG2007_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "viuQlELzqNE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 153012,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\AUG2007_XACT_x86.cab",
+      "Hash": "viuQlELzqNE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\AUG2007_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2008_d3dx10_39_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "xycB5JbUdt8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_d3dx10_39_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 867612,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2008_d3dx10_39_x64.cab",
+      "Hash": "xycB5JbUdt8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_d3dx10_39_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2008_d3dx10_39_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "W4SmGH87TDw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_d3dx10_39_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 849167,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2008_d3dx10_39_x86.cab",
+      "Hash": "W4SmGH87TDw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_d3dx10_39_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2008_d3dx9_39_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "104XN03UW/Y=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_d3dx9_39_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1794084,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2008_d3dx9_39_x64.cab",
+      "Hash": "104XN03UW/Y=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_d3dx9_39_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2008_d3dx9_39_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "SSlRvtiSDBc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_d3dx9_39_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1464672,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2008_d3dx9_39_x86.cab",
+      "Hash": "SSlRvtiSDBc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_d3dx9_39_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2008_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "deW8QZzUfqo=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 121772,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2008_XACT_x64.cab",
+      "Hash": "deW8QZzUfqo=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2008_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "jadHtN7cFqQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 92996,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2008_XACT_x86.cab",
+      "Hash": "jadHtN7cFqQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2008_XAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yFo6X/jKdTc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_XAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 271412,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2008_XAudio_x64.cab",
+      "Hash": "yFo6X/jKdTc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_XAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2008_XAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "rCQBdVpiyDE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_XAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 271038,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2008_XAudio_x86.cab",
+      "Hash": "rCQBdVpiyDE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2008_XAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_D3DCompiler_42_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Sjx6XeuNbyo=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_D3DCompiler_42_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 919044,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_D3DCompiler_42_x64.cab",
+      "Hash": "Sjx6XeuNbyo=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_D3DCompiler_42_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_D3DCompiler_42_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "QT5a6qMxQ6s=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_D3DCompiler_42_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 900598,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_D3DCompiler_42_x86.cab",
+      "Hash": "QT5a6qMxQ6s=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_D3DCompiler_42_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_d3dcsx_42_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Bm2Tor6PrG4=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dcsx_42_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 3112111,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_d3dcsx_42_x64.cab",
+      "Hash": "Bm2Tor6PrG4=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dcsx_42_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_d3dcsx_42_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "SYIry8ddR/w=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dcsx_42_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 3319740,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_d3dcsx_42_x86.cab",
+      "Hash": "SYIry8ddR/w=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dcsx_42_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_d3dx10_42_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "MXeebxJaZlg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx10_42_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 232635,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_d3dx10_42_x64.cab",
+      "Hash": "MXeebxJaZlg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx10_42_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_d3dx10_42_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "IQtJcYnoNQI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx10_42_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 192131,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_d3dx10_42_x86.cab",
+      "Hash": "IQtJcYnoNQI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx10_42_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_d3dx11_42_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "APrUmLw5zWQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx11_42_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 136301,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_d3dx11_42_x64.cab",
+      "Hash": "APrUmLw5zWQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx11_42_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_d3dx11_42_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "0nA9JJtTTfI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx11_42_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 105044,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_d3dx11_42_x86.cab",
+      "Hash": "0nA9JJtTTfI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx11_42_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_d3dx9_42_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "+i/hBy96v6I=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx9_42_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 930116,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_d3dx9_42_x64.cab",
+      "Hash": "+i/hBy96v6I=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx9_42_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_d3dx9_42_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Az7hSX7fPOM=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx9_42_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 728456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_d3dx9_42_x86.cab",
+      "Hash": "Az7hSX7fPOM=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_d3dx9_42_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "T0zMgueshVc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 122408,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_XACT_x64.cab",
+      "Hash": "T0zMgueshVc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "AURlyfyW40c=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 93106,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_XACT_x86.cab",
+      "Hash": "AURlyfyW40c=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_XAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ZJ8t8AORpEo=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_XAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 273264,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_XAudio_x64.cab",
+      "Hash": "ZJ8t8AORpEo=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_XAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Aug2009_XAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "FDN8Z+ek8P4=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_XAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 272642,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Aug2009_XAudio_x86.cab",
+      "Hash": "FDN8Z+ek8P4=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Aug2009_XAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\BDANT.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "y4Ko+I9XT5c=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\BDANT.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1155491,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\BDANT.cab",
+      "Hash": "y4Ko+I9XT5c=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\BDANT.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\BDAXP.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "rlbgUnYMltc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\BDAXP.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 975148,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\BDAXP.cab",
+      "Hash": "rlbgUnYMltc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\BDAXP.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Dec2005_d3dx9_28_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "mHRiObOVkMY=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Dec2005_d3dx9_28_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1357976,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Dec2005_d3dx9_28_x64.cab",
+      "Hash": "mHRiObOVkMY=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Dec2005_d3dx9_28_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Dec2005_d3dx9_28_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "/GcGVRnknxM=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Dec2005_d3dx9_28_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1079456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Dec2005_d3dx9_28_x86.cab",
+      "Hash": "/GcGVRnknxM=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Dec2005_d3dx9_28_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\DEC2006_d3dx10_00_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "dxAQlNikJyQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_d3dx10_00_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 212807,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\DEC2006_d3dx10_00_x64.cab",
+      "Hash": "dxAQlNikJyQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_d3dx10_00_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\DEC2006_d3dx10_00_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "N1ftZCZS1DM=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_d3dx10_00_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 191720,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\DEC2006_d3dx10_00_x86.cab",
+      "Hash": "N1ftZCZS1DM=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_d3dx10_00_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\DEC2006_d3dx9_32_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "30HCklnbfGg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_d3dx9_32_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1571154,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\DEC2006_d3dx9_32_x64.cab",
+      "Hash": "30HCklnbfGg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_d3dx9_32_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\DEC2006_d3dx9_32_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "v8hXIFYkcGI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_d3dx9_32_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1574376,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\DEC2006_d3dx9_32_x86.cab",
+      "Hash": "v8hXIFYkcGI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_d3dx9_32_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\DEC2006_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "gK/tf8hYJBs=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 192475,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\DEC2006_XACT_x64.cab",
+      "Hash": "gK/tf8hYJBs=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\DEC2006_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "CXC+gl1yeWY=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 145599,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\DEC2006_XACT_x86.cab",
+      "Hash": "CXC+gl1yeWY=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DEC2006_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\DSETUP.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "wsMHj2y0F3E=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DSETUP.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 94040,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\DSETUP.dll",
+      "Hash": "wsMHj2y0F3E=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DSETUP.dll"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\dsetup32.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Po1lonzXrJI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\dsetup32.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 1691480,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\dsetup32.dll",
+      "Hash": "Po1lonzXrJI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\dsetup32.dll"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\dxdllreg_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "j4Z2OLkbTGE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\dxdllreg_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 44448,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\dxdllreg_x86.cab",
+      "Hash": "j4Z2OLkbTGE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\dxdllreg_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\dxnt.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "T0tS/dI/wS8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\dxnt.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 13264168,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\dxnt.cab",
+      "Hash": "T0tS/dI/wS8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\dxnt.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\DXSETUP.exe",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "gCoXUW9zHrE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DXSETUP.exe"
+    "Meta": null,
+    "Name": "",
+    "Size": 525656,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\DXSETUP.exe",
+      "Hash": "gCoXUW9zHrE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\DXSETUP.exe"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\dxupdate.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ncVJSKYnZQ0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\dxupdate.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 95820,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\dxupdate.cab",
+      "Hash": "ncVJSKYnZQ0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\dxupdate.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2005_d3dx9_24_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "0g15izha6y8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2005_d3dx9_24_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1247499,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2005_d3dx9_24_x64.cab",
+      "Hash": "0g15izha6y8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2005_d3dx9_24_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2005_d3dx9_24_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "wvGkcABEwB8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2005_d3dx9_24_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1013225,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2005_d3dx9_24_x86.cab",
+      "Hash": "wvGkcABEwB8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2005_d3dx9_24_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2006_d3dx9_29_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "R6keio8Jgb8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2006_d3dx9_29_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1362796,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2006_d3dx9_29_x64.cab",
+      "Hash": "R6keio8Jgb8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2006_d3dx9_29_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2006_d3dx9_29_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "JllwpiKrgQw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2006_d3dx9_29_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1084720,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2006_d3dx9_29_x86.cab",
+      "Hash": "JllwpiKrgQw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2006_d3dx9_29_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2006_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "MQWwdogu3h0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2006_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 178359,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2006_XACT_x64.cab",
+      "Hash": "MQWwdogu3h0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2006_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2006_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "IMJuIV1oaqg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2006_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 132409,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2006_XACT_x86.cab",
+      "Hash": "IMJuIV1oaqg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2006_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\FEB2007_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "zGn6eR9Tas0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\FEB2007_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 194675,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\FEB2007_XACT_x64.cab",
+      "Hash": "zGn6eR9Tas0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\FEB2007_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\FEB2007_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "hcM9NOEYRt8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\FEB2007_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 147983,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\FEB2007_XACT_x86.cab",
+      "Hash": "hcM9NOEYRt8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\FEB2007_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2010_X3DAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "8LZkNuE7wXQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_X3DAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 54678,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2010_X3DAudio_x64.cab",
+      "Hash": "8LZkNuE7wXQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_X3DAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2010_X3DAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "AtIj70cKALI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_X3DAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 20713,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2010_X3DAudio_x86.cab",
+      "Hash": "AtIj70cKALI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_X3DAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2010_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "CXXPgRypH5Y=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 122446,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2010_XACT_x64.cab",
+      "Hash": "CXXPgRypH5Y=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2010_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "wiEvEx+o1Ik=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 93180,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2010_XACT_x86.cab",
+      "Hash": "wiEvEx+o1Ik=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2010_XAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "UWBY0ZXzpBg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_XAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 276960,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2010_XAudio_x64.cab",
+      "Hash": "UWBY0ZXzpBg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_XAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Feb2010_XAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "zs7Xc9P2Tdw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_XAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 277191,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Feb2010_XAudio_x86.cab",
+      "Hash": "zs7Xc9P2Tdw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Feb2010_XAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Jun2005_d3dx9_26_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "tQXzxgWAAXo=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Jun2005_d3dx9_26_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1336002,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Jun2005_d3dx9_26_x64.cab",
+      "Hash": "tQXzxgWAAXo=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Jun2005_d3dx9_26_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Jun2005_d3dx9_26_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Zllu23n9noc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Jun2005_d3dx9_26_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1064925,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Jun2005_d3dx9_26_x86.cab",
+      "Hash": "Zllu23n9noc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Jun2005_d3dx9_26_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2006_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "bm9/xVeA05Y=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2006_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 180785,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2006_XACT_x64.cab",
+      "Hash": "bm9/xVeA05Y=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2006_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2006_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "XEFL9MwsADo=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2006_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 133671,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2006_XACT_x86.cab",
+      "Hash": "XEFL9MwsADo=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2006_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2007_d3dx10_34_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "KMEInMfap0o=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_d3dx10_34_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 699044,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2007_d3dx10_34_x64.cab",
+      "Hash": "KMEInMfap0o=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_d3dx10_34_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2007_d3dx10_34_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "BX6LXMceWEw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_d3dx10_34_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 698472,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2007_d3dx10_34_x86.cab",
+      "Hash": "BX6LXMceWEw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_d3dx10_34_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2007_d3dx9_34_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "GeveIlDQNCw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_d3dx9_34_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1607774,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2007_d3dx9_34_x64.cab",
+      "Hash": "GeveIlDQNCw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_d3dx9_34_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2007_d3dx9_34_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "1mXsyRNM4k0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_d3dx9_34_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1607286,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2007_d3dx9_34_x86.cab",
+      "Hash": "1mXsyRNM4k0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_d3dx9_34_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2007_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "MOKBkcHnBJ8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 197122,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2007_XACT_x64.cab",
+      "Hash": "MOKBkcHnBJ8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2007_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "p/u3UseiVDs=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 152909,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2007_XACT_x86.cab",
+      "Hash": "p/u3UseiVDs=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2007_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_d3dx10_38_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "cAJceIoOavE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_d3dx10_38_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 867828,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_d3dx10_38_x64.cab",
+      "Hash": "cAJceIoOavE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_d3dx10_38_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_d3dx10_38_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "cYEqfCZCd58=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_d3dx10_38_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 849919,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_d3dx10_38_x86.cab",
+      "Hash": "cYEqfCZCd58=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_d3dx10_38_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_d3dx9_38_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "537ufA/7qQY=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_d3dx9_38_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1792608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_d3dx9_38_x64.cab",
+      "Hash": "537ufA/7qQY=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_d3dx9_38_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_d3dx9_38_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "hjNCN4AmRSg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_d3dx9_38_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1463878,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_d3dx9_38_x86.cab",
+      "Hash": "hjNCN4AmRSg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_d3dx9_38_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_X3DAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "jH+9Q5EZW2c=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_X3DAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 55154,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_X3DAudio_x64.cab",
+      "Hash": "jH+9Q5EZW2c=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_X3DAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_X3DAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "+fo6nML2HK8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_X3DAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 21905,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_X3DAudio_x86.cab",
+      "Hash": "+fo6nML2HK8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_X3DAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "4SdBtM/Be70=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 121054,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_XACT_x64.cab",
+      "Hash": "4SdBtM/Be70=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ZxfTWe3wOeA=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 93128,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_XACT_x86.cab",
+      "Hash": "ZxfTWe3wOeA=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_XAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ySS2oQVTecQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_XAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 269628,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_XAudio_x64.cab",
+      "Hash": "ySS2oQVTecQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_XAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\JUN2008_XAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "timPUUS7e8c=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_XAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 269024,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\JUN2008_XAudio_x86.cab",
+      "Hash": "timPUUS7e8c=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\JUN2008_XAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_d3dx10_37_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "I9EFKx3BO30=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_d3dx10_37_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 844884,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_d3dx10_37_x64.cab",
+      "Hash": "I9EFKx3BO30=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_d3dx10_37_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_d3dx10_37_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "lkBsWyBxue8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_d3dx10_37_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 818260,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_d3dx10_37_x86.cab",
+      "Hash": "lkBsWyBxue8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_d3dx10_37_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_d3dx9_37_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "aYZ4XXh0+ko=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_d3dx9_37_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1769862,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_d3dx9_37_x64.cab",
+      "Hash": "aYZ4XXh0+ko=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_d3dx9_37_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_d3dx9_37_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "OSYvS96u0Vw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_d3dx9_37_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1443282,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_d3dx9_37_x86.cab",
+      "Hash": "OSYvS96u0Vw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_d3dx9_37_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_X3DAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "oJjl1AXU9yc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_X3DAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 55058,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_X3DAudio_x64.cab",
+      "Hash": "oJjl1AXU9yc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_X3DAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_X3DAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "GmBOE1XENVA=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_X3DAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 21867,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_X3DAudio_x86.cab",
+      "Hash": "GmBOE1XENVA=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_X3DAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "G7sVoyokMXc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 122336,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_XACT_x64.cab",
+      "Hash": "G7sVoyokMXc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "BX1kMH5/5Rc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 93734,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_XACT_x86.cab",
+      "Hash": "BX1kMH5/5Rc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_XAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "hJm5s/EV08s=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_XAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 251194,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_XAudio_x64.cab",
+      "Hash": "hJm5s/EV08s=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_XAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2008_XAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "FBrpUmZVsHM=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_XAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 226250,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2008_XAudio_x86.cab",
+      "Hash": "FBrpUmZVsHM=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2008_XAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_d3dx10_41_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "SDrJvo0vqTQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_d3dx10_41_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1067160,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_d3dx10_41_x64.cab",
+      "Hash": "SDrJvo0vqTQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_d3dx10_41_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_d3dx10_41_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "UBZVN6Lr3IA=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_d3dx10_41_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1040745,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_d3dx10_41_x86.cab",
+      "Hash": "UBZVN6Lr3IA=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_d3dx10_41_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_d3dx9_41_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "OGUg6makcr0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_d3dx9_41_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1973702,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_d3dx9_41_x64.cab",
+      "Hash": "OGUg6makcr0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_d3dx9_41_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_d3dx9_41_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "oTZEHiVpWQs=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_d3dx9_41_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1612446,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_d3dx9_41_x86.cab",
+      "Hash": "oTZEHiVpWQs=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_d3dx9_41_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_X3DAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "j64n7XeFL48=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_X3DAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 54600,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_X3DAudio_x64.cab",
+      "Hash": "j64n7XeFL48=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_X3DAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_X3DAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "fId6bGqcz0M=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_X3DAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 21298,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_X3DAudio_x86.cab",
+      "Hash": "fId6bGqcz0M=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_X3DAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "zv1sg0JcY34=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 121506,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_XACT_x64.cab",
+      "Hash": "zv1sg0JcY34=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "uGnsU3mkk8o=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 92740,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_XACT_x86.cab",
+      "Hash": "uGnsU3mkk8o=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_XAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "SOr/IgHAy88=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_XAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 275044,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_XAudio_x64.cab",
+      "Hash": "SOr/IgHAy88=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_XAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Mar2009_XAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "PVFGAN0HWmw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_XAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 273018,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Mar2009_XAudio_x86.cab",
+      "Hash": "PVFGAN0HWmw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Mar2009_XAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2007_d3dx10_36_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "4fvPSqCXXps=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2007_d3dx10_36_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 864600,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2007_d3dx10_36_x64.cab",
+      "Hash": "4fvPSqCXXps=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2007_d3dx10_36_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2007_d3dx10_36_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "WonLWMn8wh0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2007_d3dx10_36_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 803884,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2007_d3dx10_36_x86.cab",
+      "Hash": "WonLWMn8wh0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2007_d3dx10_36_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2007_d3dx9_36_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "IOH/6EqEWfw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2007_d3dx9_36_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1802058,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2007_d3dx9_36_x64.cab",
+      "Hash": "IOH/6EqEWfw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2007_d3dx9_36_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2007_d3dx9_36_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "J2BvMnYKmXI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2007_d3dx9_36_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1709360,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2007_d3dx9_36_x86.cab",
+      "Hash": "J2BvMnYKmXI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2007_d3dx9_36_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\NOV2007_X3DAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yos7Z18iqWw=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\NOV2007_X3DAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 46144,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\NOV2007_X3DAudio_x64.cab",
+      "Hash": "yos7Z18iqWw=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\NOV2007_X3DAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\NOV2007_X3DAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "LkQ0PvBIO9A=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\NOV2007_X3DAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 18496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\NOV2007_X3DAudio_x86.cab",
+      "Hash": "LkQ0PvBIO9A=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\NOV2007_X3DAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\NOV2007_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "srCTf4/dyuA=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\NOV2007_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 196762,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\NOV2007_XACT_x64.cab",
+      "Hash": "srCTf4/dyuA=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\NOV2007_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\NOV2007_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "oXXD2Sn9APo=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\NOV2007_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 148264,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\NOV2007_XACT_x86.cab",
+      "Hash": "oXXD2Sn9APo=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\NOV2007_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_d3dx10_40_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yjpjPVeakCk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_d3dx10_40_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 994154,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_d3dx10_40_x64.cab",
+      "Hash": "yjpjPVeakCk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_d3dx10_40_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_d3dx10_40_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "piDOJ4B3lOQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_d3dx10_40_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 965421,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_d3dx10_40_x86.cab",
+      "Hash": "piDOJ4B3lOQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_d3dx10_40_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_d3dx9_40_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "iKNK9rWP3iE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_d3dx9_40_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1906878,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_d3dx9_40_x64.cab",
+      "Hash": "iKNK9rWP3iE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_d3dx9_40_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_d3dx9_40_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "47k7ypH+8o8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_d3dx9_40_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1550796,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_d3dx9_40_x86.cab",
+      "Hash": "47k7ypH+8o8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_d3dx9_40_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_X3DAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "21TZ0AXVyLE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_X3DAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 54522,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_X3DAudio_x64.cab",
+      "Hash": "21TZ0AXVyLE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_X3DAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_X3DAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "YrIHK2+q9Yc=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_X3DAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 21851,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_X3DAudio_x86.cab",
+      "Hash": "YrIHK2+q9Yc=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_X3DAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "n9ZLshVM7FI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 121794,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_XACT_x64.cab",
+      "Hash": "n9ZLshVM7FI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "aGsxCzLTZKg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 92684,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_XACT_x86.cab",
+      "Hash": "aGsxCzLTZKg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_XAudio_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "4gBL5q7Jqd0=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_XAudio_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 273960,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_XAudio_x64.cab",
+      "Hash": "4gBL5q7Jqd0=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_XAudio_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Nov2008_XAudio_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "8eeXwlKBIok=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_XAudio_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 272611,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Nov2008_XAudio_x86.cab",
+      "Hash": "8eeXwlKBIok=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Nov2008_XAudio_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Oct2005_xinput_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "nbUfswNgahs=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Oct2005_xinput_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 86037,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Oct2005_xinput_x64.cab",
+      "Hash": "nbUfswNgahs=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Oct2005_xinput_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\Oct2005_xinput_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "3JGk0owkh3w=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Oct2005_xinput_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 45359,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\Oct2005_xinput_x86.cab",
+      "Hash": "3JGk0owkh3w=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\Oct2005_xinput_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\OCT2006_d3dx9_31_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "6oD9FMPiBkY=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\OCT2006_d3dx9_31_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1412902,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\OCT2006_d3dx9_31_x64.cab",
+      "Hash": "6oD9FMPiBkY=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\OCT2006_d3dx9_31_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\OCT2006_d3dx9_31_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "p0GI1tdugHM=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\OCT2006_d3dx9_31_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 1127217,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\OCT2006_d3dx9_31_x86.cab",
+      "Hash": "p0GI1tdugHM=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\OCT2006_d3dx9_31_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\OCT2006_XACT_x64.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "2NJ8oWEtFsQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\OCT2006_XACT_x64.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 182361,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\OCT2006_XACT_x64.cab",
+      "Hash": "2NJ8oWEtFsQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\OCT2006_XACT_x64.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DirectX10\\OCT2006_XACT_x86.cab",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "J3rOnrhTOKk=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\OCT2006_XACT_x86.cab"
+    "Meta": null,
+    "Name": "",
+    "Size": 138017,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DirectX10\\OCT2006_XACT_x86.cab",
+      "Hash": "J3rOnrhTOKk=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DirectX10\\OCT2006_XACT_x86.cab"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "DotNetFX\\dotnetfx35setup.exe",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Es9wRr4igqI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DotNetFX\\dotnetfx35setup.exe"
+    "Meta": null,
+    "Name": "",
+    "Size": 2959376,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "DotNetFX\\dotnetfx35setup.exe",
+      "Hash": "Es9wRr4igqI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|DotNetFX\\dotnetfx35setup.exe"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "high.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "izpUem3VA6c=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|high.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 1159,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "high.ini",
+      "Hash": "izpUem3VA6c=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|high.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "installscript.vdf",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Os2XR/sH7PI=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|installscript.vdf"
+    "Meta": null,
+    "Name": "",
+    "Size": 1307,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "installscript.vdf",
+      "Hash": "Os2XR/sH7PI=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|installscript.vdf"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "low.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "xUhy3QpQHYU=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|low.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 1132,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "low.ini",
+      "Hash": "xUhy3QpQHYU=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|low.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "medium.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "NlDrV5HgcJg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|medium.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 1150,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "medium.ini",
+      "Hash": "NlDrV5HgcJg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|medium.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "readme.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "i56GEn3D5hg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|readme.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 3877,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "readme.txt",
+      "Hash": "i56GEn3D5hg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|readme.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Skyrim\\SkyrimPrefs.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "nnLZTndRlAU=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Skyrim\\SkyrimPrefs.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 2940,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Skyrim\\SkyrimPrefs.ini",
+      "Hash": "nnLZTndRlAU=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Skyrim\\SkyrimPrefs.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "Skyrim_default.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "0HqUmwy0tEQ=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Skyrim_default.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 1056,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "Skyrim_default.ini",
+      "Hash": "0HqUmwy0tEQ=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|Skyrim_default.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "SkyrimLauncher.exe",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "TguYkNr4Du8=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|SkyrimLauncher.exe"
+    "Meta": null,
+    "Name": "",
+    "Size": 1929232,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "SkyrimLauncher.exe",
+      "Hash": "TguYkNr4Du8=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|SkyrimLauncher.exe"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "steam_api.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "5TOmsHsJ9Ac=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|steam_api.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 145600,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "steam_api.dll",
+      "Hash": "5TOmsHsJ9Ac=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|steam_api.dll"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "TESV.exe",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "V3WrxqWHkFY=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|TESV.exe"
+    "Meta": null,
+    "Name": "",
+    "Size": 18024240,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "TESV.exe",
+      "Hash": "V3WrxqWHkFY=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|TESV.exe"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "VCRedist\\vcredist_x86.exe",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yMbUsgniiBg=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|VCRedist\\vcredist_x86.exe"
+    "Meta": null,
+    "Name": "",
+    "Size": 4995416,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "VCRedist\\vcredist_x86.exe",
+      "Hash": "yMbUsgniiBg=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|VCRedist\\vcredist_x86.exe"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "Skyrim",
-    "GameFile": "VeryHigh.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "IeprHrXNUSE=",
-    "GameVersion": "1.9.32.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|VeryHigh.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 1181,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Skyrim",
+      "GameFile": "VeryHigh.ini",
+      "Hash": "IeprHrXNUSE=",
+      "GameVersion": "1.9.32.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Skyrim|1.9.32.0|VeryHigh.ini"
+    }
   }
 ]

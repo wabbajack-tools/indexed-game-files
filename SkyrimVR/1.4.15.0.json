@@ -1,1202 +1,2252 @@
 ﻿[
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "atimgpud.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "bmhHRlbNP+o=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|atimgpud.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 165304,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "atimgpud.dll",
+      "Hash": "bmhHRlbNP+o=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|atimgpud.dll"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "binkw64.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "FZXovxp8lX0=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|binkw64.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 298496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "binkw64.dll",
+      "Hash": "FZXovxp8lX0=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|binkw64.dll"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Dawnguard.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "2MLtqrl4oQY=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Dawnguard.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 25191567,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Dawnguard.esm",
+      "Hash": "2MLtqrl4oQY=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Dawnguard.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Dragonborn.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "JlZTy5aNE10=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Dragonborn.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 64563250,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Dragonborn.esm",
+      "Hash": "JlZTy5aNE10=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Dragonborn.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\HearthFires.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "VqqXmKi03xI=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\HearthFires.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 3708356,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\HearthFires.esm",
+      "Hash": "VqqXmKi03xI=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\HearthFires.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_CHINESE.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "rr5AGwJq57c=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_CHINESE.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 26060,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_CHINESE.txt",
+      "Hash": "rr5AGwJq57c=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_CHINESE.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_ENGLISH.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "kWhgT9J4g18=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_ENGLISH.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 37316,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_ENGLISH.txt",
+      "Hash": "kWhgT9J4g18=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_ENGLISH.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_FRENCH.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "icYDDMfqnhU=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_FRENCH.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 41594,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_FRENCH.txt",
+      "Hash": "icYDDMfqnhU=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_FRENCH.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_GERMAN.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "t9FRmz90/lA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_GERMAN.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 42222,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_GERMAN.txt",
+      "Hash": "t9FRmz90/lA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_GERMAN.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_ITALIAN.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "zafHDkgUMxk=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_ITALIAN.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 40618,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_ITALIAN.txt",
+      "Hash": "zafHDkgUMxk=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_ITALIAN.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_JAPANESE.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Ydvu1QjbZgI=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_JAPANESE.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 28716,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_JAPANESE.txt",
+      "Hash": "Ydvu1QjbZgI=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_JAPANESE.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_POLISH.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "BdNJ5gzONcM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_POLISH.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 39784,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_POLISH.txt",
+      "Hash": "BdNJ5gzONcM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_POLISH.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_RUSSIAN.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "S6yTM9rGXf8=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_RUSSIAN.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 40448,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_RUSSIAN.txt",
+      "Hash": "S6yTM9rGXf8=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_RUSSIAN.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Interface\\Translate_SPANISH.txt",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "3GK7zxOLFes=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_SPANISH.txt"
+    "Meta": null,
+    "Name": "",
+    "Size": 42302,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Interface\\Translate_SPANISH.txt",
+      "Hash": "3GK7zxOLFes=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Interface\\Translate_SPANISH.txt"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Animations.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "kX9UFltG4+s=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Animations.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 116177491,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Animations.bsa",
+      "Hash": "kX9UFltG4+s=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Animations.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Interface.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Mj8+6rxW6Es=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Interface.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 65726644,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Interface.bsa",
+      "Hash": "Mj8+6rxW6Es=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Interface.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Meshes0.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "MLw2ZGIzsg0=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Meshes0.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 2097850113,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Meshes0.bsa",
+      "Hash": "MLw2ZGIzsg0=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Meshes0.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Meshes1.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Fjhy4N7rlEc=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Meshes1.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 519339629,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Meshes1.bsa",
+      "Hash": "Fjhy4N7rlEc=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Meshes1.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Misc.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "/Sglpr+ZffA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Misc.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 204313675,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Misc.bsa",
+      "Hash": "/Sglpr+ZffA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Misc.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Patch.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "mwREtRFyhvs=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Patch.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 66322373,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Patch.bsa",
+      "Hash": "mwREtRFyhvs=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Patch.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Shaders.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "xAzagm0Oscc=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Shaders.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 67350034,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Shaders.bsa",
+      "Hash": "xAzagm0Oscc=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Shaders.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Sounds.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "8LzXRU4x9Sw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Sounds.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1535523399,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Sounds.bsa",
+      "Hash": "8LzXRU4x9Sw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Sounds.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures0.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "briiqqWUug0=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures0.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 655189115,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures0.bsa",
+      "Hash": "briiqqWUug0=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures0.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures1.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "x6lgChdDLtA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures1.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1509673333,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures1.bsa",
+      "Hash": "x6lgChdDLtA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures1.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures2.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "cO23yqAxYaM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures2.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1344319627,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures2.bsa",
+      "Hash": "cO23yqAxYaM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures2.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures3.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Rcbvxp38XsA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures3.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1318023565,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures3.bsa",
+      "Hash": "Rcbvxp38XsA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures3.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures4.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yg9nTkWSL+M=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures4.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1355383619,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures4.bsa",
+      "Hash": "yg9nTkWSL+M=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures4.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures5.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "tuZR7VgHONY=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures5.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 523065091,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures5.bsa",
+      "Hash": "tuZR7VgHONY=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures5.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures6.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ulEZTUdiIcs=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures6.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 168591797,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures6.bsa",
+      "Hash": "ulEZTUdiIcs=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures6.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures7.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "HDpMLdQaPj4=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures7.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 824377007,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures7.bsa",
+      "Hash": "HDpMLdQaPj4=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures7.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Textures8.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "6by7EhPzAOQ=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures8.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 25248518,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Textures8.bsa",
+      "Hash": "6by7EhPzAOQ=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Textures8.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim - Voices_en0.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "2Tmfw2AG/MM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Voices_en0.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 1807969854,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim - Voices_en0.bsa",
+      "Hash": "2Tmfw2AG/MM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim - Voices_en0.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "y2lKRnbO7NI=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 249753240,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim.esm",
+      "Hash": "y2lKRnbO7NI=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Skyrim_VR - Main.bsa",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "w+0VpSYgTlA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim_VR - Main.bsa"
+    "Meta": null,
+    "Name": "",
+    "Size": 438390440,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Skyrim_VR - Main.bsa",
+      "Hash": "w+0VpSYgTlA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Skyrim_VR - Main.bsa"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\SkyrimVR.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "/nUMgskn2LI=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\SkyrimVR.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 332403,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\SkyrimVR.esm",
+      "Hash": "/nUMgskn2LI=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\SkyrimVR.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Sp3fAgLRihs=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ENGLISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 116999,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.DLSTRINGS",
+      "Hash": "Sp3fAgLRihs=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ENGLISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "jnTmEpQ7QOk=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ENGLISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 297708,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.ILSTRINGS",
+      "Hash": "jnTmEpQ7QOk=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ENGLISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "GSkcjrmW48g=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ENGLISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 100234,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.STRINGS",
+      "Hash": "GSkcjrmW48g=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ENGLISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_FRENCH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "f/BDcdlsg6w=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_FRENCH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 129919,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_FRENCH.DLSTRINGS",
+      "Hash": "f/BDcdlsg6w=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_FRENCH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_FRENCH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ozRojGAo/eE=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_FRENCH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 333347,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_FRENCH.ILSTRINGS",
+      "Hash": "ozRojGAo/eE=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_FRENCH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_FRENCH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "GlDManhyIqg=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_FRENCH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 115456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_FRENCH.STRINGS",
+      "Hash": "GlDManhyIqg=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_FRENCH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_GERMAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "g9V0wQHu0Bo=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_GERMAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 138392,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_GERMAN.DLSTRINGS",
+      "Hash": "g9V0wQHu0Bo=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_GERMAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_GERMAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "hZlGkCX6skk=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_GERMAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 347705,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_GERMAN.ILSTRINGS",
+      "Hash": "hZlGkCX6skk=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_GERMAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_GERMAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "naxwRk67rnA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_GERMAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 111259,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_GERMAN.STRINGS",
+      "Hash": "naxwRk67rnA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_GERMAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "lOwnL9fPngE=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ITALIAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 123710,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.DLSTRINGS",
+      "Hash": "lOwnL9fPngE=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ITALIAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "4KsabM3ckYw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ITALIAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 295878,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.ILSTRINGS",
+      "Hash": "4KsabM3ckYw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ITALIAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "VLyeBl3jkfU=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ITALIAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 106608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.STRINGS",
+      "Hash": "VLyeBl3jkfU=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_ITALIAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_Polish.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "/wudg7UlOnA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Polish.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 124616,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_Polish.DLSTRINGS",
+      "Hash": "/wudg7UlOnA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Polish.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_Polish.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Mh4T0JpGbtM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Polish.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 313361,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_Polish.ILSTRINGS",
+      "Hash": "Mh4T0JpGbtM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Polish.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_Polish.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "VI4o0T4r13M=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Polish.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 111583,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_Polish.STRINGS",
+      "Hash": "VI4o0T4r13M=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Polish.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_Russian.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Ag68qQPm8bI=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Russian.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 193762,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_Russian.DLSTRINGS",
+      "Hash": "Ag68qQPm8bI=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Russian.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_Russian.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "/I73Xd6lkic=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Russian.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 472487,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_Russian.ILSTRINGS",
+      "Hash": "/I73Xd6lkic=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Russian.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_Russian.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "WvZhW7Cn76I=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Russian.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 157751,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_Russian.STRINGS",
+      "Hash": "WvZhW7Cn76I=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_Russian.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_SPANISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "uRZ0+zevb90=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_SPANISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 128924,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_SPANISH.DLSTRINGS",
+      "Hash": "uRZ0+zevb90=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_SPANISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_SPANISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "feTKd/wRPxM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_SPANISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 313302,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_SPANISH.ILSTRINGS",
+      "Hash": "feTKd/wRPxM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_SPANISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dawnguard_SPANISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "fQdTd5EuUQo=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_SPANISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 112385,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dawnguard_SPANISH.STRINGS",
+      "Hash": "fQdTd5EuUQo=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dawnguard_SPANISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "h8NghsMYgiQ=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ENGLISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 314844,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.DLSTRINGS",
+      "Hash": "h8NghsMYgiQ=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ENGLISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "NepjPbeW0Nk=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ENGLISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 375388,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.ILSTRINGS",
+      "Hash": "NepjPbeW0Nk=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ENGLISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "V4lT2H8tnYE=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ENGLISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 153021,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.STRINGS",
+      "Hash": "V4lT2H8tnYE=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ENGLISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_FRENCH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "hPO5n8hPo48=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_FRENCH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 359751,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_FRENCH.DLSTRINGS",
+      "Hash": "hPO5n8hPo48=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_FRENCH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_FRENCH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "lu7uL74PWII=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_FRENCH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 425509,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_FRENCH.ILSTRINGS",
+      "Hash": "lu7uL74PWII=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_FRENCH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_FRENCH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "YWHjTTIK6bw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_FRENCH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 171479,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_FRENCH.STRINGS",
+      "Hash": "YWHjTTIK6bw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_FRENCH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_GERMAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "qoCp7k8TvSQ=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_GERMAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 372651,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_GERMAN.DLSTRINGS",
+      "Hash": "qoCp7k8TvSQ=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_GERMAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_GERMAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "wOLOEAwJ29o=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_GERMAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 426864,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_GERMAN.ILSTRINGS",
+      "Hash": "wOLOEAwJ29o=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_GERMAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_GERMAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "02i2lY27mos=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_GERMAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 169849,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_GERMAN.STRINGS",
+      "Hash": "02i2lY27mos=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_GERMAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "rJosM/02UIg=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ITALIAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 338695,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.DLSTRINGS",
+      "Hash": "rJosM/02UIg=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ITALIAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "QgUj5kX3hOk=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ITALIAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 382999,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.ILSTRINGS",
+      "Hash": "QgUj5kX3hOk=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ITALIAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "1ih0xtmw734=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ITALIAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 163602,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.STRINGS",
+      "Hash": "1ih0xtmw734=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_ITALIAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\dragonborn_polish.dlstrings",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "0QUaV9vlIzo=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\dragonborn_polish.dlstrings"
+    "Meta": null,
+    "Name": "",
+    "Size": 326135,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\dragonborn_polish.dlstrings",
+      "Hash": "0QUaV9vlIzo=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\dragonborn_polish.dlstrings"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\dragonborn_polish.ilstrings",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "3qnWWk7WTjw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\dragonborn_polish.ilstrings"
+    "Meta": null,
+    "Name": "",
+    "Size": 385523,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\dragonborn_polish.ilstrings",
+      "Hash": "3qnWWk7WTjw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\dragonborn_polish.ilstrings"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\dragonborn_polish.strings",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Brca2m2Egrs=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\dragonborn_polish.strings"
+    "Meta": null,
+    "Name": "",
+    "Size": 167040,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\dragonborn_polish.strings",
+      "Hash": "Brca2m2Egrs=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\dragonborn_polish.strings"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_Russian.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "nX4hKTNyAtw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_Russian.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 542881,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_Russian.DLSTRINGS",
+      "Hash": "nX4hKTNyAtw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_Russian.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_Russian.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "A+M6X0QLumw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_Russian.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 600496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_Russian.ILSTRINGS",
+      "Hash": "A+M6X0QLumw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_Russian.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_Russian.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yc9vzUOS/4A=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_Russian.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 250939,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_Russian.STRINGS",
+      "Hash": "yc9vzUOS/4A=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_Russian.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_SPANISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Nyk0PFq7sS0=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_SPANISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 346687,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_SPANISH.DLSTRINGS",
+      "Hash": "Nyk0PFq7sS0=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_SPANISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_SPANISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "fMbn4ijigQ8=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_SPANISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 397141,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_SPANISH.ILSTRINGS",
+      "Hash": "fMbn4ijigQ8=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_SPANISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Dragonborn_SPANISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "aO54Vg9OmtA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_SPANISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 174094,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Dragonborn_SPANISH.STRINGS",
+      "Hash": "aO54Vg9OmtA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Dragonborn_SPANISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_ENGLISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "F+WZ/nCLdgo=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ENGLISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 22504,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_ENGLISH.DLSTRINGS",
+      "Hash": "F+WZ/nCLdgo=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ENGLISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_ENGLISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "1oHRxyEIY0M=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ENGLISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 47550,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_ENGLISH.ILSTRINGS",
+      "Hash": "1oHRxyEIY0M=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ENGLISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_ENGLISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "RSiwymqojXg=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ENGLISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 34768,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_ENGLISH.STRINGS",
+      "Hash": "RSiwymqojXg=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ENGLISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_FRENCH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "K3hsIBlPeMU=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_FRENCH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 23393,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_FRENCH.DLSTRINGS",
+      "Hash": "K3hsIBlPeMU=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_FRENCH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_FRENCH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "+9IELBGTa24=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_FRENCH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 53421,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_FRENCH.ILSTRINGS",
+      "Hash": "+9IELBGTa24=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_FRENCH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_FRENCH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "BFqP1CBFRN0=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_FRENCH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 38436,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_FRENCH.STRINGS",
+      "Hash": "BFqP1CBFRN0=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_FRENCH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_GERMAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "fWlPyWgYl+Y=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_GERMAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 23687,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_GERMAN.DLSTRINGS",
+      "Hash": "fWlPyWgYl+Y=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_GERMAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_GERMAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "cpOc6KA/EXM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_GERMAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 55404,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_GERMAN.ILSTRINGS",
+      "Hash": "cpOc6KA/EXM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_GERMAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_GERMAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "6lyzR32C0BA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_GERMAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 37554,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_GERMAN.STRINGS",
+      "Hash": "6lyzR32C0BA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_GERMAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_ITALIAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yQzEiGUWx9U=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ITALIAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 21237,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_ITALIAN.DLSTRINGS",
+      "Hash": "yQzEiGUWx9U=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ITALIAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_ITALIAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ukHiiEcQ7vo=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ITALIAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 48156,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_ITALIAN.ILSTRINGS",
+      "Hash": "ukHiiEcQ7vo=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ITALIAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_ITALIAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "omVY1jGjy0g=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ITALIAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 37246,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_ITALIAN.STRINGS",
+      "Hash": "omVY1jGjy0g=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_ITALIAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_Polish.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "SdvGJDBMJyE=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_Polish.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 23077,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_Polish.DLSTRINGS",
+      "Hash": "SdvGJDBMJyE=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_Polish.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_Polish.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "o+0x7Rt+L8U=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_Polish.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 50726,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_Polish.ILSTRINGS",
+      "Hash": "o+0x7Rt+L8U=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_Polish.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_Polish.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "XM8EnaHPbpM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_Polish.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 37821,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_Polish.STRINGS",
+      "Hash": "XM8EnaHPbpM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_Polish.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Hearthfires_Russian.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "jI5245SGmiQ=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Hearthfires_Russian.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 36454,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Hearthfires_Russian.DLSTRINGS",
+      "Hash": "jI5245SGmiQ=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Hearthfires_Russian.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Hearthfires_Russian.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "5MCjYWjDPjw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Hearthfires_Russian.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 75794,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Hearthfires_Russian.ILSTRINGS",
+      "Hash": "5MCjYWjDPjw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Hearthfires_Russian.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Hearthfires_Russian.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "0quoP2fCME8=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Hearthfires_Russian.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 53289,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Hearthfires_Russian.STRINGS",
+      "Hash": "0quoP2fCME8=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Hearthfires_Russian.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_SPANISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Ve7hAYI2n1A=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_SPANISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 22082,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_SPANISH.DLSTRINGS",
+      "Hash": "Ve7hAYI2n1A=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_SPANISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_SPANISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "fWI9+PDSGQk=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_SPANISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 50605,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_SPANISH.ILSTRINGS",
+      "Hash": "fWI9+PDSGQk=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_SPANISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\HearthFires_SPANISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "8Cgn2RaVQS0=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_SPANISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 38999,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\HearthFires_SPANISH.STRINGS",
+      "Hash": "8Cgn2RaVQS0=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\HearthFires_SPANISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_ENGLISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "0o68UzsrzeM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ENGLISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2443149,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_ENGLISH.DLSTRINGS",
+      "Hash": "0o68UzsrzeM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ENGLISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_ENGLISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ook78YBOTfo=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ENGLISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2711850,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_ENGLISH.ILSTRINGS",
+      "Hash": "ook78YBOTfo=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ENGLISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_ENGLISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "PWvps2LC6zI=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ENGLISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 833808,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_ENGLISH.STRINGS",
+      "Hash": "PWvps2LC6zI=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ENGLISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_FRENCH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "8P4Qj0SHh4w=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_FRENCH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2795759,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_FRENCH.DLSTRINGS",
+      "Hash": "8P4Qj0SHh4w=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_FRENCH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_FRENCH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "P61qmcu2fKc=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_FRENCH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 3085000,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_FRENCH.ILSTRINGS",
+      "Hash": "P61qmcu2fKc=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_FRENCH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_FRENCH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "0bbhgmeEvaM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_FRENCH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 929862,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_FRENCH.STRINGS",
+      "Hash": "0bbhgmeEvaM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_FRENCH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_GERMAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "IS8tvTB7Vuw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_GERMAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2850417,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_GERMAN.DLSTRINGS",
+      "Hash": "IS8tvTB7Vuw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_GERMAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_GERMAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "rCUdzsVgy1A=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_GERMAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 3167666,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_GERMAN.ILSTRINGS",
+      "Hash": "rCUdzsVgy1A=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_GERMAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_GERMAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "35yqVpJzivQ=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_GERMAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 935732,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_GERMAN.STRINGS",
+      "Hash": "35yqVpJzivQ=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_GERMAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_ITALIAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "frUF0VM39YI=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ITALIAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2692091,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_ITALIAN.DLSTRINGS",
+      "Hash": "frUF0VM39YI=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ITALIAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_ITALIAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "gu5OdF0WkYc=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ITALIAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2855491,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_ITALIAN.ILSTRINGS",
+      "Hash": "gu5OdF0WkYc=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ITALIAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_ITALIAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "z5EhgfMHP1s=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ITALIAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 889088,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_ITALIAN.STRINGS",
+      "Hash": "z5EhgfMHP1s=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_ITALIAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_Polish.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "VXHiZQfh7u0=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Polish.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2599602,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_Polish.DLSTRINGS",
+      "Hash": "VXHiZQfh7u0=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Polish.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_Polish.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "5zMuprmIgqM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Polish.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2834080,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_Polish.ILSTRINGS",
+      "Hash": "5zMuprmIgqM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Polish.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_Polish.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "hy6cZpJuRgY=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Polish.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 902655,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_Polish.STRINGS",
+      "Hash": "hy6cZpJuRgY=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Polish.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_Russian.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "f/jCpO/JuUQ=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Russian.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 4152655,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_Russian.DLSTRINGS",
+      "Hash": "f/jCpO/JuUQ=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Russian.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_Russian.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "bK0B4aIpZOQ=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Russian.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 4250834,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_Russian.ILSTRINGS",
+      "Hash": "bK0B4aIpZOQ=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Russian.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_Russian.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "MBLFNfzIL8U=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Russian.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 1297313,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_Russian.STRINGS",
+      "Hash": "MBLFNfzIL8U=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_Russian.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_SPANISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "+dnfMZt5JQA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_SPANISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2701199,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_SPANISH.DLSTRINGS",
+      "Hash": "+dnfMZt5JQA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_SPANISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_SPANISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "u4kRRenb+Cc=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_SPANISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 2911629,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_SPANISH.ILSTRINGS",
+      "Hash": "u4kRRenb+Cc=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_SPANISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Skyrim_SPANISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "5Ez++9D5uy0=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_SPANISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 918950,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Skyrim_SPANISH.STRINGS",
+      "Hash": "5Ez++9D5uy0=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Skyrim_SPANISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_ENGLISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "yX5V+KmzjXg=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ENGLISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 46218,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_ENGLISH.DLSTRINGS",
+      "Hash": "yX5V+KmzjXg=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ENGLISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_ENGLISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ct1uK6ahO60=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ENGLISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 13055,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_ENGLISH.ILSTRINGS",
+      "Hash": "ct1uK6ahO60=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ENGLISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_ENGLISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Q5+H5dAD3Jg=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ENGLISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 22817,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_ENGLISH.STRINGS",
+      "Hash": "Q5+H5dAD3Jg=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ENGLISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_FRENCH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "KwCWPoIiLr8=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_FRENCH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 51395,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_FRENCH.DLSTRINGS",
+      "Hash": "KwCWPoIiLr8=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_FRENCH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_FRENCH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "+HQ6Xunf0ho=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_FRENCH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 14667,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_FRENCH.ILSTRINGS",
+      "Hash": "+HQ6Xunf0ho=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_FRENCH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_FRENCH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "OACk/fA4yVw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_FRENCH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 25914,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_FRENCH.STRINGS",
+      "Hash": "OACk/fA4yVw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_FRENCH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_GERMAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "fbKLxwFeISA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_GERMAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 54180,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_GERMAN.DLSTRINGS",
+      "Hash": "fbKLxwFeISA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_GERMAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_GERMAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "5LkhM3gnNCc=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_GERMAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 15068,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_GERMAN.ILSTRINGS",
+      "Hash": "5LkhM3gnNCc=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_GERMAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_GERMAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "qlqA/y0mXfQ=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_GERMAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 25852,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_GERMAN.STRINGS",
+      "Hash": "qlqA/y0mXfQ=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_GERMAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_ITALIAN.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "6686Pw6giKA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ITALIAN.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 47984,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_ITALIAN.DLSTRINGS",
+      "Hash": "6686Pw6giKA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ITALIAN.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_ITALIAN.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "uXGBYacWm5Q=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ITALIAN.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 13458,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_ITALIAN.ILSTRINGS",
+      "Hash": "uXGBYacWm5Q=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ITALIAN.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_ITALIAN.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "8v/lMnFP7Bs=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ITALIAN.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 24492,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_ITALIAN.STRINGS",
+      "Hash": "8v/lMnFP7Bs=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_ITALIAN.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_Polish.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "SGBUoYr/sMs=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Polish.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 52179,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_Polish.DLSTRINGS",
+      "Hash": "SGBUoYr/sMs=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Polish.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_Polish.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "D0miqVl0Z0U=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Polish.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 13341,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_Polish.ILSTRINGS",
+      "Hash": "D0miqVl0Z0U=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Polish.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_Polish.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "bOT8kEK4h08=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Polish.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 25303,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_Polish.STRINGS",
+      "Hash": "bOT8kEK4h08=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Polish.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_Russian.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "l4/AV1S+gJw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Russian.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 75572,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_Russian.DLSTRINGS",
+      "Hash": "l4/AV1S+gJw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Russian.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_Russian.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Kbz5bL6fLBM=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Russian.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 20953,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_Russian.ILSTRINGS",
+      "Hash": "Kbz5bL6fLBM=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Russian.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_Russian.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "UTCiMPlG8U4=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Russian.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 37228,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_Russian.STRINGS",
+      "Hash": "UTCiMPlG8U4=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_Russian.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_SPANISH.DLSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "qGNnrn53R6c=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_SPANISH.DLSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 50010,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_SPANISH.DLSTRINGS",
+      "Hash": "qGNnrn53R6c=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_SPANISH.DLSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_SPANISH.ILSTRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "/Z00DrOOhms=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_SPANISH.ILSTRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 13775,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_SPANISH.ILSTRINGS",
+      "Hash": "/Z00DrOOhms=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_SPANISH.ILSTRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Strings\\Update_SPANISH.STRINGS",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "e3yNvdr5/tI=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_SPANISH.STRINGS"
+    "Meta": null,
+    "Name": "",
+    "Size": 25305,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Strings\\Update_SPANISH.STRINGS",
+      "Hash": "e3yNvdr5/tI=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Strings\\Update_SPANISH.STRINGS"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Update.esm",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "Ja2F29pEhTs=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Update.esm"
+    "Meta": null,
+    "Name": "",
+    "Size": 17656985,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Update.esm",
+      "Hash": "Ja2F29pEhTs=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Update.esm"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Data\\Video\\BGS_Logo.bik",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "3z7MDvy3Dhw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Video\\BGS_Logo.bik"
+    "Meta": null,
+    "Name": "",
+    "Size": 13835808,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Data\\Video\\BGS_Logo.bik",
+      "Hash": "3z7MDvy3Dhw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Data\\Video\\BGS_Logo.bik"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "High.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "cDu1RZh5Izw=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|High.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 606,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "High.ini",
+      "Hash": "cDu1RZh5Izw=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|High.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "installscript.vdf",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "cHl0boAHqqA=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|installscript.vdf"
+    "Meta": null,
+    "Name": "",
+    "Size": 469,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "installscript.vdf",
+      "Hash": "cHl0boAHqqA=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|installscript.vdf"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Low.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "GjA0UKu7U3Q=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Low.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 598,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Low.ini",
+      "Hash": "GjA0UKu7U3Q=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Low.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Medium.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "dEuYEnK3xbo=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Medium.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 606,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Medium.ini",
+      "Hash": "dEuYEnK3xbo=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Medium.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "openvr_api.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "kYVBvzzlhfE=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|openvr_api.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 598816,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "openvr_api.dll",
+      "Hash": "kYVBvzzlhfE=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|openvr_api.dll"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "Skyrim.ini",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "JbYP1w8FSfY=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Skyrim.ini"
+    "Meta": null,
+    "Name": "",
+    "Size": 1859,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "Skyrim.ini",
+      "Hash": "JbYP1w8FSfY=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|Skyrim.ini"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "SkyrimVR.exe",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "nm+Axx+Bt1I=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|SkyrimVR.exe"
+    "Meta": null,
+    "Name": "",
+    "Size": 35530960,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "SkyrimVR.exe",
+      "Hash": "nm+Axx+Bt1I=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|SkyrimVR.exe"
+    }
   },
   {
-    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-    "Game": "SkyrimVR",
-    "GameFile": "steam_api64.dll",
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "XEqXAcAgOQ8=",
-    "GameVersion": "1.4.15.0",
-    "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|steam_api64.dll"
+    "Meta": null,
+    "Name": "",
+    "Size": 206760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimVR",
+      "GameFile": "steam_api64.dll",
+      "Hash": "XEqXAcAgOQ8=",
+      "GameVersion": "1.4.15.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimVR|1.4.15.0|steam_api64.dll"
+    }
   }
 ]
