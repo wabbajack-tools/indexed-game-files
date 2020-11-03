@@ -1,1 +1,2098 @@
-﻿[{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"atimgpud.dll","Hash":"bmhHRlbNP+o=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|atimgpud.dll"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"binkw32.dll","Hash":"EHVqe5JmdU8=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|binkw32.dll"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Anchorage - Main.bsa","Hash":"CPdK9QGe6oM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Anchorage - Main.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Anchorage - Sounds.bsa","Hash":"mrA1Gr7oaX8=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Anchorage - Sounds.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Anchorage.esm","Hash":"eulQp3OlozI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Anchorage.esm"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\BrokenSteel - Main.bsa","Hash":"nGd7rSTPlEc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\BrokenSteel - Main.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\BrokenSteel - Sounds.bsa","Hash":"pp0stHiIM/4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\BrokenSteel - Sounds.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\BrokenSteel.esm","Hash":"uc1LFVNes44=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\BrokenSteel.esm"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Credits.txt","Hash":"SA6AE5Dys10=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Credits.txt"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\DLCList.txt","Hash":"yrUqXYl4Abk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\DLCList.txt"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Fallout - MenuVoices.bsa","Hash":"LQht3K5wdRM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - MenuVoices.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Fallout - Meshes.bsa","Hash":"DQbQ25y32Wc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Meshes.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Fallout - Misc.bsa","Hash":"u07XmpeAiIg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Misc.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Fallout - Sound.bsa","Hash":"0T8Y0HYkxNE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Sound.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Fallout - Textures.bsa","Hash":"4QKF9mnPxgE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Textures.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Fallout - Voices.bsa","Hash":"kpsdMi4WMvw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Voices.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Fallout3.esm","Hash":"CAai629ZTG8=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout3.esm"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Base\\Base_01.mp3","Hash":"h0/5g27BU00=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Base\\Base_01.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Base\\Base_02.mp3","Hash":"OZJGAct08E4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Base\\Base_02.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Base\\Base_03.mp3","Hash":"rONtQ1CK/zI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Base\\Base_03.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Base\\Base_04.mp3","Hash":"N4vImLpls9c=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Base\\Base_04.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Battle_01.mp3","Hash":"Z2At6bfY25w=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_01.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Battle_02.mp3","Hash":"DJPAsqrYN4I=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_02.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Battle_03.mp3","Hash":"2rqxAm86s7k=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_03.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Battle_04.mp3","Hash":"rb0FjWDmjk0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_04.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Battle_05.mp3","Hash":"jQmWgaFaaRc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_05.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Battle_06.mp3","Hash":"lxmR25qIBAE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_06.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Battle_07.mp3","Hash":"KJxEvqznsEM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_07.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Finale\\Battle_01.mp3","Hash":"/chjgTyAT/s=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_01.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Finale\\Battle_02.mp3","Hash":"/7Y5dxIZ4NY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_02.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Finale\\Battle_03.mp3","Hash":"ZWhG61dnm7A=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_03.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Finale\\Battle_04.mp3","Hash":"LAKPVnjQ+pE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_04.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Finale\\Battle_05.mp3","Hash":"nLywywT8jFo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_05.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Finale\\Battle_06.mp3","Hash":"DRIgDfCFVU4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_06.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Battle\\Finale\\Battle_07.mp3","Hash":"yxbpJLtOCgg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_07.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Dungeon\\Dungeon_01.mp3","Hash":"emgOcMQ04AU=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_01.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Dungeon\\Dungeon_02.mp3","Hash":"BmUhWQEyhHQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_02.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Dungeon\\Dungeon_03.mp3","Hash":"/n9Y2XMRJ7g=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_03.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Dungeon\\Dungeon_04.mp3","Hash":"cZR89fVwPlA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_04.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Dungeon\\Dungeon_05.mp3","Hash":"NmZsF6y+PkI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_05.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_01.mp3","Hash":"Lf1QnNU/lRs=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_01.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_02.mp3","Hash":"eN02zyzJPVI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_02.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_03.mp3","Hash":"82F/BRY1cn4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_03.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_04.mp3","Hash":"dfLqY15PzwI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_04.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_05.mp3","Hash":"sv8Ilgw00cE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_05.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_06.mp3","Hash":"FlPXsRt6S0g=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_06.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_07.mp3","Hash":"4SQHN2Hca4Q=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_07.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_08.mp3","Hash":"bUaSzYcgw8w=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_08.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_09.mp3","Hash":"lIDZJoe09sI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_09.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_11.mp3","Hash":"RRi7zWOHUCM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_11.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_12.mp3","Hash":"FQ/7NXYL5Mg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_12.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_14.mp3","Hash":"Q3KQCHOZd6k=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_14.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_15.mp3","Hash":"roxtXF475uQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_15.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_17.mp3","Hash":"yKjHoMhS1wM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_17.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_18.mp3","Hash":"TmoHsnlKPJE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_18.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Endgame\\Endgame_19.mp3","Hash":"DOkUbS7nT7k=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_19.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Explore\\Explore_01.mp3","Hash":"HSpr0CkBwnM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_01.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Explore\\Explore_02.mp3","Hash":"/qTWBsBU7wo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_02.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Explore\\Explore_03.mp3","Hash":"5Hfdj00r4pQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_03.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Explore\\Explore_04.mp3","Hash":"6D0zWc+v0pk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_04.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Explore\\Explore_05.mp3","Hash":"CcbmGa8f7Ig=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_05.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Explore\\Explore_06.mp3","Hash":"GbIzvyv4y1I=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_06.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Explore\\Explore_07.mp3","Hash":"JbdY6dreNKw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_07.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Public\\Public_01.mp3","Hash":"XOJwm4VszJM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_01.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Public\\Public_02.mp3","Hash":"5Qys/LjZTCk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_02.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Public\\Public_03.mp3","Hash":"10OX9jKbStA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_03.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Public\\Public_04.mp3","Hash":"dQjcxuIbeyw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_04.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Public\\Public_05.mp3","Hash":"+baXbkVHVSE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_05.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Special\\Death.mp3","Hash":"kewDvU14v5o=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Special\\Death.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Special\\ExitTheVault.mp3","Hash":"9ptZByyOBmQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Special\\ExitTheVault.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Special\\MainTitle.mp3","Hash":"QbU9FHKj4O0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Special\\MainTitle.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Special\\Success.mp3","Hash":"ezdwnsA14Bc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Special\\Success.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\Tension\\Tension_01.mp3","Hash":"HwjsjBCJKMY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Tension\\Tension_01.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\TranquilityLane\\MUS_TranquilityLane_01_LP.mp3","Hash":"InGP7zeI9iA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\TranquilityLane\\MUS_TranquilityLane_01_LP.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Music\\TranquilityLane\\MUS_TranquilityLane_02_LP.mp3","Hash":"InGP7zeI9iA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\TranquilityLane\\MUS_TranquilityLane_02_LP.mp3"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\PointLookout - Main.bsa","Hash":"hnWQ3PRDZ5M=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\PointLookout - Main.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\PointLookout - Sounds.bsa","Hash":"tG6LHoTiS+0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\PointLookout - Sounds.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\PointLookout.esm","Hash":"Bs61gT475C0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\PointLookout.esm"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage002.sdp","Hash":"ScBr1Akyjz8=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage002.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage003.sdp","Hash":"hw7YEwwXiOQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage003.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage004.sdp","Hash":"GeQcZPFJ2gc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage004.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage006.sdp","Hash":"ZEZ4QZrK+p8=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage006.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage007.sdp","Hash":"71GDZHYJZbM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage007.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage009.sdp","Hash":"Tv7eZCCqtGs=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage009.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage010.sdp","Hash":"Cm/wE1E9ICM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage010.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage011.sdp","Hash":"Cm/wE1E9ICM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage011.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage012.sdp","Hash":"/Fs4i/5pCO0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage012.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage013.sdp","Hash":"/Fs4i/5pCO0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage013.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage014.sdp","Hash":"W5D/AGgZIuE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage014.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage015.sdp","Hash":"W5D/AGgZIuE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage015.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage016.sdp","Hash":"4Ctjgi7OeT0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage016.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage017.sdp","Hash":"4Ctjgi7OeT0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage017.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage018.sdp","Hash":"Qa2pOrMmk/M=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage018.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Shaders\\shaderpackage019.sdp","Hash":"Qa2pOrMmk/M=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage019.sdp"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\ThePitt - Main.bsa","Hash":"aGVj1ZE+JkI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\ThePitt - Main.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\ThePitt - Sounds.bsa","Hash":"PID8cXCfIWM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\ThePitt - Sounds.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\ThePitt.esm","Hash":"eEROQbDJmw4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\ThePitt.esm"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\1 year later.bik","Hash":"rHZpPtNSshg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\1 year later.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\2 weeks later.bik","Hash":"kfAKjuIOIIY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\2 weeks later.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\3 years later.bik","Hash":"L82FGUDh1qc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\3 years later.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\6 years later.bik","Hash":"JfX2mpds7OM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\6 years later.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\9 years later.bik","Hash":"Qu8EzdKoeqo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\9 years later.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B01.bik","Hash":"JDKbj3gjB3o=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B01.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B02.bik","Hash":"O2ZWx17v9rg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B02.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B03.bik","Hash":"G2lbTABDiL4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B03.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B04.bik","Hash":"S9ED5uXZmHk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B04.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B05.bik","Hash":"GQE/FhIvZdI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B05.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B06.bik","Hash":"W5izvROGmtM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B06.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B07.bik","Hash":"OIBvRK3cO2k=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B07.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B08.bik","Hash":"mdP/JYDfnmE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B08.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B09.bik","Hash":"tBT4R4ycB48=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B09.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B10.bik","Hash":"y/47arzoI+E=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B10.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B11.bik","Hash":"p+rRdhVA4bA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B11.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B12.bik","Hash":"VwE11yX+B0Y=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B12.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B13.bik","Hash":"3dTEsxHMosk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B13.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B14.bik","Hash":"5kIUptZe/nA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B14.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B15.bik","Hash":"6YlZhjCM0xc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B15.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B16.bik","Hash":"gRXP6TctE4w=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B16.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B17.bik","Hash":"b6KxUNUEwxY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B17.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B18.bik","Hash":"ZXE7H5uFZys=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B18.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B19.bik","Hash":"AEnQAeDQqtw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B19.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B20.bik","Hash":"xSiII79R6S4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B20.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B21.bik","Hash":"Pc9M7PnLvn0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B21.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B22.bik","Hash":"wlkP2s1CL8U=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B22.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B23.bik","Hash":"KOe3dYfwy0M=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B23.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B24.bik","Hash":"yk5fgSnn/FA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B24.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B25.bik","Hash":"mUhvazxO5tw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B25.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B26.bik","Hash":"/rZngwUXLU4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B26.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B27.bik","Hash":"d/Hg18/aZbA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B27.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B28.bik","Hash":"d/QoJ/k3AcA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B28.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\B29.bik","Hash":"zO/sHjCcPfo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B29.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Video\\Fallout INTRO Vsk.bik","Hash":"ya4movvCdiI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\Fallout INTRO Vsk.bik"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Zeta - Main.bsa","Hash":"S6r6aQxtarA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Zeta - Main.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Zeta - Sounds.bsa","Hash":"NAs1jI2PpaI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Zeta - Sounds.bsa"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Data\\Zeta.esm","Hash":"7yJfBC6nlgM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Zeta.esm"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2005_d3dx9_25_x64.cab","Hash":"4+Y+LMTs0qo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2005_d3dx9_25_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2005_d3dx9_25_x86.cab","Hash":"nHTO3AXHyZA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2005_d3dx9_25_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2006_d3dx9_30_x64.cab","Hash":"nP0uVKzmDiw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_d3dx9_30_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2006_d3dx9_30_x86.cab","Hash":"UAbJkjpvZL0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_d3dx9_30_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2006_MDX1_x86.cab","Hash":"sO10Soa9FO4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_MDX1_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2006_MDX1_x86_Archive.cab","Hash":"rB566UJWoZE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_MDX1_x86_Archive.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2006_XACT_x64.cab","Hash":"Tp8cnV8uZFA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2006_XACT_x86.cab","Hash":"VDn/QWwzBkY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2006_xinput_x64.cab","Hash":"uNwkBnTDenM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_xinput_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Apr2006_xinput_x86.cab","Hash":"g2usal4M0qY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_xinput_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\APR2007_d3dx10_33_x64.cab","Hash":"VbL9EWdXemg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_d3dx10_33_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\APR2007_d3dx10_33_x86.cab","Hash":"PYaLxnVAGns=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_d3dx10_33_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\APR2007_d3dx9_33_x64.cab","Hash":"BOyYCpJLURA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_d3dx9_33_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\APR2007_d3dx9_33_x86.cab","Hash":"G9EX56nwLJI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_d3dx9_33_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\APR2007_XACT_x64.cab","Hash":"fQ/Oz+X5eaM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\APR2007_XACT_x86.cab","Hash":"uJPA6W6vVqY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\APR2007_xinput_x64.cab","Hash":"wEKevxKXT1I=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_xinput_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\APR2007_xinput_x86.cab","Hash":"DxhGPa/oI4o=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_xinput_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Aug2005_d3dx9_27_x64.cab","Hash":"i8entHsPYls=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Aug2005_d3dx9_27_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Aug2005_d3dx9_27_x86.cab","Hash":"8ZLnfPrALbI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Aug2005_d3dx9_27_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2006_XACT_x64.cab","Hash":"aTBc04kNQpA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2006_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2006_XACT_x86.cab","Hash":"cMBdDyd/qBs=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2006_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2006_xinput_x64.cab","Hash":"tbDxL9eb8z4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2006_xinput_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2006_xinput_x86.cab","Hash":"ZbKtGd1ICOU=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2006_xinput_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2007_d3dx10_35_x64.cab","Hash":"hoRmmnEnA9Q=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_d3dx10_35_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2007_d3dx10_35_x86.cab","Hash":"nVQ0YDRVjIM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_d3dx10_35_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2007_d3dx9_35_x64.cab","Hash":"cJUEyaQu3GA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_d3dx9_35_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2007_d3dx9_35_x86.cab","Hash":"bVTf7KeJkDw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_d3dx9_35_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2007_XACT_x64.cab","Hash":"HtvdDQOo4vY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\AUG2007_XACT_x86.cab","Hash":"4jV1IJx0y3E=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\BDANT.cab","Hash":"CE7c838Xn90=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\BDANT.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\BDAXP.cab","Hash":"PZF3P1YVsiM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\BDAXP.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Coupon.xps","Hash":"9YY0jtormsw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Coupon.xps"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Dec2005_d3dx9_28_x64.cab","Hash":"TkAmV5yK4xY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Dec2005_d3dx9_28_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Dec2005_d3dx9_28_x86.cab","Hash":"pj4p9hM97VA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Dec2005_d3dx9_28_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\DEC2006_d3dx10_00_x64.cab","Hash":"9T6BFAd20uk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_d3dx10_00_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\DEC2006_d3dx10_00_x86.cab","Hash":"xp6h7CTdPBE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_d3dx10_00_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\DEC2006_d3dx9_32_x64.cab","Hash":"9DdPiDvsYG0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_d3dx9_32_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\DEC2006_d3dx9_32_x86.cab","Hash":"cNdnb/v4/5U=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_d3dx9_32_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\DEC2006_XACT_x64.cab","Hash":"oBei03ZCA6c=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\DEC2006_XACT_x86.cab","Hash":"oIqmrKLgn7c=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\DSETUP.dll","Hash":"piFVnJRkKVU=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DSETUP.dll"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\dsetup32.dll","Hash":"VEd7ajUrS9M=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\dsetup32.dll"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\dxdllreg_x86.cab","Hash":"qIvLhyNsVdM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\dxdllreg_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\dxnt.cab","Hash":"XSCkenyhxds=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\dxnt.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\DXSETUP.exe","Hash":"Od4fd3AdnQw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DXSETUP.exe"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\dxupdate.cab","Hash":"xdmCsb7Dvwg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\dxupdate.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Feb2005_d3dx9_24_x64.cab","Hash":"DR5EUwQn2dY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2005_d3dx9_24_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Feb2005_d3dx9_24_x86.cab","Hash":"vM1r0WNvAdA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2005_d3dx9_24_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Feb2006_d3dx9_29_x64.cab","Hash":"oT3bSGTqCgY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2006_d3dx9_29_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Feb2006_d3dx9_29_x86.cab","Hash":"cRTVaDyy4Yc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2006_d3dx9_29_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Feb2006_XACT_x64.cab","Hash":"SpIx1O7lG4s=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2006_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Feb2006_XACT_x86.cab","Hash":"WFyGl7n0bPA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2006_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\FEB2007_XACT_x64.cab","Hash":"CI1/a6oIz58=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\FEB2007_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\FEB2007_XACT_x86.cab","Hash":"1mWjmcSItLA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\FEB2007_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2005_d3dx9_26_x64.cab","Hash":"8yRJeadk2HY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2005_d3dx9_26_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2005_d3dx9_26_x86.cab","Hash":"segexOXGdic=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2005_d3dx9_26_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\JUN2006_XACT_x64.cab","Hash":"h8/7apqtKm8=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2006_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\JUN2006_XACT_x86.cab","Hash":"W9uZeHtB6xo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2006_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\JUN2007_d3dx10_34_x64.cab","Hash":"9zl30PryHwg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_d3dx10_34_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\JUN2007_d3dx10_34_x86.cab","Hash":"2//Q5dtlODE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_d3dx10_34_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\JUN2007_d3dx9_34_x64.cab","Hash":"+U1Y3VRjxdk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_d3dx9_34_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\JUN2007_d3dx9_34_x86.cab","Hash":"lQmr7ykDNZg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_d3dx9_34_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\JUN2007_XACT_x64.cab","Hash":"5btttlltaQs=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\JUN2007_XACT_x86.cab","Hash":"o64ptzhWth8=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_d3dx10_38_x64.cab","Hash":"Vk/gBRI8Rpg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_d3dx10_38_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_d3dx10_38_x86.cab","Hash":"82YbKF01CJU=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_d3dx10_38_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_d3dx9_38_x64.cab","Hash":"pbKgprk3qPI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_d3dx9_38_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_d3dx9_38_x86.cab","Hash":"RCXxMBxOlHU=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_d3dx9_38_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_X3DAudio_x64.cab","Hash":"Yc/qYoC145w=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_X3DAudio_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_X3DAudio_x86.cab","Hash":"A6F+JFq+nAg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_X3DAudio_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_XACT_x64.cab","Hash":"kdEVHo5lvDQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_XACT_x86.cab","Hash":"3TNYSNiE6KE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_XAudio_x64.cab","Hash":"XrwzjKqKrYQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_XAudio_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Jun2008_XAudio_x86.cab","Hash":"IiDzKQWVUck=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_XAudio_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_d3dx10_37_x64.cab","Hash":"Ybzq86cQXUo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_d3dx10_37_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_d3dx10_37_x86.cab","Hash":"YAwlzy58E2w=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_d3dx10_37_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_d3dx9_37_x64.cab","Hash":"Qe98dHRdHRY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_d3dx9_37_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_d3dx9_37_x86.cab","Hash":"kqs65h9Wmek=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_d3dx9_37_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_X3DAudio_x64.cab","Hash":"5fRpG9AY8KI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_X3DAudio_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_X3DAudio_x86.cab","Hash":"IPHoujkBiIk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_X3DAudio_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_XACT_x64.cab","Hash":"psfxvcI7SHE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_XACT_x86.cab","Hash":"qgczeUN6px0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_XAudio_x64.cab","Hash":"q687q84Kevg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_XAudio_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Mar2008_XAudio_x86.cab","Hash":"jkoQQNo6tHQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_XAudio_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\NOV2007_d3dx10_36_x64.cab","Hash":"mRgebb89Gl4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_d3dx10_36_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\NOV2007_d3dx10_36_x86.cab","Hash":"LfwxTq+VAis=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_d3dx10_36_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\NOV2007_d3dx9_36_x64.cab","Hash":"BeOi8XYZp0M=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_d3dx9_36_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\NOV2007_d3dx9_36_x86.cab","Hash":"l/VLA1qpFxs=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_d3dx9_36_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\NOV2007_X3DAudio_x64.cab","Hash":"r6IepeUfwtU=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_X3DAudio_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\NOV2007_X3DAudio_x86.cab","Hash":"PtSlIJonQjo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_X3DAudio_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\NOV2007_XACT_x64.cab","Hash":"NOe3QiARvYw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\NOV2007_XACT_x86.cab","Hash":"XUMy4bW5WMk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Oct2005_xinput_x64.cab","Hash":"HvNJ2N/TcrY=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Oct2005_xinput_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\Oct2005_xinput_x86.cab","Hash":"4woosxYNB0E=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Oct2005_xinput_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\OCT2006_d3dx9_31_x64.cab","Hash":"r/CMr8HZ+iQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\OCT2006_d3dx9_31_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\OCT2006_d3dx9_31_x86.cab","Hash":"Qcd21DxZG20=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\OCT2006_d3dx9_31_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\OCT2006_XACT_x64.cab","Hash":"9SuXzCAsNc0=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\OCT2006_XACT_x64.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DirectX9c\\OCT2006_XACT_x86.cab","Hash":"Z3c7D8+Vqbo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\OCT2006_XACT_x86.cab"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DotNetFX\\dotnetfx3.exe","Hash":"sXhPv3lHusw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DotNetFX\\dotnetfx3.exe"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"DotNetFX\\dotnetfx3_x64.exe","Hash":"SzyBLfrKqz8=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|DotNetFX\\dotnetfx3_x64.exe"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"F3icon.ico","Hash":"+kna/tsmrXo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|F3icon.ico"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Fallout Website.htm","Hash":"Pc2xWAOv4wI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout Website.htm"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Fallout_default.ini","Hash":"MnbynSTp6sk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout_default.ini"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Fallout3 - Garden of Eden Creation Kit.exe","Hash":"GSuIQv+Uymc=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3 - Garden of Eden Creation Kit.exe"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Fallout3.exe","Hash":"SWqoEVdFu3g=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3.exe"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Fallout3.exe.cat","Hash":"KSDgeCZ9o8M=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3.exe.cat"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Fallout3.exe.cfg","Hash":"bMzSsl/y56s=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3.exe.cfg"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Fallout3\\FalloutPrefs.ini","Hash":"e/tro3Ls/Qs=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3\\FalloutPrefs.ini"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"FalloutLauncher.exe","Hash":"BH9tkb5WRSE=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|FalloutLauncher.exe"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"GameuxInstallHelper.dll","Hash":"HccloCPQKUo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|GameuxInstallHelper.dll"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"GDFFallout3.dll","Hash":"U+tTwB6DOzo=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|GDFFallout3.dll"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"GDFInstall.exe","Hash":"wsQAyzOgXFM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|GDFInstall.exe"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"GDFInstall.exe.manifest","Hash":"IEXULNgnwHg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|GDFInstall.exe.manifest"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"GFWLive\\xliveredist.msi","Hash":"TueZa1K6lFA=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|GFWLive\\xliveredist.msi"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"GFWLive\\XLiveRedist01.02.0241.00.msi","Hash":"zUF5He+cWYg=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|GFWLive\\XLiveRedist01.02.0241.00.msi"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"high.ini","Hash":"HGzxeu91GTQ=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|high.ini"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"installscript.vdf","Hash":"qzGXah7Lj5E=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|installscript.vdf"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"libvorbis.dll","Hash":"hH9CoPGKkJk=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|libvorbis.dll"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"libvorbisfile.dll","Hash":"7i03JvYf6jI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|libvorbisfile.dll"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"low.ini","Hash":"F1Yu7axAcJI=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|low.ini"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"MainTitle.wav","Hash":"B+b+vePgrJM=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|MainTitle.wav"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"medium.ini","Hash":"okzM76KVs5c=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|medium.ini"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"readme.txt","Hash":"XCKvOpQZx4A=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|readme.txt"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"Register Game.htm","Hash":"EsptzNpN0eU=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|Register Game.htm"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"VCRedist\\vcredist_x86.exe","Hash":"KsFCzwktAm4=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|VCRedist\\vcredist_x86.exe"},{"$type":"GameFileSourceDownloader, Wabbajack.Lib","Game":"Fallout3","GameFile":"VeryHigh.ini","Hash":"zohi+Fsduiw=","GameVersion":"1.7.0.3","PrimaryKeyString":"GameFileSourceDownloader+State|Fallout3|1.7.0.3|VeryHigh.ini"}]
+﻿[
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "atimgpud.dll",
+    "Hash": "bmhHRlbNP+o=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|atimgpud.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "binkw32.dll",
+    "Hash": "EHVqe5JmdU8=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|binkw32.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Anchorage - Main.bsa",
+    "Hash": "CPdK9QGe6oM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Anchorage - Main.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Anchorage - Sounds.bsa",
+    "Hash": "mrA1Gr7oaX8=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Anchorage - Sounds.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Anchorage.esm",
+    "Hash": "eulQp3OlozI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Anchorage.esm"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\BrokenSteel - Main.bsa",
+    "Hash": "nGd7rSTPlEc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\BrokenSteel - Main.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\BrokenSteel - Sounds.bsa",
+    "Hash": "pp0stHiIM/4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\BrokenSteel - Sounds.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\BrokenSteel.esm",
+    "Hash": "uc1LFVNes44=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\BrokenSteel.esm"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Credits.txt",
+    "Hash": "SA6AE5Dys10=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Credits.txt"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\DLCList.txt",
+    "Hash": "yrUqXYl4Abk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\DLCList.txt"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Fallout - MenuVoices.bsa",
+    "Hash": "LQht3K5wdRM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - MenuVoices.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Fallout - Meshes.bsa",
+    "Hash": "DQbQ25y32Wc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Meshes.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Fallout - Misc.bsa",
+    "Hash": "u07XmpeAiIg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Misc.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Fallout - Sound.bsa",
+    "Hash": "0T8Y0HYkxNE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Sound.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Fallout - Textures.bsa",
+    "Hash": "4QKF9mnPxgE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Textures.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Fallout - Voices.bsa",
+    "Hash": "kpsdMi4WMvw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout - Voices.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Fallout3.esm",
+    "Hash": "CAai629ZTG8=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Fallout3.esm"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Base\\Base_01.mp3",
+    "Hash": "h0/5g27BU00=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Base\\Base_01.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Base\\Base_02.mp3",
+    "Hash": "OZJGAct08E4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Base\\Base_02.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Base\\Base_03.mp3",
+    "Hash": "rONtQ1CK/zI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Base\\Base_03.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Base\\Base_04.mp3",
+    "Hash": "N4vImLpls9c=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Base\\Base_04.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Battle_01.mp3",
+    "Hash": "Z2At6bfY25w=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_01.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Battle_02.mp3",
+    "Hash": "DJPAsqrYN4I=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_02.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Battle_03.mp3",
+    "Hash": "2rqxAm86s7k=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_03.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Battle_04.mp3",
+    "Hash": "rb0FjWDmjk0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_04.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Battle_05.mp3",
+    "Hash": "jQmWgaFaaRc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_05.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Battle_06.mp3",
+    "Hash": "lxmR25qIBAE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_06.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Battle_07.mp3",
+    "Hash": "KJxEvqznsEM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Battle_07.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Finale\\Battle_01.mp3",
+    "Hash": "/chjgTyAT/s=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_01.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Finale\\Battle_02.mp3",
+    "Hash": "/7Y5dxIZ4NY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_02.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Finale\\Battle_03.mp3",
+    "Hash": "ZWhG61dnm7A=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_03.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Finale\\Battle_04.mp3",
+    "Hash": "LAKPVnjQ+pE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_04.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Finale\\Battle_05.mp3",
+    "Hash": "nLywywT8jFo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_05.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Finale\\Battle_06.mp3",
+    "Hash": "DRIgDfCFVU4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_06.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Battle\\Finale\\Battle_07.mp3",
+    "Hash": "yxbpJLtOCgg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Battle\\Finale\\Battle_07.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Dungeon\\Dungeon_01.mp3",
+    "Hash": "emgOcMQ04AU=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_01.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Dungeon\\Dungeon_02.mp3",
+    "Hash": "BmUhWQEyhHQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_02.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Dungeon\\Dungeon_03.mp3",
+    "Hash": "/n9Y2XMRJ7g=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_03.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Dungeon\\Dungeon_04.mp3",
+    "Hash": "cZR89fVwPlA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_04.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Dungeon\\Dungeon_05.mp3",
+    "Hash": "NmZsF6y+PkI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Dungeon\\Dungeon_05.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_01.mp3",
+    "Hash": "Lf1QnNU/lRs=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_01.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_02.mp3",
+    "Hash": "eN02zyzJPVI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_02.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_03.mp3",
+    "Hash": "82F/BRY1cn4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_03.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_04.mp3",
+    "Hash": "dfLqY15PzwI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_04.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_05.mp3",
+    "Hash": "sv8Ilgw00cE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_05.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_06.mp3",
+    "Hash": "FlPXsRt6S0g=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_06.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_07.mp3",
+    "Hash": "4SQHN2Hca4Q=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_07.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_08.mp3",
+    "Hash": "bUaSzYcgw8w=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_08.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_09.mp3",
+    "Hash": "lIDZJoe09sI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_09.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_11.mp3",
+    "Hash": "RRi7zWOHUCM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_11.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_12.mp3",
+    "Hash": "FQ/7NXYL5Mg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_12.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_14.mp3",
+    "Hash": "Q3KQCHOZd6k=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_14.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_15.mp3",
+    "Hash": "roxtXF475uQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_15.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_17.mp3",
+    "Hash": "yKjHoMhS1wM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_17.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_18.mp3",
+    "Hash": "TmoHsnlKPJE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_18.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Endgame\\Endgame_19.mp3",
+    "Hash": "DOkUbS7nT7k=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Endgame\\Endgame_19.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Explore\\Explore_01.mp3",
+    "Hash": "HSpr0CkBwnM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_01.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Explore\\Explore_02.mp3",
+    "Hash": "/qTWBsBU7wo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_02.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Explore\\Explore_03.mp3",
+    "Hash": "5Hfdj00r4pQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_03.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Explore\\Explore_04.mp3",
+    "Hash": "6D0zWc+v0pk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_04.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Explore\\Explore_05.mp3",
+    "Hash": "CcbmGa8f7Ig=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_05.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Explore\\Explore_06.mp3",
+    "Hash": "GbIzvyv4y1I=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_06.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Explore\\Explore_07.mp3",
+    "Hash": "JbdY6dreNKw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Explore\\Explore_07.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Public\\Public_01.mp3",
+    "Hash": "XOJwm4VszJM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_01.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Public\\Public_02.mp3",
+    "Hash": "5Qys/LjZTCk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_02.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Public\\Public_03.mp3",
+    "Hash": "10OX9jKbStA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_03.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Public\\Public_04.mp3",
+    "Hash": "dQjcxuIbeyw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_04.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Public\\Public_05.mp3",
+    "Hash": "+baXbkVHVSE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Public\\Public_05.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Special\\Death.mp3",
+    "Hash": "kewDvU14v5o=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Special\\Death.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Special\\ExitTheVault.mp3",
+    "Hash": "9ptZByyOBmQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Special\\ExitTheVault.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Special\\MainTitle.mp3",
+    "Hash": "QbU9FHKj4O0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Special\\MainTitle.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Special\\Success.mp3",
+    "Hash": "ezdwnsA14Bc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Special\\Success.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\Tension\\Tension_01.mp3",
+    "Hash": "HwjsjBCJKMY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\Tension\\Tension_01.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\TranquilityLane\\MUS_TranquilityLane_01_LP.mp3",
+    "Hash": "InGP7zeI9iA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\TranquilityLane\\MUS_TranquilityLane_01_LP.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Music\\TranquilityLane\\MUS_TranquilityLane_02_LP.mp3",
+    "Hash": "InGP7zeI9iA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Music\\TranquilityLane\\MUS_TranquilityLane_02_LP.mp3"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\PointLookout - Main.bsa",
+    "Hash": "hnWQ3PRDZ5M=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\PointLookout - Main.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\PointLookout - Sounds.bsa",
+    "Hash": "tG6LHoTiS+0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\PointLookout - Sounds.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\PointLookout.esm",
+    "Hash": "Bs61gT475C0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\PointLookout.esm"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage002.sdp",
+    "Hash": "ScBr1Akyjz8=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage002.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage003.sdp",
+    "Hash": "hw7YEwwXiOQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage003.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage004.sdp",
+    "Hash": "GeQcZPFJ2gc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage004.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage006.sdp",
+    "Hash": "ZEZ4QZrK+p8=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage006.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage007.sdp",
+    "Hash": "71GDZHYJZbM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage007.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage009.sdp",
+    "Hash": "Tv7eZCCqtGs=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage009.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage010.sdp",
+    "Hash": "Cm/wE1E9ICM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage010.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage011.sdp",
+    "Hash": "Cm/wE1E9ICM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage011.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage012.sdp",
+    "Hash": "/Fs4i/5pCO0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage012.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage013.sdp",
+    "Hash": "/Fs4i/5pCO0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage013.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage014.sdp",
+    "Hash": "W5D/AGgZIuE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage014.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage015.sdp",
+    "Hash": "W5D/AGgZIuE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage015.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage016.sdp",
+    "Hash": "4Ctjgi7OeT0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage016.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage017.sdp",
+    "Hash": "4Ctjgi7OeT0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage017.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage018.sdp",
+    "Hash": "Qa2pOrMmk/M=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage018.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Shaders\\shaderpackage019.sdp",
+    "Hash": "Qa2pOrMmk/M=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Shaders\\shaderpackage019.sdp"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\ThePitt - Main.bsa",
+    "Hash": "aGVj1ZE+JkI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\ThePitt - Main.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\ThePitt - Sounds.bsa",
+    "Hash": "PID8cXCfIWM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\ThePitt - Sounds.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\ThePitt.esm",
+    "Hash": "eEROQbDJmw4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\ThePitt.esm"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\1 year later.bik",
+    "Hash": "rHZpPtNSshg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\1 year later.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\2 weeks later.bik",
+    "Hash": "kfAKjuIOIIY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\2 weeks later.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\3 years later.bik",
+    "Hash": "L82FGUDh1qc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\3 years later.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\6 years later.bik",
+    "Hash": "JfX2mpds7OM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\6 years later.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\9 years later.bik",
+    "Hash": "Qu8EzdKoeqo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\9 years later.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B01.bik",
+    "Hash": "JDKbj3gjB3o=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B01.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B02.bik",
+    "Hash": "O2ZWx17v9rg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B02.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B03.bik",
+    "Hash": "G2lbTABDiL4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B03.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B04.bik",
+    "Hash": "S9ED5uXZmHk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B04.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B05.bik",
+    "Hash": "GQE/FhIvZdI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B05.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B06.bik",
+    "Hash": "W5izvROGmtM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B06.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B07.bik",
+    "Hash": "OIBvRK3cO2k=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B07.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B08.bik",
+    "Hash": "mdP/JYDfnmE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B08.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B09.bik",
+    "Hash": "tBT4R4ycB48=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B09.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B10.bik",
+    "Hash": "y/47arzoI+E=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B10.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B11.bik",
+    "Hash": "p+rRdhVA4bA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B11.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B12.bik",
+    "Hash": "VwE11yX+B0Y=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B12.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B13.bik",
+    "Hash": "3dTEsxHMosk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B13.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B14.bik",
+    "Hash": "5kIUptZe/nA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B14.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B15.bik",
+    "Hash": "6YlZhjCM0xc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B15.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B16.bik",
+    "Hash": "gRXP6TctE4w=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B16.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B17.bik",
+    "Hash": "b6KxUNUEwxY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B17.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B18.bik",
+    "Hash": "ZXE7H5uFZys=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B18.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B19.bik",
+    "Hash": "AEnQAeDQqtw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B19.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B20.bik",
+    "Hash": "xSiII79R6S4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B20.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B21.bik",
+    "Hash": "Pc9M7PnLvn0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B21.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B22.bik",
+    "Hash": "wlkP2s1CL8U=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B22.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B23.bik",
+    "Hash": "KOe3dYfwy0M=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B23.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B24.bik",
+    "Hash": "yk5fgSnn/FA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B24.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B25.bik",
+    "Hash": "mUhvazxO5tw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B25.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B26.bik",
+    "Hash": "/rZngwUXLU4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B26.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B27.bik",
+    "Hash": "d/Hg18/aZbA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B27.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B28.bik",
+    "Hash": "d/QoJ/k3AcA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B28.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\B29.bik",
+    "Hash": "zO/sHjCcPfo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\B29.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Video\\Fallout INTRO Vsk.bik",
+    "Hash": "ya4movvCdiI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Video\\Fallout INTRO Vsk.bik"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Zeta - Main.bsa",
+    "Hash": "S6r6aQxtarA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Zeta - Main.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Zeta - Sounds.bsa",
+    "Hash": "NAs1jI2PpaI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Zeta - Sounds.bsa"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Data\\Zeta.esm",
+    "Hash": "7yJfBC6nlgM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Data\\Zeta.esm"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2005_d3dx9_25_x64.cab",
+    "Hash": "4+Y+LMTs0qo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2005_d3dx9_25_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2005_d3dx9_25_x86.cab",
+    "Hash": "nHTO3AXHyZA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2005_d3dx9_25_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2006_d3dx9_30_x64.cab",
+    "Hash": "nP0uVKzmDiw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_d3dx9_30_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2006_d3dx9_30_x86.cab",
+    "Hash": "UAbJkjpvZL0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_d3dx9_30_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2006_MDX1_x86.cab",
+    "Hash": "sO10Soa9FO4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_MDX1_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2006_MDX1_x86_Archive.cab",
+    "Hash": "rB566UJWoZE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_MDX1_x86_Archive.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2006_XACT_x64.cab",
+    "Hash": "Tp8cnV8uZFA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2006_XACT_x86.cab",
+    "Hash": "VDn/QWwzBkY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2006_xinput_x64.cab",
+    "Hash": "uNwkBnTDenM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_xinput_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Apr2006_xinput_x86.cab",
+    "Hash": "g2usal4M0qY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Apr2006_xinput_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\APR2007_d3dx10_33_x64.cab",
+    "Hash": "VbL9EWdXemg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_d3dx10_33_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\APR2007_d3dx10_33_x86.cab",
+    "Hash": "PYaLxnVAGns=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_d3dx10_33_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\APR2007_d3dx9_33_x64.cab",
+    "Hash": "BOyYCpJLURA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_d3dx9_33_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\APR2007_d3dx9_33_x86.cab",
+    "Hash": "G9EX56nwLJI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_d3dx9_33_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\APR2007_XACT_x64.cab",
+    "Hash": "fQ/Oz+X5eaM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\APR2007_XACT_x86.cab",
+    "Hash": "uJPA6W6vVqY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\APR2007_xinput_x64.cab",
+    "Hash": "wEKevxKXT1I=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_xinput_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\APR2007_xinput_x86.cab",
+    "Hash": "DxhGPa/oI4o=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\APR2007_xinput_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Aug2005_d3dx9_27_x64.cab",
+    "Hash": "i8entHsPYls=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Aug2005_d3dx9_27_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Aug2005_d3dx9_27_x86.cab",
+    "Hash": "8ZLnfPrALbI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Aug2005_d3dx9_27_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2006_XACT_x64.cab",
+    "Hash": "aTBc04kNQpA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2006_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2006_XACT_x86.cab",
+    "Hash": "cMBdDyd/qBs=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2006_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2006_xinput_x64.cab",
+    "Hash": "tbDxL9eb8z4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2006_xinput_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2006_xinput_x86.cab",
+    "Hash": "ZbKtGd1ICOU=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2006_xinput_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2007_d3dx10_35_x64.cab",
+    "Hash": "hoRmmnEnA9Q=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_d3dx10_35_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2007_d3dx10_35_x86.cab",
+    "Hash": "nVQ0YDRVjIM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_d3dx10_35_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2007_d3dx9_35_x64.cab",
+    "Hash": "cJUEyaQu3GA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_d3dx9_35_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2007_d3dx9_35_x86.cab",
+    "Hash": "bVTf7KeJkDw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_d3dx9_35_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2007_XACT_x64.cab",
+    "Hash": "HtvdDQOo4vY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\AUG2007_XACT_x86.cab",
+    "Hash": "4jV1IJx0y3E=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\AUG2007_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\BDANT.cab",
+    "Hash": "CE7c838Xn90=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\BDANT.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\BDAXP.cab",
+    "Hash": "PZF3P1YVsiM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\BDAXP.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Coupon.xps",
+    "Hash": "9YY0jtormsw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Coupon.xps"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Dec2005_d3dx9_28_x64.cab",
+    "Hash": "TkAmV5yK4xY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Dec2005_d3dx9_28_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Dec2005_d3dx9_28_x86.cab",
+    "Hash": "pj4p9hM97VA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Dec2005_d3dx9_28_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\DEC2006_d3dx10_00_x64.cab",
+    "Hash": "9T6BFAd20uk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_d3dx10_00_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\DEC2006_d3dx10_00_x86.cab",
+    "Hash": "xp6h7CTdPBE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_d3dx10_00_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\DEC2006_d3dx9_32_x64.cab",
+    "Hash": "9DdPiDvsYG0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_d3dx9_32_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\DEC2006_d3dx9_32_x86.cab",
+    "Hash": "cNdnb/v4/5U=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_d3dx9_32_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\DEC2006_XACT_x64.cab",
+    "Hash": "oBei03ZCA6c=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\DEC2006_XACT_x86.cab",
+    "Hash": "oIqmrKLgn7c=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DEC2006_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\DSETUP.dll",
+    "Hash": "piFVnJRkKVU=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DSETUP.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\dsetup32.dll",
+    "Hash": "VEd7ajUrS9M=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\dsetup32.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\dxdllreg_x86.cab",
+    "Hash": "qIvLhyNsVdM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\dxdllreg_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\dxnt.cab",
+    "Hash": "XSCkenyhxds=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\dxnt.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\DXSETUP.exe",
+    "Hash": "Od4fd3AdnQw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\DXSETUP.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\dxupdate.cab",
+    "Hash": "xdmCsb7Dvwg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\dxupdate.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Feb2005_d3dx9_24_x64.cab",
+    "Hash": "DR5EUwQn2dY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2005_d3dx9_24_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Feb2005_d3dx9_24_x86.cab",
+    "Hash": "vM1r0WNvAdA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2005_d3dx9_24_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Feb2006_d3dx9_29_x64.cab",
+    "Hash": "oT3bSGTqCgY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2006_d3dx9_29_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Feb2006_d3dx9_29_x86.cab",
+    "Hash": "cRTVaDyy4Yc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2006_d3dx9_29_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Feb2006_XACT_x64.cab",
+    "Hash": "SpIx1O7lG4s=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2006_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Feb2006_XACT_x86.cab",
+    "Hash": "WFyGl7n0bPA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Feb2006_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\FEB2007_XACT_x64.cab",
+    "Hash": "CI1/a6oIz58=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\FEB2007_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\FEB2007_XACT_x86.cab",
+    "Hash": "1mWjmcSItLA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\FEB2007_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2005_d3dx9_26_x64.cab",
+    "Hash": "8yRJeadk2HY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2005_d3dx9_26_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2005_d3dx9_26_x86.cab",
+    "Hash": "segexOXGdic=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2005_d3dx9_26_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\JUN2006_XACT_x64.cab",
+    "Hash": "h8/7apqtKm8=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2006_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\JUN2006_XACT_x86.cab",
+    "Hash": "W9uZeHtB6xo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2006_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\JUN2007_d3dx10_34_x64.cab",
+    "Hash": "9zl30PryHwg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_d3dx10_34_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\JUN2007_d3dx10_34_x86.cab",
+    "Hash": "2//Q5dtlODE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_d3dx10_34_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\JUN2007_d3dx9_34_x64.cab",
+    "Hash": "+U1Y3VRjxdk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_d3dx9_34_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\JUN2007_d3dx9_34_x86.cab",
+    "Hash": "lQmr7ykDNZg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_d3dx9_34_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\JUN2007_XACT_x64.cab",
+    "Hash": "5btttlltaQs=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\JUN2007_XACT_x86.cab",
+    "Hash": "o64ptzhWth8=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\JUN2007_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_d3dx10_38_x64.cab",
+    "Hash": "Vk/gBRI8Rpg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_d3dx10_38_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_d3dx10_38_x86.cab",
+    "Hash": "82YbKF01CJU=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_d3dx10_38_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_d3dx9_38_x64.cab",
+    "Hash": "pbKgprk3qPI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_d3dx9_38_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_d3dx9_38_x86.cab",
+    "Hash": "RCXxMBxOlHU=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_d3dx9_38_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_X3DAudio_x64.cab",
+    "Hash": "Yc/qYoC145w=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_X3DAudio_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_X3DAudio_x86.cab",
+    "Hash": "A6F+JFq+nAg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_X3DAudio_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_XACT_x64.cab",
+    "Hash": "kdEVHo5lvDQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_XACT_x86.cab",
+    "Hash": "3TNYSNiE6KE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_XAudio_x64.cab",
+    "Hash": "XrwzjKqKrYQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_XAudio_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Jun2008_XAudio_x86.cab",
+    "Hash": "IiDzKQWVUck=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Jun2008_XAudio_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_d3dx10_37_x64.cab",
+    "Hash": "Ybzq86cQXUo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_d3dx10_37_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_d3dx10_37_x86.cab",
+    "Hash": "YAwlzy58E2w=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_d3dx10_37_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_d3dx9_37_x64.cab",
+    "Hash": "Qe98dHRdHRY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_d3dx9_37_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_d3dx9_37_x86.cab",
+    "Hash": "kqs65h9Wmek=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_d3dx9_37_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_X3DAudio_x64.cab",
+    "Hash": "5fRpG9AY8KI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_X3DAudio_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_X3DAudio_x86.cab",
+    "Hash": "IPHoujkBiIk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_X3DAudio_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_XACT_x64.cab",
+    "Hash": "psfxvcI7SHE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_XACT_x86.cab",
+    "Hash": "qgczeUN6px0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_XAudio_x64.cab",
+    "Hash": "q687q84Kevg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_XAudio_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Mar2008_XAudio_x86.cab",
+    "Hash": "jkoQQNo6tHQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Mar2008_XAudio_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\NOV2007_d3dx10_36_x64.cab",
+    "Hash": "mRgebb89Gl4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_d3dx10_36_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\NOV2007_d3dx10_36_x86.cab",
+    "Hash": "LfwxTq+VAis=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_d3dx10_36_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\NOV2007_d3dx9_36_x64.cab",
+    "Hash": "BeOi8XYZp0M=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_d3dx9_36_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\NOV2007_d3dx9_36_x86.cab",
+    "Hash": "l/VLA1qpFxs=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_d3dx9_36_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\NOV2007_X3DAudio_x64.cab",
+    "Hash": "r6IepeUfwtU=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_X3DAudio_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\NOV2007_X3DAudio_x86.cab",
+    "Hash": "PtSlIJonQjo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_X3DAudio_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\NOV2007_XACT_x64.cab",
+    "Hash": "NOe3QiARvYw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\NOV2007_XACT_x86.cab",
+    "Hash": "XUMy4bW5WMk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\NOV2007_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Oct2005_xinput_x64.cab",
+    "Hash": "HvNJ2N/TcrY=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Oct2005_xinput_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\Oct2005_xinput_x86.cab",
+    "Hash": "4woosxYNB0E=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\Oct2005_xinput_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\OCT2006_d3dx9_31_x64.cab",
+    "Hash": "r/CMr8HZ+iQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\OCT2006_d3dx9_31_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\OCT2006_d3dx9_31_x86.cab",
+    "Hash": "Qcd21DxZG20=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\OCT2006_d3dx9_31_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\OCT2006_XACT_x64.cab",
+    "Hash": "9SuXzCAsNc0=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\OCT2006_XACT_x64.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DirectX9c\\OCT2006_XACT_x86.cab",
+    "Hash": "Z3c7D8+Vqbo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DirectX9c\\OCT2006_XACT_x86.cab"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DotNetFX\\dotnetfx3.exe",
+    "Hash": "sXhPv3lHusw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DotNetFX\\dotnetfx3.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "DotNetFX\\dotnetfx3_x64.exe",
+    "Hash": "SzyBLfrKqz8=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|DotNetFX\\dotnetfx3_x64.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "F3icon.ico",
+    "Hash": "+kna/tsmrXo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|F3icon.ico"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Fallout Website.htm",
+    "Hash": "Pc2xWAOv4wI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout Website.htm"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Fallout_default.ini",
+    "Hash": "MnbynSTp6sk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout_default.ini"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Fallout3 - Garden of Eden Creation Kit.exe",
+    "Hash": "GSuIQv+Uymc=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3 - Garden of Eden Creation Kit.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Fallout3.exe",
+    "Hash": "SWqoEVdFu3g=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Fallout3.exe.cat",
+    "Hash": "KSDgeCZ9o8M=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3.exe.cat"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Fallout3.exe.cfg",
+    "Hash": "bMzSsl/y56s=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3.exe.cfg"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Fallout3\\FalloutPrefs.ini",
+    "Hash": "e/tro3Ls/Qs=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Fallout3\\FalloutPrefs.ini"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "FalloutLauncher.exe",
+    "Hash": "BH9tkb5WRSE=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|FalloutLauncher.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "GameuxInstallHelper.dll",
+    "Hash": "HccloCPQKUo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|GameuxInstallHelper.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "GDFFallout3.dll",
+    "Hash": "U+tTwB6DOzo=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|GDFFallout3.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "GDFInstall.exe",
+    "Hash": "wsQAyzOgXFM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|GDFInstall.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "GDFInstall.exe.manifest",
+    "Hash": "IEXULNgnwHg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|GDFInstall.exe.manifest"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "GFWLive\\xliveredist.msi",
+    "Hash": "TueZa1K6lFA=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|GFWLive\\xliveredist.msi"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "GFWLive\\XLiveRedist01.02.0241.00.msi",
+    "Hash": "zUF5He+cWYg=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|GFWLive\\XLiveRedist01.02.0241.00.msi"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "high.ini",
+    "Hash": "HGzxeu91GTQ=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|high.ini"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "installscript.vdf",
+    "Hash": "qzGXah7Lj5E=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|installscript.vdf"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "libvorbis.dll",
+    "Hash": "hH9CoPGKkJk=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|libvorbis.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "libvorbisfile.dll",
+    "Hash": "7i03JvYf6jI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|libvorbisfile.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "low.ini",
+    "Hash": "F1Yu7axAcJI=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|low.ini"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "MainTitle.wav",
+    "Hash": "B+b+vePgrJM=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|MainTitle.wav"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "medium.ini",
+    "Hash": "okzM76KVs5c=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|medium.ini"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "readme.txt",
+    "Hash": "XCKvOpQZx4A=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|readme.txt"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "Register Game.htm",
+    "Hash": "EsptzNpN0eU=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|Register Game.htm"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "VCRedist\\vcredist_x86.exe",
+    "Hash": "KsFCzwktAm4=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|VCRedist\\vcredist_x86.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "Fallout3",
+    "GameFile": "VeryHigh.ini",
+    "Hash": "zohi+Fsduiw=",
+    "GameVersion": "1.7.0.3",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout3|1.7.0.3|VeryHigh.ini"
+  }
+]
