@@ -1,0 +1,1106 @@
+﻿[
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "system.cfg",
+    "Hash": "FWFh2TpEbF4=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|system.cfg"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "whdlversions.txt",
+    "Hash": "8DSgkPNi5yY=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|whdlversions.txt"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Animations-part0.pak",
+    "Hash": "iQgHgeR3O5k=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Animations-part0.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Animations-part1.pak",
+    "Hash": "kjOf/trUXEc=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Animations-part1.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Buildings.pak",
+    "Hash": "zwzhA6+Onck=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Buildings.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Characters.pak",
+    "Hash": "QB4v0TbYPP8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Characters.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Cinematics.pak",
+    "Hash": "B4bV7sdJ+WI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Cinematics.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Cinematics_DLC4.pak",
+    "Hash": "4fqvoxEA77A=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Cinematics_DLC4.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Cloth-part0.pak",
+    "Hash": "XCHtyYTee1k=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Cloth-part0.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Cloth-part1.pak",
+    "Hash": "sad/NL1IZCo=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Cloth-part1.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Cloth-part2.pak",
+    "Hash": "XwJ9jQ/36Y8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Cloth-part2.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\GameData.pak",
+    "Hash": "scPcxvZRDXg=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\GameData.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\GeomCaches.pak",
+    "Hash": "fV0ImR1eOTY=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\GeomCaches.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Heads.pak",
+    "Hash": "F4K8Yi8a0oQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Heads.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\IPL_Cinematics.pak",
+    "Hash": "4SHI3wY2HzM=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\IPL_Cinematics.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\IPL_Heads.pak",
+    "Hash": "CCsCxAUcOhY=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\IPL_Heads.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\ipl_videos.pak",
+    "Hash": "RwHu+HOdw1s=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\ipl_videos.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\ipl_videosb.pak",
+    "Hash": "adtTZtLiuXk=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\ipl_videosb.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\music.pak",
+    "Hash": "Y67dORGWDk0=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\music.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Objects.pak",
+    "Hash": "FssasOMGeG8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Objects.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\pak.cfg",
+    "Hash": "Xx87U3NHMIs=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\pak.cfg"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Scripts.pak",
+    "Hash": "fpTCJ/+QbpI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Scripts.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Scripts_DLC2.pak",
+    "Hash": "IkrlC+q4x9A=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Scripts_DLC2.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Scripts_DLC3.pak",
+    "Hash": "0VeiOtEOEsk=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Scripts_DLC3.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Scripts_DLC4.pak",
+    "Hash": "G2hlZHwFdcs=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Scripts_DLC4.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Sounds.pak",
+    "Hash": "ESFZZAHHUc8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Sounds.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Sounds_HD.pak",
+    "Hash": "t8mlwv7o+rM=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Sounds_HD.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Tables.pak",
+    "Hash": "TMAktCIM+C0=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Tables.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Textures.pak",
+    "Hash": "Ua4T90S5YHs=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Textures.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Textures_DLC4.pak",
+    "Hash": "NqrwPKnWkpI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Textures_DLC4.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\videos-part0.pak",
+    "Hash": "t9piyFZKTdg=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\videos-part0.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\videos-part1.pak",
+    "Hash": "Ej3I0272ufo=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\videos-part1.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\videos-part2.pak",
+    "Hash": "34CUFT20knU=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\videos-part2.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\videos-part3.pak",
+    "Hash": "haMSKx2I77U=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\videos-part3.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\videos-part4.pak",
+    "Hash": "7USlC5gdeVg=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\videos-part4.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\videosb-part0.pak",
+    "Hash": "htQbkJ3ajME=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\videosb-part0.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\videosb-part1.pak",
+    "Hash": "u3V7DSYTWlQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\videosb-part1.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Videos_DLC4-part0.pak",
+    "Hash": "7Wyyvw4NCBA=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Videos_DLC4-part0.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Videos_DLC4-part1.pak",
+    "Hash": "4iAjIGP5Zyw=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Videos_DLC4-part1.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Videos_DLC4-part2.pak",
+    "Hash": "V8hxwOCIl8A=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Videos_DLC4-part2.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Engine\\engine.pak",
+    "Hash": "C/eWeeu6aWw=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Engine\\engine.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Engine\\shadercache.pak",
+    "Hash": "OpwcVNCF0Z4=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Engine\\shadercache.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Engine\\shadercachestartup.pak",
+    "Hash": "WSz5TL83R8Q=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Engine\\shadercachestartup.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Engine\\shaders.pak",
+    "Hash": "fKQjnrwKA64=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Engine\\shaders.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Engine\\shadersbin.pak",
+    "Hash": "hbY7gzdr+yk=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Engine\\shadersbin.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Chineses_xml.pak",
+    "Hash": "Aw77p4ZhaIw=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Chineses_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Czech_xml.pak",
+    "Hash": "lK81JcF7QAI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Czech_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\English.pak",
+    "Hash": "7ZrOja3N+bc=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\English.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\English_DLC2.pak",
+    "Hash": "uF8/pgVLAWI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\English_DLC2.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\English_DLC3.pak",
+    "Hash": "epNMXOdfuKk=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\English_DLC3.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\English_DLC4.pak",
+    "Hash": "kD8PbrBpCRk=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\English_DLC4.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\English_xml.pak",
+    "Hash": "duVOEZ4IDS0=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\English_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Estonian_xml.pak",
+    "Hash": "4q4rW/u/Xt4=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Estonian_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\French.pak",
+    "Hash": "bZqJ3ZxNWUg=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\French.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\French_DLC2.pak",
+    "Hash": "YCwEy9cCtTA=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\French_DLC2.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\French_DLC3.pak",
+    "Hash": "Higcnx5u0ls=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\French_DLC3.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\French_DLC4.pak",
+    "Hash": "0mH0cgVZtpI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\French_DLC4.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\French_xml.pak",
+    "Hash": "mpuqoHZoWys=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\French_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\German.pak",
+    "Hash": "BDuodOLx0iI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\German.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\German_DLC2.pak",
+    "Hash": "zSJgmvjdois=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\German_DLC2.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\German_DLC3.pak",
+    "Hash": "UpLjTlbEWCI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\German_DLC3.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\German_DLC4.pak",
+    "Hash": "YbWTInpdCmI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\German_DLC4.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\German_xml.pak",
+    "Hash": "f5P3ZMZ2y6k=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\German_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\IPL_English.pak",
+    "Hash": "uBGzF1K0PoQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\IPL_English.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\IPL_English_DLC4.pak",
+    "Hash": "FwPCIn4MSk0=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\IPL_English_DLC4.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\IPL_French.pak",
+    "Hash": "QawrwK6IDAk=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\IPL_French.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\IPL_German.pak",
+    "Hash": "nsonHdJ+6Pc=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\IPL_German.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Italian_xml.pak",
+    "Hash": "YQ5r1gDXHzE=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Italian_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Korean_xml.pak",
+    "Hash": "WYpCWRqxTTs=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Korean_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Polish_xml.pak",
+    "Hash": "NohRV6BS35g=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Polish_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Russian_xml.pak",
+    "Hash": "kflARBPTR5g=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Russian_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Spanish_xml.pak",
+    "Hash": "X4ghxaEpy14=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Spanish_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Turkish_xml.pak",
+    "Hash": "Sso5FbraIvQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Turkish_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\Ukrainian_xml.pak",
+    "Hash": "61upKb3bK4Y=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\Ukrainian_xml.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64\\KingdomCome.exe",
+    "Hash": "ybzVPRA0gb0=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64\\KingdomCome.exe"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64\\version",
+    "Hash": "PG/seBKF+1o=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64\\version"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64\\WHGame.dll",
+    "Hash": "JeUIpx75DrM=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64\\WHGame.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\amd_ags_x64.dll",
+    "Hash": "HARfjbH5EaU=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\amd_ags_x64.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\AnselSDK64.dll",
+    "Hash": "IAV//6oEaaI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\AnselSDK64.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\d3dcompiler_46.dll",
+    "Hash": "3NY8n+Lqt20=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\d3dcompiler_46.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\d3dcompiler_47.dll",
+    "Hash": "sXL+nWg5yI8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\d3dcompiler_47.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\fmod64.dll",
+    "Hash": "P3tsMdq8IC4=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\fmod64.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\fmodstudio64.dll",
+    "Hash": "ed5xqcWb5zc=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\fmodstudio64.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\GfeSDK.dll",
+    "Hash": "8k9tX6hfxU8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\GfeSDK.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\LightFX.dll",
+    "Hash": "xCFd0dbgNIE=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\LightFX.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\LightFX64.dll",
+    "Hash": "xCFd0dbgNIE=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\LightFX64.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\LightFXConfigurator64.dll",
+    "Hash": "Vx5ybwtj3Uo=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\LightFXConfigurator64.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\sharedversion.txt",
+    "Hash": "z6hdD00p6vw=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\sharedversion.txt"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\steam_api64.dll",
+    "Hash": "31J2LKunZOQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\steam_api64.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Bin\\Win64Shared\\Tobii.GameIntegration.dll",
+    "Hash": "Im206fDU+pc=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Bin\\Win64Shared\\Tobii.GameIntegration.dll"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010300.pak",
+    "Hash": "aH3AtTg7e+E=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010300.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010400.pak",
+    "Hash": "OUCcLzoIJco=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010400.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010403.pak",
+    "Hash": "mOTQ36NnOY4=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010403.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010500.pak",
+    "Hash": "poxLKOtHpAE=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010500.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010600.pak",
+    "Hash": "ahjfzv2/w4M=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010600.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010602.pak",
+    "Hash": "AhOtNkTNlt0=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010602.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010700.pak",
+    "Hash": "BCZdZs/20tA=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010700.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010700b.pak",
+    "Hash": "EvDmxYoLIHk=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010700b.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010701.pak",
+    "Hash": "upXfeY2pSfQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010701.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010701b.pak",
+    "Hash": "9rSTzVCk8eA=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010701b.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010800.pak",
+    "Hash": "2R5ZqxgB5/o=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010800.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010900.pak",
+    "Hash": "y4exoF6eoJI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010900.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_010902.pak",
+    "Hash": "dCSblvTvtuI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_010902.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_sounds_010500_hd.pak",
+    "Hash": "aw9fGsiTSzI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_sounds_010500_hd.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_sounds_010600_hd.pak",
+    "Hash": "LCM1rpfJMvI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_sounds_010600_hd.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\ipl_patch_sounds_010700_hd.pak",
+    "Hash": "difntYMjk7E=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\ipl_patch_sounds_010700_hd.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\patch_010300.pak",
+    "Hash": "M6mIj2G06MM=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\patch_010300.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\patch_010400.pak",
+    "Hash": "XspqK9/f2Vc=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\patch_010400.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\patch_010500.pak",
+    "Hash": "27gspD0q7U4=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\patch_010500.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\patch_010600.pak",
+    "Hash": "iXgkCQSARFc=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\patch_010600.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\patch_010700.pak",
+    "Hash": "qocVQPpiybI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\patch_010700.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\patch_010701.pak",
+    "Hash": "f5OPLPENGI4=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\patch_010701.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\patch_010800.pak",
+    "Hash": "QV/h2lZC6Ko=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\patch_010800.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\patch\\patch_010900.pak",
+    "Hash": "2SLxrZOJE7w=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\patch\\patch_010900.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\_fastload\\startup_Animations.pak",
+    "Hash": "KeyhszXKMHs=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\_fastload\\startup_Animations.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\_fastload\\startup_Characters.pak",
+    "Hash": "HlFoBfr22TI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\_fastload\\startup_Characters.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\_fastload\\startup_Graphics.pak",
+    "Hash": "SXCY5VMwXq0=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\_fastload\\startup_Graphics.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\english_patch_010800.pak",
+    "Hash": "nSYACg/79PE=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\english_patch_010800.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\english_patch_010900.pak",
+    "Hash": "mYE0wIruQko=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\english_patch_010900.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\english_patch_010902.pak",
+    "Hash": "uGsWt7oTpds=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\english_patch_010902.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\french_patch_010800.pak",
+    "Hash": "7YTOEhCblEs=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\french_patch_010800.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\french_patch_010900.pak",
+    "Hash": "LEk1jRoKOTg=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\french_patch_010900.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\french_patch_010902.pak",
+    "Hash": "7NS7hyH6wdQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\french_patch_010902.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\german_patch_010800.pak",
+    "Hash": "IncS+VZZ3+E=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\german_patch_010800.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\german_patch_010900.pak",
+    "Hash": "BC3pfPd78WQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\german_patch_010900.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\german_patch_010902.pak",
+    "Hash": "gTb12CeMLws=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\german_patch_010902.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\ipl_english_patch_010900.pak",
+    "Hash": "+pEX4dxPIns=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\ipl_english_patch_010900.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\ipl_english_patch_010902.pak",
+    "Hash": "Z9VlbIYDmeM=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\ipl_english_patch_010902.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\ipl_french_patch_010900.pak",
+    "Hash": "46CtnGd0z+0=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\ipl_french_patch_010900.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\ipl_french_patch_010902.pak",
+    "Hash": "r7CiaZ4HPeQ=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\ipl_french_patch_010902.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\ipl_german_patch_010900.pak",
+    "Hash": "KDaZuyQjqeU=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\ipl_german_patch_010900.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Localization\\patch\\ipl_german_patch_010902.pak",
+    "Hash": "E5uL1g94l/U=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Localization\\patch\\ipl_german_patch_010902.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Levels\\rataje\\level.pak",
+    "Hash": "H2nMq1aSLH8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Levels\\rataje\\level.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Levels\\rataje\\recast.pak",
+    "Hash": "3A8+rWGWOII=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Levels\\rataje\\recast.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Levels\\rataje\\svo.pak",
+    "Hash": "pGhK6K/jcOw=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Levels\\rataje\\svo.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Levels\\rataje_dlc4\\level.pak",
+    "Hash": "4toGqIIYvfo=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Levels\\rataje_dlc4\\level.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Levels\\rataje_dlc4\\recast.pak",
+    "Hash": "EftlxBOy8GI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Levels\\rataje_dlc4\\recast.pak"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "Data\\Levels\\rataje_dlc4\\svo.pak",
+    "Hash": "n+EXWbHouUI=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|Data\\Levels\\rataje_dlc4\\svo.pak"
+  }
+]
