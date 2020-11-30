@@ -2,10 +2,26 @@
   {
     "$type": "GameFileSourceDownloader, Wabbajack.Lib",
     "Game": "KingdomComeDeliverance",
+    "GameFile": "custom.cfg",
+    "Hash": "menYUTfbRu8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|custom.cfg"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
     "GameFile": "system.cfg",
     "Hash": "FWFh2TpEbF4=",
     "GameVersion": "1.9.4.0",
     "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|system.cfg"
+  },
+  {
+    "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+    "Game": "KingdomComeDeliverance",
+    "GameFile": "user.cfg",
+    "Hash": "menYUTfbRu8=",
+    "GameVersion": "1.9.4.0",
+    "PrimaryKeyString": "GameFileSourceDownloader+State|KingdomComeDeliverance|1.9.4.0|user.cfg"
   },
   {
     "$type": "GameFileSourceDownloader, Wabbajack.Lib",
