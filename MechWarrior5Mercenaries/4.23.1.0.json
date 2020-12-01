@@ -1,0 +1,4577 @@
+﻿[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SRhYaxFo4Mo=",
+    "Meta": null,
+    "Name": "Game Manual.pdf",
+    "Size": 34760789,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Game Manual.pdf",
+      "Hash": "SRhYaxFo4Mo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Game Manual.pdf"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CoDY5ih1pvQ=",
+    "Meta": null,
+    "Name": "MechWarrior.exe",
+    "Size": 251904,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MechWarrior.exe",
+      "Hash": "CoDY5ih1pvQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MechWarrior.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MPZWqiYZ39w=",
+    "Meta": null,
+    "Name": "F69C112B4573628922D9C98EFD031129.mancpn",
+    "Size": 161,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": ".egstore\\F69C112B4573628922D9C98EFD031129.mancpn",
+      "Hash": "MPZWqiYZ39w=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|.egstore\\F69C112B4573628922D9C98EFD031129.mancpn"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tx4Ex/L3tdE=",
+    "Meta": null,
+    "Name": "F69C112B4573628922D9C98EFD031129.manifest",
+    "Size": 2892454,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": ".egstore\\F69C112B4573628922D9C98EFD031129.manifest",
+      "Hash": "tx4Ex/L3tdE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|.egstore\\F69C112B4573628922D9C98EFD031129.manifest"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "menYUTfbRu8=",
+    "Meta": null,
+    "Name": "debug.log",
+    "Size": 0,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\Win64\\debug.log",
+      "Hash": "menYUTfbRu8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\Win64\\debug.log"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ft3I2xKRTaE=",
+    "Meta": null,
+    "Name": "UnrealCEFSubProcess.exe",
+    "Size": 3693568,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\Win64\\UnrealCEFSubProcess.exe",
+      "Hash": "Ft3I2xKRTaE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\Win64\\UnrealCEFSubProcess.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Y//qRNlDd5Q=",
+    "Meta": null,
+    "Name": "debug.log",
+    "Size": 191,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Binaries\\Win64\\debug.log",
+      "Hash": "Y//qRNlDd5Q=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Binaries\\Win64\\debug.log"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "A9IvHQ5UY7g=",
+    "Meta": null,
+    "Name": "EOSSDK-Win64-Shipping.dll",
+    "Size": 10382080,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Binaries\\Win64\\EOSSDK-Win64-Shipping.dll",
+      "Hash": "A9IvHQ5UY7g=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Binaries\\Win64\\EOSSDK-Win64-Shipping.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8SA5QeyweHo=",
+    "Meta": null,
+    "Name": "MechWarrior-Win64-Shipping.exe",
+    "Size": 77080064,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Binaries\\Win64\\MechWarrior-Win64-Shipping.exe",
+      "Hash": "8SA5QeyweHo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Binaries\\Win64\\MechWarrior-Win64-Shipping.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "45V40lYcfxA=",
+    "Meta": null,
+    "Name": "BootUp.mp4",
+    "Size": 1104471,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\BootUp.mp4",
+      "Hash": "45V40lYcfxA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\BootUp.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MN0y16VjbZo=",
+    "Meta": null,
+    "Name": "Codex_AbortMission_01.mp4",
+    "Size": 2005078,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_AbortMission_01.mp4",
+      "Hash": "MN0y16VjbZo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_AbortMission_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bcJhqz17wKk=",
+    "Meta": null,
+    "Name": "Codex_AbortMission_02.mp4",
+    "Size": 4130285,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_AbortMission_02.mp4",
+      "Hash": "bcJhqz17wKk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_AbortMission_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "W6jEwKcZyjk=",
+    "Meta": null,
+    "Name": "Codex_AcceptCon_01.mp4",
+    "Size": 1877002,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_AcceptCon_01.mp4",
+      "Hash": "W6jEwKcZyjk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_AcceptCon_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EWgjZopzsz0=",
+    "Meta": null,
+    "Name": "Codex_Active_Hangar_01.mp4",
+    "Size": 10502723,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Hangar_01.mp4",
+      "Hash": "EWgjZopzsz0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Hangar_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vxisnrgywwg=",
+    "Meta": null,
+    "Name": "Codex_Active_Hangar_02.mp4",
+    "Size": 5017863,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Hangar_02.mp4",
+      "Hash": "vxisnrgywwg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Hangar_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0QNcJ/XarJg=",
+    "Meta": null,
+    "Name": "Codex_Active_Hangar_03.mp4",
+    "Size": 14297488,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Hangar_03.mp4",
+      "Hash": "0QNcJ/XarJg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Hangar_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lXjYbE5Xwkc=",
+    "Meta": null,
+    "Name": "Codex_Active_Work_Orders_01.mp4",
+    "Size": 4404205,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_01.mp4",
+      "Hash": "lXjYbE5Xwkc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IeqC8PAaEpY=",
+    "Meta": null,
+    "Name": "Codex_Active_Work_Orders_02.mp4",
+    "Size": 176437,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_02.mp4",
+      "Hash": "IeqC8PAaEpY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "B08qg8AOe9M=",
+    "Meta": null,
+    "Name": "Codex_Active_Work_Orders_03.mp4",
+    "Size": 215467,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_03.mp4",
+      "Hash": "B08qg8AOe9M=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "n2n0oI5tsmA=",
+    "Meta": null,
+    "Name": "Codex_Active_Work_Orders_04.mp4",
+    "Size": 5183740,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_04.mp4",
+      "Hash": "n2n0oI5tsmA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vkHNhik9Ipg=",
+    "Meta": null,
+    "Name": "Codex_Active_Work_Orders_05.mp4",
+    "Size": 7512108,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_05.mp4",
+      "Hash": "vkHNhik9Ipg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fTtnqxvFvwE=",
+    "Meta": null,
+    "Name": "Codex_Active_Work_Orders_06.mp4",
+    "Size": 8316376,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_06.mp4",
+      "Hash": "fTtnqxvFvwE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Active_Work_Orders_06.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3D0tk//+KQU=",
+    "Meta": null,
+    "Name": "Codex_Armor_01.mp4",
+    "Size": 254632,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Armor_01.mp4",
+      "Hash": "3D0tk//+KQU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Armor_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eRQejK6H2T0=",
+    "Meta": null,
+    "Name": "Codex_CampaignMissions_01.mp4",
+    "Size": 1512558,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_01.mp4",
+      "Hash": "eRQejK6H2T0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aqfQ6QWL09c=",
+    "Meta": null,
+    "Name": "Codex_CampaignMissions_02.mp4",
+    "Size": 3671159,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_02.mp4",
+      "Hash": "aqfQ6QWL09c=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DkwJZOEpnzA=",
+    "Meta": null,
+    "Name": "Codex_CampaignMissions_03.mp4",
+    "Size": 8932461,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_03.mp4",
+      "Hash": "DkwJZOEpnzA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "a8PopNrlFoo=",
+    "Meta": null,
+    "Name": "Codex_CampaignMissions_04.mp4",
+    "Size": 6584378,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_04.mp4",
+      "Hash": "a8PopNrlFoo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+iR5vhVWYmE=",
+    "Meta": null,
+    "Name": "Codex_CampaignMissions_05.mp4",
+    "Size": 3910565,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_05.mp4",
+      "Hash": "+iR5vhVWYmE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_CampaignMissions_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3ni8n+6BWdc=",
+    "Meta": null,
+    "Name": "Codex_Cancelling_Work_Orders_01.mp4",
+    "Size": 5667333,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Cancelling_Work_Orders_01.mp4",
+      "Hash": "3ni8n+6BWdc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Cancelling_Work_Orders_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6c6pKMVxK14=",
+    "Meta": null,
+    "Name": "Codex_Cancelling_Work_Orders_02.mp4",
+    "Size": 367784,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Cancelling_Work_Orders_02.mp4",
+      "Hash": "6c6pKMVxK14=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Cancelling_Work_Orders_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qarDBfTIjSg=",
+    "Meta": null,
+    "Name": "Codex_Cancelling_Work_Orders_03.mp4",
+    "Size": 2494133,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Cancelling_Work_Orders_03.mp4",
+      "Hash": "qarDBfTIjSg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Cancelling_Work_Orders_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "D2hU5E2lwXE=",
+    "Meta": null,
+    "Name": "Codex_Chainfire_01.mp4",
+    "Size": 4258359,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Chainfire_01.mp4",
+      "Hash": "D2hU5E2lwXE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Chainfire_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "b3ZUfWkLKZU=",
+    "Meta": null,
+    "Name": "Codex_Chainfire_02.mp4",
+    "Size": 7735013,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Chainfire_02.mp4",
+      "Hash": "b3ZUfWkLKZU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Chainfire_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QbczHoDShjg=",
+    "Meta": null,
+    "Name": "Codex_ClustersOverview_01.mp4",
+    "Size": 5747033,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ClustersOverview_01.mp4",
+      "Hash": "QbczHoDShjg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ClustersOverview_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "938ywnTAVmU=",
+    "Meta": null,
+    "Name": "Codex_ClustersOverview_02.mp4",
+    "Size": 4960387,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ClustersOverview_02.mp4",
+      "Hash": "938ywnTAVmU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ClustersOverview_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YRyq5NSynwQ=",
+    "Meta": null,
+    "Name": "Codex_Cold_Storage_01.mp4",
+    "Size": 42517190,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Cold_Storage_01.mp4",
+      "Hash": "YRyq5NSynwQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Cold_Storage_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "122Ej8mnfNc=",
+    "Meta": null,
+    "Name": "Codex_Cold_Storage_03.mp4",
+    "Size": 7704544,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Cold_Storage_03.mp4",
+      "Hash": "122Ej8mnfNc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Cold_Storage_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KzlAkf1P5Mg=",
+    "Meta": null,
+    "Name": "Codex_ConflictZones_01.mp4",
+    "Size": 5487888,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ConflictZones_01.mp4",
+      "Hash": "KzlAkf1P5Mg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ConflictZones_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NrqhRUgoVMU=",
+    "Meta": null,
+    "Name": "Codex_ConflictZones_02.mp4",
+    "Size": 8870822,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ConflictZones_02.mp4",
+      "Hash": "NrqhRUgoVMU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ConflictZones_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "l+teeXAxcDM=",
+    "Meta": null,
+    "Name": "Codex_ConflictZones_03.mp4",
+    "Size": 7061927,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ConflictZones_03.mp4",
+      "Hash": "l+teeXAxcDM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ConflictZones_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "a+fQTgQ1A/s=",
+    "Meta": null,
+    "Name": "Codex_ConflictZones_04.mp4",
+    "Size": 2632251,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ConflictZones_04.mp4",
+      "Hash": "a+fQTgQ1A/s=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ConflictZones_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sO1hdRf5Y6A=",
+    "Meta": null,
+    "Name": "Codex_ConflictZones_05.mp4",
+    "Size": 4596781,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ConflictZones_05.mp4",
+      "Hash": "sO1hdRf5Y6A=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ConflictZones_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VxVxeUEEWyM=",
+    "Meta": null,
+    "Name": "Codex_ConflictZones_06.mp4",
+    "Size": 2823685,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ConflictZones_06.mp4",
+      "Hash": "VxVxeUEEWyM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ConflictZones_06.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yjwqDmi6cHU=",
+    "Meta": null,
+    "Name": "Codex_ContractDetails_01.mp4",
+    "Size": 1149620,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ContractDetails_01.mp4",
+      "Hash": "yjwqDmi6cHU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ContractDetails_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cnEafmc82i4=",
+    "Meta": null,
+    "Name": "Codex_ContractDetails_02.mp4",
+    "Size": 2971248,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_ContractDetails_02.mp4",
+      "Hash": "cnEafmc82i4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_ContractDetails_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zz8IZfoAPYw=",
+    "Meta": null,
+    "Name": "Codex_Death_01.mp4",
+    "Size": 152163,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Death_01.mp4",
+      "Hash": "zz8IZfoAPYw=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Death_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L6UUhtEajkI=",
+    "Meta": null,
+    "Name": "Codex_Deployment_01.mp4",
+    "Size": 4185431,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Deployment_01.mp4",
+      "Hash": "L6UUhtEajkI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Deployment_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1Ltf1MTVbvs=",
+    "Meta": null,
+    "Name": "Codex_Deployment_02.mp4",
+    "Size": 4688599,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Deployment_02.mp4",
+      "Hash": "1Ltf1MTVbvs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Deployment_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9fI/lwaYVaI=",
+    "Meta": null,
+    "Name": "Codex_EarningRep_01.mp4",
+    "Size": 3245445,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_EarningRep_01.mp4",
+      "Hash": "9fI/lwaYVaI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_EarningRep_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yXHPUvLQsaM=",
+    "Meta": null,
+    "Name": "Codex_Editing_Armor_01.mp4",
+    "Size": 2278052,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Armor_01.mp4",
+      "Hash": "yXHPUvLQsaM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Armor_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "64jW4czlFUI=",
+    "Meta": null,
+    "Name": "Codex_Editing_Armor_02.mp4",
+    "Size": 1930755,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Armor_02.mp4",
+      "Hash": "64jW4czlFUI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Armor_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HPIlZH8eSGM=",
+    "Meta": null,
+    "Name": "Codex_Editing_Armor_04.mp4",
+    "Size": 1757557,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Armor_04.mp4",
+      "Hash": "HPIlZH8eSGM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Armor_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zTN6W+UCrVM=",
+    "Meta": null,
+    "Name": "Codex_Editing_Loadouts_Overview_01.mp4",
+    "Size": 9998581,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_01.mp4",
+      "Hash": "zTN6W+UCrVM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bqpkmLpXoeM=",
+    "Meta": null,
+    "Name": "Codex_Editing_Loadouts_Overview_02.mp4",
+    "Size": 29990875,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_02.mp4",
+      "Hash": "bqpkmLpXoeM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "009QwnLpWmY=",
+    "Meta": null,
+    "Name": "Codex_Editing_Loadouts_Overview_03.mp4",
+    "Size": 4129060,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_03.mp4",
+      "Hash": "009QwnLpWmY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QasvnBXdXJs=",
+    "Meta": null,
+    "Name": "Codex_Editing_Loadouts_Overview_04.mp4",
+    "Size": 7278067,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_04.mp4",
+      "Hash": "QasvnBXdXJs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "l6RvPyPOP50=",
+    "Meta": null,
+    "Name": "Codex_Editing_Loadouts_Overview_05.mp4",
+    "Size": 12693763,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_05.mp4",
+      "Hash": "l6RvPyPOP50=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Loadouts_Overview_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oYNPF+hbhrM=",
+    "Meta": null,
+    "Name": "Codex_Editing_Weapons_and_Equipment_01.mp4",
+    "Size": 3365746,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Weapons_and_Equipment_01.mp4",
+      "Hash": "oYNPF+hbhrM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Weapons_and_Equipment_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "J/INNaRGBns=",
+    "Meta": null,
+    "Name": "Codex_Editing_Weapons_and_Equipment_02.mp4",
+    "Size": 2883207,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Editing_Weapons_and_Equipment_02.mp4",
+      "Hash": "J/INNaRGBns=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Editing_Weapons_and_Equipment_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "maJFto7WFLc=",
+    "Meta": null,
+    "Name": "Codex_Engine_Heat_Sinks_01.mp4",
+    "Size": 316111,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Engine_Heat_Sinks_01.mp4",
+      "Hash": "maJFto7WFLc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Engine_Heat_Sinks_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "t84ielqaj1I=",
+    "Meta": null,
+    "Name": "Codex_Engine_Heat_Sinks_02.mp4",
+    "Size": 7546342,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Engine_Heat_Sinks_02.mp4",
+      "Hash": "t84ielqaj1I=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Engine_Heat_Sinks_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/BcQm4r+NBo=",
+    "Meta": null,
+    "Name": "Codex_Engine_Heat_Sinks_03.mp4",
+    "Size": 380974,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Engine_Heat_Sinks_03.mp4",
+      "Hash": "/BcQm4r+NBo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Engine_Heat_Sinks_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VjUU3qvyhpk=",
+    "Meta": null,
+    "Name": "Codex_Filters_Category_Tabs_01.mp4",
+    "Size": 4608902,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Filters_Category_Tabs_01.mp4",
+      "Hash": "VjUU3qvyhpk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Filters_Category_Tabs_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ua8weVFvC5k=",
+    "Meta": null,
+    "Name": "Codex_Filters_Valid_Only_Checkbox_01.mp4",
+    "Size": 3553438,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Filters_Valid_Only_Checkbox_01.mp4",
+      "Hash": "Ua8weVFvC5k=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Filters_Valid_Only_Checkbox_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UFDGD8MnDQM=",
+    "Meta": null,
+    "Name": "Codex_Finalizing_Changes_01.mp4",
+    "Size": 4407772,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Finalizing_Changes_01.mp4",
+      "Hash": "UFDGD8MnDQM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Finalizing_Changes_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9FhMHEFvuLs=",
+    "Meta": null,
+    "Name": "Codex_Finalizing_Changes_02.mp4",
+    "Size": 210026,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Finalizing_Changes_02.mp4",
+      "Hash": "9FhMHEFvuLs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Finalizing_Changes_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "AkTM/Exa/rs=",
+    "Meta": null,
+    "Name": "Codex_Finalizing_Changes_03.mp4",
+    "Size": 3140431,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Finalizing_Changes_03.mp4",
+      "Hash": "AkTM/Exa/rs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Finalizing_Changes_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "x1QYHzaksNE=",
+    "Meta": null,
+    "Name": "Codex_FindContracts_01.mp4",
+    "Size": 6682283,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_FindContracts_01.mp4",
+      "Hash": "x1QYHzaksNE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_FindContracts_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2ipWPuDpTB4=",
+    "Meta": null,
+    "Name": "Codex_FindContracts_01_1.mp4",
+    "Size": 4951560,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_FindContracts_01_1.mp4",
+      "Hash": "2ipWPuDpTB4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_FindContracts_01_1.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9uzzgHtHgRA=",
+    "Meta": null,
+    "Name": "Codex_FindContracts_02.mp4",
+    "Size": 3256514,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_FindContracts_02.mp4",
+      "Hash": "9uzzgHtHgRA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_FindContracts_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9uzzgHtHgRA=",
+    "Meta": null,
+    "Name": "Codex_FindContracts_02_1.mp4",
+    "Size": 3256514,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_FindContracts_02_1.mp4",
+      "Hash": "9uzzgHtHgRA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_FindContracts_02_1.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9t6JTX9tr8k=",
+    "Meta": null,
+    "Name": "Codex_Hardpoints_01.mp4",
+    "Size": 4593938,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hardpoints_01.mp4",
+      "Hash": "9t6JTX9tr8k=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hardpoints_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DjXeIqaVZu4=",
+    "Meta": null,
+    "Name": "Codex_Hardpoints_02.mp4",
+    "Size": 327820,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hardpoints_02.mp4",
+      "Hash": "DjXeIqaVZu4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hardpoints_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1HrC5BUrHR0=",
+    "Meta": null,
+    "Name": "Codex_Hardpoints_03.mp4",
+    "Size": 6448509,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hardpoints_03.mp4",
+      "Hash": "1HrC5BUrHR0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hardpoints_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zl2rZd6TGps=",
+    "Meta": null,
+    "Name": "Codex_Hardpoints_04.mp4",
+    "Size": 4835839,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hardpoints_04.mp4",
+      "Hash": "zl2rZd6TGps=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hardpoints_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oA1XN+q1H9E=",
+    "Meta": null,
+    "Name": "Codex_Hardpoints_05.mp4",
+    "Size": 7406036,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hardpoints_05.mp4",
+      "Hash": "oA1XN+q1H9E=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hardpoints_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DuFQx341BMc=",
+    "Meta": null,
+    "Name": "Codex_Hardpoints_06.mp4",
+    "Size": 5017612,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hardpoints_06.mp4",
+      "Hash": "DuFQx341BMc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hardpoints_06.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "94sxxm4mmK0=",
+    "Meta": null,
+    "Name": "Codex_Hardpoints_07.mp4",
+    "Size": 7386912,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hardpoints_07.mp4",
+      "Hash": "94sxxm4mmK0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hardpoints_07.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8GcHJyWayxw=",
+    "Meta": null,
+    "Name": "Codex_HighQuest_01.mp4",
+    "Size": 4366148,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_HighQuest_01.mp4",
+      "Hash": "8GcHJyWayxw=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_HighQuest_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ezBkwynAYH8=",
+    "Meta": null,
+    "Name": "Codex_HighQuest_02.mp4",
+    "Size": 2236501,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_HighQuest_02.mp4",
+      "Hash": "ezBkwynAYH8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_HighQuest_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nXGj03HRsro=",
+    "Meta": null,
+    "Name": "Codex_HighQuest_03.mp4",
+    "Size": 5121285,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_HighQuest_03.mp4",
+      "Hash": "nXGj03HRsro=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_HighQuest_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q+QyLO7f7HQ=",
+    "Meta": null,
+    "Name": "Codex_HighQuest_04.mp4",
+    "Size": 10047823,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_HighQuest_04.mp4",
+      "Hash": "q+QyLO7f7HQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_HighQuest_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ePPhB8rBIbY=",
+    "Meta": null,
+    "Name": "Codex_HighQuest_05.mp4",
+    "Size": 9835430,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_HighQuest_05.mp4",
+      "Hash": "ePPhB8rBIbY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_HighQuest_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "U8Hsu1QGijQ=",
+    "Meta": null,
+    "Name": "Codex_HighQuest_06.mp4",
+    "Size": 4749160,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_HighQuest_06.mp4",
+      "Hash": "U8Hsu1QGijQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_HighQuest_06.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OsSJPdmI3tI=",
+    "Meta": null,
+    "Name": "Codex_HighQuest_07.mp4",
+    "Size": 5756568,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_HighQuest_07.mp4",
+      "Hash": "OsSJPdmI3tI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_HighQuest_07.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "u+yiKcnEZz4=",
+    "Meta": null,
+    "Name": "Codex_Hiring_Pilots_01.mp4",
+    "Size": 3723090,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hiring_Pilots_01.mp4",
+      "Hash": "u+yiKcnEZz4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hiring_Pilots_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jfQzzdvBUpg=",
+    "Meta": null,
+    "Name": "Codex_Hiring_Pilots_02.mp4",
+    "Size": 2771253,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hiring_Pilots_02.mp4",
+      "Hash": "jfQzzdvBUpg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hiring_Pilots_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GNpk+tfsh+0=",
+    "Meta": null,
+    "Name": "Codex_Hiring_Pilots_03.mp4",
+    "Size": 6609139,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Hiring_Pilots_03.mp4",
+      "Hash": "GNpk+tfsh+0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Hiring_Pilots_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lwMwt9NKnj0=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_01.mp4",
+    "Size": 4449274,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_01.mp4",
+      "Hash": "lwMwt9NKnj0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Mciz/Mq7tIc=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_02.mp4",
+    "Size": 4140638,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_02.mp4",
+      "Hash": "Mciz/Mq7tIc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PIkbHulOUvs=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_03.mp4",
+    "Size": 6448266,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_03.mp4",
+      "Hash": "PIkbHulOUvs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rVmNGbNzDIM=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_04.mp4",
+    "Size": 5366082,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_04.mp4",
+      "Hash": "rVmNGbNzDIM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zmlN2DJtF8U=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_05.mp4",
+    "Size": 8188521,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_05.mp4",
+      "Hash": "zmlN2DJtF8U=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kjY5BG7pc6U=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_06.mp4",
+    "Size": 6142374,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_06.mp4",
+      "Hash": "kjY5BG7pc6U=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_06.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CCiIohfneQA=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_07.mp4",
+    "Size": 8050538,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_07.mp4",
+      "Hash": "CCiIohfneQA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_07.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "m+Z6OeakwCI=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_08.mp4",
+    "Size": 2555129,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_08.mp4",
+      "Hash": "m+Z6OeakwCI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_08.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "53jgwoOYcms=",
+    "Meta": null,
+    "Name": "Codex_IndustrialHubs_09.mp4",
+    "Size": 2924067,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_09.mp4",
+      "Hash": "53jgwoOYcms=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_IndustrialHubs_09.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Zk6u3tNoHBA=",
+    "Meta": null,
+    "Name": "Codex_Injury_01.mp4",
+    "Size": 332392,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Injury_01.mp4",
+      "Hash": "Zk6u3tNoHBA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Injury_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DX5H/3jpMG4=",
+    "Meta": null,
+    "Name": "Codex_Injury_02.mp4",
+    "Size": 3477308,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Injury_02.mp4",
+      "Hash": "DX5H/3jpMG4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Injury_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BhzZn+/uCGk=",
+    "Meta": null,
+    "Name": "Codex_Injury_03.mp4",
+    "Size": 187930,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Injury_03.mp4",
+      "Hash": "BhzZn+/uCGk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Injury_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Cxw9XaUrxCo=",
+    "Meta": null,
+    "Name": "Codex_LaunchMission_01.mp4",
+    "Size": 4068075,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_LaunchMission_01.mp4",
+      "Hash": "Cxw9XaUrxCo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_LaunchMission_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OYrmAfKwfp4=",
+    "Meta": null,
+    "Name": "Codex_Max_Armor_01.mp4",
+    "Size": 1228071,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Max_Armor_01.mp4",
+      "Hash": "OYrmAfKwfp4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Max_Armor_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cd2OSdE+wPw=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_01.mp4",
+    "Size": 2500235,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_01.mp4",
+      "Hash": "cd2OSdE+wPw=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4jiQ0TWh6Xo=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Inventory_and_Market_Tabs_01.mp4",
+    "Size": 4179194,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Inventory_and_Market_Tabs_01.mp4",
+      "Hash": "4jiQ0TWh6Xo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Inventory_and_Market_Tabs_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bOm+yAoO0cs=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Quick_Purchase_From_Market.mp4",
+    "Size": 4065604,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Quick_Purchase_From_Market.mp4",
+      "Hash": "bOm+yAoO0cs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Quick_Purchase_From_Market.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xL8eSdgZrwk=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Warnings_01.mp4",
+    "Size": 317852,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_01.mp4",
+      "Hash": "xL8eSdgZrwk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VkCUr7PC7Y8=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Warnings_02.mp4",
+    "Size": 1854207,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_02.mp4",
+      "Hash": "VkCUr7PC7Y8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vEoY/e2/5UY=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Warnings_03.mp4",
+    "Size": 1278886,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_03.mp4",
+      "Hash": "vEoY/e2/5UY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "90QVpR7c9DQ=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Warnings_04.mp4",
+    "Size": 6137447,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_04.mp4",
+      "Hash": "90QVpR7c9DQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "J7nAC4BFujI=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Warnings_05.mp4",
+    "Size": 1377991,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_05.mp4",
+      "Hash": "J7nAC4BFujI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Warnings_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "n9f3Mdx0E/A=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Weapon_Groups_01.mp4",
+    "Size": 1827432,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Weapon_Groups_01.mp4",
+      "Hash": "n9f3Mdx0E/A=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Weapon_Groups_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vqtQXWK4ZOA=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Weapon_Groups_02.mp4",
+    "Size": 395635,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Weapon_Groups_02.mp4",
+      "Hash": "vqtQXWK4ZOA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Weapon_Groups_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ULXOlVKHURM=",
+    "Meta": null,
+    "Name": "Codex_Mechlab_Weapon_Groups_04.mp4",
+    "Size": 2938587,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mechlab_Weapon_Groups_04.mp4",
+      "Hash": "ULXOlVKHURM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mechlab_Weapon_Groups_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OCFSQMdjeoc=",
+    "Meta": null,
+    "Name": "Codex_MechSelect_01.mp4",
+    "Size": 3762787,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_MechSelect_01.mp4",
+      "Hash": "OCFSQMdjeoc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_MechSelect_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uFR0SIENRYs=",
+    "Meta": null,
+    "Name": "Codex_MechSelect_02.mp4",
+    "Size": 3889717,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_MechSelect_02.mp4",
+      "Hash": "uFR0SIENRYs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_MechSelect_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6jrMvzOTNx0=",
+    "Meta": null,
+    "Name": "Codex_Mech_Stats_Armor_01.mp4",
+    "Size": 2229529,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Armor_01.mp4",
+      "Hash": "6jrMvzOTNx0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Armor_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+cGKD42FZa0=",
+    "Meta": null,
+    "Name": "Codex_Mech_Stats_Cooling_01.mp4",
+    "Size": 3031611,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Cooling_01.mp4",
+      "Hash": "+cGKD42FZa0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Cooling_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TPvXjZbb+tQ=",
+    "Meta": null,
+    "Name": "Codex_Mech_Stats_Firepower_01.mp4",
+    "Size": 8334366,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Firepower_01.mp4",
+      "Hash": "TPvXjZbb+tQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Firepower_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/yUI64QbojI=",
+    "Meta": null,
+    "Name": "Codex_Mech_Stats_Jump_Height_01.mp4",
+    "Size": 4130394,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Jump_Height_01.mp4",
+      "Hash": "/yUI64QbojI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Jump_Height_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "msk7uiCXwxc=",
+    "Meta": null,
+    "Name": "Codex_Mech_Stats_Max_Range_01.mp4",
+    "Size": 6053746,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Max_Range_01.mp4",
+      "Hash": "msk7uiCXwxc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Max_Range_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/DjQ89uVh4o=",
+    "Meta": null,
+    "Name": "Codex_Mech_Stats_Overview_01.mp4",
+    "Size": 382981,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Overview_01.mp4",
+      "Hash": "/DjQ89uVh4o=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Overview_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1zXC0hnPh/w=",
+    "Meta": null,
+    "Name": "Codex_Mech_Stats_Overview_02.mp4",
+    "Size": 6016888,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Overview_02.mp4",
+      "Hash": "1zXC0hnPh/w=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Overview_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Mt68fF4Guos=",
+    "Meta": null,
+    "Name": "Codex_Mech_Stats_Speed_01.mp4",
+    "Size": 1749325,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Speed_01.mp4",
+      "Hash": "Mt68fF4Guos=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Mech_Stats_Speed_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "meagfNlXWAE=",
+    "Meta": null,
+    "Name": "Codex_MMO_01.mp4",
+    "Size": 1249351,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_MMO_01.mp4",
+      "Hash": "meagfNlXWAE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_MMO_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SOWvWiwQv+0=",
+    "Meta": null,
+    "Name": "Codex_MMO_02.mp4",
+    "Size": 2535216,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_MMO_02.mp4",
+      "Hash": "SOWvWiwQv+0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_MMO_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3CiO0o9YN3c=",
+    "Meta": null,
+    "Name": "Codex_MMO_03.mp4",
+    "Size": 2629760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_MMO_03.mp4",
+      "Hash": "3CiO0o9YN3c=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_MMO_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/OQJrr98Q14=",
+    "Meta": null,
+    "Name": "Codex_MMO_04.mp4",
+    "Size": 4529488,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_MMO_04.mp4",
+      "Hash": "/OQJrr98Q14=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_MMO_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ffhmktyNULM=",
+    "Meta": null,
+    "Name": "Codex_MMO_05.mp4",
+    "Size": 2052304,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_MMO_05.mp4",
+      "Hash": "ffhmktyNULM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_MMO_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hOsjwBUEBXU=",
+    "Meta": null,
+    "Name": "Codex_MMO_06.mp4",
+    "Size": 9303592,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_MMO_06.mp4",
+      "Hash": "hOsjwBUEBXU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_MMO_06.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/awWzxPmM/g=",
+    "Meta": null,
+    "Name": "Codex_Navigating_01.mp4",
+    "Size": 7852795,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Navigating_01.mp4",
+      "Hash": "/awWzxPmM/g=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Navigating_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CwkZCpw7Qgg=",
+    "Meta": null,
+    "Name": "Codex_Navigating_02.mp4",
+    "Size": 8814405,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Navigating_02.mp4",
+      "Hash": "CwkZCpw7Qgg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Navigating_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EW6t+6XmxVM=",
+    "Meta": null,
+    "Name": "Codex_NegPoints_01.mp4",
+    "Size": 1527947,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NegPoints_01.mp4",
+      "Hash": "EW6t+6XmxVM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NegPoints_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "d34bdsxhBXM=",
+    "Meta": null,
+    "Name": "Codex_NegPoints_02.mp4",
+    "Size": 1454160,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NegPoints_02.mp4",
+      "Hash": "d34bdsxhBXM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NegPoints_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pq4RgRurzR4=",
+    "Meta": null,
+    "Name": "Codex_NegPoints_03.mp4",
+    "Size": 1286293,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NegPoints_03.mp4",
+      "Hash": "pq4RgRurzR4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NegPoints_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KNOE09YN3Dc=",
+    "Meta": null,
+    "Name": "Codex_NegTerms_01.mp4",
+    "Size": 1464111,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NegTerms_01.mp4",
+      "Hash": "KNOE09YN3Dc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NegTerms_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zl/gv8WFZlU=",
+    "Meta": null,
+    "Name": "Codex_NegTerms_02.mp4",
+    "Size": 1427776,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NegTerms_02.mp4",
+      "Hash": "zl/gv8WFZlU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NegTerms_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YHkk1+JJBig=",
+    "Meta": null,
+    "Name": "Codex_NegTerms_03.mp4",
+    "Size": 1486700,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NegTerms_03.mp4",
+      "Hash": "YHkk1+JJBig=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NegTerms_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NuY72lsc2tE=",
+    "Meta": null,
+    "Name": "Codex_NegTerms_04.mp4",
+    "Size": 1880950,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NegTerms_04.mp4",
+      "Hash": "NuY72lsc2tE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NegTerms_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "B+VCFyYi5vc=",
+    "Meta": null,
+    "Name": "Codex_NegTerms_05.mp4",
+    "Size": 1868107,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NegTerms_05.mp4",
+      "Hash": "B+VCFyYi5vc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NegTerms_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+HQlQTeznSk=",
+    "Meta": null,
+    "Name": "Codex_NeutralSystems_01.mp4",
+    "Size": 6656636,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_01.mp4",
+      "Hash": "+HQlQTeznSk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rBEubdQKPEY=",
+    "Meta": null,
+    "Name": "Codex_NeutralSystems_02.mp4",
+    "Size": 5972276,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_02.mp4",
+      "Hash": "rBEubdQKPEY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hcnwu7s3sxk=",
+    "Meta": null,
+    "Name": "Codex_NeutralSystems_03.mp4",
+    "Size": 8581144,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_03.mp4",
+      "Hash": "hcnwu7s3sxk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JV4bWu1NciI=",
+    "Meta": null,
+    "Name": "Codex_NeutralSystems_04.mp4",
+    "Size": 3287800,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_04.mp4",
+      "Hash": "JV4bWu1NciI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SC5EEgzWje4=",
+    "Meta": null,
+    "Name": "Codex_NeutralSystems_05.mp4",
+    "Size": 2296952,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_05.mp4",
+      "Hash": "SC5EEgzWje4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_NeutralSystems_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+Pv6bybVtXA=",
+    "Meta": null,
+    "Name": "Codex_Operations_01.mp4",
+    "Size": 3086302,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Operations_01.mp4",
+      "Hash": "+Pv6bybVtXA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Operations_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/ryP7OxJ4cM=",
+    "Meta": null,
+    "Name": "Codex_Operations_02.mp4",
+    "Size": 1258961,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Operations_02.mp4",
+      "Hash": "/ryP7OxJ4cM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Operations_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PUSQrQzCHI8=",
+    "Meta": null,
+    "Name": "Codex_Operations_03.mp4",
+    "Size": 1278092,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Operations_03.mp4",
+      "Hash": "PUSQrQzCHI8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Operations_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2J3CWuiC7nY=",
+    "Meta": null,
+    "Name": "Codex_Operations_04.mp4",
+    "Size": 3196310,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Operations_04.mp4",
+      "Hash": "2J3CWuiC7nY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Operations_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OGt+TuOr5+U=",
+    "Meta": null,
+    "Name": "Codex_Piloting_Skills_01.mp4",
+    "Size": 184860,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Piloting_Skills_01.mp4",
+      "Hash": "OGt+TuOr5+U=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Piloting_Skills_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VLan8eK5FdQ=",
+    "Meta": null,
+    "Name": "Codex_Piloting_Skills_02.mp4",
+    "Size": 177627,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Piloting_Skills_02.mp4",
+      "Hash": "VLan8eK5FdQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Piloting_Skills_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dj/ShsW098c=",
+    "Meta": null,
+    "Name": "Codex_Piloting_Skills_03.mp4",
+    "Size": 185787,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Piloting_Skills_03.mp4",
+      "Hash": "dj/ShsW098c=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Piloting_Skills_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xP9Hj8AWKh0=",
+    "Meta": null,
+    "Name": "Codex_PilotSelect_01.mp4",
+    "Size": 2058549,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_PilotSelect_01.mp4",
+      "Hash": "xP9Hj8AWKh0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_PilotSelect_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "z4T5TwS+AG0=",
+    "Meta": null,
+    "Name": "Codex_PilotSelect_02.mp4",
+    "Size": 2347205,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_PilotSelect_02.mp4",
+      "Hash": "z4T5TwS+AG0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_PilotSelect_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iTFqL+CcdwU=",
+    "Meta": null,
+    "Name": "Codex_Pilot_Management_Overview_01.mp4",
+    "Size": 396510,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Pilot_Management_Overview_01.mp4",
+      "Hash": "iTFqL+CcdwU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Pilot_Management_Overview_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mHqjREPqAT8=",
+    "Meta": null,
+    "Name": "Codex_Pilot_Roster_01.mp4",
+    "Size": 1654572,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Pilot_Roster_01.mp4",
+      "Hash": "mHqjREPqAT8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Pilot_Roster_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WCL7g/fPAaQ=",
+    "Meta": null,
+    "Name": "Codex_Pilot_Roster_02.mp4",
+    "Size": 2385330,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Pilot_Roster_02.mp4",
+      "Hash": "WCL7g/fPAaQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Pilot_Roster_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Zd1pEBfREKg=",
+    "Meta": null,
+    "Name": "Codex_Placeholder_Video.mp4",
+    "Size": 6503947,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Placeholder_Video.mp4",
+      "Hash": "Zd1pEBfREKg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Placeholder_Video.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ogZ9eN7H1o0=",
+    "Meta": null,
+    "Name": "Codex_Repair_All_01.mp4",
+    "Size": 1202414,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_All_01.mp4",
+      "Hash": "ogZ9eN7H1o0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_All_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5qMEkrQ/cFE=",
+    "Meta": null,
+    "Name": "Codex_Repair_Conflict_Surcharge_01.mp4",
+    "Size": 4348987,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Conflict_Surcharge_01.mp4",
+      "Hash": "5qMEkrQ/cFE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Conflict_Surcharge_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "92/DzFeu2Bs=",
+    "Meta": null,
+    "Name": "Codex_Repair_Conflict_Surcharge_02.mp4",
+    "Size": 7478237,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Conflict_Surcharge_02.mp4",
+      "Hash": "92/DzFeu2Bs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Conflict_Surcharge_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rTO/GzRewy0=",
+    "Meta": null,
+    "Name": "Codex_Repair_Damaged_Equipment_01.mp4",
+    "Size": 1695117,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Damaged_Equipment_01.mp4",
+      "Hash": "rTO/GzRewy0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Damaged_Equipment_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DYM42/a+pE0=",
+    "Meta": null,
+    "Name": "Codex_Repair_Damaged_Equipment_02.mp4",
+    "Size": 298525,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Damaged_Equipment_02.mp4",
+      "Hash": "DYM42/a+pE0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Damaged_Equipment_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "U8LMX0nueFE=",
+    "Meta": null,
+    "Name": "Codex_Repair_Damaged_Equipment_03.mp4",
+    "Size": 2857629,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Damaged_Equipment_03.mp4",
+      "Hash": "U8LMX0nueFE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Damaged_Equipment_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FtwfJP4ptj4=",
+    "Meta": null,
+    "Name": "Codex_Repair_Damaged_Equipment_04.mp4",
+    "Size": 5768175,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Damaged_Equipment_04.mp4",
+      "Hash": "FtwfJP4ptj4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Damaged_Equipment_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ali3VNd89Ew=",
+    "Meta": null,
+    "Name": "Codex_Repair_Overview_02.mp4",
+    "Size": 45897662,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Overview_02.mp4",
+      "Hash": "Ali3VNd89Ew=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Overview_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VhAgLGe+WgQ=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_All_01.mp4",
+    "Size": 1320311,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_All_01.mp4",
+      "Hash": "VhAgLGe+WgQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_All_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kO6Q0w9FxJE=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_All_02.mp4",
+    "Size": 2730765,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_All_02.mp4",
+      "Hash": "kO6Q0w9FxJE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_All_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hMlT6Ik0jQ8=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_All_03.mp4",
+    "Size": 3730842,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_All_03.mp4",
+      "Hash": "hMlT6Ik0jQ8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_All_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9M+eS+lOU0A=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_All_04.mp4",
+    "Size": 1604522,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_All_04.mp4",
+      "Hash": "9M+eS+lOU0A=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_All_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+D4lLoPvFOY=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_Individual_01.mp4",
+    "Size": 794399,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_01.mp4",
+      "Hash": "+D4lLoPvFOY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "m1Q08T8Q+Q8=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_Individual_02.mp4",
+    "Size": 1770137,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_02.mp4",
+      "Hash": "m1Q08T8Q+Q8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jhTHaNisHj4=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_Individual_03.mp4",
+    "Size": 2921322,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_03.mp4",
+      "Hash": "jhTHaNisHj4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "avgt/x7uIdw=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_Individual_04.mp4",
+    "Size": 1877339,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_04.mp4",
+      "Hash": "avgt/x7uIdw=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_04.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mDrnNKRP1ug=",
+    "Meta": null,
+    "Name": "Codex_Repair_Repair_Individual_05.mp4",
+    "Size": 4995552,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_05.mp4",
+      "Hash": "mDrnNKRP1ug=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Repair_Individual_05.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SNelu50EizM=",
+    "Meta": null,
+    "Name": "Codex_Repair_Work_Orders_01.mp4",
+    "Size": 386143,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Work_Orders_01.mp4",
+      "Hash": "SNelu50EizM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Work_Orders_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "l1bgnguV95I=",
+    "Meta": null,
+    "Name": "Codex_Repair_Work_Orders_03.mp4",
+    "Size": 2949420,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Repair_Work_Orders_03.mp4",
+      "Hash": "l1bgnguV95I=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Repair_Work_Orders_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GiBUuvHc6jg=",
+    "Meta": null,
+    "Name": "Codex_Revert_01.mp4",
+    "Size": 6162335,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Revert_01.mp4",
+      "Hash": "GiBUuvHc6jg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Revert_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "x0SWcL8zeBo=",
+    "Meta": null,
+    "Name": "Codex_Skills_Overview_01.mp4",
+    "Size": 440477,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Skills_Overview_01.mp4",
+      "Hash": "x0SWcL8zeBo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Skills_Overview_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uP1htP/ARb4=",
+    "Meta": null,
+    "Name": "Codex_Skills_Overview_03.mp4",
+    "Size": 190710,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Skills_Overview_03.mp4",
+      "Hash": "uP1htP/ARb4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Skills_Overview_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3kNlKu2XAuM=",
+    "Meta": null,
+    "Name": "Codex_StandardContracts_01.mp4",
+    "Size": 2315001,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_StandardContracts_01.mp4",
+      "Hash": "3kNlKu2XAuM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_StandardContracts_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HnZQK3Ho0g8=",
+    "Meta": null,
+    "Name": "Codex_StandardContracts_02.mp4",
+    "Size": 7774271,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_StandardContracts_02.mp4",
+      "Hash": "HnZQK3Ho0g8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_StandardContracts_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tm2IFjWeeFQ=",
+    "Meta": null,
+    "Name": "Codex_StandardContracts_03.mp4",
+    "Size": 1917676,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_StandardContracts_03.mp4",
+      "Hash": "tm2IFjWeeFQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_StandardContracts_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3EMIAtsRUnk=",
+    "Meta": null,
+    "Name": "Codex_Strip_Armor_01.mp4",
+    "Size": 1303420,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Strip_Armor_01.mp4",
+      "Hash": "3EMIAtsRUnk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Strip_Armor_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vEOH3Kp84bU=",
+    "Meta": null,
+    "Name": "Codex_Strip_Mech_01.mp4",
+    "Size": 1330084,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Strip_Mech_01.mp4",
+      "Hash": "vEOH3Kp84bU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Strip_Mech_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ChdW12L0ub4=",
+    "Meta": null,
+    "Name": "Codex_Structure_01.mp4",
+    "Size": 246913,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Structure_01.mp4",
+      "Hash": "ChdW12L0ub4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Structure_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JjTE+ZX9czQ=",
+    "Meta": null,
+    "Name": "Codex_Travel_01.mp4",
+    "Size": 5597565,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Travel_01.mp4",
+      "Hash": "JjTE+ZX9czQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Travel_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "97aCokQBq1Y=",
+    "Meta": null,
+    "Name": "Codex_Travel_02.mp4",
+    "Size": 11195271,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Travel_02.mp4",
+      "Hash": "97aCokQBq1Y=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Travel_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NdCh0p32J/M=",
+    "Meta": null,
+    "Name": "Codex_Travel_03.mp4",
+    "Size": 4771935,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Travel_03.mp4",
+      "Hash": "NdCh0p32J/M=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Travel_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ebberyjqSIA=",
+    "Meta": null,
+    "Name": "Codex_UsingNegPoints_01.mp4",
+    "Size": 1895597,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_UsingNegPoints_01.mp4",
+      "Hash": "ebberyjqSIA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_UsingNegPoints_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Xh0a04+gwRY=",
+    "Meta": null,
+    "Name": "Codex_UsingNegPoints_02.mp4",
+    "Size": 2898005,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_UsingNegPoints_02.mp4",
+      "Hash": "Xh0a04+gwRY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_UsingNegPoints_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3AD6HX4eYC4=",
+    "Meta": null,
+    "Name": "Codex_UsingRep_01.mp4",
+    "Size": 3263911,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_UsingRep_01.mp4",
+      "Hash": "3AD6HX4eYC4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_UsingRep_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HOQ19429Nss=",
+    "Meta": null,
+    "Name": "Codex_UsingRep_02.mp4",
+    "Size": 2451475,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_UsingRep_02.mp4",
+      "Hash": "HOQ19429Nss=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_UsingRep_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "k5l1+jrpBlU=",
+    "Meta": null,
+    "Name": "Codex_View_Modes_01.mp4",
+    "Size": 4800170,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_View_Modes_01.mp4",
+      "Hash": "k5l1+jrpBlU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_View_Modes_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "excUuA3yyUM=",
+    "Meta": null,
+    "Name": "Codex_View_Modes_02.mp4",
+    "Size": 2015263,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_View_Modes_02.mp4",
+      "Hash": "excUuA3yyUM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_View_Modes_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "X5JhI5I33s0=",
+    "Meta": null,
+    "Name": "Codex_WeapGroupOverview_01.mp4",
+    "Size": 2084450,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_WeapGroupOverview_01.mp4",
+      "Hash": "X5JhI5I33s0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_WeapGroupOverview_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "k6JB4SJPPss=",
+    "Meta": null,
+    "Name": "Codex_WeapGroupOverview_02.mp4",
+    "Size": 2743763,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_WeapGroupOverview_02.mp4",
+      "Hash": "k6JB4SJPPss=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_WeapGroupOverview_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1Lm0qYtOOgM=",
+    "Meta": null,
+    "Name": "Codex_WeapGroupOverview_03.mp4",
+    "Size": 5941282,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_WeapGroupOverview_03.mp4",
+      "Hash": "1Lm0qYtOOgM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_WeapGroupOverview_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "RzOzPe2ue+s=",
+    "Meta": null,
+    "Name": "Codex_WeapGroupSetting_01.mp4",
+    "Size": 4161284,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_WeapGroupSetting_01.mp4",
+      "Hash": "RzOzPe2ue+s=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_WeapGroupSetting_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "63/NLfnIbz0=",
+    "Meta": null,
+    "Name": "Codex_WeapGroupSetting_02.mp4",
+    "Size": 5297812,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_WeapGroupSetting_02.mp4",
+      "Hash": "63/NLfnIbz0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_WeapGroupSetting_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1vCITchK/R8=",
+    "Meta": null,
+    "Name": "Codex_WeapGroupSetting_03.mp4",
+    "Size": 4894370,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_WeapGroupSetting_03.mp4",
+      "Hash": "1vCITchK/R8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_WeapGroupSetting_03.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GmFWp6BhA+o=",
+    "Meta": null,
+    "Name": "Codex_Weapon_Skills_01.mp4",
+    "Size": 192967,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Weapon_Skills_01.mp4",
+      "Hash": "GmFWp6BhA+o=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Weapon_Skills_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QqNOFNKLI5c=",
+    "Meta": null,
+    "Name": "Codex_Weapon_Tiers_01.mp4",
+    "Size": 4371147,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\Codex_Weapon_Tiers_01.mp4",
+      "Hash": "QqNOFNKLI5c=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\Codex_Weapon_Tiers_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mXw45B/6yRk=",
+    "Meta": null,
+    "Name": "credits.mp4",
+    "Size": 306676202,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\credits.mp4",
+      "Hash": "mXw45B/6yRk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\credits.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "daXgBZEToJI=",
+    "Meta": null,
+    "Name": "intro_video.mp4",
+    "Size": 380785010,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\intro_video.mp4",
+      "Hash": "daXgBZEToJI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\intro_video.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "o+i2ujxT9l0=",
+    "Meta": null,
+    "Name": "intro_video_de.mp4",
+    "Size": 123597054,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\intro_video_de.mp4",
+      "Hash": "o+i2ujxT9l0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\intro_video_de.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7E+yCwScytY=",
+    "Meta": null,
+    "Name": "intro_video_fr.mp4",
+    "Size": 123566642,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\intro_video_fr.mp4",
+      "Hash": "7E+yCwScytY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\intro_video_fr.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ng/2u+OREXo=",
+    "Meta": null,
+    "Name": "intro_video_rus.mp4",
+    "Size": 123606663,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\intro_video_rus.mp4",
+      "Hash": "ng/2u+OREXo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\intro_video_rus.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NVt69TGfDtE=",
+    "Meta": null,
+    "Name": "legal-screen.mp4",
+    "Size": 2613011,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\legal-screen.mp4",
+      "Hash": "NVt69TGfDtE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\legal-screen.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gaFNIRO7fDY=",
+    "Meta": null,
+    "Name": "loading-icon-1920x1080-bg.mp4",
+    "Size": 4888548,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\loading-icon-1920x1080-bg.mp4",
+      "Hash": "gaFNIRO7fDY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\loading-icon-1920x1080-bg.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1wmwJafz5so=",
+    "Meta": null,
+    "Name": "loading-icon-64x64-no-bg.avi",
+    "Size": 2470800,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\loading-icon-64x64-no-bg.avi",
+      "Hash": "1wmwJafz5so=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\loading-icon-64x64-no-bg.avi"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9S7sOFD4e3w=",
+    "Meta": null,
+    "Name": "loaiding-icon-64x64-no-bg.avi",
+    "Size": 2470800,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\loaiding-icon-64x64-no-bg.avi",
+      "Hash": "9S7sOFD4e3w=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\loaiding-icon-64x64-no-bg.avi"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "afXYc9V10PU=",
+    "Meta": null,
+    "Name": "MechLab_Management_01.mp4",
+    "Size": 3889081,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\MechLab_Management_01.mp4",
+      "Hash": "afXYc9V10PU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\MechLab_Management_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zhl7JYEV1to=",
+    "Meta": null,
+    "Name": "MechLab_Management_02.mp4",
+    "Size": 1241383,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\MechLab_Management_02.mp4",
+      "Hash": "zhl7JYEV1to=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\MechLab_Management_02.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JBsxIVbnUwg=",
+    "Meta": null,
+    "Name": "MechLab_Paint_01.mp4",
+    "Size": 1347236,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\MechLab_Paint_01.mp4",
+      "Hash": "JBsxIVbnUwg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\MechLab_Paint_01.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cnE/hDfi7nk=",
+    "Meta": null,
+    "Name": "piranha-logo-sound.mp4",
+    "Size": 4030959,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Movies\\piranha-logo-sound.mp4",
+      "Hash": "cnE/hDfi7nk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Movies\\piranha-logo-sound.mp4"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "I4Gko4qzOVY=",
+    "Meta": null,
+    "Name": "MW5Mercs-WindowsNoEditor.pak",
+    "Size": 44023755058,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "MW5Mercs\\Content\\Paks\\MW5Mercs-WindowsNoEditor.pak",
+      "Hash": "I4Gko4qzOVY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|MW5Mercs\\Content\\Paks\\MW5Mercs-WindowsNoEditor.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Gnq5xSPl91E=",
+    "Meta": null,
+    "Name": "dbghelp.dll",
+    "Size": 1369936,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll",
+      "Hash": "Gnq5xSPl91E=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iB6Lpdv1EiM=",
+    "Meta": null,
+    "Name": "LastResort.tps",
+    "Size": 930,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Content\\SlateDebug\\Fonts\\LastResort.tps",
+      "Hash": "iB6Lpdv1EiM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Content\\SlateDebug\\Fonts\\LastResort.tps"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "R6xkyZK1K/0=",
+    "Meta": null,
+    "Name": "LastResort.ttf",
+    "Size": 5395052,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Content\\SlateDebug\\Fonts\\LastResort.ttf",
+      "Hash": "R6xkyZK1K/0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Content\\SlateDebug\\Fonts\\LastResort.ttf"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EG2lRCBWMDg=",
+    "Meta": null,
+    "Name": "chrome_elf.dll",
+    "Size": 547840,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\chrome_elf.dll",
+      "Hash": "EG2lRCBWMDg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\chrome_elf.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sKiQM+i7fiA=",
+    "Meta": null,
+    "Name": "d3dcompiler_43.dll",
+    "Size": 2106216,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_43.dll",
+      "Hash": "sKiQM+i7fiA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_43.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "h6ojj6Hd1+A=",
+    "Meta": null,
+    "Name": "d3dcompiler_47.dll",
+    "Size": 4488904,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_47.dll",
+      "Hash": "h6ojj6Hd1+A=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_47.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rlkc/4xX5sI=",
+    "Meta": null,
+    "Name": "icudtl.dat",
+    "Size": 10130560,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\icudtl.dat",
+      "Hash": "rlkc/4xX5sI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\icudtl.dat"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uBuxloXRycI=",
+    "Meta": null,
+    "Name": "libcef.dll",
+    "Size": 98275328,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libcef.dll",
+      "Hash": "uBuxloXRycI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libcef.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HGuMxn3suhk=",
+    "Meta": null,
+    "Name": "libEGL.dll",
+    "Size": 92672,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libEGL.dll",
+      "Hash": "HGuMxn3suhk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libEGL.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CkAexj4KbDY=",
+    "Meta": null,
+    "Name": "libGLESv2.dll",
+    "Size": 3922432,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libGLESv2.dll",
+      "Hash": "CkAexj4KbDY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libGLESv2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "J5BVIJS47OU=",
+    "Meta": null,
+    "Name": "natives_blob.bin",
+    "Size": 246209,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\natives_blob.bin",
+      "Hash": "J5BVIJS47OU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\natives_blob.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0jE1qLRJIKk=",
+    "Meta": null,
+    "Name": "snapshot_blob.bin",
+    "Size": 1562112,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\snapshot_blob.bin",
+      "Hash": "0jE1qLRJIKk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\snapshot_blob.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GtJWab+cSN8=",
+    "Meta": null,
+    "Name": "libsndfile-1.dll",
+    "Size": 1810944,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\libsndfile\\Win64\\libsndfile-1.dll",
+      "Hash": "GtJWab+cSN8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\libsndfile\\Win64\\libsndfile-1.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "C49FyJ8+ftU=",
+    "Meta": null,
+    "Name": "cef.pak",
+    "Size": 6003861,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef.pak",
+      "Hash": "C49FyJ8+ftU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vOqSPEcaCYo=",
+    "Meta": null,
+    "Name": "cef_100_percent.pak",
+    "Size": 279905,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_100_percent.pak",
+      "Hash": "vOqSPEcaCYo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_100_percent.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lzAEHj2gpks=",
+    "Meta": null,
+    "Name": "cef_200_percent.pak",
+    "Size": 386884,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_200_percent.pak",
+      "Hash": "lzAEHj2gpks=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_200_percent.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "h440QKHNkuI=",
+    "Meta": null,
+    "Name": "cef_extensions.pak",
+    "Size": 3565138,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_extensions.pak",
+      "Hash": "h440QKHNkuI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_extensions.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DtS4egS1oMY=",
+    "Meta": null,
+    "Name": "devtools_resources.pak",
+    "Size": 5183550,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\devtools_resources.pak",
+      "Hash": "DtS4egS1oMY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\devtools_resources.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CIi+awGsuts=",
+    "Meta": null,
+    "Name": "nvngx_dlss.dll",
+    "Size": 9720632,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\NVIDIA\\NGX\\Win64\\nvngx_dlss.dll",
+      "Hash": "CIi+awGsuts=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\NVIDIA\\NGX\\Win64\\nvngx_dlss.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PhzeYY9V4qs=",
+    "Meta": null,
+    "Name": "GFSDK_Aftermath_Lib.x64.dll",
+    "Size": 117760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
+      "Hash": "PhzeYY9V4qs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "txZV+ddrA30=",
+    "Meta": null,
+    "Name": "libogg_64.dll",
+    "Size": 49152,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
+      "Hash": "txZV+ddrA30=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nLNwFOBKPp4=",
+    "Meta": null,
+    "Name": "ApexFramework_x64.dll",
+    "Size": 1043968,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll",
+      "Hash": "nLNwFOBKPp4=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7oK3zwDFyik=",
+    "Meta": null,
+    "Name": "APEX_Clothing_x64.dll",
+    "Size": 1219072,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll",
+      "Hash": "7oK3zwDFyik=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tPVGTt17WmI=",
+    "Meta": null,
+    "Name": "APEX_Destructible_x64.dll",
+    "Size": 2009600,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Destructible_x64.dll",
+      "Hash": "tPVGTt17WmI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Destructible_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cPKslBjxT8U=",
+    "Meta": null,
+    "Name": "APEX_Legacy_x64.dll",
+    "Size": 3329536,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll",
+      "Hash": "cPKslBjxT8U=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HlepMWpIDVo=",
+    "Meta": null,
+    "Name": "NvCloth_x64.dll",
+    "Size": 265728,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll",
+      "Hash": "HlepMWpIDVo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qo2pancHvVo=",
+    "Meta": null,
+    "Name": "PhysX3Common_x64.dll",
+    "Size": 1598976,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll",
+      "Hash": "qo2pancHvVo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Uvn8cyfNPvc=",
+    "Meta": null,
+    "Name": "PhysX3Cooking_x64.dll",
+    "Size": 244736,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll",
+      "Hash": "Uvn8cyfNPvc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6KcdfqvwzQ0=",
+    "Meta": null,
+    "Name": "PhysX3_x64.dll",
+    "Size": 2106368,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll",
+      "Hash": "6KcdfqvwzQ0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ndieCOUK8JE=",
+    "Meta": null,
+    "Name": "PxFoundation_x64.dll",
+    "Size": 54784,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll",
+      "Hash": "ndieCOUK8JE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+Wt8ZPa4Q0Y=",
+    "Meta": null,
+    "Name": "PxPvdSDK_x64.dll",
+    "Size": 188928,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll",
+      "Hash": "+Wt8ZPa4Q0Y=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qCYdCLhM1Oo=",
+    "Meta": null,
+    "Name": "steam_api64.dll",
+    "Size": 250656,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv142\\Win64\\steam_api64.dll",
+      "Hash": "qCYdCLhM1Oo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv142\\Win64\\steam_api64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6i3ihYyzyeo=",
+    "Meta": null,
+    "Name": "libvorbisfile_64.dll",
+    "Size": 37888,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
+      "Hash": "6i3ihYyzyeo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Lxwzc4wj4Vc=",
+    "Meta": null,
+    "Name": "libvorbis_64.dll",
+    "Size": 1714176,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
+      "Hash": "Lxwzc4wj4Vc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FXVOqfppxWw=",
+    "Meta": null,
+    "Name": "WinPixEventRuntime.dll",
+    "Size": 44752,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\Windows\\DirectX\\x64\\WinPixEventRuntime.dll",
+      "Hash": "FXVOqfppxWw=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\Windows\\DirectX\\x64\\WinPixEventRuntime.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bc4fXC2jA9g=",
+    "Meta": null,
+    "Name": "am.pak",
+    "Size": 317735,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\am.pak",
+      "Hash": "bc4fXC2jA9g=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\am.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "z83Km6vLa0U=",
+    "Meta": null,
+    "Name": "ar.pak",
+    "Size": 314031,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ar.pak",
+      "Hash": "z83Km6vLa0U=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ar.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ns3It6WOKUE=",
+    "Meta": null,
+    "Name": "bg.pak",
+    "Size": 366595,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bg.pak",
+      "Hash": "ns3It6WOKUE=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bg.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TKtoPMKFVZU=",
+    "Meta": null,
+    "Name": "bn.pak",
+    "Size": 478939,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bn.pak",
+      "Hash": "TKtoPMKFVZU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bn.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eTMe2oNtZmQ=",
+    "Meta": null,
+    "Name": "ca.pak",
+    "Size": 228122,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ca.pak",
+      "Hash": "eTMe2oNtZmQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ca.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bgncaXfKSa0=",
+    "Meta": null,
+    "Name": "cs.pak",
+    "Size": 231572,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\cs.pak",
+      "Hash": "bgncaXfKSa0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\cs.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/QJxDGu+eDU=",
+    "Meta": null,
+    "Name": "da.pak",
+    "Size": 207739,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\da.pak",
+      "Hash": "/QJxDGu+eDU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\da.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TOdn5PIPrzA=",
+    "Meta": null,
+    "Name": "de.pak",
+    "Size": 226211,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\de.pak",
+      "Hash": "TOdn5PIPrzA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\de.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cdbyGPRc8xg=",
+    "Meta": null,
+    "Name": "el.pak",
+    "Size": 402687,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\el.pak",
+      "Hash": "cdbyGPRc8xg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\el.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bDLIAJnwa74=",
+    "Meta": null,
+    "Name": "en-GB.pak",
+    "Size": 186958,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-GB.pak",
+      "Hash": "bDLIAJnwa74=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-GB.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "03t1I/J2lOk=",
+    "Meta": null,
+    "Name": "en-US.pak",
+    "Size": 186991,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-US.pak",
+      "Hash": "03t1I/J2lOk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-US.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JJubRdguzSQ=",
+    "Meta": null,
+    "Name": "es-419.pak",
+    "Size": 224532,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es-419.pak",
+      "Hash": "JJubRdguzSQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es-419.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ug8GbLhZuQA=",
+    "Meta": null,
+    "Name": "es.pak",
+    "Size": 228808,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es.pak",
+      "Hash": "Ug8GbLhZuQA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vHKcYQqmnzM=",
+    "Meta": null,
+    "Name": "et.pak",
+    "Size": 202214,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\et.pak",
+      "Hash": "vHKcYQqmnzM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\et.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0JMOsK1w3nk=",
+    "Meta": null,
+    "Name": "fa.pak",
+    "Size": 321134,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fa.pak",
+      "Hash": "0JMOsK1w3nk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fa.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dqHve3fQ+wQ=",
+    "Meta": null,
+    "Name": "fi.pak",
+    "Size": 211980,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fi.pak",
+      "Hash": "dqHve3fQ+wQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fi.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fy+6BDj6Rv8=",
+    "Meta": null,
+    "Name": "fil.pak",
+    "Size": 232070,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fil.pak",
+      "Hash": "fy+6BDj6Rv8=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fil.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ICE1z/ivwss=",
+    "Meta": null,
+    "Name": "fr.pak",
+    "Size": 243625,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fr.pak",
+      "Hash": "ICE1z/ivwss=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Bb+JVSCl3AM=",
+    "Meta": null,
+    "Name": "gu.pak",
+    "Size": 451818,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\gu.pak",
+      "Hash": "Bb+JVSCl3AM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\gu.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "49vf9rRYqcw=",
+    "Meta": null,
+    "Name": "he.pak",
+    "Size": 265463,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\he.pak",
+      "Hash": "49vf9rRYqcw=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\he.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kVA+obuFpUc=",
+    "Meta": null,
+    "Name": "hi.pak",
+    "Size": 460810,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hi.pak",
+      "Hash": "kVA+obuFpUc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hi.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NqJelwN3XPo=",
+    "Meta": null,
+    "Name": "hr.pak",
+    "Size": 217428,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hr.pak",
+      "Hash": "NqJelwN3XPo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sx57elGKMVc=",
+    "Meta": null,
+    "Name": "hu.pak",
+    "Size": 239083,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hu.pak",
+      "Hash": "sx57elGKMVc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hu.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ec87PMSxIoM=",
+    "Meta": null,
+    "Name": "id.pak",
+    "Size": 201977,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\id.pak",
+      "Hash": "Ec87PMSxIoM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\id.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gwtTx08WwCg=",
+    "Meta": null,
+    "Name": "it.pak",
+    "Size": 220397,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\it.pak",
+      "Hash": "gwtTx08WwCg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\it.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ptEBXvp2u/g=",
+    "Meta": null,
+    "Name": "ja.pak",
+    "Size": 270807,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ja.pak",
+      "Hash": "ptEBXvp2u/g=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ja.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Lo5E9hYrDsw=",
+    "Meta": null,
+    "Name": "kn.pak",
+    "Size": 519415,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\kn.pak",
+      "Hash": "Lo5E9hYrDsw=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\kn.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QDIVS+87ktw=",
+    "Meta": null,
+    "Name": "ko.pak",
+    "Size": 230850,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ko.pak",
+      "Hash": "QDIVS+87ktw=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ko.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IyUvIXYpmSI=",
+    "Meta": null,
+    "Name": "lt.pak",
+    "Size": 234416,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lt.pak",
+      "Hash": "IyUvIXYpmSI=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lt.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QaVwt1/iEwY=",
+    "Meta": null,
+    "Name": "lv.pak",
+    "Size": 234204,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lv.pak",
+      "Hash": "QaVwt1/iEwY=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lv.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Z6kABfUyEek=",
+    "Meta": null,
+    "Name": "ml.pak",
+    "Size": 567612,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ml.pak",
+      "Hash": "Z6kABfUyEek=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Bsx6mnqdlcg=",
+    "Meta": null,
+    "Name": "mr.pak",
+    "Size": 456368,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\mr.pak",
+      "Hash": "Bsx6mnqdlcg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\mr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "btVC1o68/AQ=",
+    "Meta": null,
+    "Name": "ms.pak",
+    "Size": 208619,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ms.pak",
+      "Hash": "btVC1o68/AQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ms.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DYajpOJeaP0=",
+    "Meta": null,
+    "Name": "nb.pak",
+    "Size": 205047,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nb.pak",
+      "Hash": "DYajpOJeaP0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nb.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+gHmky4lRag=",
+    "Meta": null,
+    "Name": "nl.pak",
+    "Size": 215699,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nl.pak",
+      "Hash": "+gHmky4lRag=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nl.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dgGAKdwnAKo=",
+    "Meta": null,
+    "Name": "pl.pak",
+    "Size": 225555,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pl.pak",
+      "Hash": "dgGAKdwnAKo=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pl.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Mb9sXi1trcc=",
+    "Meta": null,
+    "Name": "pt-BR.pak",
+    "Size": 221133,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-BR.pak",
+      "Hash": "Mb9sXi1trcc=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-BR.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SmQvSvnbdr0=",
+    "Meta": null,
+    "Name": "pt-PT.pak",
+    "Size": 223472,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-PT.pak",
+      "Hash": "SmQvSvnbdr0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-PT.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ssDlPIs/RRA=",
+    "Meta": null,
+    "Name": "ro.pak",
+    "Size": 229091,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ro.pak",
+      "Hash": "ssDlPIs/RRA=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ro.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4HlbKhDhHt0=",
+    "Meta": null,
+    "Name": "ru.pak",
+    "Size": 351003,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ru.pak",
+      "Hash": "4HlbKhDhHt0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ru.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gvJdE3sxA38=",
+    "Meta": null,
+    "Name": "sk.pak",
+    "Size": 237218,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sk.pak",
+      "Hash": "gvJdE3sxA38=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sk.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SjrHtnTaHDM=",
+    "Meta": null,
+    "Name": "sl.pak",
+    "Size": 217919,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sl.pak",
+      "Hash": "SjrHtnTaHDM=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sl.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sgmJMB/Rvx0=",
+    "Meta": null,
+    "Name": "sr.pak",
+    "Size": 341731,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sr.pak",
+      "Hash": "sgmJMB/Rvx0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "um191OPZaBQ=",
+    "Meta": null,
+    "Name": "sv.pak",
+    "Size": 206145,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sv.pak",
+      "Hash": "um191OPZaBQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sv.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/cfy1tkFKkU=",
+    "Meta": null,
+    "Name": "sw.pak",
+    "Size": 209319,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sw.pak",
+      "Hash": "/cfy1tkFKkU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sw.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7zx3ClXWO/w=",
+    "Meta": null,
+    "Name": "ta.pak",
+    "Size": 527387,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ta.pak",
+      "Hash": "7zx3ClXWO/w=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ta.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "r6oh1Dt7IRU=",
+    "Meta": null,
+    "Name": "te.pak",
+    "Size": 503299,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\te.pak",
+      "Hash": "r6oh1Dt7IRU=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\te.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BKC2BA6uVr0=",
+    "Meta": null,
+    "Name": "th.pak",
+    "Size": 438108,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\th.pak",
+      "Hash": "BKC2BA6uVr0=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\th.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Jwm5JtGmSWk=",
+    "Meta": null,
+    "Name": "tr.pak",
+    "Size": 221774,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\tr.pak",
+      "Hash": "Jwm5JtGmSWk=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\tr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yQwPUZ1Mr8E=",
+    "Meta": null,
+    "Name": "uk.pak",
+    "Size": 358245,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\uk.pak",
+      "Hash": "yQwPUZ1Mr8E=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\uk.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GinRa1y0uRg=",
+    "Meta": null,
+    "Name": "vi.pak",
+    "Size": 254300,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\vi.pak",
+      "Hash": "GinRa1y0uRg=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\vi.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "01m6uCdeEUs=",
+    "Meta": null,
+    "Name": "zh-CN.pak",
+    "Size": 190714,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-CN.pak",
+      "Hash": "01m6uCdeEUs=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-CN.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tcn+Y/6TZlQ=",
+    "Meta": null,
+    "Name": "zh-TW.pak",
+    "Size": 192079,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-TW.pak",
+      "Hash": "tcn+Y/6TZlQ=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-TW.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HAvZpJFoc+g=",
+    "Meta": null,
+    "Name": "AnselSDK64.dll",
+    "Size": 662368,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "MechWarrior5Mercenaries",
+      "GameFile": "Engine\\Plugins\\Runtime\\Nvidia\\Ansel\\Binaries\\ThirdParty\\AnselSDK64.dll",
+      "Hash": "HAvZpJFoc+g=",
+      "GameVersion": "4.23.1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|MechWarrior5Mercenaries|4.23.1.0|Engine\\Plugins\\Runtime\\Nvidia\\Ansel\\Binaries\\ThirdParty\\AnselSDK64.dll"
+    }
+  }
+]
