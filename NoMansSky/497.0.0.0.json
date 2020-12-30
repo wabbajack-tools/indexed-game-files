@@ -1,0 +1,1502 @@
+[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9PShP9JVPp4=",
+    "Meta": null,
+    "Name": "amd_ags_x64.dll",
+    "Size": 164864,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\amd_ags_x64.dll",
+      "Hash": "9PShP9JVPp4=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\amd_ags_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ArUevHKy9yU=",
+    "Meta": null,
+    "Name": "libSceFios2.dll",
+    "Size": 346112,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\libSceFios2.dll",
+      "Hash": "ArUevHKy9yU=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\libSceFios2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bBS4gdxCVBI=",
+    "Meta": null,
+    "Name": "Ninja_x64_Release.dll",
+    "Size": 118272,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\Ninja_x64_Release.dll",
+      "Hash": "bBS4gdxCVBI=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\Ninja_x64_Release.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HWI5jNbHCfA=",
+    "Meta": null,
+    "Name": "NMS.exe",
+    "Size": 48457424,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\NMS.exe",
+      "Hash": "HWI5jNbHCfA=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\NMS.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "h32XTuWuaZI=",
+    "Meta": null,
+    "Name": "openvr_api.dll",
+    "Size": 819664,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\openvr_api.dll",
+      "Hash": "h32XTuWuaZI=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\openvr_api.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VSJ1ox6naks=",
+    "Meta": null,
+    "Name": "PartyWin.dll",
+    "Size": 2604920,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\PartyWin.dll",
+      "Hash": "VSJ1ox6naks=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\PartyWin.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1mF2SFS7tlM=",
+    "Meta": null,
+    "Name": "PartyWin7.dll",
+    "Size": 5023096,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\PartyWin7.dll",
+      "Hash": "1mF2SFS7tlM=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\PartyWin7.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qK60Ehr0rAM=",
+    "Meta": null,
+    "Name": "ProfanityFilter_x64_v120.dll",
+    "Size": 20992,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\ProfanityFilter_x64_v120.dll",
+      "Hash": "qK60Ehr0rAM=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\ProfanityFilter_x64_v120.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vACVb8ZRrVA=",
+    "Meta": null,
+    "Name": "steam_api64.dll",
+    "Size": 289568,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\steam_api64.dll",
+      "Hash": "vACVb8ZRrVA=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\steam_api64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "a3qaDQmc+eE=",
+    "Meta": null,
+    "Name": "vulkan-1.dll",
+    "Size": 425984,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\vulkan-1.dll",
+      "Hash": "a3qaDQmc+eE=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\vulkan-1.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2rVoNtry+x8=",
+    "Meta": null,
+    "Name": "vulkan-1.LICENSE.txt",
+    "Size": 10495,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\vulkan-1.LICENSE.txt",
+      "Hash": "2rVoNtry+x8=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\vulkan-1.LICENSE.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QslpKrwhwA8=",
+    "Meta": null,
+    "Name": "FullLog.txt",
+    "Size": 226,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\FullLog.txt",
+      "Hash": "QslpKrwhwA8=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\FullLog.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9K+sWODL77E=",
+    "Meta": null,
+    "Name": "GCUSERSETTINGSDATA.MXML",
+    "Size": 9702,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\SETTINGS\\GCUSERSETTINGSDATA.MXML",
+      "Hash": "9K+sWODL77E=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\SETTINGS\\GCUSERSETTINGSDATA.MXML"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VFGv06/cH+o=",
+    "Meta": null,
+    "Name": "TKGAMESETTINGS.MXML",
+    "Size": 201,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\SETTINGS\\TKGAMESETTINGS.MXML",
+      "Hash": "VFGv06/cH+o=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\SETTINGS\\TKGAMESETTINGS.MXML"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OPx9slwRabU=",
+    "Meta": null,
+    "Name": "TKGRAPHICSSETTINGS.MXML",
+    "Size": 2754,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\SETTINGS\\TKGRAPHICSSETTINGS.MXML",
+      "Hash": "OPx9slwRabU=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\SETTINGS\\TKGRAPHICSSETTINGS.MXML"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QyBao7TzsUg=",
+    "Meta": null,
+    "Name": "ACTIONS.JSON",
+    "Size": 352133,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\INPUT\\ACTIONS.JSON",
+      "Hash": "QyBao7TzsUg=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\INPUT\\ACTIONS.JSON"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Rq8gUTDQABg=",
+    "Meta": null,
+    "Name": "COSMOS.JSON",
+    "Size": 55415,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\INPUT\\COSMOS.JSON",
+      "Hash": "Rq8gUTDQABg=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\INPUT\\COSMOS.JSON"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fMa2mwkXNoE=",
+    "Meta": null,
+    "Name": "GAMEPAD.JSON",
+    "Size": 326,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\INPUT\\GAMEPAD.JSON",
+      "Hash": "fMa2mwkXNoE=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\INPUT\\GAMEPAD.JSON"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mN2F0sOncIw=",
+    "Meta": null,
+    "Name": "KNUCKLES.JSON",
+    "Size": 69677,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\INPUT\\KNUCKLES.JSON",
+      "Hash": "mN2F0sOncIw=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\INPUT\\KNUCKLES.JSON"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ovUbznr9Oz4=",
+    "Meta": null,
+    "Name": "TOUCH.JSON",
+    "Size": 55007,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\INPUT\\TOUCH.JSON",
+      "Hash": "ovUbznr9Oz4=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\INPUT\\TOUCH.JSON"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+O4Zx2vMLJc=",
+    "Meta": null,
+    "Name": "VIVE.JSON",
+    "Size": 61912,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\INPUT\\VIVE.JSON",
+      "Hash": "+O4Zx2vMLJc=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\INPUT\\VIVE.JSON"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cRdKf0TuWoU=",
+    "Meta": null,
+    "Name": "WINDOWSMR.JSON",
+    "Size": 73053,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\INPUT\\WINDOWSMR.JSON",
+      "Hash": "cRdKf0TuWoU=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\INPUT\\WINDOWSMR.JSON"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QqlS2OqEtUw=",
+    "Meta": null,
+    "Name": "BankSignatures.bin",
+    "Size": 2188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\BankSignatures.bin",
+      "Hash": "QqlS2OqEtUw=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\BankSignatures.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FI7fmPPotuk=",
+    "Meta": null,
+    "Name": "DISABLEMODS.TXT",
+    "Size": 699,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\DISABLEMODS.TXT",
+      "Hash": "FI7fmPPotuk=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\DISABLEMODS.TXT"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kkClp487Ce0=",
+    "Meta": null,
+    "Name": "NMSARC.12FE2434.pak",
+    "Size": 28974293,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.12FE2434.pak",
+      "Hash": "kkClp487Ce0=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.12FE2434.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "f6oZPO+8J1E=",
+    "Meta": null,
+    "Name": "NMSARC.155484D9.pak",
+    "Size": 21298737,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.155484D9.pak",
+      "Hash": "f6oZPO+8J1E=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.155484D9.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ee/rykZ35wQ=",
+    "Meta": null,
+    "Name": "NMSARC.174C5BAE.pak",
+    "Size": 316789567,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.174C5BAE.pak",
+      "Hash": "Ee/rykZ35wQ=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.174C5BAE.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4stGnpIk3dk=",
+    "Meta": null,
+    "Name": "NMSARC.179341B.pak",
+    "Size": 47873464,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.179341B.pak",
+      "Hash": "4stGnpIk3dk=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.179341B.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0oNzZGBngLE=",
+    "Meta": null,
+    "Name": "NMSARC.201A7355.pak",
+    "Size": 54757608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.201A7355.pak",
+      "Hash": "0oNzZGBngLE=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.201A7355.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "m/5FfolgDRg=",
+    "Meta": null,
+    "Name": "NMSARC.22651CE1.pak",
+    "Size": 35863452,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.22651CE1.pak",
+      "Hash": "m/5FfolgDRg=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.22651CE1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "j+BEsWN3ctc=",
+    "Meta": null,
+    "Name": "NMSARC.2344B3AB.pak",
+    "Size": 26152184,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.2344B3AB.pak",
+      "Hash": "j+BEsWN3ctc=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.2344B3AB.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fnnnaJ7xogc=",
+    "Meta": null,
+    "Name": "NMSARC.240355FF.pak",
+    "Size": 9494827,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.240355FF.pak",
+      "Hash": "fnnnaJ7xogc=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.240355FF.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ogA611agXjw=",
+    "Meta": null,
+    "Name": "NMSARC.282B741D.pak",
+    "Size": 223895288,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.282B741D.pak",
+      "Hash": "ogA611agXjw=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.282B741D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nt/agdX+V7M=",
+    "Meta": null,
+    "Name": "NMSARC.2E9559C7.pak",
+    "Size": 8792793,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.2E9559C7.pak",
+      "Hash": "nt/agdX+V7M=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.2E9559C7.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eWYiiJt7P6w=",
+    "Meta": null,
+    "Name": "NMSARC.2FD62748.pak",
+    "Size": 197233877,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.2FD62748.pak",
+      "Hash": "eWYiiJt7P6w=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.2FD62748.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ukScM3/zjeA=",
+    "Meta": null,
+    "Name": "NMSARC.34309CEB.pak",
+    "Size": 25377545,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.34309CEB.pak",
+      "Hash": "ukScM3/zjeA=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.34309CEB.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zA1HTcvEPLc=",
+    "Meta": null,
+    "Name": "NMSARC.3495D821.pak",
+    "Size": 290103997,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.3495D821.pak",
+      "Hash": "zA1HTcvEPLc=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.3495D821.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fenQkqil0to=",
+    "Meta": null,
+    "Name": "NMSARC.389B0AF7.pak",
+    "Size": 647177,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.389B0AF7.pak",
+      "Hash": "fenQkqil0to=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.389B0AF7.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OfwwgxNIfQc=",
+    "Meta": null,
+    "Name": "NMSARC.416D68DD.pak",
+    "Size": 24406488,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.416D68DD.pak",
+      "Hash": "OfwwgxNIfQc=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.416D68DD.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TeQMlIvjLc8=",
+    "Meta": null,
+    "Name": "NMSARC.41FC2319.pak",
+    "Size": 20038417,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.41FC2319.pak",
+      "Hash": "TeQMlIvjLc8=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.41FC2319.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fgeCYesUU9w=",
+    "Meta": null,
+    "Name": "NMSARC.424563FF.pak",
+    "Size": 122352864,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.424563FF.pak",
+      "Hash": "fgeCYesUU9w=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.424563FF.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HPp8Z6PSmgs=",
+    "Meta": null,
+    "Name": "NMSARC.451C674F.pak",
+    "Size": 238799134,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.451C674F.pak",
+      "Hash": "HPp8Z6PSmgs=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.451C674F.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "O7HuKgpTfJQ=",
+    "Meta": null,
+    "Name": "NMSARC.4C482859.pak",
+    "Size": 19183342,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.4C482859.pak",
+      "Hash": "O7HuKgpTfJQ=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.4C482859.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eYrHFm+3lTM=",
+    "Meta": null,
+    "Name": "NMSARC.515F1D3.pak",
+    "Size": 4191094,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.515F1D3.pak",
+      "Hash": "eYrHFm+3lTM=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.515F1D3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FnNsPXJ9bBM=",
+    "Meta": null,
+    "Name": "NMSARC.544EFA0E.pak",
+    "Size": 293066,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.544EFA0E.pak",
+      "Hash": "FnNsPXJ9bBM=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.544EFA0E.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iCg1+1mXYjs=",
+    "Meta": null,
+    "Name": "NMSARC.552FA799.pak",
+    "Size": 1025858724,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.552FA799.pak",
+      "Hash": "iCg1+1mXYjs=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.552FA799.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3eZUdeM2apA=",
+    "Meta": null,
+    "Name": "NMSARC.5833E58D.pak",
+    "Size": 24040560,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.5833E58D.pak",
+      "Hash": "3eZUdeM2apA=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.5833E58D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GI7P7pAtudg=",
+    "Meta": null,
+    "Name": "NMSARC.58BCF883.pak",
+    "Size": 130415199,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.58BCF883.pak",
+      "Hash": "GI7P7pAtudg=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.58BCF883.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+ALvFse9ZQI=",
+    "Meta": null,
+    "Name": "NMSARC.59B126E2.pak",
+    "Size": 124657,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.59B126E2.pak",
+      "Hash": "+ALvFse9ZQI=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.59B126E2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DFdMLXAlR2U=",
+    "Meta": null,
+    "Name": "NMSARC.5A3E0C7D.pak",
+    "Size": 402552,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.5A3E0C7D.pak",
+      "Hash": "DFdMLXAlR2U=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.5A3E0C7D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SYIeZbGuuhA=",
+    "Meta": null,
+    "Name": "NMSARC.5B11B94C.pak",
+    "Size": 2095163840,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.5B11B94C.pak",
+      "Hash": "SYIeZbGuuhA=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.5B11B94C.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jkQ5w57Pum4=",
+    "Meta": null,
+    "Name": "NMSARC.5CAC8E3A.pak",
+    "Size": 15173424,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.5CAC8E3A.pak",
+      "Hash": "jkQ5w57Pum4=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.5CAC8E3A.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "H+VUYpLN+JM=",
+    "Meta": null,
+    "Name": "NMSARC.5D36844D.pak",
+    "Size": 74014,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.5D36844D.pak",
+      "Hash": "H+VUYpLN+JM=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.5D36844D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oOoAJavlTq8=",
+    "Meta": null,
+    "Name": "NMSARC.5EB2AA6C.pak",
+    "Size": 95727931,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.5EB2AA6C.pak",
+      "Hash": "oOoAJavlTq8=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.5EB2AA6C.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UY8JE7n1DME=",
+    "Meta": null,
+    "Name": "NMSARC.60DAB551.pak",
+    "Size": 1259113,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.60DAB551.pak",
+      "Hash": "UY8JE7n1DME=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.60DAB551.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mF22xgdlSUA=",
+    "Meta": null,
+    "Name": "NMSARC.665518F.pak",
+    "Size": 80867367,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.665518F.pak",
+      "Hash": "mF22xgdlSUA=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.665518F.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WkwzG74qIJ8=",
+    "Meta": null,
+    "Name": "NMSARC.6766A6B1.pak",
+    "Size": 45527926,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.6766A6B1.pak",
+      "Hash": "WkwzG74qIJ8=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.6766A6B1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zhm9vGAxoag=",
+    "Meta": null,
+    "Name": "NMSARC.67A85CD3.pak",
+    "Size": 53894773,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.67A85CD3.pak",
+      "Hash": "zhm9vGAxoag=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.67A85CD3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fybXjTj5rWQ=",
+    "Meta": null,
+    "Name": "NMSARC.6DCC6AD2.pak",
+    "Size": 671432241,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.6DCC6AD2.pak",
+      "Hash": "fybXjTj5rWQ=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.6DCC6AD2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DfU9oJBNGK8=",
+    "Meta": null,
+    "Name": "NMSARC.72140AA5.pak",
+    "Size": 190430825,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.72140AA5.pak",
+      "Hash": "DfU9oJBNGK8=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.72140AA5.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HWvmojH7rd0=",
+    "Meta": null,
+    "Name": "NMSARC.72883D74.pak",
+    "Size": 879021113,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.72883D74.pak",
+      "Hash": "HWvmojH7rd0=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.72883D74.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cAIwfvn2bP0=",
+    "Meta": null,
+    "Name": "NMSARC.73BC3D9E.pak",
+    "Size": 77514531,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.73BC3D9E.pak",
+      "Hash": "cAIwfvn2bP0=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.73BC3D9E.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WTBYefLEhz4=",
+    "Meta": null,
+    "Name": "NMSARC.761ACED1.pak",
+    "Size": 116377821,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.761ACED1.pak",
+      "Hash": "WTBYefLEhz4=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.761ACED1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bb9vGdAbvdo=",
+    "Meta": null,
+    "Name": "NMSARC.7FC5E17F.pak",
+    "Size": 991815439,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.7FC5E17F.pak",
+      "Hash": "bb9vGdAbvdo=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.7FC5E17F.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2O3HEwZsNvM=",
+    "Meta": null,
+    "Name": "NMSARC.7FCC798D.pak",
+    "Size": 34358647,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.7FCC798D.pak",
+      "Hash": "2O3HEwZsNvM=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.7FCC798D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0P3hLa9pe2o=",
+    "Meta": null,
+    "Name": "NMSARC.8190338E.pak",
+    "Size": 323928338,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.8190338E.pak",
+      "Hash": "0P3hLa9pe2o=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.8190338E.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bj8438JdMtQ=",
+    "Meta": null,
+    "Name": "NMSARC.83986C85.pak",
+    "Size": 63533897,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.83986C85.pak",
+      "Hash": "bj8438JdMtQ=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.83986C85.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eFL/FiJeL08=",
+    "Meta": null,
+    "Name": "NMSARC.86055253.pak",
+    "Size": 64366805,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.86055253.pak",
+      "Hash": "eFL/FiJeL08=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.86055253.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BBjJndLwueA=",
+    "Meta": null,
+    "Name": "NMSARC.8D359979.pak",
+    "Size": 157814965,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.8D359979.pak",
+      "Hash": "BBjJndLwueA=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.8D359979.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zA+lIUOkKF4=",
+    "Meta": null,
+    "Name": "NMSARC.930FCC4E.pak",
+    "Size": 41183441,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.930FCC4E.pak",
+      "Hash": "zA+lIUOkKF4=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.930FCC4E.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fmFINPmXKm4=",
+    "Meta": null,
+    "Name": "NMSARC.9322B1F4.pak",
+    "Size": 360428989,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.9322B1F4.pak",
+      "Hash": "fmFINPmXKm4=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.9322B1F4.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "AYP+HhA7rbU=",
+    "Meta": null,
+    "Name": "NMSARC.936D1817.pak",
+    "Size": 148149247,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.936D1817.pak",
+      "Hash": "AYP+HhA7rbU=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.936D1817.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+xv8MKcu068=",
+    "Meta": null,
+    "Name": "NMSARC.974200D4.pak",
+    "Size": 444473899,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.974200D4.pak",
+      "Hash": "+xv8MKcu068=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.974200D4.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pm7hpvbHYqw=",
+    "Meta": null,
+    "Name": "NMSARC.9A7B0F2D.pak",
+    "Size": 7013132,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.9A7B0F2D.pak",
+      "Hash": "pm7hpvbHYqw=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.9A7B0F2D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "d/l3V4vqWYE=",
+    "Meta": null,
+    "Name": "NMSARC.A25B1B8D.pak",
+    "Size": 81216351,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.A25B1B8D.pak",
+      "Hash": "d/l3V4vqWYE=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.A25B1B8D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vu53uye0vyQ=",
+    "Meta": null,
+    "Name": "NMSARC.A6C4FD6B.pak",
+    "Size": 297435793,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.A6C4FD6B.pak",
+      "Hash": "vu53uye0vyQ=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.A6C4FD6B.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "X2Je1NWEnAk=",
+    "Meta": null,
+    "Name": "NMSARC.B12267DC.pak",
+    "Size": 55206,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.B12267DC.pak",
+      "Hash": "X2Je1NWEnAk=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.B12267DC.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ll5NWYw7HcI=",
+    "Meta": null,
+    "Name": "NMSARC.B21B41DD.pak",
+    "Size": 42790442,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.B21B41DD.pak",
+      "Hash": "ll5NWYw7HcI=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.B21B41DD.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vqtYryE75Jo=",
+    "Meta": null,
+    "Name": "NMSARC.BEFBA00C.pak",
+    "Size": 10872635,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.BEFBA00C.pak",
+      "Hash": "vqtYryE75Jo=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.BEFBA00C.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DgPrdBoO2lk=",
+    "Meta": null,
+    "Name": "NMSARC.CCF9D57C.pak",
+    "Size": 1430008,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.CCF9D57C.pak",
+      "Hash": "DgPrdBoO2lk=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.CCF9D57C.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/xvrjUj7eBo=",
+    "Meta": null,
+    "Name": "NMSARC.CF39D230.pak",
+    "Size": 10734105,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.CF39D230.pak",
+      "Hash": "/xvrjUj7eBo=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.CF39D230.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rriIk1AZMkE=",
+    "Meta": null,
+    "Name": "NMSARC.D33E06DB.pak",
+    "Size": 107860193,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.D33E06DB.pak",
+      "Hash": "rriIk1AZMkE=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.D33E06DB.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UzN58tW6THQ=",
+    "Meta": null,
+    "Name": "NMSARC.D7A99E54.pak",
+    "Size": 295450,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.D7A99E54.pak",
+      "Hash": "UzN58tW6THQ=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.D7A99E54.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lpxXTuOwimc=",
+    "Meta": null,
+    "Name": "NMSARC.DAC946B6.pak",
+    "Size": 1396358,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.DAC946B6.pak",
+      "Hash": "lpxXTuOwimc=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.DAC946B6.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FkivZ3dFPco=",
+    "Meta": null,
+    "Name": "NMSARC.DDFCB2B3.pak",
+    "Size": 22590803,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.DDFCB2B3.pak",
+      "Hash": "FkivZ3dFPco=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.DDFCB2B3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hU+WbbANIK0=",
+    "Meta": null,
+    "Name": "NMSARC.E31BEAA7.pak",
+    "Size": 2409607,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.E31BEAA7.pak",
+      "Hash": "hU+WbbANIK0=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.E31BEAA7.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "O9OqeoyAYvU=",
+    "Meta": null,
+    "Name": "NMSARC.E5424A96.pak",
+    "Size": 162202201,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.E5424A96.pak",
+      "Hash": "O9OqeoyAYvU=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.E5424A96.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3xLdECmS/eo=",
+    "Meta": null,
+    "Name": "NMSARC.E89F12EE.pak",
+    "Size": 115737,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.E89F12EE.pak",
+      "Hash": "3xLdECmS/eo=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.E89F12EE.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8lvJ/bFMA5k=",
+    "Meta": null,
+    "Name": "NMSARC.EB54F26D.pak",
+    "Size": 86386017,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.EB54F26D.pak",
+      "Hash": "8lvJ/bFMA5k=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.EB54F26D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7e+IbvCSVzg=",
+    "Meta": null,
+    "Name": "NMSARC.ECAEC55F.pak",
+    "Size": 27630563,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.ECAEC55F.pak",
+      "Hash": "7e+IbvCSVzg=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.ECAEC55F.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1ocTBY/VWAc=",
+    "Meta": null,
+    "Name": "NMSARC.F5C20553.pak",
+    "Size": 52568307,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.F5C20553.pak",
+      "Hash": "1ocTBY/VWAc=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.F5C20553.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Homi88ZRUBs=",
+    "Meta": null,
+    "Name": "NMSARC.F649E6C8.pak",
+    "Size": 949602,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.F649E6C8.pak",
+      "Hash": "Homi88ZRUBs=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.F649E6C8.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mqiOA80+HDg=",
+    "Meta": null,
+    "Name": "NMSARC.F67D07B8.pak",
+    "Size": 82459543,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.F67D07B8.pak",
+      "Hash": "mqiOA80+HDg=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.F67D07B8.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ElYiAgWJs4Q=",
+    "Meta": null,
+    "Name": "NMSARC.F9A7B2D4.pak",
+    "Size": 352891248,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.F9A7B2D4.pak",
+      "Hash": "ElYiAgWJs4Q=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.F9A7B2D4.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YviKqi+swak=",
+    "Meta": null,
+    "Name": "NMSARC.FCA6A6EA.pak",
+    "Size": 3690395,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.FCA6A6EA.pak",
+      "Hash": "YviKqi+swak=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.FCA6A6EA.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fyZ8z6L9ewY=",
+    "Meta": null,
+    "Name": "NMSARC.FE28D146.pak",
+    "Size": 5150150,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.FE28D146.pak",
+      "Hash": "fyZ8z6L9ewY=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.FE28D146.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "u6guvbusIhI=",
+    "Meta": null,
+    "Name": "NMSARC.FED1FE7D.pak",
+    "Size": 189793069,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "GAMEDATA\\PCBANKS\\NMSARC.FED1FE7D.pak",
+      "Hash": "u6guvbusIhI=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|GAMEDATA\\PCBANKS\\NMSARC.FED1FE7D.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0cPkicKSpLA=",
+    "Meta": null,
+    "Name": "TKHDRLUT_DEFAULT_1000.cube",
+    "Size": 7078831,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\SETTINGS\\HDR\\TKHDRLUT_DEFAULT_1000.cube",
+      "Hash": "0cPkicKSpLA=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\SETTINGS\\HDR\\TKHDRLUT_DEFAULT_1000.cube"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sXbfb83jcKY=",
+    "Meta": null,
+    "Name": "TKHDRLUT_DEFAULT_400.cube",
+    "Size": 7078831,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\SETTINGS\\HDR\\TKHDRLUT_DEFAULT_400.cube",
+      "Hash": "sXbfb83jcKY=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\SETTINGS\\HDR\\TKHDRLUT_DEFAULT_400.cube"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xmrATWCq9hg=",
+    "Meta": null,
+    "Name": "TKHDRLUT_DEFAULT_600.cube",
+    "Size": 7078831,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "NoMansSky",
+      "GameFile": "Binaries\\SETTINGS\\HDR\\TKHDRLUT_DEFAULT_600.cube",
+      "Hash": "xmrATWCq9hg=",
+      "GameVersion": "497.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|NoMansSky|497.0.0.0|Binaries\\SETTINGS\\HDR\\TKHDRLUT_DEFAULT_600.cube"
+    }
+  }
+]
