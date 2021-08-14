@@ -1,0 +1,2132 @@
+[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "28AWUdf0SAI=",
+    "Meta": null,
+    "Name": "NehrimInstallSwitch.exe",
+    "Size": 2136576,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimInstallSwitch.exe",
+      "Hash": "28AWUdf0SAI=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehriminstallswitch.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3/X+voV7Fw4=",
+    "Meta": null,
+    "Name": "steam_api.dll",
+    "Size": 225056,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "steam_api.dll",
+      "Hash": "3/X+voV7Fw4=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|steam_api.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QZc+FL93Rtk=",
+    "Meta": null,
+    "Name": "steam_appid.txt",
+    "Size": 7,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "steam_appid.txt",
+      "Hash": "QZc+FL93Rtk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|steam_appid.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EHVqe5JmdU8=",
+    "Meta": null,
+    "Name": "binkw32.dll",
+    "Size": 338944,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\binkw32.dll",
+      "Hash": "EHVqe5JmdU8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\binkw32.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dbjeBS54kUA=",
+    "Meta": null,
+    "Name": "d3d9.bak",
+    "Size": 967680,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\d3d9.bak",
+      "Hash": "dbjeBS54kUA=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\d3d9.bak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "x0AnWXPobY8=",
+    "Meta": null,
+    "Name": "enbhost.exe",
+    "Size": 450560,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\enbhost.exe",
+      "Hash": "x0AnWXPobY8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\enbhost.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fSfJMdHPefI=",
+    "Meta": null,
+    "Name": "enblocal.ini",
+    "Size": 2185,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\enblocal.ini",
+      "Hash": "fSfJMdHPefI=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\enblocal.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ec4r2POb8bk=",
+    "Meta": null,
+    "Name": "enbseries.ini",
+    "Size": 31806,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\enbseries.ini",
+      "Hash": "ec4r2POb8bk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\enbseries.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/C7NV3BaMIE=",
+    "Meta": null,
+    "Name": "NehrimLauncher.exe",
+    "Size": 6495232,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\NehrimLauncher.exe",
+      "Hash": "/C7NV3BaMIE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\nehrimlauncher.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6bw3UXl2w5k=",
+    "Meta": null,
+    "Name": "Oblivion.exe",
+    "Size": 7898624,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Oblivion.exe",
+      "Hash": "6bw3UXl2w5k=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\oblivion.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fRLS3GqlwgY=",
+    "Meta": null,
+    "Name": "OblivionLauncher.exe",
+    "Size": 128512,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\OblivionLauncher.exe",
+      "Hash": "fRLS3GqlwgY=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\oblivionlauncher.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VpN7DXBqST8=",
+    "Meta": null,
+    "Name": "OblivionRedirector.dll",
+    "Size": 182272,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\OblivionRedirector.dll",
+      "Hash": "VpN7DXBqST8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\oblivionredirector.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vQsyIhEVB2M=",
+    "Meta": null,
+    "Name": "Oblivion_default.ini",
+    "Size": 17202,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Oblivion_default.ini",
+      "Hash": "vQsyIhEVB2M=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\oblivion_default.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "D7WzS2cFS98=",
+    "Meta": null,
+    "Name": "obse_1_2_416.dll",
+    "Size": 1190400,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\obse_1_2_416.dll",
+      "Hash": "D7WzS2cFS98=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\obse_1_2_416.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Kjeddrqz7lM=",
+    "Meta": null,
+    "Name": "obse_editor_1_2.dll",
+    "Size": 453120,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\obse_editor_1_2.dll",
+      "Hash": "Kjeddrqz7lM=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\obse_editor_1_2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dEMeXi6ZpI0=",
+    "Meta": null,
+    "Name": "obse_loader.exe",
+    "Size": 109056,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\obse_loader.exe",
+      "Hash": "dEMeXi6ZpI0=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\obse_loader.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cGXxT7iBDHs=",
+    "Meta": null,
+    "Name": "obse_readme.txt",
+    "Size": 9265,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\obse_readme.txt",
+      "Hash": "cGXxT7iBDHs=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\obse_readme.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "T1WnOojowEU=",
+    "Meta": null,
+    "Name": "obse_steam_loader.dll",
+    "Size": 100352,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\obse_steam_loader.dll",
+      "Hash": "T1WnOojowEU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\obse_steam_loader.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GNDM/oKEDTk=",
+    "Meta": null,
+    "Name": "Plugins.txt",
+    "Size": 219,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Plugins.txt",
+      "Hash": "GNDM/oKEDTk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\plugins.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NLJ5dNKxDhk=",
+    "Meta": null,
+    "Name": "steam_api.dll",
+    "Size": 237856,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\steam_api.dll",
+      "Hash": "NLJ5dNKxDhk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\steam_api.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2Yyx2m0d0dU=",
+    "Meta": null,
+    "Name": "Credits.txt",
+    "Size": 9464,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Credits.txt",
+      "Hash": "2Yyx2m0d0dU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\credits.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NMaa8mjUzhs=",
+    "Meta": null,
+    "Name": "L - Misc.bsa",
+    "Size": 26481604,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\L - Misc.bsa",
+      "Hash": "NMaa8mjUzhs=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\l - misc.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9OqE8iirwSU=",
+    "Meta": null,
+    "Name": "L - Voices.bsa",
+    "Size": 177496207,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\L - Voices.bsa",
+      "Hash": "9OqE8iirwSU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\l - voices.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mJ/TSDD/uaE=",
+    "Meta": null,
+    "Name": "N - Meshes.bsa",
+    "Size": 1196731404,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\N - Meshes.bsa",
+      "Hash": "mJ/TSDD/uaE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\n - meshes.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "S/SPyzVTguE=",
+    "Meta": null,
+    "Name": "N - Misc.bsa",
+    "Size": 37595651,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\N - Misc.bsa",
+      "Hash": "S/SPyzVTguE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\n - misc.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DvRFyquVy9w=",
+    "Meta": null,
+    "Name": "N - Sounds.bsa",
+    "Size": 430230597,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\N - Sounds.bsa",
+      "Hash": "DvRFyquVy9w=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\n - sounds.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3/jUpVAgpsg=",
+    "Meta": null,
+    "Name": "N - Textures1.bsa",
+    "Size": 1142462314,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\N - Textures1.bsa",
+      "Hash": "3/jUpVAgpsg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\n - textures1.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ODDTEqmu0e4=",
+    "Meta": null,
+    "Name": "N - Textures2.bsa",
+    "Size": 869047703,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\N - Textures2.bsa",
+      "Hash": "ODDTEqmu0e4=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\n - textures2.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hH2K35Xk18g=",
+    "Meta": null,
+    "Name": "Nehrim.esm",
+    "Size": 115982447,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Nehrim.esm",
+      "Hash": "hH2K35Xk18g=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\nehrim.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GKDrVu03df8=",
+    "Meta": null,
+    "Name": "Translation.esp",
+    "Size": 5632336,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Translation.esp",
+      "Hash": "GKDrVu03df8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\translation.esp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kmQjrY2WmaA=",
+    "Meta": null,
+    "Name": "_locationweather.ini",
+    "Size": 133,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\enbseries\\_locationweather.ini",
+      "Hash": "kmQjrY2WmaA=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\enbseries\\_locationweather.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vf9x3GA8Iz0=",
+    "Meta": null,
+    "Name": "_weatherlist.ini",
+    "Size": 2475,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\enbseries\\_weatherlist.ini",
+      "Hash": "vf9x3GA8Iz0=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\enbseries\\_weatherlist.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ywe7J8wAj5w=",
+    "Meta": null,
+    "Name": "obse.ini",
+    "Size": 90,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\obse.ini",
+      "Hash": "Ywe7J8wAj5w=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\obse.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mOlpko0cLlg=",
+    "Meta": null,
+    "Name": "shaderpackage001.sdp",
+    "Size": 208612,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage001.sdp",
+      "Hash": "mOlpko0cLlg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage001.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "wh2QMDwzHGk=",
+    "Meta": null,
+    "Name": "shaderpackage002.sdp",
+    "Size": 674980,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage002.sdp",
+      "Hash": "wh2QMDwzHGk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage002.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ydQ8uC9s2fw=",
+    "Meta": null,
+    "Name": "shaderpackage003.sdp",
+    "Size": 708452,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage003.sdp",
+      "Hash": "ydQ8uC9s2fw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage003.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IP5v7Bg1Yp0=",
+    "Meta": null,
+    "Name": "shaderpackage004.sdp",
+    "Size": 966096,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage004.sdp",
+      "Hash": "IP5v7Bg1Yp0=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage004.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IDOLIpK2KB8=",
+    "Meta": null,
+    "Name": "shaderpackage005.sdp",
+    "Size": 678892,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage005.sdp",
+      "Hash": "IDOLIpK2KB8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage005.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ydQ8uC9s2fw=",
+    "Meta": null,
+    "Name": "shaderpackage006.sdp",
+    "Size": 708452,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage006.sdp",
+      "Hash": "ydQ8uC9s2fw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage006.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bXdv33uLFOg=",
+    "Meta": null,
+    "Name": "shaderpackage007.sdp",
+    "Size": 975320,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage007.sdp",
+      "Hash": "bXdv33uLFOg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage007.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IDOLIpK2KB8=",
+    "Meta": null,
+    "Name": "shaderpackage008.sdp",
+    "Size": 678892,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage008.sdp",
+      "Hash": "IDOLIpK2KB8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage008.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vMoJ9ymct74=",
+    "Meta": null,
+    "Name": "shaderpackage009.sdp",
+    "Size": 991884,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage009.sdp",
+      "Hash": "vMoJ9ymct74=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage009.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9uWPbs3cnbw=",
+    "Meta": null,
+    "Name": "shaderpackage010.sdp",
+    "Size": 722784,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage010.sdp",
+      "Hash": "9uWPbs3cnbw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage010.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mXtIeHHrecE=",
+    "Meta": null,
+    "Name": "shaderpackage011.sdp",
+    "Size": 721848,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage011.sdp",
+      "Hash": "mXtIeHHrecE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage011.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "V1XwydSNMtU=",
+    "Meta": null,
+    "Name": "shaderpackage012.sdp",
+    "Size": 984588,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage012.sdp",
+      "Hash": "V1XwydSNMtU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage012.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8Eojx7X6qmQ=",
+    "Meta": null,
+    "Name": "shaderpackage013.sdp",
+    "Size": 983808,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage013.sdp",
+      "Hash": "8Eojx7X6qmQ=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage013.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9uWPbs3cnbw=",
+    "Meta": null,
+    "Name": "shaderpackage014.sdp",
+    "Size": 722784,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage014.sdp",
+      "Hash": "9uWPbs3cnbw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage014.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mXtIeHHrecE=",
+    "Meta": null,
+    "Name": "shaderpackage015.sdp",
+    "Size": 721848,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage015.sdp",
+      "Hash": "mXtIeHHrecE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage015.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "RyzxZTnTHDM=",
+    "Meta": null,
+    "Name": "shaderpackage016.sdp",
+    "Size": 993892,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage016.sdp",
+      "Hash": "RyzxZTnTHDM=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage016.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9kY2aGa8gog=",
+    "Meta": null,
+    "Name": "shaderpackage017.sdp",
+    "Size": 993132,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage017.sdp",
+      "Hash": "9kY2aGa8gog=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage017.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qZIto+/47+8=",
+    "Meta": null,
+    "Name": "shaderpackage018.sdp",
+    "Size": 1011852,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage018.sdp",
+      "Hash": "qZIto+/47+8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage018.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EoR8pOHl2Oc=",
+    "Meta": null,
+    "Name": "shaderpackage019.sdp",
+    "Size": 1010916,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Shaders\\shaderpackage019.sdp",
+      "Hash": "EoR8pOHl2Oc=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\shaders\\shaderpackage019.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PKVtd0faWn8=",
+    "Meta": null,
+    "Name": "KimFPalaSzene.bik",
+    "Size": 1708480,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Video\\KimFPalaSzene.bik",
+      "Hash": "PKVtd0faWn8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\video\\kimfpalaszene.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Sw4AM6B7eH8=",
+    "Meta": null,
+    "Name": "KimMPalaSzene.bik",
+    "Size": 1576856,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Video\\KimMPalaSzene.bik",
+      "Hash": "Sw4AM6B7eH8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\video\\kimmpalaszene.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "94k58F7tNMg=",
+    "Meta": null,
+    "Name": "map loop.bik",
+    "Size": 9186672,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Video\\map loop.bik",
+      "Hash": "94k58F7tNMg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\video\\map loop.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "psWA8jH3o9E=",
+    "Meta": null,
+    "Name": "Nehrim Outro.bik",
+    "Size": 114805740,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Video\\Nehrim Outro.bik",
+      "Hash": "psWA8jH3o9E=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\video\\nehrim outro.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "wMEoZjmCHPg=",
+    "Meta": null,
+    "Name": "Oblivion iv logo.bik",
+    "Size": 55870148,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Video\\Oblivion iv logo.bik",
+      "Hash": "wMEoZjmCHPg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\video\\oblivion iv logo.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1APMzZe3Kd4=",
+    "Meta": null,
+    "Name": "OblivionIntro.bik",
+    "Size": 77573604,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Video\\OblivionIntro.bik",
+      "Hash": "1APMzZe3Kd4=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\video\\oblivionintro.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YqXmHsoA+t0=",
+    "Meta": null,
+    "Name": "Battle_01.mp3",
+    "Size": 2560836,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_01.mp3",
+      "Hash": "YqXmHsoA+t0=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "frfcYPxECpE=",
+    "Meta": null,
+    "Name": "Battle_02.mp3",
+    "Size": 2180493,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_02.mp3",
+      "Hash": "frfcYPxECpE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/Lkj3uhhKk4=",
+    "Meta": null,
+    "Name": "Battle_03.mp3",
+    "Size": 5600653,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_03.mp3",
+      "Hash": "/Lkj3uhhKk4=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BzW6H5xQfVo=",
+    "Meta": null,
+    "Name": "Battle_04.mp3",
+    "Size": 7201920,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_04.mp3",
+      "Hash": "BzW6H5xQfVo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jn1FDTaq7O0=",
+    "Meta": null,
+    "Name": "Battle_05.mp3",
+    "Size": 1095888,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_05.mp3",
+      "Hash": "jn1FDTaq7O0=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "O+idBVsfYHo=",
+    "Meta": null,
+    "Name": "Battle_06.mp3",
+    "Size": 3434760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_06.mp3",
+      "Hash": "O+idBVsfYHo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SeFmmUy+ISw=",
+    "Meta": null,
+    "Name": "Battle_07.mp3",
+    "Size": 3446244,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_07.mp3",
+      "Hash": "SeFmmUy+ISw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LavQmDHUMok=",
+    "Meta": null,
+    "Name": "Battle_08.mp3",
+    "Size": 6343344,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_08.mp3",
+      "Hash": "LavQmDHUMok=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_08.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bkdC44yiuGs=",
+    "Meta": null,
+    "Name": "Battle_09.mp3",
+    "Size": 949184,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_09.mp3",
+      "Hash": "bkdC44yiuGs=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_09.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "RDNQytS0mmg=",
+    "Meta": null,
+    "Name": "Battle_10.mp3",
+    "Size": 4896391,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_10.mp3",
+      "Hash": "RDNQytS0mmg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_10.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MJ3qf6rZfCw=",
+    "Meta": null,
+    "Name": "Battle_11.mp3",
+    "Size": 4093910,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Battle\\Battle_11.mp3",
+      "Hash": "MJ3qf6rZfCw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\battle\\battle_11.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LwgDWeXe+Tg=",
+    "Meta": null,
+    "Name": "Dungeon_01.mp3",
+    "Size": 1984888,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_01.mp3",
+      "Hash": "LwgDWeXe+Tg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OPjKRbdPKBU=",
+    "Meta": null,
+    "Name": "Dungeon_02.mp3",
+    "Size": 12247249,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_02.mp3",
+      "Hash": "OPjKRbdPKBU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tGcbIQFx8lo=",
+    "Meta": null,
+    "Name": "Dungeon_03.mp3",
+    "Size": 9241078,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_03.mp3",
+      "Hash": "tGcbIQFx8lo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CTptvkgSDo8=",
+    "Meta": null,
+    "Name": "Dungeon_04.mp3",
+    "Size": 12996441,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_04.mp3",
+      "Hash": "CTptvkgSDo8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "W3RoTIl4NQU=",
+    "Meta": null,
+    "Name": "Dungeon_05.mp3",
+    "Size": 6177437,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_05.mp3",
+      "Hash": "W3RoTIl4NQU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "B4nFZB4c2zk=",
+    "Meta": null,
+    "Name": "Dungeon_06.mp3",
+    "Size": 7850880,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_06.mp3",
+      "Hash": "B4nFZB4c2zk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NyXj4s5+n2k=",
+    "Meta": null,
+    "Name": "Dungeon_07.mp3",
+    "Size": 5636556,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_07.mp3",
+      "Hash": "NyXj4s5+n2k=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2fpimzKYRtw=",
+    "Meta": null,
+    "Name": "Dungeon_08.mp3",
+    "Size": 7162560,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_08.mp3",
+      "Hash": "2fpimzKYRtw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_08.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nCQISXmDaQc=",
+    "Meta": null,
+    "Name": "Dungeon_09.mp3",
+    "Size": 4122240,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_09.mp3",
+      "Hash": "nCQISXmDaQc=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_09.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "crDIHk7XKbY=",
+    "Meta": null,
+    "Name": "Dungeon_10.mp3",
+    "Size": 4063248,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_10.mp3",
+      "Hash": "crDIHk7XKbY=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_10.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zO17HvjhDoo=",
+    "Meta": null,
+    "Name": "Dungeon_11.mp3",
+    "Size": 6475932,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Dungeon\\Dungeon_11.mp3",
+      "Hash": "zO17HvjhDoo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\dungeon\\dungeon_11.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KTHLn4BOs+A=",
+    "Meta": null,
+    "Name": "Atmosphere_01.mp3",
+    "Size": 4161829,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_01.mp3",
+      "Hash": "KTHLn4BOs+A=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Zp4NdxyGpdg=",
+    "Meta": null,
+    "Name": "Atmosphere_02.mp3",
+    "Size": 3121920,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_02.mp3",
+      "Hash": "Zp4NdxyGpdg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HX+D61Jl1pU=",
+    "Meta": null,
+    "Name": "Atmosphere_03.mp3",
+    "Size": 710948,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_03.mp3",
+      "Hash": "HX+D61Jl1pU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Z4M5jlFxpvI=",
+    "Meta": null,
+    "Name": "Atmosphere_04.mp3",
+    "Size": 2801371,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_04.mp3",
+      "Hash": "Z4M5jlFxpvI=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ek1J9pJlLGQ=",
+    "Meta": null,
+    "Name": "Atmosphere_05.mp3",
+    "Size": 9363331,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_05.mp3",
+      "Hash": "Ek1J9pJlLGQ=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L+h49jT8uN4=",
+    "Meta": null,
+    "Name": "Atmosphere_06.mp3",
+    "Size": 4969535,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_06.mp3",
+      "Hash": "L+h49jT8uN4=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9sPhrC2ubjs=",
+    "Meta": null,
+    "Name": "Atmosphere_07.mp3",
+    "Size": 9580788,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_07.mp3",
+      "Hash": "9sPhrC2ubjs=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xjsw1kJ2rGY=",
+    "Meta": null,
+    "Name": "Atmosphere_08.mp3",
+    "Size": 7536636,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_08.mp3",
+      "Hash": "xjsw1kJ2rGY=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_08.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Vrb7BOZxdxw=",
+    "Meta": null,
+    "Name": "Atmosphere_09.mp3",
+    "Size": 5448636,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_09.mp3",
+      "Hash": "Vrb7BOZxdxw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_09.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FrGL248qHFY=",
+    "Meta": null,
+    "Name": "Atmosphere_10.mp3",
+    "Size": 9142308,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_10.mp3",
+      "Hash": "FrGL248qHFY=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_10.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q+t9K+3cOHg=",
+    "Meta": null,
+    "Name": "Atmosphere_11.mp3",
+    "Size": 15946056,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_11.mp3",
+      "Hash": "q+t9K+3cOHg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_11.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jp4IxB3tPjk=",
+    "Meta": null,
+    "Name": "Atmosphere_12.mp3",
+    "Size": 1531819,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_12.mp3",
+      "Hash": "jp4IxB3tPjk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_12.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "a27gX4Ah8J8=",
+    "Meta": null,
+    "Name": "Atmosphere_13.mp3",
+    "Size": 5346240,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_13.mp3",
+      "Hash": "a27gX4Ah8J8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_13.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PqqjEwofrLs=",
+    "Meta": null,
+    "Name": "Atmosphere_14.mp3",
+    "Size": 4304412,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_14.mp3",
+      "Hash": "PqqjEwofrLs=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_14.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TOW7cKkE/wo=",
+    "Meta": null,
+    "Name": "Atmosphere_15.mp3",
+    "Size": 2276832,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_15.mp3",
+      "Hash": "TOW7cKkE/wo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_15.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1kgjTHCdNDo=",
+    "Meta": null,
+    "Name": "Atmosphere_16.mp3",
+    "Size": 3109032,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Explore\\Atmosphere_16.mp3",
+      "Hash": "1kgjTHCdNDo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\explore\\atmosphere_16.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ePV3V+WiCaU=",
+    "Meta": null,
+    "Name": "Town_01.mp3",
+    "Size": 1793045,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Public\\Town_01.mp3",
+      "Hash": "ePV3V+WiCaU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\public\\town_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "P7o/v7cyvFc=",
+    "Meta": null,
+    "Name": "Town_02.mp3",
+    "Size": 11138612,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Public\\Town_02.mp3",
+      "Hash": "P7o/v7cyvFc=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\public\\town_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qc/ATQPQbxw=",
+    "Meta": null,
+    "Name": "Town_03.mp3",
+    "Size": 7424000,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Public\\Town_03.mp3",
+      "Hash": "qc/ATQPQbxw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\public\\town_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "f8tfdTARvrk=",
+    "Meta": null,
+    "Name": "Town_04.mp3",
+    "Size": 6297408,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Public\\Town_04.mp3",
+      "Hash": "f8tfdTARvrk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\public\\town_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Dvb9UziO3Ww=",
+    "Meta": null,
+    "Name": "Town_05.mp3",
+    "Size": 5130216,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Public\\Town_05.mp3",
+      "Hash": "Dvb9UziO3Ww=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\public\\town_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GQzczdQb2WI=",
+    "Meta": null,
+    "Name": "Town_06.mp3",
+    "Size": 13976554,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Public\\Town_06.mp3",
+      "Hash": "GQzczdQb2WI=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\public\\town_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "c2gQxjRRpvk=",
+    "Meta": null,
+    "Name": "Town_07.mp3",
+    "Size": 6174302,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Public\\Town_07.mp3",
+      "Hash": "c2gQxjRRpvk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\public\\town_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Js3kM8+Evjg=",
+    "Meta": null,
+    "Name": "Town_08.mp3",
+    "Size": 6231770,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Public\\Town_08.mp3",
+      "Hash": "Js3kM8+Evjg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\public\\town_08.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "osfLdga6uoI=",
+    "Meta": null,
+    "Name": "death.mp3",
+    "Size": 679182,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\death.mp3",
+      "Hash": "osfLdga6uoI=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\death.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aUB3+3/3jvk=",
+    "Meta": null,
+    "Name": "Event_01.mp3",
+    "Size": 1190139,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Event_01.mp3",
+      "Hash": "aUB3+3/3jvk=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\event_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hEWMrC92coU=",
+    "Meta": null,
+    "Name": "Event_02.mp3",
+    "Size": 750237,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Event_02.mp3",
+      "Hash": "hEWMrC92coU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\event_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HH5RGoS/cw8=",
+    "Meta": null,
+    "Name": "Event_03.mp3",
+    "Size": 992653,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Event_03.mp3",
+      "Hash": "HH5RGoS/cw8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\event_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1fG/wsbiJvc=",
+    "Meta": null,
+    "Name": "Event_04.mp3",
+    "Size": 1887086,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Event_04.mp3",
+      "Hash": "1fG/wsbiJvc=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\event_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9j+GOkbxPeE=",
+    "Meta": null,
+    "Name": "Event_05.mp3",
+    "Size": 2321763,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Event_05.mp3",
+      "Hash": "9j+GOkbxPeE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\event_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ET2LhE+nQEQ=",
+    "Meta": null,
+    "Name": "Event_06.mp3",
+    "Size": 341053,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Event_06.mp3",
+      "Hash": "ET2LhE+nQEQ=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\event_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ET2LhE+nQEQ=",
+    "Meta": null,
+    "Name": "Event_08.mp3",
+    "Size": 341053,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Event_08.mp3",
+      "Hash": "ET2LhE+nQEQ=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\event_08.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tjxdPfbXVaU=",
+    "Meta": null,
+    "Name": "GodShrineAmbient.mp3",
+    "Size": 2810880,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\GodShrineAmbient.mp3",
+      "Hash": "tjxdPfbXVaU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\godshrineambient.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Npu1f8FQfOQ=",
+    "Meta": null,
+    "Name": "Nehrim_Expansion_Event01.mp3",
+    "Size": 1779461,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Nehrim_Expansion_Event01.mp3",
+      "Hash": "Npu1f8FQfOQ=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\nehrim_expansion_event01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "RBjB18Qa+2k=",
+    "Meta": null,
+    "Name": "Nehrim_Expansion_Event02.mp3",
+    "Size": 1843200,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Nehrim_Expansion_Event02.mp3",
+      "Hash": "RBjB18Qa+2k=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\nehrim_expansion_event02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MJ3qf6rZfCw=",
+    "Meta": null,
+    "Name": "Nehrim_Expansion_Special01.mp3",
+    "Size": 4093910,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Nehrim_Expansion_Special01.mp3",
+      "Hash": "MJ3qf6rZfCw=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\nehrim_expansion_special01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q4bYcFJEl4s=",
+    "Meta": null,
+    "Name": "Nehrim_Expansion_Special02.mp3",
+    "Size": 4080326,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Nehrim_Expansion_Special02.mp3",
+      "Hash": "q4bYcFJEl4s=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\nehrim_expansion_special02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "V8dZmnK5Ux0=",
+    "Meta": null,
+    "Name": "Sanctum_Ambient01.mp3",
+    "Size": 2340988,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Sanctum_Ambient01.mp3",
+      "Hash": "V8dZmnK5Ux0=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\sanctum_ambient01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "10k7/qvv8sE=",
+    "Meta": null,
+    "Name": "Sanctum_Sequence01.mp3",
+    "Size": 1639445,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Sanctum_Sequence01.mp3",
+      "Hash": "10k7/qvv8sE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\sanctum_sequence01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2L9LHT9o06Q=",
+    "Meta": null,
+    "Name": "Sanctum_Sequence02.mp3",
+    "Size": 2680686,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Sanctum_Sequence02.mp3",
+      "Hash": "2L9LHT9o06Q=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\sanctum_sequence02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lQWIy8PRsk4=",
+    "Meta": null,
+    "Name": "Silence.mp3",
+    "Size": 1840275,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Silence.mp3",
+      "Hash": "lQWIy8PRsk4=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\silence.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bbnhVceqLUo=",
+    "Meta": null,
+    "Name": "success.mp3",
+    "Size": 1162971,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\success.mp3",
+      "Hash": "bbnhVceqLUo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\success.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "onJSxyMArzM=",
+    "Meta": null,
+    "Name": "Tes4title.mp3",
+    "Size": 7922416,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Tes4title.mp3",
+      "Hash": "onJSxyMArzM=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\tes4title.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ne5fv4os8WU=",
+    "Meta": null,
+    "Name": "Theme_01.mp3",
+    "Size": 3412635,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_01.mp3",
+      "Hash": "ne5fv4os8WU=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yz/N9jMngCg=",
+    "Meta": null,
+    "Name": "Theme_02.mp3",
+    "Size": 6241920,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_02.mp3",
+      "Hash": "yz/N9jMngCg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lg6gxiZuWB8=",
+    "Meta": null,
+    "Name": "Theme_03.mp3",
+    "Size": 1372891,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_03.mp3",
+      "Hash": "lg6gxiZuWB8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HvxvXSK4858=",
+    "Meta": null,
+    "Name": "Theme_04.mp3",
+    "Size": 5237029,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_04.mp3",
+      "Hash": "HvxvXSK4858=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VZxYUbyvUwQ=",
+    "Meta": null,
+    "Name": "Theme_05.mp3",
+    "Size": 6402090,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_05.mp3",
+      "Hash": "VZxYUbyvUwQ=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YqCLYPP5/cg=",
+    "Meta": null,
+    "Name": "Theme_06.mp3",
+    "Size": 345233,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_06.mp3",
+      "Hash": "YqCLYPP5/cg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4V0F510Hx+I=",
+    "Meta": null,
+    "Name": "Theme_06a.mp3",
+    "Size": 766118,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_06a.mp3",
+      "Hash": "4V0F510Hx+I=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_06a.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5fFA9HFoNDo=",
+    "Meta": null,
+    "Name": "Theme_07.mp3",
+    "Size": 1553971,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_07.mp3",
+      "Hash": "5fFA9HFoNDo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LAUVAH277ws=",
+    "Meta": null,
+    "Name": "Theme_08.mp3",
+    "Size": 1888758,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_08.mp3",
+      "Hash": "LAUVAH277ws=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_08.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1kgjTHCdNDo=",
+    "Meta": null,
+    "Name": "Theme_09.mp3",
+    "Size": 3109032,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_09.mp3",
+      "Hash": "1kgjTHCdNDo=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_09.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FgSA0fFt/80=",
+    "Meta": null,
+    "Name": "Theme_10.mp3",
+    "Size": 6277746,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\Music\\Special\\Theme_10.mp3",
+      "Hash": "FgSA0fFt/80=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\music\\special\\theme_10.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tUgVa+yHpWg=",
+    "Meta": null,
+    "Name": "AltTabFix.dll",
+    "Size": 8704,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\plugins\\AltTabFix.dll",
+      "Hash": "tUgVa+yHpWg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\plugins\\alttabfix.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "f81cYK3T8rE=",
+    "Meta": null,
+    "Name": "Blockhead.dll",
+    "Size": 372736,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\plugins\\Blockhead.dll",
+      "Hash": "f81cYK3T8rE=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\plugins\\blockhead.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pZOc8N173S8=",
+    "Meta": null,
+    "Name": "Blockhead.ini",
+    "Size": 569,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\plugins\\Blockhead.ini",
+      "Hash": "pZOc8N173S8=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\plugins\\blockhead.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Gy00otnFwbc=",
+    "Meta": null,
+    "Name": "EnhancedMusicControl 2.dll",
+    "Size": 382976,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\plugins\\EnhancedMusicControl 2.dll",
+      "Hash": "Gy00otnFwbc=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\plugins\\enhancedmusiccontrol 2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qDrKSdus0sg=",
+    "Meta": null,
+    "Name": "EnhancedMusicControl 2.ini",
+    "Size": 293,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\plugins\\EnhancedMusicControl 2.ini",
+      "Hash": "qDrKSdus0sg=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\plugins\\enhancedmusiccontrol 2.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZDqlmEBHyVc=",
+    "Meta": null,
+    "Name": "nehrim_steam.dll",
+    "Size": 120320,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\plugins\\nehrim_steam.dll",
+      "Hash": "ZDqlmEBHyVc=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\plugins\\nehrim_steam.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "stVvexzWTF0=",
+    "Meta": null,
+    "Name": "WalkBlessed.dll",
+    "Size": 189440,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\plugins\\WalkBlessed.dll",
+      "Hash": "stVvexzWTF0=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\plugins\\walkblessed.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YkD4jy2TPKQ=",
+    "Meta": null,
+    "Name": "WalkBlessed.ini",
+    "Size": 1339,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Nehrim",
+      "GameFile": "NehrimFiles\\Data\\OBSE\\plugins\\WalkBlessed.ini",
+      "Hash": "YkD4jy2TPKQ=",
+      "GameVersion": "1.1.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Nehrim|1.1.0.0|nehrimfiles\\data\\obse\\plugins\\walkblessed.ini"
+    }
+  }
+]
