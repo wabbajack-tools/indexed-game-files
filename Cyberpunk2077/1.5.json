@@ -1,0 +1,1832 @@
+[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gFTn3qyDuLo=",
+    "Meta": null,
+    "Name": "gog.ico",
+    "Size": 69248,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "gog.ico",
+      "Hash": "gFTn3qyDuLo=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|gog.ico"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8P/QGAM++GQ=",
+    "Meta": null,
+    "Name": "goggame-1423049311.hashdb",
+    "Size": 157,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "goggame-1423049311.hashdb",
+      "Hash": "8P/QGAM++GQ=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|goggame-1423049311.hashdb"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2gRC+cljPQk=",
+    "Meta": null,
+    "Name": "goggame-1423049311.ico",
+    "Size": 116703,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "goggame-1423049311.ico",
+      "Hash": "2gRC+cljPQk=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|goggame-1423049311.ico"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UEIglE8HlBU=",
+    "Meta": null,
+    "Name": "goggame-1423049311.info",
+    "Size": 582,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "goggame-1423049311.info",
+      "Hash": "UEIglE8HlBU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|goggame-1423049311.info"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TFaaivuyJbw=",
+    "Meta": null,
+    "Name": "goggame-galaxyFileList.ini",
+    "Size": 5133,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "goggame-galaxyFileList.ini",
+      "Hash": "TFaaivuyJbw=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|goggame-galaxyfilelist.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hV+q5DuYwsw=",
+    "Meta": null,
+    "Name": "goglog.ini",
+    "Size": 99,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "goglog.ini",
+      "Hash": "hV+q5DuYwsw=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|goglog.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IEhJReS9c8s=",
+    "Meta": null,
+    "Name": "Launch Cyberpunk 2077.lnk",
+    "Size": 1899,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "Launch Cyberpunk 2077.lnk",
+      "Hash": "IEhJReS9c8s=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|launch cyberpunk 2077.lnk"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BEi+YVeMiis=",
+    "Meta": null,
+    "Name": "support.ico",
+    "Size": 62895,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "support.ico",
+      "Hash": "BEi+YVeMiis=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|support.ico"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "G6DZiuUnMVU=",
+    "Meta": null,
+    "Name": "unins000.dat",
+    "Size": 2655754,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "unins000.dat",
+      "Hash": "G6DZiuUnMVU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|unins000.dat"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kD4bDWXJHks=",
+    "Meta": null,
+    "Name": "unins000.exe",
+    "Size": 1342304,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "unins000.exe",
+      "Hash": "kD4bDWXJHks=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|unins000.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6lErw9WiwPo=",
+    "Meta": null,
+    "Name": "unins000.ini",
+    "Size": 41,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "unins000.ini",
+      "Hash": "6lErw9WiwPo=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|unins000.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "AbQPtyQs4/c=",
+    "Meta": null,
+    "Name": "unins000.msg",
+    "Size": 23147,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "unins000.msg",
+      "Hash": "AbQPtyQs4/c=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|unins000.msg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ekq1wpJyadY=",
+    "Meta": null,
+    "Name": "shader_final.cache",
+    "Size": 112352248,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\shader_final.cache",
+      "Hash": "Ekq1wpJyadY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\shader_final.cache"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "XKffO6xw0zA=",
+    "Meta": null,
+    "Name": "staticshader_final.cache",
+    "Size": 4349257,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\staticshader_final.cache",
+      "Hash": "XKffO6xw0zA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\staticshader_final.cache"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pYCwR2yiAzA=",
+    "Meta": null,
+    "Name": "amd_ags_x64.dll",
+    "Size": 166400,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\amd_ags_x64.dll",
+      "Hash": "pYCwR2yiAzA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\amd_ags_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JnYTso84fdc=",
+    "Meta": null,
+    "Name": "api-ms-win-downlevel-kernel32-l2-1-0.dll",
+    "Size": 6656,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\api-ms-win-downlevel-kernel32-l2-1-0.dll",
+      "Hash": "JnYTso84fdc=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\api-ms-win-downlevel-kernel32-l2-1-0.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fcDCHby0W7c=",
+    "Meta": null,
+    "Name": "bink2w64.dll",
+    "Size": 394960,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\bink2w64.dll",
+      "Hash": "fcDCHby0W7c=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\bink2w64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "j4dNjqbXflU=",
+    "Meta": null,
+    "Name": "Cyberpunk2077.exe",
+    "Size": 65802872,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\Cyberpunk2077.exe",
+      "Hash": "j4dNjqbXflU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\cyberpunk2077.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "W5ZlUYqbUW8=",
+    "Meta": null,
+    "Name": "dbgcore.dll",
+    "Size": 174536,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\dbgcore.dll",
+      "Hash": "W5ZlUYqbUW8=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\dbgcore.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ERibD6SKsY4=",
+    "Meta": null,
+    "Name": "dbghelp.dll",
+    "Size": 1868736,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\dbghelp.dll",
+      "Hash": "ERibD6SKsY4=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\dbghelp.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "n8cjJgYgl4w=",
+    "Meta": null,
+    "Name": "dxilconv7.dll",
+    "Size": 1452616,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\dxilconv7.dll",
+      "Hash": "n8cjJgYgl4w=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\dxilconv7.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cjdYflOJR7M=",
+    "Meta": null,
+    "Name": "freetype.dll",
+    "Size": 821760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\freetype.dll",
+      "Hash": "cjdYflOJR7M=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\freetype.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uYo6yR1Yew0=",
+    "Meta": null,
+    "Name": "Galaxy64.dll",
+    "Size": 13462528,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\Galaxy64.dll",
+      "Hash": "uYo6yR1Yew0=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\galaxy64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "E+n1cTITSS4=",
+    "Meta": null,
+    "Name": "GameServicesGOG.dll",
+    "Size": 11264,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\GameServicesGOG.dll",
+      "Hash": "E+n1cTITSS4=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\gameservicesgog.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KkeL6wY7K3s=",
+    "Meta": null,
+    "Name": "GFSDK_Aftermath_Lib.x64.dll",
+    "Size": 1234432,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\GFSDK_Aftermath_Lib.x64.dll",
+      "Hash": "KkeL6wY7K3s=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\gfsdk_aftermath_lib.x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "o/fjEWFU6LE=",
+    "Meta": null,
+    "Name": "icudt.dll",
+    "Size": 3072,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\icudt.dll",
+      "Hash": "o/fjEWFU6LE=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\icudt.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KuoE0p+pUzE=",
+    "Meta": null,
+    "Name": "icuin.dll",
+    "Size": 2632704,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\icuin.dll",
+      "Hash": "KuoE0p+pUzE=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\icuin.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cr9ML5M7kBw=",
+    "Meta": null,
+    "Name": "icuio.dll",
+    "Size": 61440,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\icuio.dll",
+      "Hash": "cr9ML5M7kBw=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\icuio.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ttcix3Lothk=",
+    "Meta": null,
+    "Name": "icuuc.dll",
+    "Size": 1890816,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\icuuc.dll",
+      "Hash": "Ttcix3Lothk=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\icuuc.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uqTD8fe836U=",
+    "Meta": null,
+    "Name": "libcurl.dll",
+    "Size": 419328,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\libcurl.dll",
+      "Hash": "uqTD8fe836U=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\libcurl.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8YuFh3+SC0E=",
+    "Meta": null,
+    "Name": "libeay32.dll",
+    "Size": 1699840,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\libeay32.dll",
+      "Hash": "8YuFh3+SC0E=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\libeay32.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yyz5V0XS/S0=",
+    "Meta": null,
+    "Name": "nvngx_dlss.dll",
+    "Size": 14464712,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\nvngx_dlss.dll",
+      "Hash": "yyz5V0XS/S0=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\nvngx_dlss.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "n2WNb9PJnMg=",
+    "Meta": null,
+    "Name": "nvToolsExt64_1.dll",
+    "Size": 42496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\nvToolsExt64_1.dll",
+      "Hash": "n2WNb9PJnMg=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\nvtoolsext64_1.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "crNDDoSaycA=",
+    "Meta": null,
+    "Name": "oo2ext_7_win64.dll",
+    "Size": 1223680,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\oo2ext_7_win64.dll",
+      "Hash": "crNDDoSaycA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\oo2ext_7_win64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "c2Etc/Wn6mc=",
+    "Meta": null,
+    "Name": "oodle_dictionary.bin",
+    "Size": 1809181,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\oodle_dictionary.bin",
+      "Hash": "c2Etc/Wn6mc=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\oodle_dictionary.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jRUAJlq3yuc=",
+    "Meta": null,
+    "Name": "PhysX3CharacterKinematic_x64.dll",
+    "Size": 564224,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\PhysX3CharacterKinematic_x64.dll",
+      "Hash": "jRUAJlq3yuc=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\physx3characterkinematic_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ou9Xj0SX2QY=",
+    "Meta": null,
+    "Name": "PhysX3Common_x64.dll",
+    "Size": 2031104,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\PhysX3Common_x64.dll",
+      "Hash": "Ou9Xj0SX2QY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\physx3common_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dVFICCy1Mnw=",
+    "Meta": null,
+    "Name": "PhysX3Cooking_x64.dll",
+    "Size": 652288,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\PhysX3Cooking_x64.dll",
+      "Hash": "dVFICCy1Mnw=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\physx3cooking_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DUbsjva3seA=",
+    "Meta": null,
+    "Name": "PhysX3_x64.dll",
+    "Size": 2587136,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\PhysX3_x64.dll",
+      "Hash": "DUbsjva3seA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\physx3_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eVO0EPfnZsk=",
+    "Meta": null,
+    "Name": "PxFoundation_x64.dll",
+    "Size": 546816,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\PxFoundation_x64.dll",
+      "Hash": "eVO0EPfnZsk=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\pxfoundation_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "68fKAJ+n6Fs=",
+    "Meta": null,
+    "Name": "PxPvdSDK_x64.dll",
+    "Size": 595968,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\PxPvdSDK_x64.dll",
+      "Hash": "68fKAJ+n6Fs=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\pxpvdsdk_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8kz3AlUhJXo=",
+    "Meta": null,
+    "Name": "REDEngineErrorReporter.exe",
+    "Size": 260728,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\REDEngineErrorReporter.exe",
+      "Hash": "8kz3AlUhJXo=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\redengineerrorreporter.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L5oJayZMVZE=",
+    "Meta": null,
+    "Name": "redlexer_native.dll",
+    "Size": 89088,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\redlexer_native.dll",
+      "Hash": "L5oJayZMVZE=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\redlexer_native.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GIrVhx1gzbM=",
+    "Meta": null,
+    "Name": "ssleay32.dll",
+    "Size": 359936,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\ssleay32.dll",
+      "Hash": "GIrVhx1gzbM=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\ssleay32.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CGrm+KKnkIM=",
+    "Meta": null,
+    "Name": "symsrv.dll",
+    "Size": 256456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\symsrv.dll",
+      "Hash": "CGrm+KKnkIM=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\symsrv.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VDV94n0COAY=",
+    "Meta": null,
+    "Name": "Symsrv.ini",
+    "Size": 69,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\Symsrv.ini",
+      "Hash": "VDV94n0COAY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\symsrv.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eCkezUWXhsk=",
+    "Meta": null,
+    "Name": "WinPixEventRuntime.dll",
+    "Size": 34896,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\WinPixEventRuntime.dll",
+      "Hash": "eCkezUWXhsk=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\winpixeventruntime.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4AkBIkbwUNs=",
+    "Meta": null,
+    "Name": "giweights.json",
+    "Size": 131,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\giweights.json",
+      "Hash": "4AkBIkbwUNs=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\giweights.json"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PjsEnT05Uk4=",
+    "Meta": null,
+    "Name": "final.redscripts",
+    "Size": 12367756,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\cache\\final.redscripts",
+      "Hash": "PjsEnT05Uk4=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\cache\\final.redscripts"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PAg8J4BLQtk=",
+    "Meta": null,
+    "Name": "tweakdb.bin",
+    "Size": 29328811,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\cache\\tweakdb.bin",
+      "Hash": "PAg8J4BLQtk=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\cache\\tweakdb.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LAsyRuOBuwE=",
+    "Meta": null,
+    "Name": "bumpersSettings.json",
+    "Size": 74,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\config\\bumpersSettings.json",
+      "Hash": "LAsyRuOBuwE=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\config\\bumperssettings.json"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Uz7lFT2VN64=",
+    "Meta": null,
+    "Name": "inputContexts.xml",
+    "Size": 69377,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\config\\inputContexts.xml",
+      "Hash": "Uz7lFT2VN64=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\config\\inputcontexts.xml"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "evCdLEmPxyY=",
+    "Meta": null,
+    "Name": "inputDeadzones.xml",
+    "Size": 1375,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\config\\inputDeadzones.xml",
+      "Hash": "evCdLEmPxyY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\config\\inputdeadzones.xml"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SIoRAbjn6zk=",
+    "Meta": null,
+    "Name": "inputUserMappings.xml",
+    "Size": 56869,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\config\\inputUserMappings.xml",
+      "Hash": "SIoRAbjn6zk=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\config\\inputusermappings.xml"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BBj/qoyW0Cg=",
+    "Meta": null,
+    "Name": "uiInputActions.xml",
+    "Size": 813,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\config\\uiInputActions.xml",
+      "Hash": "BBj/qoyW0Cg=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\config\\uiinputactions.xml"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lqyAXVoogKA=",
+    "Meta": null,
+    "Name": "audio_1_general.archive",
+    "Size": 189620224,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\audio_1_general.archive",
+      "Hash": "lqyAXVoogKA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\audio_1_general.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lAGTbsZpAVs=",
+    "Meta": null,
+    "Name": "audio_2_soundbanks.archive",
+    "Size": 6102454272,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\audio_2_soundbanks.archive",
+      "Hash": "lAGTbsZpAVs=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\audio_2_soundbanks.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0vKLOK58qIE=",
+    "Meta": null,
+    "Name": "basegame_1_engine.archive",
+    "Size": 799551488,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_1_engine.archive",
+      "Hash": "0vKLOK58qIE=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_1_engine.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VHto1sT4Vzs=",
+    "Meta": null,
+    "Name": "basegame_2_mainmenu.archive",
+    "Size": 339968,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_2_mainmenu.archive",
+      "Hash": "VHto1sT4Vzs=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_2_mainmenu.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DpaSifJJXhg=",
+    "Meta": null,
+    "Name": "basegame_3_nightcity.archive",
+    "Size": 11379077120,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_3_nightcity.archive",
+      "Hash": "DpaSifJJXhg=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_3_nightcity.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "94gQhofg8ZU=",
+    "Meta": null,
+    "Name": "basegame_3_nightcity_gi.archive",
+    "Size": 12026028032,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_3_nightcity_gi.archive",
+      "Hash": "94gQhofg8ZU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_3_nightcity_gi.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9CtVnNcjN9g=",
+    "Meta": null,
+    "Name": "basegame_3_nightcity_terrain.archive",
+    "Size": 3088302080,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_3_nightcity_terrain.archive",
+      "Hash": "9CtVnNcjN9g=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_3_nightcity_terrain.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vvT8cnJ8wS8=",
+    "Meta": null,
+    "Name": "basegame_4_animation.archive",
+    "Size": 1088876544,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_4_animation.archive",
+      "Hash": "vvT8cnJ8wS8=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_4_animation.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6leXMZHqagY=",
+    "Meta": null,
+    "Name": "basegame_4_appearance.archive",
+    "Size": 16216604672,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_4_appearance.archive",
+      "Hash": "6leXMZHqagY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_4_appearance.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TJjKz9Ki80s=",
+    "Meta": null,
+    "Name": "basegame_4_gamedata.archive",
+    "Size": 3074072576,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_4_gamedata.archive",
+      "Hash": "TJjKz9Ki80s=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_4_gamedata.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FaR7eZPUBEg=",
+    "Meta": null,
+    "Name": "basegame_5_video.archive",
+    "Size": 8894373888,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\basegame_5_video.archive",
+      "Hash": "FaR7eZPUBEg=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\basegame_5_video.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "C+9NCPcXw40=",
+    "Meta": null,
+    "Name": "lang_ar_text.archive",
+    "Size": 7790592,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_ar_text.archive",
+      "Hash": "C+9NCPcXw40=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_ar_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "y72VXTAdSD8=",
+    "Meta": null,
+    "Name": "lang_cs_text.archive",
+    "Size": 7294976,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_cs_text.archive",
+      "Hash": "y72VXTAdSD8=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_cs_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uh0HlYb+PuA=",
+    "Meta": null,
+    "Name": "lang_de_text.archive",
+    "Size": 7172096,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_de_text.archive",
+      "Hash": "uh0HlYb+PuA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_de_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "R4HDXwX65zU=",
+    "Meta": null,
+    "Name": "lang_en_text.archive",
+    "Size": 6897664,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_en_text.archive",
+      "Hash": "R4HDXwX65zU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_en_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nAcGGpR1SRQ=",
+    "Meta": null,
+    "Name": "lang_en_voice.archive",
+    "Size": 5042008064,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_en_voice.archive",
+      "Hash": "nAcGGpR1SRQ=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_en_voice.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YpBqMqjRCXY=",
+    "Meta": null,
+    "Name": "lang_es-es_text.archive",
+    "Size": 7016448,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_es-es_text.archive",
+      "Hash": "YpBqMqjRCXY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_es-es_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hyWO8X1haLM=",
+    "Meta": null,
+    "Name": "lang_es-mx_text.archive",
+    "Size": 6987776,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_es-mx_text.archive",
+      "Hash": "hyWO8X1haLM=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_es-mx_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "edE2ts1kjFw=",
+    "Meta": null,
+    "Name": "lang_fr_text.archive",
+    "Size": 7249920,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_fr_text.archive",
+      "Hash": "edE2ts1kjFw=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_fr_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pbEacUmYRtk=",
+    "Meta": null,
+    "Name": "lang_hu_text.archive",
+    "Size": 7282688,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_hu_text.archive",
+      "Hash": "pbEacUmYRtk=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_hu_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JvVpgkevkV4=",
+    "Meta": null,
+    "Name": "lang_it_text.archive",
+    "Size": 6905856,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_it_text.archive",
+      "Hash": "JvVpgkevkV4=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_it_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VoMDeFspODQ=",
+    "Meta": null,
+    "Name": "lang_ja_text.archive",
+    "Size": 7233536,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_ja_text.archive",
+      "Hash": "VoMDeFspODQ=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_ja_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+FPuXMb5Wng=",
+    "Meta": null,
+    "Name": "lang_ko_text.archive",
+    "Size": 7315456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_ko_text.archive",
+      "Hash": "+FPuXMb5Wng=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_ko_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZJogXNMIcOI=",
+    "Meta": null,
+    "Name": "lang_pl_text.archive",
+    "Size": 7098368,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_pl_text.archive",
+      "Hash": "ZJogXNMIcOI=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_pl_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UKOb1zXXwxU=",
+    "Meta": null,
+    "Name": "lang_pt_text.archive",
+    "Size": 6991872,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_pt_text.archive",
+      "Hash": "UKOb1zXXwxU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_pt_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ohSSPK3Tjr0=",
+    "Meta": null,
+    "Name": "lang_ru_text.archive",
+    "Size": 7692288,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_ru_text.archive",
+      "Hash": "ohSSPK3Tjr0=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_ru_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gLeVwGyaH94=",
+    "Meta": null,
+    "Name": "lang_th_text.archive",
+    "Size": 7868416,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_th_text.archive",
+      "Hash": "gLeVwGyaH94=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_th_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8XXtZJxmYmM=",
+    "Meta": null,
+    "Name": "lang_tr_text.archive",
+    "Size": 7053312,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_tr_text.archive",
+      "Hash": "8XXtZJxmYmM=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_tr_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZMqS31nsqPw=",
+    "Meta": null,
+    "Name": "lang_zh-cn_text.archive",
+    "Size": 7155712,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_zh-cn_text.archive",
+      "Hash": "ZMqS31nsqPw=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_zh-cn_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FepK+0KN8DQ=",
+    "Meta": null,
+    "Name": "lang_zh-tw_text.archive",
+    "Size": 6995968,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\lang_zh-tw_text.archive",
+      "Hash": "FepK+0KN8DQ=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\lang_zh-tw_text.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kMURTlJ3BAY=",
+    "Meta": null,
+    "Name": "memoryresident_1_general.archive",
+    "Size": 13418496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "archive\\pc\\content\\memoryresident_1_general.archive",
+      "Hash": "kMURTlJ3BAY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|archive\\pc\\content\\memoryresident_1_general.archive"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+LKk2/7Stac=",
+    "Meta": null,
+    "Name": "7za.exe",
+    "Size": 1152000,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\7za.exe",
+      "Hash": "+LKk2/7Stac=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\7za.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "C2BFTdlDo2g=",
+    "Meta": null,
+    "Name": "CrashReporter.exe",
+    "Size": 86648,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\CrashReporter.exe",
+      "Hash": "C2BFTdlDo2g=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\crashreporter.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gavjPq6kUu4=",
+    "Meta": null,
+    "Name": "CrashReporter.exe.config",
+    "Size": 203,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\CrashReporter.exe.config",
+      "Hash": "gavjPq6kUu4=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\crashreporter.exe.config"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mlTlYYvizjY=",
+    "Meta": null,
+    "Name": "ThirdPartyNotices.txt",
+    "Size": 1244,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\ThirdPartyNotices.txt",
+      "Hash": "mlTlYYvizjY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\thirdpartynotices.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uIsy8KgMv1M=",
+    "Meta": null,
+    "Name": "d3d11on12.dll",
+    "Size": 1560144,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\d3d12on7\\d3d11on12.dll",
+      "Hash": "uIsy8KgMv1M=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\d3d12on7\\d3d11on12.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SGhpCQKgx1Q=",
+    "Meta": null,
+    "Name": "d3d12.dll",
+    "Size": 1906768,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\d3d12on7\\d3d12.dll",
+      "Hash": "SGhpCQKgx1Q=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\d3d12on7\\d3d12.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ISwfp/F7McA=",
+    "Meta": null,
+    "Name": "LICENSE.txt",
+    "Size": 9894,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\d3d12on7\\LICENSE.txt",
+      "Hash": "ISwfp/F7McA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\d3d12on7\\license.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IchniwscAfI=",
+    "Meta": null,
+    "Name": "animation.ini",
+    "Size": 582,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\base\\animation.ini",
+      "Hash": "IchniwscAfI=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\base\\animation.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WtPuFRM66kg=",
+    "Meta": null,
+    "Name": "general.ini",
+    "Size": 61,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\base\\general.ini",
+      "Hash": "WtPuFRM66kg=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\base\\general.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "wmJ6+ke+yBc=",
+    "Meta": null,
+    "Name": "multiplayer.ini",
+    "Size": 374,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\base\\multiplayer.ini",
+      "Hash": "wmJ6+ke+yBc=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\base\\multiplayer.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dLKjrFmqpuA=",
+    "Meta": null,
+    "Name": "rendering.ini",
+    "Size": 42,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\base\\rendering.ini",
+      "Hash": "dLKjrFmqpuA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\base\\rendering.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uzc1lKyVhF8=",
+    "Meta": null,
+    "Name": "resources.ini",
+    "Size": 46,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\base\\resources.ini",
+      "Hash": "uzc1lKyVhF8=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\base\\resources.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sSBIxEIYm6k=",
+    "Meta": null,
+    "Name": "scenesystem.ini",
+    "Size": 886,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\base\\scenesystem.ini",
+      "Hash": "sSBIxEIYm6k=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\base\\scenesystem.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TKyjJfnrfIQ=",
+    "Meta": null,
+    "Name": "smartobjects.ini",
+    "Size": 98,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\base\\smartobjects.ini",
+      "Hash": "TKyjJfnrfIQ=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\base\\smartobjects.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sS8PFJ+Z0E0=",
+    "Meta": null,
+    "Name": "options.json",
+    "Size": 76507,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\config\\settings\\options.json",
+      "Hash": "sS8PFJ+Z0E0=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\config\\settings\\options.json"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rdQ8utd1krE=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\ar\\CrashReporter.resources.dll",
+      "Hash": "rdQ8utd1krE=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\ar\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3SUrKjm7Mu4=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\cs\\CrashReporter.resources.dll",
+      "Hash": "3SUrKjm7Mu4=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\cs\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QUQKI5shdVM=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\de\\CrashReporter.resources.dll",
+      "Hash": "QUQKI5shdVM=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\de\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VFF/nRS6kB8=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\es\\CrashReporter.resources.dll",
+      "Hash": "VFF/nRS6kB8=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\es\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5FCPyJMYjtU=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\es-es\\CrashReporter.resources.dll",
+      "Hash": "5FCPyJMYjtU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\es-es\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Y1JQqD+01JU=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\fr\\CrashReporter.resources.dll",
+      "Hash": "Y1JQqD+01JU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\fr\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CHQVV6fETj0=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\hu\\CrashReporter.resources.dll",
+      "Hash": "CHQVV6fETj0=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\hu\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xl/IW98Pdhg=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\it\\CrashReporter.resources.dll",
+      "Hash": "xl/IW98Pdhg=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\it\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1ur1egVswcU=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\ja\\CrashReporter.resources.dll",
+      "Hash": "1ur1egVswcU=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\ja\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hXVSXeEKFQI=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\ko\\CrashReporter.resources.dll",
+      "Hash": "hXVSXeEKFQI=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\ko\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EzNOKWBtyQA=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\pl\\CrashReporter.resources.dll",
+      "Hash": "EzNOKWBtyQA=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\pl\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qnHoBgTIp7Q=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\pt\\CrashReporter.resources.dll",
+      "Hash": "qnHoBgTIp7Q=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\pt\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BvQ2CjIOL4E=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\ru\\CrashReporter.resources.dll",
+      "Hash": "BvQ2CjIOL4E=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\ru\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gGrVQih32zI=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 5120,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\th\\CrashReporter.resources.dll",
+      "Hash": "gGrVQih32zI=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\th\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q+HuPwh2pWY=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\tr\\CrashReporter.resources.dll",
+      "Hash": "q+HuPwh2pWY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\tr\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "A4DcQbZS1Us=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\zh-hans\\CrashReporter.resources.dll",
+      "Hash": "A4DcQbZS1Us=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\zh-hans\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "k9vM0eJe42k=",
+    "Meta": null,
+    "Name": "CrashReporter.resources.dll",
+    "Size": 4608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "bin\\x64\\CrashReporter\\zh-hant\\CrashReporter.resources.dll",
+      "Hash": "k9vM0eJe42k=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|bin\\x64\\crashreporter\\zh-hant\\crashreporter.resources.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VfMwMw4Hfxc=",
+    "Meta": null,
+    "Name": "GalaxyPeer_default.json",
+    "Size": 406,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\galaxy\\pc\\GalaxyPeer_default.json",
+      "Hash": "VfMwMw4Hfxc=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\galaxy\\pc\\galaxypeer_default.json"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "A72La9SxDlY=",
+    "Meta": null,
+    "Name": "platformgameplay.ini",
+    "Size": 125,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\platform\\pc\\platformgameplay.ini",
+      "Hash": "A72La9SxDlY=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\platform\\pc\\platformgameplay.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7tgYdd8rXeQ=",
+    "Meta": null,
+    "Name": "rendering.ini",
+    "Size": 44,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "engine\\config\\platform\\pc\\rendering.ini",
+      "Hash": "7tgYdd8rXeQ=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|engine\\config\\platform\\pc\\rendering.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "n95oFmvVAug=",
+    "Meta": null,
+    "Name": "options.json",
+    "Size": 77632,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Cyberpunk2077",
+      "GameFile": "r6\\config\\settings\\platform\\pc\\options.json",
+      "Hash": "n95oFmvVAug=",
+      "GameVersion": "1.5",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Cyberpunk2077|1.5|r6\\config\\settings\\platform\\pc\\options.json"
+    }
+  }
+]
