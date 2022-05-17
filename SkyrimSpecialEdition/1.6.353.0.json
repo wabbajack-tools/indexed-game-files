@@ -61,6 +61,21 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LwD7Bt4rEdo=",
+    "Meta": null,
+    "Name": "gpu.txt",
+    "Size": 23,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "gpu.txt",
+      "Hash": "LwD7Bt4rEdo=",
+      "GameVersion": "1.6.353.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|gpu.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ia6Y2mEquMg=",
     "Meta": null,
     "Name": "High.ini",
@@ -1306,7 +1321,7 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "DnB4nqucCP4=",
+    "Hash": "ewc8cVgdm24=",
     "Meta": null,
     "Name": "ccasvsse001-almsivi.bsa",
     "Size": 523956477,
@@ -1314,7 +1329,7 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccasvsse001-almsivi.bsa",
-      "Hash": "DnB4nqucCP4=",
+      "Hash": "ewc8cVgdm24=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccasvsse001-almsivi.bsa"
     }
