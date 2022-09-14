@@ -16,51 +16,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "ifra1vPD7JE=",
-    "Meta": null,
-    "Name": "CreationKit.exe",
-    "Size": 47319432,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "CreationKit.exe",
-      "Hash": "ifra1vPD7JE=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creationkit.exe"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "BcsmObjEj9s=",
-    "Meta": null,
-    "Name": "CreationKit.ini",
-    "Size": 2709,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "CreationKit.ini",
-      "Hash": "BcsmObjEj9s=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creationkit.ini"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "bWL9LiYirZI=",
-    "Meta": null,
-    "Name": "flowchartx64.dll",
-    "Size": 2972608,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "flowchartx64.dll",
-      "Hash": "bWL9LiYirZI=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|flowchartx64.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "ia6Y2mEquMg=",
     "Meta": null,
     "Name": "High.ini",
@@ -117,21 +72,6 @@
       "Hash": "tBVeSwhhyNk=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|medium.ini"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "fZc1l6G61BQ=",
-    "Meta": null,
-    "Name": "p4com64.dll",
-    "Size": 1219072,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "p4com64.dll",
-      "Hash": "fZc1l6G61BQ=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|p4com64.dll"
     }
   },
   {
@@ -228,30 +168,30 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "lroq+D1ZCV8=",
     "Meta": null,
-    "Name": "4036197-3.manifest",
+    "Name": "4036197-4.manifest",
     "Size": 78,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4036197-3.manifest",
+      "GameFile": "Creations\\4036197-4.manifest",
       "Hash": "lroq+D1ZCV8=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036197-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036197-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "Kpg6yD/ewRw=",
     "Meta": null,
-    "Name": "4036199-6.manifest",
+    "Name": "4036199-7.manifest",
     "Size": 60,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4036199-6.manifest",
+      "GameFile": "Creations\\4036199-7.manifest",
       "Hash": "Kpg6yD/ewRw=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036199-6.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036199-7.manifest"
     }
   },
   {
@@ -288,75 +228,75 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "bNFQEvuBFv8=",
     "Meta": null,
-    "Name": "4036203-3.manifest",
+    "Name": "4036203-4.manifest",
     "Size": 80,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4036203-3.manifest",
+      "GameFile": "Creations\\4036203-4.manifest",
       "Hash": "bNFQEvuBFv8=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036203-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036203-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "Zg3506IPZmA=",
     "Meta": null,
-    "Name": "4036204-2.manifest",
+    "Name": "4036204-3.manifest",
     "Size": 74,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4036204-2.manifest",
+      "GameFile": "Creations\\4036204-3.manifest",
       "Hash": "Zg3506IPZmA=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036204-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036204-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "tPiGNXOnK6Q=",
     "Meta": null,
-    "Name": "4036205-5.manifest",
+    "Name": "4036205-6.manifest",
     "Size": 70,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4036205-5.manifest",
+      "GameFile": "Creations\\4036205-6.manifest",
       "Hash": "tPiGNXOnK6Q=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036205-5.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036205-6.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "gD/zwCW0Gkg=",
     "Meta": null,
-    "Name": "4036206-5.manifest",
+    "Name": "4036206-6.manifest",
     "Size": 68,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4036206-5.manifest",
+      "GameFile": "Creations\\4036206-6.manifest",
       "Hash": "gD/zwCW0Gkg=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036206-5.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4036206-6.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "zaDiMRJB3sM=",
     "Meta": null,
-    "Name": "4042546-4.manifest",
+    "Name": "4042546-5.manifest",
     "Size": 64,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4042546-4.manifest",
+      "GameFile": "Creations\\4042546-5.manifest",
       "Hash": "zaDiMRJB3sM=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4042546-4.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4042546-5.manifest"
     }
   },
   {
@@ -378,60 +318,60 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "suaLjHywY1U=",
     "Meta": null,
-    "Name": "4059051-2.manifest",
+    "Name": "4059051-3.manifest",
     "Size": 64,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4059051-2.manifest",
+      "GameFile": "Creations\\4059051-3.manifest",
       "Hash": "suaLjHywY1U=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4059051-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4059051-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "9Sm+3XMbS7c=",
     "Meta": null,
-    "Name": "4059054-2.manifest",
+    "Name": "4059054-4.manifest",
     "Size": 58,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4059054-2.manifest",
+      "GameFile": "Creations\\4059054-4.manifest",
       "Hash": "9Sm+3XMbS7c=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4059054-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4059054-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "mmQdbPVFrZY=",
     "Meta": null,
-    "Name": "4059057-2.manifest",
+    "Name": "4059057-3.manifest",
     "Size": 64,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4059057-2.manifest",
+      "GameFile": "Creations\\4059057-3.manifest",
       "Hash": "mmQdbPVFrZY=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4059057-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4059057-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "QgM37NEvYxI=",
     "Meta": null,
-    "Name": "4059060-2.manifest",
+    "Name": "4059060-3.manifest",
     "Size": 62,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4059060-2.manifest",
+      "GameFile": "Creations\\4059060-3.manifest",
       "Hash": "QgM37NEvYxI=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4059060-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4059060-3.manifest"
     }
   },
   {
@@ -453,15 +393,15 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "CLekAc1B/+Q=",
     "Meta": null,
-    "Name": "4078130-3.manifest",
+    "Name": "4078130-4.manifest",
     "Size": 58,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4078130-3.manifest",
+      "GameFile": "Creations\\4078130-4.manifest",
       "Hash": "CLekAc1B/+Q=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4078130-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4078130-4.manifest"
     }
   },
   {
@@ -483,60 +423,60 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "/SiuBeoHJ3Y=",
     "Meta": null,
-    "Name": "4078138-3.manifest",
+    "Name": "4078138-4.manifest",
     "Size": 56,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4078138-3.manifest",
+      "GameFile": "Creations\\4078138-4.manifest",
       "Hash": "/SiuBeoHJ3Y=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4078138-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4078138-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "ls80tCzUif4=",
     "Meta": null,
-    "Name": "4078144-3.manifest",
+    "Name": "4078144-4.manifest",
     "Size": 54,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4078144-3.manifest",
+      "GameFile": "Creations\\4078144-4.manifest",
       "Hash": "ls80tCzUif4=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4078144-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4078144-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "reEmqK4GO38=",
     "Meta": null,
-    "Name": "4081273-6.manifest",
+    "Name": "4081273-7.manifest",
     "Size": 62,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4081273-6.manifest",
+      "GameFile": "Creations\\4081273-7.manifest",
       "Hash": "reEmqK4GO38=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4081273-6.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4081273-7.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "VrDYE98LHRk=",
     "Meta": null,
-    "Name": "4081276-6.manifest",
+    "Name": "4081276-7.manifest",
     "Size": 62,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4081276-6.manifest",
+      "GameFile": "Creations\\4081276-7.manifest",
       "Hash": "VrDYE98LHRk=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4081276-6.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4081276-7.manifest"
     }
   },
   {
@@ -558,15 +498,15 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "gkge6AGd5Ro=",
     "Meta": null,
-    "Name": "4087490-3.manifest",
+    "Name": "4087490-4.manifest",
     "Size": 58,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4087490-3.manifest",
+      "GameFile": "Creations\\4087490-4.manifest",
       "Hash": "gkge6AGd5Ro=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4087490-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4087490-4.manifest"
     }
   },
   {
@@ -588,15 +528,15 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "rYhSRZ+bFUM=",
     "Meta": null,
-    "Name": "4087496-4.manifest",
+    "Name": "4087496-5.manifest",
     "Size": 74,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4087496-4.manifest",
+      "GameFile": "Creations\\4087496-5.manifest",
       "Hash": "rYhSRZ+bFUM=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4087496-4.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4087496-5.manifest"
     }
   },
   {
@@ -618,30 +558,30 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "xTk/+eafnkU=",
     "Meta": null,
-    "Name": "4087502-3.manifest",
+    "Name": "4087502-4.manifest",
     "Size": 68,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4087502-3.manifest",
+      "GameFile": "Creations\\4087502-4.manifest",
       "Hash": "xTk/+eafnkU=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4087502-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4087502-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "uD9BTR4oLOo=",
     "Meta": null,
-    "Name": "4098870-3.manifest",
+    "Name": "4098870-4.manifest",
     "Size": 58,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4098870-3.manifest",
+      "GameFile": "Creations\\4098870-4.manifest",
       "Hash": "uD9BTR4oLOo=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4098870-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4098870-4.manifest"
     }
   },
   {
@@ -663,150 +603,150 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "eW0kHu/bhjU=",
     "Meta": null,
-    "Name": "4098882-2.manifest",
+    "Name": "4098882-3.manifest",
     "Size": 56,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4098882-2.manifest",
+      "GameFile": "Creations\\4098882-3.manifest",
       "Hash": "eW0kHu/bhjU=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4098882-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4098882-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "rkJDXiJqhuM=",
     "Meta": null,
-    "Name": "4098885-3.manifest",
+    "Name": "4098885-4.manifest",
     "Size": 64,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4098885-3.manifest",
+      "GameFile": "Creations\\4098885-4.manifest",
       "Hash": "rkJDXiJqhuM=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4098885-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4098885-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "4vnf7RM6gRI=",
     "Meta": null,
-    "Name": "4110977-3.manifest",
+    "Name": "4110977-4.manifest",
     "Size": 70,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4110977-3.manifest",
+      "GameFile": "Creations\\4110977-4.manifest",
       "Hash": "4vnf7RM6gRI=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110977-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110977-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "z9Ir079DfGA=",
     "Meta": null,
-    "Name": "4110980-6.manifest",
+    "Name": "4110980-7.manifest",
     "Size": 62,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4110980-6.manifest",
+      "GameFile": "Creations\\4110980-7.manifest",
       "Hash": "z9Ir079DfGA=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110980-6.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110980-7.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "dyOxlo7RjZ0=",
     "Meta": null,
-    "Name": "4110983-2.manifest",
+    "Name": "4110983-3.manifest",
     "Size": 70,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4110983-2.manifest",
+      "GameFile": "Creations\\4110983-3.manifest",
       "Hash": "dyOxlo7RjZ0=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110983-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110983-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "S9x0Z0/xkko=",
     "Meta": null,
-    "Name": "4110986-3.manifest",
+    "Name": "4110986-4.manifest",
     "Size": 68,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4110986-3.manifest",
+      "GameFile": "Creations\\4110986-4.manifest",
       "Hash": "S9x0Z0/xkko=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110986-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110986-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "idgqmoeKpEU=",
     "Meta": null,
-    "Name": "4110989-3.manifest",
+    "Name": "4110989-4.manifest",
     "Size": 74,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4110989-3.manifest",
+      "GameFile": "Creations\\4110989-4.manifest",
       "Hash": "idgqmoeKpEU=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110989-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110989-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "TOVTs0DPBu4=",
     "Meta": null,
-    "Name": "4110993-3.manifest",
+    "Name": "4110993-4.manifest",
     "Size": 74,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4110993-3.manifest",
+      "GameFile": "Creations\\4110993-4.manifest",
       "Hash": "TOVTs0DPBu4=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110993-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110993-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "vvez3K17s64=",
     "Meta": null,
-    "Name": "4110999-3.manifest",
+    "Name": "4110999-4.manifest",
     "Size": 62,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4110999-3.manifest",
+      "GameFile": "Creations\\4110999-4.manifest",
       "Hash": "vvez3K17s64=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110999-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4110999-4.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "QHs3WAFFvyA=",
     "Meta": null,
-    "Name": "4111002-3.manifest",
+    "Name": "4111002-4.manifest",
     "Size": 74,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4111002-3.manifest",
+      "GameFile": "Creations\\4111002-4.manifest",
       "Hash": "QHs3WAFFvyA=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4111002-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4111002-4.manifest"
     }
   },
   {
@@ -858,45 +798,45 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "BlXad2SxMWs=",
     "Meta": null,
-    "Name": "4135493-2.manifest",
+    "Name": "4135493-3.manifest",
     "Size": 62,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4135493-2.manifest",
+      "GameFile": "Creations\\4135493-3.manifest",
       "Hash": "BlXad2SxMWs=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4135493-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4135493-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "/YCC7J9sGn8=",
     "Meta": null,
-    "Name": "4135496-2.manifest",
+    "Name": "4135496-3.manifest",
     "Size": 64,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4135496-2.manifest",
+      "GameFile": "Creations\\4135496-3.manifest",
       "Hash": "/YCC7J9sGn8=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4135496-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4135496-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "3ZtITnkfR5Y=",
     "Meta": null,
-    "Name": "4135499-2.manifest",
+    "Name": "4135499-3.manifest",
     "Size": 62,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4135499-2.manifest",
+      "GameFile": "Creations\\4135499-3.manifest",
       "Hash": "3ZtITnkfR5Y=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4135499-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4135499-3.manifest"
     }
   },
   {
@@ -993,75 +933,75 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "93SAPSZwbuA=",
     "Meta": null,
-    "Name": "4202984-2.manifest",
+    "Name": "4202984-3.manifest",
     "Size": 74,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4202984-2.manifest",
+      "GameFile": "Creations\\4202984-3.manifest",
       "Hash": "93SAPSZwbuA=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4202984-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4202984-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "MeNv+Ct4dLs=",
     "Meta": null,
-    "Name": "4233855-2.manifest",
+    "Name": "4233855-3.manifest",
     "Size": 64,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4233855-2.manifest",
+      "GameFile": "Creations\\4233855-3.manifest",
       "Hash": "MeNv+Ct4dLs=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233855-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233855-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "35vIrNNSAMw=",
     "Meta": null,
-    "Name": "4233858-2.manifest",
+    "Name": "4233858-3.manifest",
     "Size": 56,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4233858-2.manifest",
+      "GameFile": "Creations\\4233858-3.manifest",
       "Hash": "35vIrNNSAMw=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233858-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233858-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "K3ntWxDYc9o=",
     "Meta": null,
-    "Name": "4233861-2.manifest",
+    "Name": "4233861-3.manifest",
     "Size": 64,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4233861-2.manifest",
+      "GameFile": "Creations\\4233861-3.manifest",
       "Hash": "K3ntWxDYc9o=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233861-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233861-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "P2WHlAenJyo=",
     "Meta": null,
-    "Name": "4233865-2.manifest",
+    "Name": "4233865-3.manifest",
     "Size": 66,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4233865-2.manifest",
+      "GameFile": "Creations\\4233865-3.manifest",
       "Hash": "P2WHlAenJyo=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233865-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233865-3.manifest"
     }
   },
   {
@@ -1173,15 +1113,15 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "8cPpyIlMoUc=",
     "Meta": null,
-    "Name": "4233893-2.manifest",
+    "Name": "4233893-3.manifest",
     "Size": 64,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4233893-2.manifest",
+      "GameFile": "Creations\\4233893-3.manifest",
       "Hash": "8cPpyIlMoUc=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233893-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233893-3.manifest"
     }
   },
   {
@@ -1203,45 +1143,45 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "fe/xq8nEsqw=",
     "Meta": null,
-    "Name": "4233899-2.manifest",
+    "Name": "4233899-3.manifest",
     "Size": 58,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4233899-2.manifest",
+      "GameFile": "Creations\\4233899-3.manifest",
       "Hash": "fe/xq8nEsqw=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233899-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233899-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "qJqR4vjnIdg=",
     "Meta": null,
-    "Name": "4233904-2.manifest",
+    "Name": "4233904-3.manifest",
     "Size": 62,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4233904-2.manifest",
+      "GameFile": "Creations\\4233904-3.manifest",
       "Hash": "qJqR4vjnIdg=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233904-2.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233904-3.manifest"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "sf9fl2k3Ffs=",
     "Meta": null,
-    "Name": "4233908-3.manifest",
+    "Name": "4233908-4.manifest",
     "Size": 54,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Creations\\4233908-3.manifest",
+      "GameFile": "Creations\\4233908-4.manifest",
       "Hash": "sf9fl2k3Ffs=",
       "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233908-3.manifest"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|creations\\4233908-4.manifest"
     }
   },
   {
@@ -1276,15 +1216,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "OFF/XldDPuU=",
+    "Hash": "mHGa9ImHS+c=",
     "Meta": null,
     "Name": "ccafdsse001-dwesanctuary.bsa",
-    "Size": 4738772,
+    "Size": 4758160,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccafdsse001-dwesanctuary.bsa",
-      "Hash": "OFF/XldDPuU=",
+      "Hash": "mHGa9ImHS+c=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccafdsse001-dwesanctuary.bsa"
     }
@@ -1366,60 +1306,60 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "pdE+4ILtacQ=",
+    "Hash": "OSvp29+JsZ4=",
     "Meta": null,
     "Name": "ccbgssse002-exoticarrows.bsa",
-    "Size": 69796546,
+    "Size": 69803784,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse002-exoticarrows.bsa",
-      "Hash": "pdE+4ILtacQ=",
+      "Hash": "OSvp29+JsZ4=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse002-exoticarrows.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "K9tMZtnzP14=",
+    "Hash": "CMP6vHFQo0M=",
     "Meta": null,
     "Name": "ccbgssse002-exoticarrows.esl",
-    "Size": 182183,
+    "Size": 182186,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse002-exoticarrows.esl",
-      "Hash": "K9tMZtnzP14=",
+      "Hash": "CMP6vHFQo0M=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse002-exoticarrows.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "8FMS9oVlV7U=",
+    "Hash": "8GqzYpx+dr0=",
     "Meta": null,
     "Name": "ccbgssse003-zombies.bsa",
-    "Size": 112479047,
+    "Size": 112488634,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse003-zombies.bsa",
-      "Hash": "8FMS9oVlV7U=",
+      "Hash": "8GqzYpx+dr0=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse003-zombies.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "BlgC7cSAjU4=",
+    "Hash": "J1OBaw/kVu0=",
     "Meta": null,
     "Name": "ccbgssse003-zombies.esl",
-    "Size": 180906,
+    "Size": 180899,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse003-zombies.esl",
-      "Hash": "BlgC7cSAjU4=",
+      "Hash": "J1OBaw/kVu0=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse003-zombies.esl"
     }
@@ -1456,52 +1396,52 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "dfrV+OjK4fA=",
+    "Hash": "2ECX7tawnk8=",
     "Meta": null,
     "Name": "ccbgssse005-goldbrand.bsa",
-    "Size": 11207150,
+    "Size": 11231646,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse005-goldbrand.bsa",
-      "Hash": "dfrV+OjK4fA=",
+      "Hash": "2ECX7tawnk8=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse005-goldbrand.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "33E4RtRSjgg=",
+    "Hash": "v4abJ5KVyEw=",
     "Meta": null,
     "Name": "ccbgssse005-goldbrand.esl",
-    "Size": 167868,
+    "Size": 213662,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse005-goldbrand.esl",
-      "Hash": "33E4RtRSjgg=",
+      "Hash": "v4abJ5KVyEw=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse005-goldbrand.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "yG095CIZvNo=",
+    "Hash": "Y0s+WGGFJdA=",
     "Meta": null,
     "Name": "ccbgssse006-stendarshammer.bsa",
-    "Size": 33735021,
+    "Size": 33736697,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse006-stendarshammer.bsa",
-      "Hash": "yG095CIZvNo=",
+      "Hash": "Y0s+WGGFJdA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse006-stendarshammer.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "plbvq+jr8k0=",
+    "Hash": "1s/fHRPFhnY=",
     "Meta": null,
     "Name": "ccbgssse006-stendarshammer.esl",
     "Size": 4539,
@@ -1509,7 +1449,7 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse006-stendarshammer.esl",
-      "Hash": "plbvq+jr8k0=",
+      "Hash": "1s/fHRPFhnY=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse006-stendarshammer.esl"
     }
@@ -1546,45 +1486,45 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "69PBc8gEOHo=",
+    "Hash": "UYAkcK7eeDQ=",
     "Meta": null,
     "Name": "ccbgssse008-wraithguard.bsa",
-    "Size": 37724120,
+    "Size": 37750618,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse008-wraithguard.bsa",
-      "Hash": "69PBc8gEOHo=",
+      "Hash": "UYAkcK7eeDQ=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse008-wraithguard.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "OclR9+4RSg4=",
+    "Hash": "wzF/6r5/TbM=",
     "Meta": null,
     "Name": "ccbgssse008-wraithguard.esl",
-    "Size": 194890,
+    "Size": 240477,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse008-wraithguard.esl",
-      "Hash": "SVhVBOY6PDQ=",
-      "GameVersion": "OclR9+4RSg4=",
+      "Hash": "wzF/6r5/TbM=",
+      "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse008-wraithguard.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "J5Cb/f9SoBo=",
+    "Hash": "dROSRNttyHs=",
     "Meta": null,
     "Name": "ccbgssse010-petdwarvenarmoredmudcrab.bsa",
-    "Size": 45192190,
+    "Size": 45198131,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse010-petdwarvenarmoredmudcrab.bsa",
-      "Hash": "J5Cb/f9SoBo=",
+      "Hash": "dROSRNttyHs=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse010-petdwarvenarmoredmudcrab.bsa"
     }
@@ -1666,52 +1606,52 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "o3m43SOtOBc=",
+    "Hash": "KaoJPs31wtA=",
     "Meta": null,
     "Name": "ccbgssse013-dawnfang.bsa",
-    "Size": 28582464,
+    "Size": 28625104,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse013-dawnfang.bsa",
-      "Hash": "o3m43SOtOBc=",
+      "Hash": "KaoJPs31wtA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse013-dawnfang.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "jvfEJInHhMM=",
+    "Hash": "E7CdHw+ujn8=",
     "Meta": null,
     "Name": "ccbgssse013-dawnfang.esl",
-    "Size": 238807,
+    "Size": 244256,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse013-dawnfang.esl",
-      "Hash": "jvfEJInHhMM=",
+      "Hash": "E7CdHw+ujn8=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse013-dawnfang.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "ZXwO6lSJXlE=",
+    "Hash": "EClHFIsMPNk=",
     "Meta": null,
     "Name": "ccbgssse014-spellpack01.bsa",
-    "Size": 22237328,
+    "Size": 22249957,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse014-spellpack01.bsa",
-      "Hash": "ZXwO6lSJXlE=",
+      "Hash": "EClHFIsMPNk=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse014-spellpack01.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "t0Es0Hri5Ek=",
+    "Hash": "qmZo5NOcb68=",
     "Meta": null,
     "Name": "ccbgssse014-spellpack01.esl",
     "Size": 45414,
@@ -1719,37 +1659,37 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse014-spellpack01.esl",
-      "Hash": "t0Es0Hri5Ek=",
+      "Hash": "qmZo5NOcb68=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse014-spellpack01.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "R1RT+Jp+Jjc=",
+    "Hash": "HRNDxoXRQ6g=",
     "Meta": null,
     "Name": "ccbgssse016-umbra.bsa",
-    "Size": 10269433,
+    "Size": 10284176,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse016-umbra.bsa",
-      "Hash": "R1RT+Jp+Jjc=",
+      "Hash": "HRNDxoXRQ6g=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse016-umbra.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "N1hnQYdqR9E=",
+    "Hash": "wi6fHnJCO3A=",
     "Meta": null,
     "Name": "ccbgssse016-umbra.esm",
-    "Size": 471111,
+    "Size": 471115,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse016-umbra.esm",
-      "Hash": "N1hnQYdqR9E=",
+      "Hash": "wi6fHnJCO3A=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse016-umbra.esm"
     }
@@ -1771,45 +1711,45 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "itLtqYSLMrY=",
+    "Hash": "TpE1I6y8f+Y=",
     "Meta": null,
     "Name": "ccbgssse018-shadowrend.esl",
-    "Size": 207426,
+    "Size": 253552,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse018-shadowrend.esl",
-      "Hash": "itLtqYSLMrY=",
+      "Hash": "TpE1I6y8f+Y=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse018-shadowrend.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "+nJagseIUx0=",
+    "Hash": "t8KbBwo8odk=",
     "Meta": null,
     "Name": "ccbgssse019-staffofsheogorath.bsa",
-    "Size": 11882004,
+    "Size": 11887694,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse019-staffofsheogorath.bsa",
-      "Hash": "+nJagseIUx0=",
+      "Hash": "t8KbBwo8odk=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse019-staffofsheogorath.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "NhTZOp7K1JM=",
+    "Hash": "xDtDUPArH7U=",
     "Meta": null,
     "Name": "ccbgssse019-staffofsheogorath.esl",
-    "Size": 172969,
+    "Size": 172972,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse019-staffofsheogorath.esl",
-      "Hash": "NhTZOp7K1JM=",
+      "Hash": "xDtDUPArH7U=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse019-staffofsheogorath.esl"
     }
@@ -1846,22 +1786,22 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "XL5RBI6IJYU=",
+    "Hash": "9aniDZrGISs=",
     "Meta": null,
     "Name": "ccbgssse021-lordsmail.bsa",
-    "Size": 45864281,
+    "Size": 45873038,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse021-lordsmail.bsa",
-      "Hash": "XL5RBI6IJYU=",
+      "Hash": "9aniDZrGISs=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse021-lordsmail.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "ugdhQCZHZY0=",
+    "Hash": "nElKz149iTI=",
     "Meta": null,
     "Name": "ccbgssse021-lordsmail.esl",
     "Size": 113076,
@@ -1869,7 +1809,7 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse021-lordsmail.esl",
-      "Hash": "ugdhQCZHZY0=",
+      "Hash": "nElKz149iTI=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse021-lordsmail.esl"
     }
@@ -1936,90 +1876,90 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "MEk9M2lEH4Q=",
+    "Hash": "IkRkyN8KzIs=",
     "Meta": null,
     "Name": "ccbgssse034-mntuni.bsa",
-    "Size": 76537635,
+    "Size": 76553696,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse034-mntuni.bsa",
-      "Hash": "MEk9M2lEH4Q=",
+      "Hash": "IkRkyN8KzIs=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse034-mntuni.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "O4gEjE/IFy0=",
+    "Hash": "PlJsg/qBwjw=",
     "Meta": null,
     "Name": "ccbgssse034-mntuni.esl",
-    "Size": 145999,
+    "Size": 146032,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse034-mntuni.esl",
-      "Hash": "O4gEjE/IFy0=",
+      "Hash": "PlJsg/qBwjw=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse034-mntuni.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "NPyE5LRE5nk=",
+    "Hash": "xG1YFSkpOeg=",
     "Meta": null,
     "Name": "ccbgssse035-petnhound.bsa",
-    "Size": 41636962,
+    "Size": 41641998,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse035-petnhound.bsa",
-      "Hash": "NPyE5LRE5nk=",
+      "Hash": "xG1YFSkpOeg=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse035-petnhound.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "XAA8VtsIo14=",
+    "Hash": "Eu/S3M33M0s=",
     "Meta": null,
     "Name": "ccbgssse035-petnhound.esl",
-    "Size": 201845,
+    "Size": 201862,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse035-petnhound.esl",
-      "Hash": "XAA8VtsIo14=",
+      "Hash": "Eu/S3M33M0s=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse035-petnhound.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "J7E0tA7JzAA=",
+    "Hash": "9XHYTHSUp9M=",
     "Meta": null,
     "Name": "ccbgssse036-petbwolf.bsa",
-    "Size": 17941546,
+    "Size": 17949273,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse036-petbwolf.bsa",
-      "Hash": "J7E0tA7JzAA=",
+      "Hash": "9XHYTHSUp9M=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse036-petbwolf.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "96MOraGwjIw=",
+    "Hash": "NyQj4SdMlBA=",
     "Meta": null,
     "Name": "ccbgssse036-petbwolf.esl",
-    "Size": 135106,
+    "Size": 135117,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse036-petbwolf.esl",
-      "Hash": "96MOraGwjIw=",
+      "Hash": "NyQj4SdMlBA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse036-petbwolf.esl"
     }
@@ -2056,15 +1996,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "9opwWrJnq+8=",
+    "Hash": "m1tRQAKDfUk=",
     "Meta": null,
     "Name": "ccbgssse038-bowofshadows.bsa",
-    "Size": 7036194,
+    "Size": 7056850,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse038-bowofshadows.bsa",
-      "Hash": "9opwWrJnq+8=",
+      "Hash": "m1tRQAKDfUk=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse038-bowofshadows.bsa"
     }
@@ -2086,60 +2026,60 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "O+GQ1jqZrJY=",
+    "Hash": "JYzqwqj6AqA=",
     "Meta": null,
     "Name": "ccbgssse040-advobgobs.bsa",
-    "Size": 77404048,
+    "Size": 77425181,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse040-advobgobs.bsa",
-      "Hash": "O+GQ1jqZrJY=",
+      "Hash": "JYzqwqj6AqA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse040-advobgobs.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "O2aDr/0GhBE=",
+    "Hash": "Yh2ZIHhbvFU=",
     "Meta": null,
     "Name": "ccbgssse040-advobgobs.esl",
-    "Size": 270539,
+    "Size": 316111,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse040-advobgobs.esl",
-      "Hash": "O2aDr/0GhBE=",
+      "Hash": "Yh2ZIHhbvFU=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse040-advobgobs.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "LyGTi1pRIx4=",
+    "Hash": "sp8oNxNRA1o=",
     "Meta": null,
     "Name": "ccbgssse041-netchleather.bsa",
-    "Size": 122093292,
+    "Size": 122116053,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse041-netchleather.bsa",
-      "Hash": "LyGTi1pRIx4=",
+      "Hash": "sp8oNxNRA1o=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse041-netchleather.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "kvKq8zoInOc=",
+    "Hash": "addF4xCQ3pE=",
     "Meta": null,
     "Name": "ccbgssse041-netchleather.esl",
-    "Size": 263372,
+    "Size": 263377,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse041-netchleather.esl",
-      "Hash": "kvKq8zoInOc=",
+      "Hash": "addF4xCQ3pE=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse041-netchleather.esl"
     }
@@ -2176,90 +2116,90 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "mSXndZL6hv4=",
+    "Hash": "5hAEB4PveGk=",
     "Meta": null,
     "Name": "ccbgssse045-hasedoki.bsa",
-    "Size": 6429214,
+    "Size": 6471111,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse045-hasedoki.bsa",
-      "Hash": "mSXndZL6hv4=",
+      "Hash": "5hAEB4PveGk=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse045-hasedoki.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "h82EaMvfK9g=",
+    "Hash": "Mf2uPbwTtOk=",
     "Meta": null,
     "Name": "ccbgssse045-hasedoki.esl",
-    "Size": 117015,
+    "Size": 117019,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse045-hasedoki.esl",
-      "Hash": "h82EaMvfK9g=",
+      "Hash": "Mf2uPbwTtOk=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse045-hasedoki.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "anIiNGOotFI=",
+    "Hash": "h9JtFczlXnM=",
     "Meta": null,
     "Name": "ccbgssse050-ba_daedric.bsa",
-    "Size": 26494278,
+    "Size": 26519981,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse050-ba_daedric.bsa",
-      "Hash": "anIiNGOotFI=",
+      "Hash": "h9JtFczlXnM=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse050-ba_daedric.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "WIw2BWj47qA=",
+    "Hash": "H/jmfns/qZw=",
     "Meta": null,
     "Name": "ccbgssse050-ba_daedric.esl",
-    "Size": 118362,
+    "Size": 118387,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse050-ba_daedric.esl",
-      "Hash": "WIw2BWj47qA=",
+      "Hash": "H/jmfns/qZw=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse050-ba_daedric.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "K1aQQixmOeQ=",
+    "Hash": "Qp+GCbOHC3Q=",
     "Meta": null,
     "Name": "ccbgssse051-ba_daedricmail.bsa",
-    "Size": 47622910,
+    "Size": 47651851,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse051-ba_daedricmail.bsa",
-      "Hash": "K1aQQixmOeQ=",
+      "Hash": "Qp+GCbOHC3Q=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse051-ba_daedricmail.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "1AtUUjAdijY=",
+    "Hash": "E/WpGxksCA4=",
     "Meta": null,
     "Name": "ccbgssse051-ba_daedricmail.esl",
-    "Size": 121473,
+    "Size": 121476,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse051-ba_daedricmail.esl",
-      "Hash": "1AtUUjAdijY=",
+      "Hash": "E/WpGxksCA4=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse051-ba_daedricmail.esl"
     }
@@ -2386,150 +2326,150 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "H+VJqoPVQLQ=",
+    "Hash": "6s2/QcG90Gg=",
     "Meta": null,
     "Name": "ccbgssse056-ba_silver.bsa",
-    "Size": 48124286,
+    "Size": 48153667,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse056-ba_silver.bsa",
-      "Hash": "H+VJqoPVQLQ=",
+      "Hash": "6s2/QcG90Gg=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse056-ba_silver.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "8l9Rbi5eIgA=",
+    "Hash": "FI5gNEx3ptU=",
     "Meta": null,
     "Name": "ccbgssse056-ba_silver.esl",
-    "Size": 114505,
+    "Size": 114511,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse056-ba_silver.esl",
-      "Hash": "8l9Rbi5eIgA=",
+      "Hash": "FI5gNEx3ptU=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse056-ba_silver.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "VJ5XdoZxq4A=",
+    "Hash": "3om5KcXQX24=",
     "Meta": null,
     "Name": "ccbgssse057-ba_stalhrim.bsa",
-    "Size": 29317105,
+    "Size": 29322687,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse057-ba_stalhrim.bsa",
-      "Hash": "VJ5XdoZxq4A=",
+      "Hash": "3om5KcXQX24=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse057-ba_stalhrim.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "C2/gD+OAfTs=",
+    "Hash": "Z1lrUZ0dM7s=",
     "Meta": null,
     "Name": "ccbgssse057-ba_stalhrim.esl",
-    "Size": 176132,
+    "Size": 176136,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse057-ba_stalhrim.esl",
-      "Hash": "C2/gD+OAfTs=",
+      "Hash": "Z1lrUZ0dM7s=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse057-ba_stalhrim.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "6ja5Ncy2/GI=",
+    "Hash": "fVgJtbFLs/M=",
     "Meta": null,
     "Name": "ccbgssse058-ba_steel.bsa",
-    "Size": 50757021,
+    "Size": 50766738,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse058-ba_steel.bsa",
-      "Hash": "6ja5Ncy2/GI=",
+      "Hash": "fVgJtbFLs/M=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse058-ba_steel.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "o1LW5Y2ymHc=",
+    "Hash": "xAoGws7MxUQ=",
     "Meta": null,
     "Name": "ccbgssse058-ba_steel.esl",
-    "Size": 120622,
+    "Size": 120621,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse058-ba_steel.esl",
-      "Hash": "o1LW5Y2ymHc=",
+      "Hash": "xAoGws7MxUQ=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse058-ba_steel.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "UiBrkhsIbYM=",
+    "Hash": "n9G2PiOCOo0=",
     "Meta": null,
     "Name": "ccbgssse059-ba_dragonplate.bsa",
-    "Size": 55366850,
+    "Size": 55387235,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse059-ba_dragonplate.bsa",
-      "Hash": "UiBrkhsIbYM=",
+      "Hash": "n9G2PiOCOo0=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse059-ba_dragonplate.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "iE8J3nA+1so=",
+    "Hash": "bl1MZwpxHJQ=",
     "Meta": null,
     "Name": "ccbgssse059-ba_dragonplate.esl",
-    "Size": 131185,
+    "Size": 131189,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse059-ba_dragonplate.esl",
-      "Hash": "iE8J3nA+1so=",
+      "Hash": "bl1MZwpxHJQ=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse059-ba_dragonplate.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "xKL2sgEGd58=",
+    "Hash": "5sW2Y6+dVeo=",
     "Meta": null,
     "Name": "ccbgssse060-ba_dragonscale.bsa",
-    "Size": 40369263,
+    "Size": 40386574,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse060-ba_dragonscale.bsa",
-      "Hash": "xKL2sgEGd58=",
+      "Hash": "5sW2Y6+dVeo=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse060-ba_dragonscale.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "8XPHvC21Zm8=",
+    "Hash": "/kIow89aulU=",
     "Meta": null,
     "Name": "ccbgssse060-ba_dragonscale.esl",
-    "Size": 116450,
+    "Size": 116459,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse060-ba_dragonscale.esl",
-      "Hash": "8XPHvC21Zm8=",
+      "Hash": "/kIow89aulU=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse060-ba_dragonscale.esl"
     }
@@ -2566,120 +2506,120 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "aGsr4p9q4jU=",
+    "Hash": "0/5oRUgg5Fg=",
     "Meta": null,
     "Name": "ccbgssse062-ba_dwarvenmail.bsa",
-    "Size": 32978564,
+    "Size": 32992326,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse062-ba_dwarvenmail.bsa",
-      "Hash": "aGsr4p9q4jU=",
+      "Hash": "0/5oRUgg5Fg=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse062-ba_dwarvenmail.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "CeVa+FjI+jk=",
+    "Hash": "yixbrUYtmC0=",
     "Meta": null,
     "Name": "ccbgssse062-ba_dwarvenmail.esl",
-    "Size": 114046,
+    "Size": 114053,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse062-ba_dwarvenmail.esl",
-      "Hash": "CeVa+FjI+jk=",
+      "Hash": "yixbrUYtmC0=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse062-ba_dwarvenmail.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "hMRTtmSDRqc=",
+    "Hash": "usIoNGjUJLg=",
     "Meta": null,
     "Name": "ccbgssse063-ba_ebony.bsa",
-    "Size": 47688539,
+    "Size": 47723042,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
-      "Hash": "hMRTtmSDRqc=",
+      "Hash": "usIoNGjUJLg=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse063-ba_ebony.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "x8WnL7HxnW0=",
+    "Hash": "b++snr63XfQ=",
     "Meta": null,
     "Name": "ccbgssse063-ba_ebony.esl",
-    "Size": 134875,
+    "Size": 134877,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse063-ba_ebony.esl",
-      "Hash": "x8WnL7HxnW0=",
+      "Hash": "b++snr63XfQ=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse063-ba_ebony.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "uiq9pKOYZXs=",
+    "Hash": "lxJKRd9paOc=",
     "Meta": null,
     "Name": "ccbgssse064-ba_elven.bsa",
-    "Size": 45818083,
+    "Size": 45841470,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse064-ba_elven.bsa",
-      "Hash": "uiq9pKOYZXs=",
+      "Hash": "lxJKRd9paOc=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse064-ba_elven.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "Cm15KGD3jF0=",
+    "Hash": "7S+vYTCUX9E=",
     "Meta": null,
     "Name": "ccbgssse064-ba_elven.esl",
-    "Size": 111660,
+    "Size": 111663,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse064-ba_elven.esl",
-      "Hash": "Cm15KGD3jF0=",
+      "Hash": "7S+vYTCUX9E=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse064-ba_elven.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "8jhJhoAfARQ=",
+    "Hash": "7U1yKq85SNM=",
     "Meta": null,
     "Name": "ccbgssse066-staves.bsa",
-    "Size": 47113806,
+    "Size": 47139906,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse066-staves.bsa",
-      "Hash": "8jhJhoAfARQ=",
+      "Hash": "7U1yKq85SNM=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse066-staves.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "DAdDxgZQd9Q=",
+    "Hash": "XUaXPoLdli4=",
     "Meta": null,
     "Name": "ccbgssse066-staves.esl",
-    "Size": 272305,
+    "Size": 272311,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse066-staves.esl",
-      "Hash": "DAdDxgZQd9Q=",
+      "Hash": "XUaXPoLdli4=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse066-staves.esl"
     }
@@ -2716,30 +2656,30 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "xz+zq9iGG5w=",
+    "Hash": "oIYn5tR0C20=",
     "Meta": null,
     "Name": "ccbgssse068-bloodfall.bsa",
-    "Size": 11533037,
+    "Size": 11540866,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse068-bloodfall.bsa",
-      "Hash": "xz+zq9iGG5w=",
+      "Hash": "oIYn5tR0C20=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse068-bloodfall.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "zmOHqkzsjNQ=",
+    "Hash": "O0PEc9ipCtA=",
     "Meta": null,
     "Name": "ccbgssse068-bloodfall.esl",
-    "Size": 12091,
+    "Size": 12087,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse068-bloodfall.esl",
-      "Hash": "zmOHqkzsjNQ=",
+      "Hash": "O0PEc9ipCtA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse068-bloodfall.esl"
     }
@@ -2791,30 +2731,30 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "zB7Vp7NgW/A=",
+    "Hash": "qPIJPXb3yuA=",
     "Meta": null,
     "Name": "cccbhsse001-gaunt.esl",
-    "Size": 28943,
+    "Size": 28801,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cccbhsse001-gaunt.esl",
-      "Hash": "zB7Vp7NgW/A=",
+      "Hash": "qPIJPXb3yuA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cccbhsse001-gaunt.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "7oH5LOQt/vU=",
+    "Hash": "wwasTq/rKn4=",
     "Meta": null,
     "Name": "ccedhsse001-norjewel.bsa",
-    "Size": 9702834,
+    "Size": 9712736,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccedhsse001-norjewel.bsa",
-      "Hash": "7oH5LOQt/vU=",
+      "Hash": "wwasTq/rKn4=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccedhsse001-norjewel.bsa"
     }
@@ -2836,82 +2776,82 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "oVcgyIjNwmo=",
+    "Hash": "5Hy35RFP2lk=",
     "Meta": null,
     "Name": "ccedhsse002-splkntset.bsa",
-    "Size": 89074273,
+    "Size": 89101366,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccedhsse002-splkntset.bsa",
-      "Hash": "oVcgyIjNwmo=",
+      "Hash": "5Hy35RFP2lk=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccedhsse002-splkntset.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "mHdO19oJY8s=",
+    "Hash": "LBihKJQknpE=",
     "Meta": null,
     "Name": "ccedhsse002-splkntset.esl",
-    "Size": 160329,
+    "Size": 160351,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccedhsse002-splkntset.esl",
-      "Hash": "mHdO19oJY8s=",
+      "Hash": "LBihKJQknpE=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccedhsse002-splkntset.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "TiBjPf62xWw=",
+    "Hash": "03uXX/kFE3o=",
     "Meta": null,
     "Name": "ccedhsse003-redguard.bsa",
-    "Size": 86253089,
+    "Size": 86296244,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccedhsse003-redguard.bsa",
-      "Hash": "TiBjPf62xWw=",
+      "Hash": "03uXX/kFE3o=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccedhsse003-redguard.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "2htV3jt28/U=",
+    "Hash": "NL2OxJr/R8I=",
     "Meta": null,
     "Name": "ccedhsse003-redguard.esl",
-    "Size": 151341,
+    "Size": 151347,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccedhsse003-redguard.esl",
-      "Hash": "2htV3jt28/U=",
+      "Hash": "NL2OxJr/R8I=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccedhsse003-redguard.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "VlXsCyke0D4=",
+    "Hash": "Yn/ze5pPyXI=",
     "Meta": null,
     "Name": "cceejsse001-hstead.bsa",
-    "Size": 28505719,
+    "Size": 28511474,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse001-hstead.bsa",
-      "Hash": "VlXsCyke0D4=",
+      "Hash": "Yn/ze5pPyXI=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse001-hstead.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "aXKFZ6Iig8E=",
+    "Hash": "C6i06QCgpyI=",
     "Meta": null,
     "Name": "cceejsse001-hstead.esm",
     "Size": 354470,
@@ -2919,67 +2859,67 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse001-hstead.esm",
-      "Hash": "aXKFZ6Iig8E=",
+      "Hash": "C6i06QCgpyI=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse001-hstead.esm"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "UcqltvHMXLg=",
+    "Hash": "LDxLhrWlb9E=",
     "Meta": null,
     "Name": "cceejsse002-tower.bsa",
-    "Size": 66100982,
+    "Size": 66127028,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse002-tower.bsa",
-      "Hash": "UcqltvHMXLg=",
+      "Hash": "LDxLhrWlb9E=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse002-tower.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "mC18OLL5gL8=",
+    "Hash": "hwX7zra2NE0=",
     "Meta": null,
     "Name": "cceejsse002-tower.esl",
-    "Size": 355797,
+    "Size": 399976,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse002-tower.esl",
-      "Hash": "mC18OLL5gL8=",
+      "Hash": "hwX7zra2NE0=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse002-tower.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "ERbHtdylG+g=",
+    "Hash": "Dh7ll3Mq96U=",
     "Meta": null,
     "Name": "cceejsse003-hollow.bsa",
-    "Size": 28522254,
+    "Size": 28529933,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse003-hollow.bsa",
-      "Hash": "ERbHtdylG+g=",
+      "Hash": "Dh7ll3Mq96U=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse003-hollow.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "8yjOxXFXpeQ=",
+    "Hash": "sZvqUVFvo20=",
     "Meta": null,
     "Name": "cceejsse003-hollow.esl",
-    "Size": 309931,
+    "Size": 309934,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse003-hollow.esl",
-      "Hash": "8yjOxXFXpeQ=",
+      "Hash": "sZvqUVFvo20=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse003-hollow.esl"
     }
@@ -3001,97 +2941,97 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "f5d5YWXIRGk=",
+    "Hash": "VWtr8vX9Hog=",
     "Meta": null,
     "Name": "cceejsse004-hall.esl",
-    "Size": 384738,
+    "Size": 382824,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse004-hall.esl",
-      "Hash": "f5d5YWXIRGk=",
+      "Hash": "VWtr8vX9Hog=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse004-hall.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "GaM4VmxJUFU=",
+    "Hash": "kZDyITlFfN8=",
     "Meta": null,
     "Name": "cceejsse005-cave.bsa",
-    "Size": 29749707,
+    "Size": 29777150,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse005-cave.bsa",
-      "Hash": "GaM4VmxJUFU=",
+      "Hash": "kZDyITlFfN8=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse005-cave.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "WlJqdHfZ7DE=",
+    "Hash": "SALyUNBZ8z0=",
     "Meta": null,
     "Name": "cceejsse005-cave.esm",
-    "Size": 422744,
+    "Size": 422522,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse005-cave.esm",
-      "Hash": "WlJqdHfZ7DE=",
+      "Hash": "SALyUNBZ8z0=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse005-cave.esm"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "kwsxyQxwXXM=",
+    "Hash": "rEUuUQab7qc=",
     "Meta": null,
     "Name": "ccffbsse001-imperialdragon.bsa",
-    "Size": 177879347,
+    "Size": 177912120,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccffbsse001-imperialdragon.bsa",
-      "Hash": "kwsxyQxwXXM=",
+      "Hash": "rEUuUQab7qc=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccffbsse001-imperialdragon.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "/ydessB05SE=",
+    "Hash": "ggy609Xt/jQ=",
     "Meta": null,
     "Name": "ccffbsse001-imperialdragon.esl",
-    "Size": 207127,
+    "Size": 207155,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccffbsse001-imperialdragon.esl",
-      "Hash": "/ydessB05SE=",
+      "Hash": "ggy609Xt/jQ=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccffbsse001-imperialdragon.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "EwtZJnuxA2w=",
+    "Hash": "lguVjn+cZcY=",
     "Meta": null,
     "Name": "ccffbsse002-crossbowpack.bsa",
-    "Size": 91829976,
+    "Size": 91832685,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccffbsse002-crossbowpack.bsa",
-      "Hash": "EwtZJnuxA2w=",
+      "Hash": "lguVjn+cZcY=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccffbsse002-crossbowpack.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "oQXl7P0CWfY=",
+    "Hash": "kqGeGU4RX6I=",
     "Meta": null,
     "Name": "ccffbsse002-crossbowpack.esl",
     "Size": 22307,
@@ -3099,29 +3039,29 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccffbsse002-crossbowpack.esl",
-      "Hash": "oQXl7P0CWfY=",
+      "Hash": "kqGeGU4RX6I=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccffbsse002-crossbowpack.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "L7Kgc5hHJps=",
+    "Hash": "L1H3kQ0euHc=",
     "Meta": null,
     "Name": "ccfsvsse001-backpacks.bsa",
-    "Size": 57214710,
+    "Size": 57216555,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccfsvsse001-backpacks.bsa",
-      "Hash": "L7Kgc5hHJps=",
+      "Hash": "L1H3kQ0euHc=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccfsvsse001-backpacks.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "EkeRZCW7+7A=",
+    "Hash": "kHh2I7L4PkM=",
     "Meta": null,
     "Name": "ccfsvsse001-backpacks.esl",
     "Size": 18898,
@@ -3129,67 +3069,67 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccfsvsse001-backpacks.esl",
-      "Hash": "EkeRZCW7+7A=",
+      "Hash": "kHh2I7L4PkM=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccfsvsse001-backpacks.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "7g8KFjDXc7k=",
+    "Hash": "Wea3mCmQrDc=",
     "Meta": null,
     "Name": "cckrtsse001_altar.bsa",
-    "Size": 132242449,
+    "Size": 132317834,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cckrtsse001_altar.bsa",
-      "Hash": "7g8KFjDXc7k=",
+      "Hash": "Wea3mCmQrDc=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cckrtsse001_altar.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "3M4fbeDIzxY=",
+    "Hash": "nT2/kG819NM=",
     "Meta": null,
     "Name": "cckrtsse001_altar.esl",
-    "Size": 453927,
+    "Size": 499020,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cckrtsse001_altar.esl",
-      "Hash": "3M4fbeDIzxY=",
+      "Hash": "nT2/kG819NM=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cckrtsse001_altar.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "JrepJaAes1w=",
+    "Hash": "6gfA4lfWKnw=",
     "Meta": null,
     "Name": "ccmtysse001-knightsofthenine.bsa",
-    "Size": 80670974,
+    "Size": 80681749,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccmtysse001-knightsofthenine.bsa",
-      "Hash": "JrepJaAes1w=",
+      "Hash": "6gfA4lfWKnw=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccmtysse001-knightsofthenine.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "Na2MgGzw5Mg=",
+    "Hash": "AGRGlCNrr/w=",
     "Meta": null,
     "Name": "ccmtysse001-knightsofthenine.esl",
-    "Size": 87904,
+    "Size": 87925,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccmtysse001-knightsofthenine.esl",
-      "Hash": "Na2MgGzw5Mg=",
+      "Hash": "AGRGlCNrr/w=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccmtysse001-knightsofthenine.esl"
     }
@@ -3286,30 +3226,30 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "l0wLoeXgsVI=",
+    "Hash": "xinfHTFoQbU=",
     "Meta": null,
     "Name": "ccqdrsse002-firewood.bsa",
-    "Size": 438046,
+    "Size": 443268,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccqdrsse002-firewood.bsa",
-      "Hash": "l0wLoeXgsVI=",
+      "Hash": "xinfHTFoQbU=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccqdrsse002-firewood.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "3PJC1R6LLjo=",
+    "Hash": "a6bPPWEGhzA=",
     "Meta": null,
     "Name": "ccqdrsse002-firewood.esl",
-    "Size": 264688,
+    "Size": 264689,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccqdrsse002-firewood.esl",
-      "Hash": "3PJC1R6LLjo=",
+      "Hash": "a6bPPWEGhzA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccqdrsse002-firewood.esl"
     }
@@ -3331,15 +3271,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "wEMNcVthIA8=",
+    "Hash": "9FbebCM6abE=",
     "Meta": null,
     "Name": "ccrmssse001-necrohouse.esl",
-    "Size": 292384,
+    "Size": 393319,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccrmssse001-necrohouse.esl",
-      "Hash": "wEMNcVthIA8=",
+      "Hash": "9FbebCM6abE=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccrmssse001-necrohouse.esl"
     }
@@ -3376,60 +3316,60 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "cni0G6jJMiI=",
+    "Hash": "hMzxsicX7sE=",
     "Meta": null,
     "Name": "ccvsvsse001-winter.bsa",
-    "Size": 42536659,
+    "Size": 42538666,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccvsvsse001-winter.bsa",
-      "Hash": "cni0G6jJMiI=",
+      "Hash": "hMzxsicX7sE=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccvsvsse001-winter.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "OzlyvCRbgO8=",
+    "Hash": "uu4wwGcX3ZU=",
     "Meta": null,
     "Name": "ccvsvsse001-winter.esl",
-    "Size": 115939,
+    "Size": 115940,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccvsvsse001-winter.esl",
-      "Hash": "OzlyvCRbgO8=",
+      "Hash": "uu4wwGcX3ZU=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccvsvsse001-winter.esl"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "Re75/X9aLl0=",
+    "Hash": "rd8BjiNy0Mw=",
     "Meta": null,
     "Name": "ccvsvsse002-pets.bsa",
-    "Size": 89088041,
+    "Size": 102744267,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccvsvsse002-pets.bsa",
-      "Hash": "Re75/X9aLl0=",
+      "Hash": "rd8BjiNy0Mw=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccvsvsse002-pets.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "IoWFdEDnU58=",
+    "Hash": "b5ZGwQPma10=",
     "Meta": null,
     "Name": "ccvsvsse002-pets.esl",
-    "Size": 186340,
+    "Size": 186345,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccvsvsse002-pets.esl",
-      "Hash": "IoWFdEDnU58=",
+      "Hash": "b5ZGwQPma10=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccvsvsse002-pets.esl"
     }
@@ -3466,30 +3406,30 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "0pdfIZWKxoc=",
+    "Hash": "YSrTfQu8zd4=",
     "Meta": null,
     "Name": "ccvsvsse004-beafarmer.bsa",
-    "Size": 18222016,
+    "Size": 18261078,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccvsvsse004-beafarmer.bsa",
-      "Hash": "0pdfIZWKxoc=",
+      "Hash": "YSrTfQu8zd4=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccvsvsse004-beafarmer.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "jX6AUnmM+Bk=",
+    "Hash": "Y911nV2/izQ=",
     "Meta": null,
     "Name": "ccvsvsse004-beafarmer.esl",
-    "Size": 445965,
+    "Size": 485046,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccvsvsse004-beafarmer.esl",
-      "Hash": "jX6AUnmM+Bk=",
+      "Hash": "Y911nV2/izQ=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccvsvsse004-beafarmer.esl"
     }
@@ -3537,21 +3477,6 @@
       "Hash": "XlKELPX7jog=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\hearthfires.esm"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "1bf78U78VJc=",
-    "Meta": null,
-    "Name": "Scripts.zip",
-    "Size": 13364473,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Data\\Scripts.zip",
-      "Hash": "1bf78U78VJc=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\scripts.zip"
     }
   },
   {
@@ -3841,246 +3766,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "750xyQs09MU=",
-    "Meta": null,
-    "Name": "accent.tlx",
-    "Size": 2338,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\accent.tlx",
-      "Hash": "750xyQs09MU=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\accent.tlx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "BwrUHmgJXRY=",
-    "Meta": null,
-    "Name": "ssceam.tlx",
-    "Size": 7796,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\ssceam.tlx",
-      "Hash": "BwrUHmgJXRY=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\ssceam.tlx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "kBPCtNvqmqo=",
-    "Meta": null,
-    "Name": "ssceam2.clx",
-    "Size": 328061,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\ssceam2.clx",
-      "Hash": "kBPCtNvqmqo=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\ssceam2.clx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "SPdZFfZsTvw=",
-    "Meta": null,
-    "Name": "sscebr.tlx",
-    "Size": 7798,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\sscebr.tlx",
-      "Hash": "SPdZFfZsTvw=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\sscebr.tlx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "kqNobldeXgM=",
-    "Meta": null,
-    "Name": "sscebr2.clx",
-    "Size": 330192,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\sscebr2.clx",
-      "Hash": "kqNobldeXgM=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\sscebr2.clx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "SPdZFfZsTvw=",
-    "Meta": null,
-    "Name": "ssceca.tlx",
-    "Size": 7798,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\ssceca.tlx",
-      "Hash": "SPdZFfZsTvw=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\ssceca.tlx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "+x53YoHI7S4=",
-    "Meta": null,
-    "Name": "ssceca2.clx",
-    "Size": 328670,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\ssceca2.clx",
-      "Hash": "+x53YoHI7S4=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\ssceca2.clx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "s36jaa7cqlY=",
-    "Meta": null,
-    "Name": "tech.tlx",
-    "Size": 3632,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\tech.tlx",
-      "Hash": "s36jaa7cqlY=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\tech.tlx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "rk2YVWX42B0=",
-    "Meta": null,
-    "Name": "antlr.runtime.dll",
-    "Size": 114688,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Papyrus Compiler\\antlr.runtime.dll",
-      "Hash": "rk2YVWX42B0=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|papyrus compiler\\antlr.runtime.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "+Sr7m5Z0Ynw=",
-    "Meta": null,
-    "Name": "Antlr3.Runtime.dll",
-    "Size": 117760,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Papyrus Compiler\\Antlr3.Runtime.dll",
-      "Hash": "+Sr7m5Z0Ynw=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|papyrus compiler\\antlr3.runtime.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "rK1iPtTYBa8=",
-    "Meta": null,
-    "Name": "Antlr3.Utility.dll",
-    "Size": 6144,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Papyrus Compiler\\Antlr3.Utility.dll",
-      "Hash": "rK1iPtTYBa8=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|papyrus compiler\\antlr3.utility.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "35MPTx3brG4=",
-    "Meta": null,
-    "Name": "PapyrusAssembler.exe",
-    "Size": 304128,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Papyrus Compiler\\PapyrusAssembler.exe",
-      "Hash": "35MPTx3brG4=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|papyrus compiler\\papyrusassembler.exe"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "Nu8hdw/a3gw=",
-    "Meta": null,
-    "Name": "PapyrusCompiler.exe",
-    "Size": 13824,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Papyrus Compiler\\PapyrusCompiler.exe",
-      "Hash": "Nu8hdw/a3gw=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|papyrus compiler\\papyruscompiler.exe"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "0fRyfEzp7rw=",
-    "Meta": null,
-    "Name": "PCompiler.dll",
-    "Size": 525312,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Papyrus Compiler\\PCompiler.dll",
-      "Hash": "0fRyfEzp7rw=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|papyrus compiler\\pcompiler.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "BMhgJJr3szE=",
-    "Meta": null,
-    "Name": "ScriptCompile.bat",
-    "Size": 195,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Papyrus Compiler\\ScriptCompile.bat",
-      "Hash": "BMhgJJr3szE=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|papyrus compiler\\scriptcompile.bat"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "o6gJ5NUmsOE=",
-    "Meta": null,
-    "Name": "StringTemplate.dll",
-    "Size": 155648,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Papyrus Compiler\\StringTemplate.dll",
-      "Hash": "o6gJ5NUmsOE=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|papyrus compiler\\stringtemplate.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "fiMS7vbbpNE=",
     "Meta": null,
     "Name": "SkyrimPrefs.ini",
@@ -4107,126 +3792,6 @@
       "Hash": "3z7MDvy3Dhw=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\video\\bgs_logo.bik"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "HX7thozbLrQ=",
-    "Meta": null,
-    "Name": "correct.tlx",
-    "Size": 21529,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\User\\correct.tlx",
-      "Hash": "HX7thozbLrQ=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\user\\correct.tlx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "QGzMWDLeDrE=",
-    "Meta": null,
-    "Name": "userdic.tlx",
-    "Size": 2841,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "lex\\User\\userdic.tlx",
-      "Hash": "QGzMWDLeDrE=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|lex\\user\\userdic.tlx"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "xBx601V/M0Q=",
-    "Meta": null,
-    "Name": "Archive.exe",
-    "Size": 273920,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Tools\\Archive\\Archive.exe",
-      "Hash": "xBx601V/M0Q=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\\archive\\archive.exe"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "xEjUKCIoThk=",
-    "Meta": null,
-    "Name": "xwmaencode.exe",
-    "Size": 681304,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Tools\\Audio\\xwmaencode.exe",
-      "Hash": "xEjUKCIoThk=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\\audio\\xwmaencode.exe"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "Q5JO8vG8O94=",
-    "Meta": null,
-    "Name": "xg.dll",
-    "Size": 90624,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Tools\\Elric\\xg.dll",
-      "Hash": "Q5JO8vG8O94=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\\elric\\xg.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "CITWX8yaaL0=",
-    "Meta": null,
-    "Name": "xtexconv.exe",
-    "Size": 536064,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Tools\\Elric\\xtexconv.exe",
-      "Hash": "CITWX8yaaL0=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\\elric\\xtexconv.exe"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "J6V48Q2idp8=",
-    "Meta": null,
-    "Name": "HavokBehaviorPostProcess.exe",
-    "Size": 4730368,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Tools\\HavokBehaviorPostProcess\\HavokBehaviorPostProcess.exe",
-      "Hash": "J6V48Q2idp8=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\\havokbehaviorpostprocess\\havokbehaviorpostprocess.exe"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "8jf8/ti3Sr0=",
-    "Meta": null,
-    "Name": "UpgradeHavokBehavior.bat",
-    "Size": 112,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Tools\\HavokBehaviorPostProcess\\UpgradeHavokBehavior.bat",
-      "Hash": "8jf8/ti3Sr0=",
-      "GameVersion": "1.6.353.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\\havokbehaviorpostprocess\\upgradehavokbehavior.bat"
     }
   }
 ]
