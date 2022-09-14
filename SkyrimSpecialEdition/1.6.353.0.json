@@ -1456,7 +1456,7 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "33E4RtRSjgg=",
+    "Hash": "dfrV+OjK4fA=",
     "Meta": null,
     "Name": "ccbgssse005-goldbrand.bsa",
     "Size": 11207150,
@@ -1464,14 +1464,14 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse005-goldbrand.bsa",
-      "Hash": "33E4RtRSjgg=",
+      "Hash": "dfrV+OjK4fA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse005-goldbrand.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "Bm/QnTseyDY=",
+    "Hash": "33E4RtRSjgg=",
     "Meta": null,
     "Name": "ccbgssse005-goldbrand.esl",
     "Size": 167868,
@@ -1479,7 +1479,7 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse005-goldbrand.esl",
-      "Hash": "Bm/QnTseyDY=",
+      "Hash": "33E4RtRSjgg=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse005-goldbrand.esl"
     }
