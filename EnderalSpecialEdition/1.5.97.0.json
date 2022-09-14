@@ -3811,15 +3811,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "cVDXmim2lIk=",
+    "Hash": "/w8v9MHy2Ig=",
     "Meta": null,
     "Name": "Launcher.log",
-    "Size": 6309,
+    "Size": 9447,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "EnderalLauncher\\system\\log\\Launcher.log",
-      "Hash": "cVDXmim2lIk=",
+      "Hash": "/w8v9MHy2Ig=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderallauncher\\system\\log\\launcher.log"
     }
