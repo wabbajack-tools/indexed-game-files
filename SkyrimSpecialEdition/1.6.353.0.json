@@ -3001,7 +3001,7 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "3b/vfOrjfbA=",
+    "Hash": "f5d5YWXIRGk=",
     "Meta": null,
     "Name": "cceejsse004-hall.esl",
     "Size": 384738,
@@ -3009,7 +3009,7 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\cceejsse004-hall.esl",
-      "Hash": "3b/vfOrjfbA=",
+      "Hash": "f5d5YWXIRGk=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\cceejsse004-hall.esl"
     }
