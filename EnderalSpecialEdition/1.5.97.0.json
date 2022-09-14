@@ -3766,15 +3766,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "U25RLiUIvNI=",
+    "Hash": "ErRwIuqUXKM=",
     "Meta": null,
     "Name": "conf.sur",
-    "Size": 498,
+    "Size": 504,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "EnderalLauncher\\system\\config\\conf.sur",
-      "Hash": "U25RLiUIvNI=",
+      "Hash": "ErRwIuqUXKM=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderallauncher\\system\\config\\conf.sur"
     }
@@ -3811,15 +3811,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "/w8v9MHy2Ig=",
+    "Hash": "jqkR0v0NaX0=",
     "Meta": null,
     "Name": "Launcher.log",
-    "Size": 9447,
+    "Size": 3207,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "EnderalLauncher\\system\\log\\Launcher.log",
-      "Hash": "/w8v9MHy2Ig=",
+      "Hash": "jqkR0v0NaX0=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderallauncher\\system\\log\\launcher.log"
     }
