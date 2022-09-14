@@ -2686,15 +2686,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "wor/l6GOX2g=",
+    "Hash": "Y0s+WGGFJdA=",
     "Meta": null,
     "Name": "ccbgssse067-daedinv.bsa",
-    "Size": 386524665,
+    "Size": 386611786,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\ccbgssse067-daedinv.bsa",
-      "Hash": "wor/l6GOX2g=",
+      "Hash": "Y0s+WGGFJdA=",
       "GameVersion": "1.6.353.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|data\\ccbgssse067-daedinv.bsa"
     }
