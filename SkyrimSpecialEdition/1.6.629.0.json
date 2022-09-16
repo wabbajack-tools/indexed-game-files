@@ -4216,6 +4216,21 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "i349bhAvByI=",
+    "Meta": null,
+    "Name": "readme.txt",
+    "Size": 488,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\HavokBehaviorPostProcess\\readme.txt",
+      "Hash": "i349bhAvByI=",
+      "GameVersion": "1.6.629.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.629.0|tools\\havokbehaviorpostprocess\\readme.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "8jf8/ti3Sr0=",
     "Meta": null,
     "Name": "UpgradeHavokBehavior.bat",
