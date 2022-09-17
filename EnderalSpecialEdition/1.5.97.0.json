@@ -361,30 +361,30 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "7FF56eywLmY=",
+    "Hash": "6TQxJVj0xt0=",
     "Meta": null,
     "Name": "E - Meshes.bsa",
-    "Size": 1598725073,
+    "Size": 1599114916,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\E - Meshes.bsa",
-      "Hash": "7FF56eywLmY=",
+      "Hash": "6TQxJVj0xt0=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\e - meshes.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "ByMlgsDHqxo=",
+    "Hash": "wA467YU6CLU=",
     "Meta": null,
     "Name": "E - Misc.bsa",
-    "Size": 56328882,
+    "Size": 56330952,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\E - Misc.bsa",
-      "Hash": "ByMlgsDHqxo=",
+      "Hash": "wA467YU6CLU=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\e - misc.bsa"
     }
@@ -406,15 +406,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "4Pk8uAkQeNE=",
+    "Hash": "DUEKSwD2bv0=",
     "Meta": null,
     "Name": "E - Textures1.bsa",
-    "Size": 1827570482,
+    "Size": 1830988101,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\E - Textures1.bsa",
-      "Hash": "4Pk8uAkQeNE=",
+      "Hash": "DUEKSwD2bv0=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\e - textures1.bsa"
     }
@@ -451,15 +451,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "xMK4icwS/gs=",
+    "Hash": "CXQtTi/t3Zk=",
     "Meta": null,
     "Name": "Enderal - Forgotten Stories.esm",
-    "Size": 10813260,
+    "Size": 10813252,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\Enderal - Forgotten Stories.esm",
-      "Hash": "xMK4icwS/gs=",
+      "Hash": "CXQtTi/t3Zk=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\enderal - forgotten stories.esm"
     }
@@ -496,17 +496,17 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "8DzVoTHidGQ=",
+    "Hash": "C9Gg+tM5XwQ=",
     "Meta": null,
-    "Name": "Enderal SE v2.0.12 Changelog.txt",
-    "Size": 36302,
+    "Name": "Enderal SE v2.0.12.3 Changelog.txt",
+    "Size": 37213,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
-      "GameFile": "Data\\Enderal SE v2.0.12 Changelog.txt",
-      "Hash": "8DzVoTHidGQ=",
+      "GameFile": "Data\\Enderal SE v2.0.12.3 Changelog.txt",
+      "Hash": "C9Gg+tM5XwQ=",
       "GameVersion": "1.5.97.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\enderal se v2.0.12 changelog.txt"
+      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\enderal se v2.0.12.3 changelog.txt"
     }
   },
   {
@@ -556,15 +556,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "GCQOsN3OvIM=",
+    "Hash": "7yDsOh1SuV4=",
     "Meta": null,
     "Name": "ScriptsEnderal.zip",
-    "Size": 2902895,
+    "Size": 2903258,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\ScriptsEnderal.zip",
-      "Hash": "GCQOsN3OvIM=",
+      "Hash": "7yDsOh1SuV4=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\scriptsenderal.zip"
     }
@@ -826,15 +826,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "q4Iusn+qD+A=",
+    "Hash": "BWH3Q2S8h1I=",
     "Meta": null,
     "Name": "Skyrim.esm",
-    "Size": 191827574,
+    "Size": 191827554,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\Skyrim.esm",
-      "Hash": "q4Iusn+qD+A=",
+      "Hash": "BWH3Q2S8h1I=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\skyrim.esm"
     }
@@ -886,15 +886,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "WiT7lvWWgFU=",
+    "Hash": "02FbFBqJrD4=",
     "Meta": null,
     "Name": "Update.esm",
-    "Size": 106477,
+    "Size": 107582,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\Update.esm",
-      "Hash": "WiT7lvWWgFU=",
+      "Hash": "02FbFBqJrD4=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\update.esm"
     }
@@ -916,15 +916,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "siDvxQ6Tfbo=",
+    "Hash": "8h00RlByQg8=",
     "Meta": null,
     "Name": "dialoguemenu.swf",
-    "Size": 24628,
+    "Size": 24622,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\Interface\\dialoguemenu.swf",
-      "Hash": "siDvxQ6Tfbo=",
+      "Hash": "8h00RlByQg8=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\interface\\dialoguemenu.swf"
     }
@@ -2206,36 +2206,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "KCV4HQ6equs=",
-    "Meta": null,
-    "Name": "_00e_fs_nqr05_functions.pex",
-    "Size": 66425,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "EnderalSpecialEdition",
-      "GameFile": "Data\\Scripts\\_00e_fs_nqr05_functions.pex",
-      "Hash": "KCV4HQ6equs=",
-      "GameVersion": "1.5.97.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\scripts\\_00e_fs_nqr05_functions.pex"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "1R3OKEtelV8=",
-    "Meta": null,
-    "Name": "_00e_playersetupscript.pex",
-    "Size": 9061,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "EnderalSpecialEdition",
-      "GameFile": "Data\\Scripts\\_00e_playersetupscript.pex",
-      "Hash": "1R3OKEtelV8=",
-      "GameVersion": "1.5.97.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\scripts\\_00e_playersetupscript.pex"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "jmvtP+n3Rfo=",
     "Meta": null,
     "Name": "SKSE.ini",
@@ -2446,6 +2416,21 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "c/8eoQFp5bM=",
+    "Meta": null,
+    "Name": "EnderalVersion.ini",
+    "Size": 20,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "EnderalSpecialEdition",
+      "GameFile": "Data\\SKSE\\Plugins\\EnderalVersion.ini",
+      "Hash": "c/8eoQFp5bM=",
+      "GameVersion": "1.5.97.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\skse\\plugins\\enderalversion.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "PZQZoPrs/WM=",
     "Meta": null,
     "Name": "EngineFixes.dll",
@@ -2506,15 +2491,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "TqQhqyL9Y3I=",
+    "Hash": "GhB3dt1B8qc=",
     "Meta": null,
     "Name": "fs_skse_functions.dll",
-    "Size": 665088,
+    "Size": 683008,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\SKSE\\Plugins\\fs_skse_functions.dll",
-      "Hash": "TqQhqyL9Y3I=",
+      "Hash": "GhB3dt1B8qc=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\skse\\plugins\\fs_skse_functions.dll"
     }
@@ -3751,30 +3736,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "1ZTxCoN27l0=",
-    "Meta": null,
-    "Name": "_00e_fs_nqr05_functions.psc",
-    "Size": 74191,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "EnderalSpecialEdition",
-      "GameFile": "Data\\Source\\Scripts\\_00e_fs_nqr05_functions.psc",
-      "Hash": "1ZTxCoN27l0=",
-      "GameVersion": "1.5.97.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\source\\scripts\\_00e_fs_nqr05_functions.psc"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "ErRwIuqUXKM=",
+    "Hash": "U25RLiUIvNI=",
     "Meta": null,
     "Name": "conf.sur",
-    "Size": 504,
+    "Size": 498,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "EnderalLauncher\\system\\config\\conf.sur",
-      "Hash": "ErRwIuqUXKM=",
+      "Hash": "U25RLiUIvNI=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderallauncher\\system\\config\\conf.sur"
     }
@@ -3811,15 +3781,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "jqkR0v0NaX0=",
+    "Hash": "12IQ59EhdRA=",
     "Meta": null,
     "Name": "Launcher.log",
-    "Size": 3207,
+    "Size": 15425,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "EnderalLauncher\\system\\log\\Launcher.log",
-      "Hash": "jqkR0v0NaX0=",
+      "Hash": "12IQ59EhdRA=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderallauncher\\system\\log\\launcher.log"
     }
