@@ -2506,15 +2506,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "xRy/ezb9E9A=",
+    "Hash": "Sf81XlB5rP4=",
     "Meta": null,
     "Name": "fs_steam.dll",
-    "Size": 574976,
+    "Size": 584704,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Data\\SKSE\\Plugins\\fs_steam.dll",
-      "Hash": "xRy/ezb9E9A=",
+      "Hash": "Sf81XlB5rP4=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\skse\\plugins\\fs_steam.dll"
     }
