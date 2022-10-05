@@ -46,21 +46,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "dk/a7XDfnc0=",
-    "Meta": null,
-    "Name": "enderal readme.txt",
-    "Size": 43796,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "EnderalSpecialEdition",
-      "GameFile": "enderal readme.txt",
-      "Hash": "dk/a7XDfnc0=",
-      "GameVersion": "1.5.97.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderal readme.txt"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "KLr9lmrSMqc=",
     "Meta": null,
     "Name": "EnderalPrefs_default.ini",
