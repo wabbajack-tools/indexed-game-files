@@ -31,15 +31,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "JePwytLpUgc=",
+    "Hash": "RGpHit78Ujo=",
     "Meta": null,
     "Name": "Enderal Launcher.exe",
-    "Size": 3420672,
+    "Size": 3421184,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Enderal Launcher.exe",
-      "Hash": "JePwytLpUgc=",
+      "Hash": "RGpHit78Ujo=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderal launcher.exe"
     }
@@ -61,15 +61,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "KXB7ci2qWAI=",
+    "Hash": "IWbCqYq9PMY=",
     "Meta": null,
     "Name": "Enderal_default.ini",
-    "Size": 2825,
+    "Size": 2666,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Enderal_default.ini",
-      "Hash": "KXB7ci2qWAI=",
+      "Hash": "IWbCqYq9PMY=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderal_default.ini"
     }
