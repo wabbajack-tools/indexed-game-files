@@ -31,21 +31,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "lds3yZcOOcY=",
-    "Meta": null,
-    "Name": "d3dx9_42.log",
-    "Size": 639,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "EnderalSpecialEdition",
-      "GameFile": "d3dx9_42.log",
-      "Hash": "lds3yZcOOcY=",
-      "GameVersion": "1.5.97.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|d3dx9_42.log"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "YZzjtQDO6ww=",
     "Meta": null,
     "Name": "Enderal Launcher.exe",
