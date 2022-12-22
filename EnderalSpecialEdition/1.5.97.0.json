@@ -31,17 +31,47 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "RGpHit78Ujo=",
+    "Hash": "lds3yZcOOcY=",
+    "Meta": null,
+    "Name": "d3dx9_42.log",
+    "Size": 639,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "EnderalSpecialEdition",
+      "GameFile": "d3dx9_42.log",
+      "Hash": "lds3yZcOOcY=",
+      "GameVersion": "1.5.97.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|d3dx9_42.log"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YZzjtQDO6ww=",
     "Meta": null,
     "Name": "Enderal Launcher.exe",
-    "Size": 3421184,
+    "Size": 3244032,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "Enderal Launcher.exe",
-      "Hash": "RGpHit78Ujo=",
+      "Hash": "YZzjtQDO6ww=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderal launcher.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dk/a7XDfnc0=",
+    "Meta": null,
+    "Name": "enderal readme.txt",
+    "Size": 43796,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "EnderalSpecialEdition",
+      "GameFile": "enderal readme.txt",
+      "Hash": "dk/a7XDfnc0=",
+      "GameVersion": "1.5.97.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderal readme.txt"
     }
   },
   {
@@ -2536,6 +2566,36 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "15e0DdJiMMQ=",
+    "Meta": null,
+    "Name": "SkyrimRedirector.ini",
+    "Size": 387,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "EnderalSpecialEdition",
+      "GameFile": "Data\\SKSE\\Plugins\\SkyrimRedirector.ini",
+      "Hash": "15e0DdJiMMQ=",
+      "GameVersion": "1.5.97.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\skse\\plugins\\skyrimredirector.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8Qx6G743vJ0=",
+    "Meta": null,
+    "Name": "SkyrimRedirector.log",
+    "Size": 376,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "EnderalSpecialEdition",
+      "GameFile": "Data\\SKSE\\Plugins\\SkyrimRedirector.log",
+      "Hash": "8Qx6G743vJ0=",
+      "GameVersion": "1.5.97.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|data\\skse\\plugins\\skyrimredirector.log"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "+1d9jo0uQiI=",
     "Meta": null,
     "Name": "SSEDisplayTweaks.dll",
@@ -3721,15 +3781,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "U25RLiUIvNI=",
+    "Hash": "6nRjLsvttdU=",
     "Meta": null,
     "Name": "conf.sur",
-    "Size": 498,
+    "Size": 535,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "EnderalLauncher\\system\\config\\conf.sur",
-      "Hash": "U25RLiUIvNI=",
+      "Hash": "6nRjLsvttdU=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderallauncher\\system\\config\\conf.sur"
     }
@@ -3766,15 +3826,15 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "12IQ59EhdRA=",
+    "Hash": "4R5JyEPUKPI=",
     "Meta": null,
     "Name": "Launcher.log",
-    "Size": 15425,
+    "Size": 28124,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "EnderalSpecialEdition",
       "GameFile": "EnderalLauncher\\system\\log\\Launcher.log",
-      "Hash": "12IQ59EhdRA=",
+      "Hash": "4R5JyEPUKPI=",
       "GameVersion": "1.5.97.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|EnderalSpecialEdition|1.5.97.0|enderallauncher\\system\\log\\launcher.log"
     }
