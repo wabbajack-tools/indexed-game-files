@@ -46,21 +46,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "c/TV9hIgfJM=",
-    "Meta": null,
-    "Name": "Debug.log",
-    "Size": 22,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "SkyrimSpecialEdition",
-      "GameFile": "Debug.log",
-      "Hash": "c/TV9hIgfJM=",
-      "GameVersion": "1.6.1130.0",
-      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1130.0|debug.log"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "bWL9LiYirZI=",
     "Meta": null,
     "Name": "flowchartx64.dll",
@@ -318,12 +303,12 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "FC+yJIfHEZY=",
     "Meta": null,
-    "Name": "ccbgssse001-fish.bsa",
+    "Name": "ccBGSSSE001-Fish.bsa",
     "Size": 377675522,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Data\\ccbgssse001-fish.bsa",
+      "GameFile": "Data\\ccBGSSSE001-Fish.bsa",
       "Hash": "FC+yJIfHEZY=",
       "GameVersion": "1.6.1130.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1130.0|data\\ccbgssse001-fish.bsa"
@@ -333,12 +318,12 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "+LybF813t+s=",
     "Meta": null,
-    "Name": "ccbgssse001-fish.esm",
+    "Name": "ccBGSSSE001-Fish.esm",
     "Size": 1425176,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Data\\ccbgssse001-fish.esm",
+      "GameFile": "Data\\ccBGSSSE001-Fish.esm",
       "Hash": "+LybF813t+s=",
       "GameVersion": "1.6.1130.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1130.0|data\\ccbgssse001-fish.esm"
@@ -1006,30 +991,30 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "FQbA20bA5Dw=",
+    "Hash": "DG3YZQj7xwk=",
     "Meta": null,
-    "Name": "ccbgssse037-curios.bsa",
+    "Name": "ccBGSSSE037-Curios.bsa",
     "Size": 111740475,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Data\\ccbgssse037-curios.bsa",
-      "Hash": "FQbA20bA5Dw=",
+      "GameFile": "Data\\ccBGSSSE037-Curios.bsa",
+      "Hash": "DG3YZQj7xwk=",
       "GameVersion": "1.6.1130.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1130.0|data\\ccbgssse037-curios.bsa"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "it6+eSu4OCw=",
+    "Hash": "STK4THfMHzw=",
     "Meta": null,
-    "Name": "ccbgssse037-curios.esl",
+    "Name": "ccBGSSSE037-Curios.esl",
     "Size": 37476,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Data\\ccbgssse037-curios.esl",
-      "Hash": "it6+eSu4OCw=",
+      "GameFile": "Data\\ccBGSSSE037-Curios.esl",
+      "Hash": "STK4THfMHzw=",
       "GameVersion": "1.6.1130.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1130.0|data\\ccbgssse037-curios.esl"
     }
@@ -2238,12 +2223,12 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "mjtVnmYOLhw=",
     "Meta": null,
-    "Name": "ccqdrsse001-survivalmode.bsa",
+    "Name": "ccQDRSSE001-SurvivalMode.bsa",
     "Size": 12835601,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Data\\ccqdrsse001-survivalmode.bsa",
+      "GameFile": "Data\\ccQDRSSE001-SurvivalMode.bsa",
       "Hash": "mjtVnmYOLhw=",
       "GameVersion": "1.6.1130.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1130.0|data\\ccqdrsse001-survivalmode.bsa"
@@ -2253,12 +2238,12 @@
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "i3iF8LGbgKo=",
     "Meta": null,
-    "Name": "ccqdrsse001-survivalmode.esl",
+    "Name": "ccQDRSSE001-SurvivalMode.esl",
     "Size": 240724,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
-      "GameFile": "Data\\ccqdrsse001-survivalmode.esl",
+      "GameFile": "Data\\ccQDRSSE001-SurvivalMode.esl",
       "Hash": "i3iF8LGbgKo=",
       "GameVersion": "1.6.1130.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1130.0|data\\ccqdrsse001-survivalmode.esl"
