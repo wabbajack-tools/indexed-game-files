@@ -16,6 +16,51 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "boyqeB3rQJ8=",
+    "Meta": null,
+    "Name": "CreationKit.exe",
+    "Size": 47725568,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "CreationKit.exe",
+      "Hash": "boyqeB3rQJ8=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|creationkit.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gcIDnNlnnQk=",
+    "Meta": null,
+    "Name": "CreationKit.ini",
+    "Size": 2852,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "CreationKit.ini",
+      "Hash": "gcIDnNlnnQk=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|creationkit.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HB9xaHMwVhE=",
+    "Meta": null,
+    "Name": "CreationKitPrefs.ini",
+    "Size": 11531,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "CreationKitPrefs.ini",
+      "Hash": "HB9xaHMwVhE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|creationkitprefs.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "c/TV9hIgfJM=",
     "Meta": null,
     "Name": "Debug.log",
@@ -27,6 +72,21 @@
       "Hash": "c/TV9hIgfJM=",
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|debug.log"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bWL9LiYirZI=",
+    "Meta": null,
+    "Name": "flowchartx64.dll",
+    "Size": 2972608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "flowchartx64.dll",
+      "Hash": "bWL9LiYirZI=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|flowchartx64.dll"
     }
   },
   {
@@ -91,6 +151,21 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fZc1l6G61BQ=",
+    "Meta": null,
+    "Name": "p4com64.dll",
+    "Size": 1219072,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "p4com64.dll",
+      "Hash": "fZc1l6G61BQ=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|p4com64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "PRSjYyQzfSA=",
     "Meta": null,
     "Name": "Skyrim.ccc",
@@ -102,6 +177,21 @@
       "Hash": "PRSjYyQzfSA=",
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|skyrim.ccc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CGGPbE5XYBE=",
+    "Meta": null,
+    "Name": "SkyrimReservedAddOnIndexes.txt",
+    "Size": 583,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "SkyrimReservedAddOnIndexes.txt",
+      "Hash": "CGGPbE5XYBE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|skyrimreservedaddonindexes.txt"
     }
   },
   {
@@ -2461,6 +2551,21 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "r5x4QxHL1YM=",
+    "Meta": null,
+    "Name": "Scripts.zip",
+    "Size": 13634796,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Data\\Scripts.zip",
+      "Hash": "r5x4QxHL1YM=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|data\\scripts.zip"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "qfqjD1dP9SI=",
     "Meta": null,
     "Name": "Skyrim - Animations.bsa",
@@ -2776,6 +2881,246 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "750xyQs09MU=",
+    "Meta": null,
+    "Name": "accent.tlx",
+    "Size": 2338,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\accent.tlx",
+      "Hash": "750xyQs09MU=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\accent.tlx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BwrUHmgJXRY=",
+    "Meta": null,
+    "Name": "ssceam.tlx",
+    "Size": 7796,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\ssceam.tlx",
+      "Hash": "BwrUHmgJXRY=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\ssceam.tlx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kBPCtNvqmqo=",
+    "Meta": null,
+    "Name": "ssceam2.clx",
+    "Size": 328061,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\ssceam2.clx",
+      "Hash": "kBPCtNvqmqo=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\ssceam2.clx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SPdZFfZsTvw=",
+    "Meta": null,
+    "Name": "sscebr.tlx",
+    "Size": 7798,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\sscebr.tlx",
+      "Hash": "SPdZFfZsTvw=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\sscebr.tlx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kqNobldeXgM=",
+    "Meta": null,
+    "Name": "sscebr2.clx",
+    "Size": 330192,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\sscebr2.clx",
+      "Hash": "kqNobldeXgM=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\sscebr2.clx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SPdZFfZsTvw=",
+    "Meta": null,
+    "Name": "ssceca.tlx",
+    "Size": 7798,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\ssceca.tlx",
+      "Hash": "SPdZFfZsTvw=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\ssceca.tlx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+x53YoHI7S4=",
+    "Meta": null,
+    "Name": "ssceca2.clx",
+    "Size": 328670,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\ssceca2.clx",
+      "Hash": "+x53YoHI7S4=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\ssceca2.clx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "s36jaa7cqlY=",
+    "Meta": null,
+    "Name": "tech.tlx",
+    "Size": 3632,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\tech.tlx",
+      "Hash": "s36jaa7cqlY=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\tech.tlx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rk2YVWX42B0=",
+    "Meta": null,
+    "Name": "antlr.runtime.dll",
+    "Size": 114688,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Papyrus Compiler\\antlr.runtime.dll",
+      "Hash": "rk2YVWX42B0=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|papyrus compiler\\antlr.runtime.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+Sr7m5Z0Ynw=",
+    "Meta": null,
+    "Name": "Antlr3.Runtime.dll",
+    "Size": 117760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Papyrus Compiler\\Antlr3.Runtime.dll",
+      "Hash": "+Sr7m5Z0Ynw=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|papyrus compiler\\antlr3.runtime.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rK1iPtTYBa8=",
+    "Meta": null,
+    "Name": "Antlr3.Utility.dll",
+    "Size": 6144,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Papyrus Compiler\\Antlr3.Utility.dll",
+      "Hash": "rK1iPtTYBa8=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|papyrus compiler\\antlr3.utility.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "35MPTx3brG4=",
+    "Meta": null,
+    "Name": "PapyrusAssembler.exe",
+    "Size": 304128,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Papyrus Compiler\\PapyrusAssembler.exe",
+      "Hash": "35MPTx3brG4=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|papyrus compiler\\papyrusassembler.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Nu8hdw/a3gw=",
+    "Meta": null,
+    "Name": "PapyrusCompiler.exe",
+    "Size": 13824,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Papyrus Compiler\\PapyrusCompiler.exe",
+      "Hash": "Nu8hdw/a3gw=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|papyrus compiler\\papyruscompiler.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0fRyfEzp7rw=",
+    "Meta": null,
+    "Name": "PCompiler.dll",
+    "Size": 525312,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Papyrus Compiler\\PCompiler.dll",
+      "Hash": "0fRyfEzp7rw=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|papyrus compiler\\pcompiler.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BMhgJJr3szE=",
+    "Meta": null,
+    "Name": "ScriptCompile.bat",
+    "Size": 195,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Papyrus Compiler\\ScriptCompile.bat",
+      "Hash": "BMhgJJr3szE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|papyrus compiler\\scriptcompile.bat"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "o6gJ5NUmsOE=",
+    "Meta": null,
+    "Name": "StringTemplate.dll",
+    "Size": 155648,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Papyrus Compiler\\StringTemplate.dll",
+      "Hash": "o6gJ5NUmsOE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|papyrus compiler\\stringtemplate.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "fiMS7vbbpNE=",
     "Meta": null,
     "Name": "SkyrimPrefs.ini",
@@ -2791,6 +3136,21 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nutRGnJhnVI=",
+    "Meta": null,
+    "Name": "RoboVoicer.exe",
+    "Size": 18432,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\RoboVoicer.exe",
+      "Hash": "nutRGnJhnVI=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\robovoicer.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "3z7MDvy3Dhw=",
     "Meta": null,
     "Name": "BGS_Logo.bik",
@@ -2802,6 +3162,216 @@
       "Hash": "3z7MDvy3Dhw=",
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|data\\video\\bgs_logo.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HX7thozbLrQ=",
+    "Meta": null,
+    "Name": "correct.tlx",
+    "Size": 21529,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\User\\correct.tlx",
+      "Hash": "HX7thozbLrQ=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\user\\correct.tlx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QGzMWDLeDrE=",
+    "Meta": null,
+    "Name": "userdic.tlx",
+    "Size": 2841,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "lex\\User\\userdic.tlx",
+      "Hash": "QGzMWDLeDrE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|lex\\user\\userdic.tlx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GB3LMNhp5dY=",
+    "Meta": null,
+    "Name": "EditorPapyrus.0.log",
+    "Size": 171,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Logs\\Script\\EditorPapyrus.0.log",
+      "Hash": "GB3LMNhp5dY=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|logs\\script\\editorpapyrus.0.log"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xBx601V/M0Q=",
+    "Meta": null,
+    "Name": "Archive.exe",
+    "Size": 273920,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\Archive\\Archive.exe",
+      "Hash": "xBx601V/M0Q=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\archive\\archive.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xEjUKCIoThk=",
+    "Meta": null,
+    "Name": "xwmaencode.exe",
+    "Size": 681304,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\Audio\\xwmaencode.exe",
+      "Hash": "xEjUKCIoThk=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\audio\\xwmaencode.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Q5JO8vG8O94=",
+    "Meta": null,
+    "Name": "xg.dll",
+    "Size": 90624,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\Elric\\xg.dll",
+      "Hash": "Q5JO8vG8O94=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\elric\\xg.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CITWX8yaaL0=",
+    "Meta": null,
+    "Name": "xtexconv.exe",
+    "Size": 536064,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\Elric\\xtexconv.exe",
+      "Hash": "CITWX8yaaL0=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\elric\\xtexconv.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "J6V48Q2idp8=",
+    "Meta": null,
+    "Name": "HavokBehaviorPostProcess.exe",
+    "Size": 4730368,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\HavokBehaviorPostProcess\\HavokBehaviorPostProcess.exe",
+      "Hash": "J6V48Q2idp8=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\havokbehaviorpostprocess\\havokbehaviorpostprocess.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "i349bhAvByI=",
+    "Meta": null,
+    "Name": "readme.txt",
+    "Size": 488,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\HavokBehaviorPostProcess\\readme.txt",
+      "Hash": "i349bhAvByI=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\havokbehaviorpostprocess\\readme.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8jf8/ti3Sr0=",
+    "Meta": null,
+    "Name": "UpgradeHavokBehavior.bat",
+    "Size": 112,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\HavokBehaviorPostProcess\\UpgradeHavokBehavior.bat",
+      "Hash": "8jf8/ti3Sr0=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\havokbehaviorpostprocess\\upgradehavokbehavior.bat"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "j39PJrqMgtA=",
+    "Meta": null,
+    "Name": "LIPFuzer.exe",
+    "Size": 13824,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\LipGen\\LipFuzer\\LIPFuzer.exe",
+      "Hash": "j39PJrqMgtA=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\lipgen\\lipfuzer\\lipfuzer.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HcAbGo/Xevo=",
+    "Meta": null,
+    "Name": "LIPFuzer.txt",
+    "Size": 1239,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\LipGen\\LipFuzer\\LIPFuzer.txt",
+      "Hash": "HcAbGo/Xevo=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\lipgen\\lipfuzer\\lipfuzer.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "K31KABqBrfc=",
+    "Meta": null,
+    "Name": "FonixData.cdf",
+    "Size": 6282885,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\LipGen\\LipGenerator\\FonixData.cdf",
+      "Hash": "K31KABqBrfc=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\lipgen\\lipgenerator\\fonixdata.cdf"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1tSViHQDAGg=",
+    "Meta": null,
+    "Name": "LipGenerator.exe",
+    "Size": 785920,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\LipGen\\LipGenerator\\LipGenerator.exe",
+      "Hash": "1tSViHQDAGg=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\lipgen\\lipgenerator\\lipgenerator.exe"
     }
   }
 ]
