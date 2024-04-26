@@ -1,0 +1,2132 @@
+[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rCo6DIZ1mqg=",
+    "Meta": null,
+    "Name": "bink2w64.dll",
+    "Size": 427520,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "bink2w64.dll",
+      "Hash": "rCo6DIZ1mqg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|bink2w64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9paFl7BG300=",
+    "Meta": null,
+    "Name": "cudart64_75.dll",
+    "Size": 360736,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "cudart64_75.dll",
+      "Hash": "9paFl7BG300=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|cudart64_75.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aQAxtBjW4yg=",
+    "Meta": null,
+    "Name": "Fallout4.ccc",
+    "Size": 4698,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Fallout4.ccc",
+      "Hash": "aQAxtBjW4yg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|fallout4.ccc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BIctPXKmP9A=",
+    "Meta": null,
+    "Name": "Fallout4.exe",
+    "Size": 52549912,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Fallout4.exe",
+      "Hash": "BIctPXKmP9A=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|fallout4.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SBJLm3va264=",
+    "Meta": null,
+    "Name": "Fallout4IDs.ccc",
+    "Size": 1449,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Fallout4IDs.ccc",
+      "Hash": "SBJLm3va264=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|fallout4ids.ccc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "AhEzntXlbJ4=",
+    "Meta": null,
+    "Name": "Fallout4Launcher.exe",
+    "Size": 4520448,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Fallout4Launcher.exe",
+      "Hash": "AhEzntXlbJ4=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|fallout4launcher.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "H7rw0InMdbQ=",
+    "Meta": null,
+    "Name": "Fallout4_Default.ini",
+    "Size": 2465,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Fallout4_Default.ini",
+      "Hash": "H7rw0InMdbQ=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|fallout4_default.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3hkCspad584=",
+    "Meta": null,
+    "Name": "flexExtRelease_x64.dll",
+    "Size": 353280,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "flexExtRelease_x64.dll",
+      "Hash": "3hkCspad584=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|flexextrelease_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YUPgMom+RCg=",
+    "Meta": null,
+    "Name": "flexRelease_x64.dll",
+    "Size": 1299968,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "flexRelease_x64.dll",
+      "Hash": "YUPgMom+RCg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|flexrelease_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "K5+mOEOg4os=",
+    "Meta": null,
+    "Name": "GFSDK_GodraysLib.x64.dll",
+    "Size": 348160,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "GFSDK_GodraysLib.x64.dll",
+      "Hash": "K5+mOEOg4os=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|gfsdk_godrayslib.x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9Tl44n/Hycc=",
+    "Meta": null,
+    "Name": "GFSDK_SSAO_D3D11.win64.dll",
+    "Size": 550400,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "GFSDK_SSAO_D3D11.win64.dll",
+      "Hash": "9Tl44n/Hycc=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|gfsdk_ssao_d3d11.win64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6b4N8ns0Rw4=",
+    "Meta": null,
+    "Name": "High.ini",
+    "Size": 1220,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "High.ini",
+      "Hash": "6b4N8ns0Rw4=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|high.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HDfCs1J0an0=",
+    "Meta": null,
+    "Name": "installscript.vdf",
+    "Size": 606,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "installscript.vdf",
+      "Hash": "HDfCs1J0an0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|installscript.vdf"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7AQCyTzsXME=",
+    "Meta": null,
+    "Name": "Low.ini",
+    "Size": 1207,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Low.ini",
+      "Hash": "7AQCyTzsXME=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|low.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tfNDwjjeMFM=",
+    "Meta": null,
+    "Name": "Medium.ini",
+    "Size": 1215,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Medium.ini",
+      "Hash": "tfNDwjjeMFM=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|medium.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LyHvzStuzDg=",
+    "Meta": null,
+    "Name": "msvcp110.dll",
+    "Size": 661456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "msvcp110.dll",
+      "Hash": "LyHvzStuzDg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|msvcp110.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3QGscRUP3fo=",
+    "Meta": null,
+    "Name": "msvcr110.dll",
+    "Size": 849360,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "msvcr110.dll",
+      "Hash": "3QGscRUP3fo=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|msvcr110.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "89OO9/7jaFM=",
+    "Meta": null,
+    "Name": "nvdebris.txt",
+    "Size": 6559,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "nvdebris.txt",
+      "Hash": "89OO9/7jaFM=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|nvdebris.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "n2WNb9PJnMg=",
+    "Meta": null,
+    "Name": "nvToolsExt64_1.dll",
+    "Size": 42496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "nvToolsExt64_1.dll",
+      "Hash": "n2WNb9PJnMg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|nvtoolsext64_1.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EMIAySDLQKA=",
+    "Meta": null,
+    "Name": "steam_api64.dll",
+    "Size": 298384,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "steam_api64.dll",
+      "Hash": "EMIAySDLQKA=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|steam_api64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TfEHrvMkL44=",
+    "Meta": null,
+    "Name": "Ultra.ini",
+    "Size": 1231,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Ultra.ini",
+      "Hash": "TfEHrvMkL44=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|ultra.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bjYdgyAwG7M=",
+    "Meta": null,
+    "Name": "ccBGSFO4001-PipBoy(Black) - Main.ba2",
+    "Size": 5961,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Main.ba2",
+      "Hash": "bjYdgyAwG7M=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4001-pipboy(black) - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WZopB77M+oM=",
+    "Meta": null,
+    "Name": "ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+    "Size": 1477174,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+      "Hash": "WZopB77M+oM=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4001-pipboy(black) - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "N+lKFWywhHE=",
+    "Meta": null,
+    "Name": "ccBGSFO4003-PipBoy(Camo01) - Main.ba2",
+    "Size": 6409,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4003-PipBoy(Camo01) - Main.ba2",
+      "Hash": "N+lKFWywhHE=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4003-pipboy(camo01) - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6urerwlpM6g=",
+    "Meta": null,
+    "Name": "ccBGSFO4003-PipBoy(Camo01) - Textures.ba2",
+    "Size": 2269911,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4003-PipBoy(Camo01) - Textures.ba2",
+      "Hash": "6urerwlpM6g=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4003-pipboy(camo01) - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hPC9Ro/3qwY=",
+    "Meta": null,
+    "Name": "ccBGSFO4004-PipBoy(Camo02) - Main.ba2",
+    "Size": 6399,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4004-PipBoy(Camo02) - Main.ba2",
+      "Hash": "hPC9Ro/3qwY=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4004-pipboy(camo02) - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "X5hFsnA70+c=",
+    "Meta": null,
+    "Name": "ccBGSFO4004-PipBoy(Camo02) - Textures.ba2",
+    "Size": 2095389,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4004-PipBoy(Camo02) - Textures.ba2",
+      "Hash": "X5hFsnA70+c=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4004-pipboy(camo02) - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SmFQu9aNnGc=",
+    "Meta": null,
+    "Name": "ccBGSFO4006-PipBoy(Chrome) - Main.ba2",
+    "Size": 6108,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4006-PipBoy(Chrome) - Main.ba2",
+      "Hash": "SmFQu9aNnGc=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4006-pipboy(chrome) - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+oDTGVWgsKw=",
+    "Meta": null,
+    "Name": "ccBGSFO4006-PipBoy(Chrome) - Textures.ba2",
+    "Size": 3549264,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4006-PipBoy(Chrome) - Textures.ba2",
+      "Hash": "+oDTGVWgsKw=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4006-pipboy(chrome) - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lLNGCElprMk=",
+    "Meta": null,
+    "Name": "ccBGSFO4016-Prey - Main.ba2",
+    "Size": 3756456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4016-Prey - Main.ba2",
+      "Hash": "lLNGCElprMk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4016-prey - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Io0vWxJA9pY=",
+    "Meta": null,
+    "Name": "ccBGSFO4016-Prey - Textures.ba2",
+    "Size": 11305376,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4016-Prey - Textures.ba2",
+      "Hash": "Io0vWxJA9pY=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4016-prey - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "srGodDx1BFY=",
+    "Meta": null,
+    "Name": "ccBGSFO4018-GaussRiflePrototype - Main.ba2",
+    "Size": 15957893,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4018-GaussRiflePrototype - Main.ba2",
+      "Hash": "srGodDx1BFY=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4018-gaussrifleprototype - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4l27Y4ewfeg=",
+    "Meta": null,
+    "Name": "ccBGSFO4018-GaussRiflePrototype - Textures.ba2",
+    "Size": 14059244,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4018-GaussRiflePrototype - Textures.ba2",
+      "Hash": "4l27Y4ewfeg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4018-gaussrifleprototype - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mKA1umIwZgk=",
+    "Meta": null,
+    "Name": "ccBGSFO4019-ChineseStealthArmor - Main.ba2",
+    "Size": 1783176,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4019-ChineseStealthArmor - Main.ba2",
+      "Hash": "mKA1umIwZgk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4019-chinesestealtharmor - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DoEkmShb9C4=",
+    "Meta": null,
+    "Name": "ccBGSFO4019-ChineseStealthArmor - Textures.ba2",
+    "Size": 9200938,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4019-ChineseStealthArmor - Textures.ba2",
+      "Hash": "DoEkmShb9C4=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4019-chinesestealtharmor - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7NdxcGKbdes=",
+    "Meta": null,
+    "Name": "ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2",
+    "Size": 13222,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2",
+      "Hash": "7NdxcGKbdes=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4020-powerarmorskin(black) - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2YHRqDJxCSE=",
+    "Meta": null,
+    "Name": "ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2",
+    "Size": 31286453,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2",
+      "Hash": "2YHRqDJxCSE=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4020-powerarmorskin(black) - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7qS/lE7k+l0=",
+    "Meta": null,
+    "Name": "ccBGSFO4038-HorseArmor - Main.ba2",
+    "Size": 2038963,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4038-HorseArmor - Main.ba2",
+      "Hash": "7qS/lE7k+l0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4038-horsearmor - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1uLPZxUyzxU=",
+    "Meta": null,
+    "Name": "ccBGSFO4038-HorseArmor - Textures.ba2",
+    "Size": 88632041,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4038-HorseArmor - Textures.ba2",
+      "Hash": "1uLPZxUyzxU=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4038-horsearmor - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L3EnIYIs58s=",
+    "Meta": null,
+    "Name": "ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+    "Size": 2216026,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+      "Hash": "L3EnIYIs58s=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4044-hellfirepowerarmor - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bpDynJ+TO5c=",
+    "Meta": null,
+    "Name": "ccBGSFO4044-HellfirePowerArmor - Textures.ba2",
+    "Size": 93862764,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4044-HellfirePowerArmor - Textures.ba2",
+      "Hash": "bpDynJ+TO5c=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4044-hellfirepowerarmor - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3PPT7XNtiA4=",
+    "Meta": null,
+    "Name": "ccBGSFO4044-HellfirePowerArmor.esl",
+    "Size": 431458,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4044-HellfirePowerArmor.esl",
+      "Hash": "3PPT7XNtiA4=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4044-hellfirepowerarmor.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mdF5hLn/wvE=",
+    "Meta": null,
+    "Name": "ccBGSFO4046-TesCan - Main.ba2",
+    "Size": 18162265,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4046-TesCan - Main.ba2",
+      "Hash": "mdF5hLn/wvE=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4046-tescan - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SJv4oKpZOko=",
+    "Meta": null,
+    "Name": "ccBGSFO4046-TesCan - Textures.ba2",
+    "Size": 13314205,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4046-TesCan - Textures.ba2",
+      "Hash": "SJv4oKpZOko=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4046-tescan - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Bk4dr7a/01U=",
+    "Meta": null,
+    "Name": "ccBGSFO4046-TesCan.esl",
+    "Size": 460022,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4046-TesCan.esl",
+      "Hash": "Bk4dr7a/01U=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4046-tescan.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+c4e1xOdlkk=",
+    "Meta": null,
+    "Name": "ccBGSFO4096-AS_Enclave - Main.ba2",
+    "Size": 11881,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
+      "Hash": "+c4e1xOdlkk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4096-as_enclave - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "R3dZfK0lG/I=",
+    "Meta": null,
+    "Name": "ccBGSFO4096-AS_Enclave - Textures.ba2",
+    "Size": 12768659,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4096-AS_Enclave - Textures.ba2",
+      "Hash": "R3dZfK0lG/I=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4096-as_enclave - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "O/jol0olWHM=",
+    "Meta": null,
+    "Name": "ccBGSFO4096-AS_Enclave.esl",
+    "Size": 3898,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4096-AS_Enclave.esl",
+      "Hash": "O/jol0olWHM=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4096-as_enclave.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8FsAKiCCjJI=",
+    "Meta": null,
+    "Name": "ccBGSFO4110-WS_Enclave - Main.ba2",
+    "Size": 39617,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4110-WS_Enclave - Main.ba2",
+      "Hash": "8FsAKiCCjJI=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4110-ws_enclave - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KLs6gf18kSc=",
+    "Meta": null,
+    "Name": "ccBGSFO4110-WS_Enclave - Textures.ba2",
+    "Size": 51276272,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4110-WS_Enclave - Textures.ba2",
+      "Hash": "KLs6gf18kSc=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4110-ws_enclave - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DrtS/dTZVyc=",
+    "Meta": null,
+    "Name": "ccBGSFO4110-WS_Enclave.esl",
+    "Size": 11033,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4110-WS_Enclave.esl",
+      "Hash": "DrtS/dTZVyc=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4110-ws_enclave.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Uupt2PEdxvs=",
+    "Meta": null,
+    "Name": "ccBGSFO4115-X02 - Main.ba2",
+    "Size": 3914892,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4115-X02 - Main.ba2",
+      "Hash": "Uupt2PEdxvs=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4115-x02 - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WsakKiBBIVk=",
+    "Meta": null,
+    "Name": "ccBGSFO4115-X02 - Textures.ba2",
+    "Size": 164130395,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4115-X02 - Textures.ba2",
+      "Hash": "WsakKiBBIVk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4115-x02 - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/R6flLo0rdY=",
+    "Meta": null,
+    "Name": "ccBGSFO4115-X02.esl",
+    "Size": 643894,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4115-X02.esl",
+      "Hash": "/R6flLo0rdY=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4115-x02.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5iWQLQUs+Ro=",
+    "Meta": null,
+    "Name": "ccBGSFO4116-HeavyFlamer - Main.ba2",
+    "Size": 4183132,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4116-HeavyFlamer - Main.ba2",
+      "Hash": "5iWQLQUs+Ro=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4116-heavyflamer - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VnmyvLSpre0=",
+    "Meta": null,
+    "Name": "ccBGSFO4116-HeavyFlamer - Textures.ba2",
+    "Size": 16940585,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4116-HeavyFlamer - Textures.ba2",
+      "Hash": "VnmyvLSpre0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4116-heavyflamer - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JihvI3+b2eA=",
+    "Meta": null,
+    "Name": "ccBGSFO4116-HeavyFlamer.esl",
+    "Size": 49141,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccBGSFO4116-HeavyFlamer.esl",
+      "Hash": "JihvI3+b2eA=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccbgsfo4116-heavyflamer.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "A50U3f0lYdg=",
+    "Meta": null,
+    "Name": "ccFRSFO4001-HandmadeShotgun - Main.ba2",
+    "Size": 2598331,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFRSFO4001-HandmadeShotgun - Main.ba2",
+      "Hash": "A50U3f0lYdg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfrsfo4001-handmadeshotgun - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JEsNseqmNHI=",
+    "Meta": null,
+    "Name": "ccFRSFO4001-HandmadeShotgun - Textures.ba2",
+    "Size": 17403965,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFRSFO4001-HandmadeShotgun - Textures.ba2",
+      "Hash": "JEsNseqmNHI=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfrsfo4001-handmadeshotgun - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cuH4jqgTmsw=",
+    "Meta": null,
+    "Name": "ccFSVFO4001-ModularMilitaryBackpack - Main.ba2",
+    "Size": 15287090,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFSVFO4001-ModularMilitaryBackpack - Main.ba2",
+      "Hash": "cuH4jqgTmsw=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfsvfo4001-modularmilitarybackpack - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KjRfd3gTrBE=",
+    "Meta": null,
+    "Name": "ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2",
+    "Size": 41645986,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2",
+      "Hash": "KjRfd3gTrBE=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfsvfo4001-modularmilitarybackpack - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9TBANsrPdxg=",
+    "Meta": null,
+    "Name": "ccFSVFO4002-MidCenturyModern - Main.ba2",
+    "Size": 1063570,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFSVFO4002-MidCenturyModern - Main.ba2",
+      "Hash": "9TBANsrPdxg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfsvfo4002-midcenturymodern - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aye7UReE1tQ=",
+    "Meta": null,
+    "Name": "ccFSVFO4002-MidCenturyModern - Textures.ba2",
+    "Size": 124363244,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFSVFO4002-MidCenturyModern - Textures.ba2",
+      "Hash": "aye7UReE1tQ=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfsvfo4002-midcenturymodern - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "O3IJIyV+b0w=",
+    "Meta": null,
+    "Name": "ccFSVFO4007-Halloween - Main.ba2",
+    "Size": 3226837,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFSVFO4007-Halloween - Main.ba2",
+      "Hash": "O3IJIyV+b0w=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfsvfo4007-halloween - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NiBgBe4DJ2E=",
+    "Meta": null,
+    "Name": "ccFSVFO4007-Halloween - Textures.ba2",
+    "Size": 67918348,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFSVFO4007-Halloween - Textures.ba2",
+      "Hash": "NiBgBe4DJ2E=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfsvfo4007-halloween - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MO8259i3XEQ=",
+    "Meta": null,
+    "Name": "ccFSVFO4007-Halloween.esl",
+    "Size": 292206,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccFSVFO4007-Halloween.esl",
+      "Hash": "MO8259i3XEQ=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccfsvfo4007-halloween.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZV44quZ6sn4=",
+    "Meta": null,
+    "Name": "ccOTMFO4001-Remnants - Main.ba2",
+    "Size": 10012999,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccOTMFO4001-Remnants - Main.ba2",
+      "Hash": "ZV44quZ6sn4=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccotmfo4001-remnants - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NVb2xzwGgL0=",
+    "Meta": null,
+    "Name": "ccOTMFO4001-Remnants - Textures.ba2",
+    "Size": 132412447,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccOTMFO4001-Remnants - Textures.ba2",
+      "Hash": "NVb2xzwGgL0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccotmfo4001-remnants - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "J4l0NaXhKZY=",
+    "Meta": null,
+    "Name": "ccOTMFO4001-Remnants.esl",
+    "Size": 686923,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccOTMFO4001-Remnants.esl",
+      "Hash": "J4l0NaXhKZY=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccotmfo4001-remnants.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jNKqdcQ9Lg0=",
+    "Meta": null,
+    "Name": "ccSBJFO4003-Grenade - Main.ba2",
+    "Size": 20722501,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccSBJFO4003-Grenade - Main.ba2",
+      "Hash": "jNKqdcQ9Lg0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccsbjfo4003-grenade - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oPSdIejf4ss=",
+    "Meta": null,
+    "Name": "ccSBJFO4003-Grenade - Textures.ba2",
+    "Size": 417062184,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccSBJFO4003-Grenade - Textures.ba2",
+      "Hash": "oPSdIejf4ss=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccsbjfo4003-grenade - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qpLGZ53IrDw=",
+    "Meta": null,
+    "Name": "ccSBJFO4003-Grenade.esl",
+    "Size": 595925,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\ccSBJFO4003-Grenade.esl",
+      "Hash": "qpLGZ53IrDw=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\ccsbjfo4003-grenade.esl"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q2pgd0fAwBs=",
+    "Meta": null,
+    "Name": "DLCCoast - Geometry.csg",
+    "Size": 100938421,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCCoast - Geometry.csg",
+      "Hash": "q2pgd0fAwBs=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlccoast - geometry.csg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "wz05dMRLI2w=",
+    "Meta": null,
+    "Name": "DLCCoast - Main.ba2",
+    "Size": 1446541131,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCCoast - Main.ba2",
+      "Hash": "wz05dMRLI2w=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlccoast - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zYaZD421JpI=",
+    "Meta": null,
+    "Name": "DLCCoast - Textures.ba2",
+    "Size": 1335731328,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCCoast - Textures.ba2",
+      "Hash": "zYaZD421JpI=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlccoast - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nDqoezG/9ao=",
+    "Meta": null,
+    "Name": "DLCCoast - Voices_en.ba2",
+    "Size": 525025586,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCCoast - Voices_en.ba2",
+      "Hash": "nDqoezG/9ao=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlccoast - voices_en.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fu2acy/EUb0=",
+    "Meta": null,
+    "Name": "DLCCoast.cdx",
+    "Size": 6847144,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCCoast.cdx",
+      "Hash": "fu2acy/EUb0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlccoast.cdx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iH91kpboDws=",
+    "Meta": null,
+    "Name": "DLCCoast.esm",
+    "Size": 74565260,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCCoast.esm",
+      "Hash": "iH91kpboDws=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlccoast.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "enQfKf4uPUM=",
+    "Meta": null,
+    "Name": "DLCNukaWorld - Geometry.csg",
+    "Size": 104296054,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCNukaWorld - Geometry.csg",
+      "Hash": "enQfKf4uPUM=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcnukaworld - geometry.csg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yeYGRk7MRfk=",
+    "Meta": null,
+    "Name": "DLCNukaWorld - Main.ba2",
+    "Size": 1488519533,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCNukaWorld - Main.ba2",
+      "Hash": "yeYGRk7MRfk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcnukaworld - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tyLRjoIIfxU=",
+    "Meta": null,
+    "Name": "DLCNukaWorld - Textures.ba2",
+    "Size": 2348553100,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
+      "Hash": "tyLRjoIIfxU=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcnukaworld - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bwxtIyv3HCE=",
+    "Meta": null,
+    "Name": "DLCNukaWorld - Voices_en.ba2",
+    "Size": 310189745,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCNukaWorld - Voices_en.ba2",
+      "Hash": "bwxtIyv3HCE=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcnukaworld - voices_en.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WvYNLjRFMnI=",
+    "Meta": null,
+    "Name": "DLCNukaWorld.cdx",
+    "Size": 5133432,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCNukaWorld.cdx",
+      "Hash": "WvYNLjRFMnI=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcnukaworld.cdx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vSJ86DGuiNU=",
+    "Meta": null,
+    "Name": "DLCNukaWorld.esm",
+    "Size": 64313805,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCNukaWorld.esm",
+      "Hash": "vSJ86DGuiNU=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcnukaworld.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "owh6rCKibPs=",
+    "Meta": null,
+    "Name": "DLCRobot - Geometry.csg",
+    "Size": 32496988,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCRobot - Geometry.csg",
+      "Hash": "owh6rCKibPs=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcrobot - geometry.csg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eu5QrDBP6FE=",
+    "Meta": null,
+    "Name": "DLCRobot - Main.ba2",
+    "Size": 364112638,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCRobot - Main.ba2",
+      "Hash": "eu5QrDBP6FE=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcrobot - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JO30VXmk58A=",
+    "Meta": null,
+    "Name": "DLCRobot - Textures.ba2",
+    "Size": 218554028,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCRobot - Textures.ba2",
+      "Hash": "JO30VXmk58A=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcrobot - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mHUbt5Zv0s4=",
+    "Meta": null,
+    "Name": "DLCRobot - Voices_en.ba2",
+    "Size": 122977015,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCRobot - Voices_en.ba2",
+      "Hash": "mHUbt5Zv0s4=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcrobot - voices_en.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QZRKByF5INg=",
+    "Meta": null,
+    "Name": "DLCRobot.cdx",
+    "Size": 1224328,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCRobot.cdx",
+      "Hash": "QZRKByF5INg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcrobot.cdx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "x4xA33pdYfc=",
+    "Meta": null,
+    "Name": "DLCRobot.esm",
+    "Size": 8011546,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCRobot.esm",
+      "Hash": "x4xA33pdYfc=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcrobot.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5PK+9Mh4jhQ=",
+    "Meta": null,
+    "Name": "DLCworkshop01 - Geometry.csg",
+    "Size": 5824,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop01 - Geometry.csg",
+      "Hash": "5PK+9Mh4jhQ=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop01 - geometry.csg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NSbXTb5XeJw=",
+    "Meta": null,
+    "Name": "DLCworkshop01 - Main.ba2",
+    "Size": 55469349,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop01 - Main.ba2",
+      "Hash": "NSbXTb5XeJw=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop01 - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LCycwIgXDDQ=",
+    "Meta": null,
+    "Name": "DLCworkshop01 - Textures.ba2",
+    "Size": 23240011,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
+      "Hash": "LCycwIgXDDQ=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop01 - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kpd3a0YL76g=",
+    "Meta": null,
+    "Name": "DLCworkshop01.cdx",
+    "Size": 2168,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop01.cdx",
+      "Hash": "kpd3a0YL76g=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop01.cdx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VY/83YFmgP4=",
+    "Meta": null,
+    "Name": "DLCworkshop01.esm",
+    "Size": 633617,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop01.esm",
+      "Hash": "VY/83YFmgP4=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop01.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ddakhPbOSKk=",
+    "Meta": null,
+    "Name": "DLCworkshop02 - Main.ba2",
+    "Size": 95186371,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop02 - Main.ba2",
+      "Hash": "ddakhPbOSKk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop02 - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+wSzOyMqqpU=",
+    "Meta": null,
+    "Name": "DLCworkshop02 - Textures.ba2",
+    "Size": 169146799,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop02 - Textures.ba2",
+      "Hash": "+wSzOyMqqpU=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop02 - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "olnGlKr39e0=",
+    "Meta": null,
+    "Name": "DLCworkshop02.esm",
+    "Size": 677786,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop02.esm",
+      "Hash": "olnGlKr39e0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop02.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "RNcHKDphAvw=",
+    "Meta": null,
+    "Name": "DLCworkshop03 - Geometry.csg",
+    "Size": 22562982,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop03 - Geometry.csg",
+      "Hash": "RNcHKDphAvw=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop03 - geometry.csg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UFFP1Os/Ss8=",
+    "Meta": null,
+    "Name": "DLCworkshop03 - Main.ba2",
+    "Size": 200696646,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop03 - Main.ba2",
+      "Hash": "UFFP1Os/Ss8=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop03 - main.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mFo6JqLF9Do=",
+    "Meta": null,
+    "Name": "DLCworkshop03 - Textures.ba2",
+    "Size": 208483596,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop03 - Textures.ba2",
+      "Hash": "mFo6JqLF9Do=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop03 - textures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LYGu6RJiDsU=",
+    "Meta": null,
+    "Name": "DLCworkshop03 - Voices_en.ba2",
+    "Size": 51750623,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop03 - Voices_en.ba2",
+      "Hash": "LYGu6RJiDsU=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop03 - voices_en.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6kSvV9UAFjA=",
+    "Meta": null,
+    "Name": "DLCworkshop03.cdx",
+    "Size": 696408,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop03.cdx",
+      "Hash": "6kSvV9UAFjA=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop03.cdx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tSG9pGxASuw=",
+    "Meta": null,
+    "Name": "DLCworkshop03.esm",
+    "Size": 2971385,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\DLCworkshop03.esm",
+      "Hash": "tSG9pGxASuw=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\dlcworkshop03.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cOE0AgYtiZk=",
+    "Meta": null,
+    "Name": "Fallout4 - Animations.ba2",
+    "Size": 359787743,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Animations.ba2",
+      "Hash": "cOE0AgYtiZk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - animations.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WPVCET93lo0=",
+    "Meta": null,
+    "Name": "Fallout4 - Geometry.csg",
+    "Size": 240043177,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Geometry.csg",
+      "Hash": "WPVCET93lo0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - geometry.csg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SYD2HOxG+z8=",
+    "Meta": null,
+    "Name": "Fallout4 - Interface.ba2",
+    "Size": 485441781,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Interface.ba2",
+      "Hash": "SYD2HOxG+z8=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - interface.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vc0CTLVB0ew=",
+    "Meta": null,
+    "Name": "Fallout4 - Materials.ba2",
+    "Size": 1770496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Materials.ba2",
+      "Hash": "vc0CTLVB0ew=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - materials.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L1RdvbPgIk8=",
+    "Meta": null,
+    "Name": "Fallout4 - Meshes.ba2",
+    "Size": 1493340537,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Meshes.ba2",
+      "Hash": "L1RdvbPgIk8=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - meshes.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "obsNEwoApkY=",
+    "Meta": null,
+    "Name": "Fallout4 - MeshesExtra.ba2",
+    "Size": 1377740102,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - MeshesExtra.ba2",
+      "Hash": "obsNEwoApkY=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - meshesextra.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xrGg5bEPhsI=",
+    "Meta": null,
+    "Name": "Fallout4 - Misc.ba2",
+    "Size": 17356927,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Misc.ba2",
+      "Hash": "xrGg5bEPhsI=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - misc.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fWvOFU0VFzs=",
+    "Meta": null,
+    "Name": "Fallout4 - Nvflex.ba2",
+    "Size": 6385127,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Nvflex.ba2",
+      "Hash": "fWvOFU0VFzs=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - nvflex.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4VzJFpoeSyY=",
+    "Meta": null,
+    "Name": "Fallout4 - Shaders.ba2",
+    "Size": 12845022,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Shaders.ba2",
+      "Hash": "4VzJFpoeSyY=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - shaders.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "afrjCm9u0gE=",
+    "Meta": null,
+    "Name": "Fallout4 - Sounds.ba2",
+    "Size": 1579741414,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Sounds.ba2",
+      "Hash": "afrjCm9u0gE=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - sounds.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "r9atBo0vdWU=",
+    "Meta": null,
+    "Name": "Fallout4 - Startup.ba2",
+    "Size": 46451365,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Startup.ba2",
+      "Hash": "r9atBo0vdWU=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - startup.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LsNhrJ6et0k=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures1.ba2",
+    "Size": 2709070014,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures1.ba2",
+      "Hash": "LsNhrJ6et0k=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures1.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "D4p7/Fon2zw=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures2.ba2",
+    "Size": 2420982983,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures2.ba2",
+      "Hash": "D4p7/Fon2zw=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures2.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2GOYPeXGmlU=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures3.ba2",
+    "Size": 2095724697,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures3.ba2",
+      "Hash": "2GOYPeXGmlU=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures3.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mWHypI5laIo=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures4.ba2",
+    "Size": 2005844637,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures4.ba2",
+      "Hash": "mWHypI5laIo=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures4.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pTLf+5d5EwM=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures5.ba2",
+    "Size": 1965886787,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures5.ba2",
+      "Hash": "pTLf+5d5EwM=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures5.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "z6G0Qe+U11c=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures6.ba2",
+    "Size": 1399972840,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures6.ba2",
+      "Hash": "z6G0Qe+U11c=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures6.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iAVjq3kjwWQ=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures7.ba2",
+    "Size": 547749609,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures7.ba2",
+      "Hash": "iAVjq3kjwWQ=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures7.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GO12EAP3jsM=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures8.ba2",
+    "Size": 603820524,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures8.ba2",
+      "Hash": "GO12EAP3jsM=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures8.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HdqULXwG9I0=",
+    "Meta": null,
+    "Name": "Fallout4 - Textures9.ba2",
+    "Size": 866812818,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Textures9.ba2",
+      "Hash": "HdqULXwG9I0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - textures9.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7XLpm2HYyGc=",
+    "Meta": null,
+    "Name": "Fallout4 - Voices.ba2",
+    "Size": 2606358161,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4 - Voices.ba2",
+      "Hash": "7XLpm2HYyGc=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4 - voices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8VSxfWLwaQI=",
+    "Meta": null,
+    "Name": "Fallout4.cdx",
+    "Size": 23360440,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4.cdx",
+      "Hash": "8VSxfWLwaQI=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4.cdx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "np4wH3me9OI=",
+    "Meta": null,
+    "Name": "Fallout4.esm",
+    "Size": 330777465,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Fallout4.esm",
+      "Hash": "np4wH3me9OI=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\fallout4.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NJ+fLbj+6/4=",
+    "Meta": null,
+    "Name": "Fallout4Prefs.ini",
+    "Size": 3633,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Fallout4\\Fallout4Prefs.ini",
+      "Hash": "NJ+fLbj+6/4=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|fallout4\\fallout4prefs.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+ZhbHNdji0g=",
+    "Meta": null,
+    "Name": "AGILITY.bk2",
+    "Size": 381902820,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\AGILITY.bk2",
+      "Hash": "+ZhbHNdji0g=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\agility.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VapF64VPYtk=",
+    "Meta": null,
+    "Name": "CHARISMA.bk2",
+    "Size": 400271092,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\CHARISMA.bk2",
+      "Hash": "VapF64VPYtk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\charisma.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LoodhtJofQg=",
+    "Meta": null,
+    "Name": "Endgame_FEMALE_A.bk2",
+    "Size": 221085404,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\Endgame_FEMALE_A.bk2",
+      "Hash": "LoodhtJofQg=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\endgame_female_a.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bVJrF0HZaBk=",
+    "Meta": null,
+    "Name": "Endgame_FEMALE_B.bk2",
+    "Size": 191813488,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\Endgame_FEMALE_B.bk2",
+      "Hash": "bVJrF0HZaBk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\endgame_female_b.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hXxGyQgKDmA=",
+    "Meta": null,
+    "Name": "Endgame_MALE_A.bk2",
+    "Size": 221373680,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\Endgame_MALE_A.bk2",
+      "Hash": "hXxGyQgKDmA=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\endgame_male_a.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "El+gvjk5f30=",
+    "Meta": null,
+    "Name": "Endgame_MALE_B.bk2",
+    "Size": 194541812,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\Endgame_MALE_B.bk2",
+      "Hash": "El+gvjk5f30=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\endgame_male_b.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MaMuXs7RoUk=",
+    "Meta": null,
+    "Name": "ENDURANCE.bk2",
+    "Size": 371586760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\ENDURANCE.bk2",
+      "Hash": "MaMuXs7RoUk=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\endurance.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "g4fzJkOFuEA=",
+    "Meta": null,
+    "Name": "GameIntro_V3_B.bk2",
+    "Size": 27330800,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\GameIntro_V3_B.bk2",
+      "Hash": "g4fzJkOFuEA=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\gameintro_v3_b.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BzRLuv5/0Ss=",
+    "Meta": null,
+    "Name": "INTELLIGENCE.bk2",
+    "Size": 386805116,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\INTELLIGENCE.bk2",
+      "Hash": "BzRLuv5/0Ss=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\intelligence.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "RHpv+ziXYaQ=",
+    "Meta": null,
+    "Name": "Intro.bk2",
+    "Size": 380362384,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\Intro.bk2",
+      "Hash": "RHpv+ziXYaQ=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\intro.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kC7mdjZtlec=",
+    "Meta": null,
+    "Name": "LUCK.bk2",
+    "Size": 405196056,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\LUCK.bk2",
+      "Hash": "kC7mdjZtlec=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\luck.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/YoBMfMWEho=",
+    "Meta": null,
+    "Name": "MainMenuLoop.bk2",
+    "Size": 322255456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\MainMenuLoop.bk2",
+      "Hash": "/YoBMfMWEho=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\mainmenuloop.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vyFK63ZIsZ0=",
+    "Meta": null,
+    "Name": "PERCEPTION.bk2",
+    "Size": 378189860,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\PERCEPTION.bk2",
+      "Hash": "vyFK63ZIsZ0=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\perception.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TTUAjzyJV0w=",
+    "Meta": null,
+    "Name": "STRENGTH.bk2",
+    "Size": 346788624,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout4",
+      "GameFile": "Data\\Video\\STRENGTH.bk2",
+      "Hash": "TTUAjzyJV0w=",
+      "GameVersion": "1.10.980.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.980.0|data\\video\\strength.bk2"
+    }
+  }
+]
