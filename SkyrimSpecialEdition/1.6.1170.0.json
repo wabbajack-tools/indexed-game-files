@@ -3598,7 +3598,7 @@
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\lipgen\\lipfuzer\\lipfuzer.txt"
     }
-  },
+  }, 
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "K31KABqBrfc=",
@@ -3703,7 +3703,7 @@
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|data\\ccbgssse037-curios.esl"
     }
-  },
+  }, 
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "RKdmqfW6juE=",
