@@ -3657,7 +3657,8 @@
       "Hash": "Z9pjAeL2a2U=",
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\plugins\\skyrim\\meshes_settings.json"
-    }
+   }
+  },
     {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "K0XeMyoMe2U=",
