@@ -16,30 +16,30 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "boyqeB3rQJ8=",
+    "Hash": "L2BR8WpC2M0=",
     "Meta": null,
     "Name": "CreationKit.exe",
-    "Size": 47725568,
+    "Size": 47954944,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "CreationKit.exe",
-      "Hash": "boyqeB3rQJ8=",
+      "Hash": "L2BR8WpC2M0=",
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|creationkit.exe"
     }
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "gcIDnNlnnQk=",
+    "Hash": "RjpKxrFxfP8=",
     "Meta": null,
     "Name": "CreationKit.ini",
-    "Size": 2852,
+    "Size": 2881,
     "State": {
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "CreationKit.ini",
-      "Hash": "gcIDnNlnnQk=",
+      "Hash": "RjpKxrFxfP8=",
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|creationkit.ini"
     }
@@ -2551,7 +2551,7 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "r5x4QxHL1YM=",
+    "Hash": "l5DKmmXk+og=",
     "Meta": null,
     "Name": "Scripts.zip",
     "Size": 13634796,
@@ -2559,7 +2559,7 @@
       "$type": "GameFileSourceDownloader, Wabbajack.Lib",
       "Game": "SkyrimSpecialEdition",
       "GameFile": "Data\\Scripts.zip",
-      "Hash": "r5x4QxHL1YM=",
+      "Hash": "l5DKmmXk+og=",
       "GameVersion": "1.6.1170.0",
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|data\\scripts.zip"
     }
@@ -3136,6 +3136,21 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Q94b1Z7rPLE=",
+    "Meta": null,
+    "Name": "Exporting Blender Art Assets for Skyrim.pdf",
+    "Size": 1650360,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\Exporting Blender Art Assets for Skyrim.pdf",
+      "Hash": "Q94b1Z7rPLE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\exporting blender art assets for skyrim.pdf"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "nutRGnJhnVI=",
     "Meta": null,
     "Name": "RoboVoicer.exe",
@@ -3226,6 +3241,111 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xoAWgL/QPYA=",
+    "Meta": null,
+    "Name": "AssetWatcher.exe",
+    "Size": 2311168,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\AssetWatcher.exe",
+      "Hash": "xoAWgL/QPYA=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\assetwatcher.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aWw7khDmuBE=",
+    "Meta": null,
+    "Name": "Qt5Core.dll",
+    "Size": 6133880,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\Qt5Core.dll",
+      "Hash": "aWw7khDmuBE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\qt5core.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bO2AgJqJTjk=",
+    "Meta": null,
+    "Name": "Qt5Gui.dll",
+    "Size": 6494840,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\Qt5Gui.dll",
+      "Hash": "bO2AgJqJTjk=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\qt5gui.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fiD8q9mnHk0=",
+    "Meta": null,
+    "Name": "Qt5Network.dll",
+    "Size": 1314424,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\Qt5Network.dll",
+      "Hash": "fiD8q9mnHk0=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\qt5network.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "t5j3UyBQI9w=",
+    "Meta": null,
+    "Name": "Qt5Svg.dll",
+    "Size": 338552,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\Qt5Svg.dll",
+      "Hash": "t5j3UyBQI9w=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\qt5svg.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3GUmir2+zBM=",
+    "Meta": null,
+    "Name": "Qt5Widgets.dll",
+    "Size": 5539448,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\Qt5Widgets.dll",
+      "Hash": "3GUmir2+zBM=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\qt5widgets.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jhmc3PA/6Qs=",
+    "Meta": null,
+    "Name": "SettingsGeneration.py",
+    "Size": 26063,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\SettingsGeneration.py",
+      "Hash": "jhmc3PA/6Qs=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\settingsgeneration.py"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",						   
     "Hash": "xEjUKCIoThk=",
     "Meta": null,
     "Name": "xwmaencode.exe",
@@ -3316,6 +3436,141 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "++7IuQz8aMs=",
+    "Meta": null,
+    "Name": "dxwebsetup.exe",
+    "Size": 295320,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\redist\\dxwebsetup.exe",
+      "Hash": "++7IuQz8aMs=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\redist\\dxwebsetup.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "T2h4YTCZuJ4=",
+    "Meta": null,
+    "Name": "VC_redist.x64.exe",
+    "Size": 25245176,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\redist\\VC_redist.x64.exe",
+      "Hash": "T2h4YTCZuJ4=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\redist\\vc_redist.x64.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nQWy2WJLeuA=",
+    "Meta": null,
+    "Name": "bgs_skyrim_tools.zip",
+    "Size": 44103,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\ArtTools\\Blender\\bgs_skyrim_tools.zip",
+      "Hash": "nQWy2WJLeuA=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\arttools\\blender\\bgs_skyrim_tools.zip"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4yeSDv53k1I=",
+    "Meta": null,
+    "Name": "io_scene_bsfbx_skyrim.zip",
+    "Size": 111937,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\ArtTools\\Blender\\io_scene_bsfbx_skyrim.zip",
+      "Hash": "4yeSDv53k1I=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\arttools\\blender\\io_scene_bsfbx_skyrim.zip"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "id921VJ7+KE=",
+    "Meta": null,
+    "Name": "qminimal.dll",
+    "Size": 850552,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\platforms\\qminimal.dll",
+      "Hash": "id921VJ7+KE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\platforms\\qminimal.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "n88orx5t0wE=",
+    "Meta": null,
+    "Name": "qoffscreen.dll",
+    "Size": 758392,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\platforms\\qoffscreen.dll",
+      "Hash": "n88orx5t0wE=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\platforms\\qoffscreen.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Qr6FP9E/Urc=",
+    "Meta": null,
+    "Name": "qwindows.dll",
+    "Size": 1465464,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\platforms\\qwindows.dll",
+      "Hash": "Qr6FP9E/Urc=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\platforms\\qwindows.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VQLyErkCP08=",
+    "Meta": null,
+    "Name": "Default.css",
+    "Size": 8467,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\styles\\Default.css",
+      "Hash": "VQLyErkCP08=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\styles\\default.css"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dINL+vRS3z0=",
+    "Meta": null,
+    "Name": "qwindowsvistastyle.dll",
+    "Size": 141944,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\styles\\qwindowsvistastyle.dll",
+      "Hash": "dINL+vRS3z0=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\styles\\qwindowsvistastyle.dll"
+    }
+  }, 
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "j39PJrqMgtA=",
     "Meta": null,
     "Name": "LIPFuzer.exe",
@@ -3374,6 +3629,35 @@
       "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\lipgen\\lipgenerator\\lipgenerator.exe"
     }
   },
+{
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ExaBhAp8HnA=",
+    "Meta": null,
+    "Name": "BSFBXDLL.dll",
+    "Size": 24751616,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\Plugins\\Skyrim\\BSFBXDLL.dll",
+      "Hash": "ExaBhAp8HnA=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\plugins\\skyrim\\bsfbxdll.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Z9pjAeL2a2U=",
+    "Meta": null,
+    "Name": "Meshes_Settings.json",
+    "Size": 7806,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Tools\\AssetWatcher\\Plugins\\Skyrim\\Meshes_Settings.json",
+      "Hash": "Z9pjAeL2a2U=",
+      "GameVersion": "1.6.1170.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.1170.0|tools\\assetwatcher\\plugins\\skyrim\\meshes_settings.json"
+    }
     {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "K0XeMyoMe2U=",
