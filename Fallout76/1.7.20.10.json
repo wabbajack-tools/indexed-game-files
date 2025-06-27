@@ -1,0 +1,2462 @@
+[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WIxjM3V/7ek=",
+    "Meta": null,
+    "Name": "nl.pak",
+    "Size": 194122,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\nl.pak",
+      "Hash": "WIxjM3V/7ek=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\nl.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Xv6Dkqu0+HQ=",
+    "Meta": null,
+    "Name": "hu.pak",
+    "Size": 216033,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\hu.pak",
+      "Hash": "Xv6Dkqu0+HQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\hu.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "foDY1s+2ajk=",
+    "Meta": null,
+    "Name": "fa.pak",
+    "Size": 290340,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\fa.pak",
+      "Hash": "foDY1s+2ajk=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\fa.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+zab7X1jM54=",
+    "Meta": null,
+    "Name": "ar.pak",
+    "Size": 283709,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ar.pak",
+      "Hash": "+zab7X1jM54=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ar.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "caKRXB4mg0A=",
+    "Meta": null,
+    "Name": "SeventySix - Textures01.ba2",
+    "Size": 4190650563,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures01.ba2",
+      "Hash": "caKRXB4mg0A=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures01.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rYcgBcoKbqQ=",
+    "Meta": null,
+    "Name": "SeventySix - Interface_zhhans.ba2",
+    "Size": 50311672,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Interface_zhhans.ba2",
+      "Hash": "rYcgBcoKbqQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - interface_zhhans.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gGgvSuJQHtU=",
+    "Meta": null,
+    "Name": "SeventySix - 04UpdateTextures.ba2",
+    "Size": 722020994,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 04UpdateTextures.ba2",
+      "Hash": "gGgvSuJQHtU=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 04updatetextures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "o3zkvR6TgwE=",
+    "Meta": null,
+    "Name": "SeventySix - 03UpdateVoices.ba2",
+    "Size": 11024516,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 03UpdateVoices.ba2",
+      "Hash": "o3zkvR6TgwE=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 03updatevoices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vhj+60sQFvQ=",
+    "Meta": null,
+    "Name": "VendorSettings.json",
+    "Size": 4253,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "VendorSettings.json",
+      "Hash": "vhj+60sQFvQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|vendorsettings.json"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "agQKNitZquI=",
+    "Meta": null,
+    "Name": "ChromiumRenderer.exe",
+    "Size": 7309312,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "ChromiumRenderer.exe",
+      "Hash": "agQKNitZquI=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|chromiumrenderer.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "T0E5rCMaDBw=",
+    "Meta": null,
+    "Name": "vi.pak",
+    "Size": 229446,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\vi.pak",
+      "Hash": "T0E5rCMaDBw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\vi.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6O97oQkiniY=",
+    "Meta": null,
+    "Name": "ja.pak",
+    "Size": 246654,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ja.pak",
+      "Hash": "6O97oQkiniY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ja.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "C79Li5d/q5A=",
+    "Meta": null,
+    "Name": "de.pak",
+    "Size": 204541,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\de.pak",
+      "Hash": "C79Li5d/q5A=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\de.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "biZVodQsoFA=",
+    "Meta": null,
+    "Name": "SeventySix - Textures05.ba2",
+    "Size": 4194126494,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures05.ba2",
+      "Hash": "biZVodQsoFA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures05.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uBA89gWZ6/o=",
+    "Meta": null,
+    "Name": "SeventySix - Meshes.ba2",
+    "Size": 2964099941,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Meshes.ba2",
+      "Hash": "uBA89gWZ6/o=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - meshes.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "X0sgTNA8e7Y=",
+    "Meta": null,
+    "Name": "SeventySix - 05UpdateStream.ba2",
+    "Size": 705466,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 05UpdateStream.ba2",
+      "Hash": "X0sgTNA8e7Y=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 05updatestream.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/LrXBEsTPuw=",
+    "Meta": null,
+    "Name": "SeventySix - 01UpdateVoices.ba2",
+    "Size": 9370712,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 01UpdateVoices.ba2",
+      "Hash": "/LrXBEsTPuw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 01updatevoices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "K4THQKimE+A=",
+    "Meta": null,
+    "Name": "steam_api64.dll",
+    "Size": 293160,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "steam_api64.dll",
+      "Hash": "K4THQKimE+A=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|steam_api64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7hcJ3/E6wpw=",
+    "Meta": null,
+    "Name": "Fallout76.bin",
+    "Size": 7816704,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Fallout76.bin",
+      "Hash": "7hcJ3/E6wpw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|fallout76.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MGHwHG29vvA=",
+    "Meta": null,
+    "Name": "tr.pak",
+    "Size": 201126,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\tr.pak",
+      "Hash": "MGHwHG29vvA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\tr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L4A5UNCdwQ8=",
+    "Meta": null,
+    "Name": "pl.pak",
+    "Size": 204377,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\pl.pak",
+      "Hash": "L4A5UNCdwQ8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\pl.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "urh+MvpTEnw=",
+    "Meta": null,
+    "Name": "kn.pak",
+    "Size": 473010,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\kn.pak",
+      "Hash": "urh+MvpTEnw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\kn.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "STg18tA7fL4=",
+    "Meta": null,
+    "Name": "ca.pak",
+    "Size": 205620,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ca.pak",
+      "Hash": "STg18tA7fL4=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ca.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MBKOaRFzmcI=",
+    "Meta": null,
+    "Name": "SeventySix - Textures08.ba2",
+    "Size": 4193868525,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures08.ba2",
+      "Hash": "MBKOaRFzmcI=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures08.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kNYhhNUU41g=",
+    "Meta": null,
+    "Name": "SeventySix - Shaders.ba2",
+    "Size": 27822341,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Shaders.ba2",
+      "Hash": "kNYhhNUU41g=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - shaders.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4h5zO5dyOis=",
+    "Meta": null,
+    "Name": "SeventySix - EnlightenExteriors02.ba2",
+    "Size": 4193496405,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - EnlightenExteriors02.ba2",
+      "Hash": "4h5zO5dyOis=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - enlightenexteriors02.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "h7o0XgtK4cw=",
+    "Meta": null,
+    "Name": "SeventySix - 02UpdateVoices.ba2",
+    "Size": 13858534,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 02UpdateVoices.ba2",
+      "Hash": "h7o0XgtK4cw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 02updatevoices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VVBreWOiSRA=",
+    "Meta": null,
+    "Name": "Medium.ini",
+    "Size": 1151,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Medium.ini",
+      "Hash": "VVBreWOiSRA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|medium.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "d/7QIJWuekY=",
+    "Meta": null,
+    "Name": "cef_100_percent.pak",
+    "Size": 652403,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "cef_100_percent.pak",
+      "Hash": "d/7QIJWuekY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|cef_100_percent.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "T/6z+9g+NII=",
+    "Meta": null,
+    "Name": "BGSLogo4k.bk2",
+    "Size": 16001504,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\Video\\BGSLogo4k.bk2",
+      "Hash": "T/6z+9g+NII=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\video\\bgslogo4k.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "99dQdOMVF8g=",
+    "Meta": null,
+    "Name": "ms.pak",
+    "Size": 188696,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ms.pak",
+      "Hash": "99dQdOMVF8g=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ms.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MT3KrmoqEDk=",
+    "Meta": null,
+    "Name": "fr.pak",
+    "Size": 220417,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\fr.pak",
+      "Hash": "MT3KrmoqEDk=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\fr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NzByu2IFD7w=",
+    "Meta": null,
+    "Name": "bn.pak",
+    "Size": 432077,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\bn.pak",
+      "Hash": "NzByu2IFD7w=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\bn.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FF0JYp2mlT8=",
+    "Meta": null,
+    "Name": "SeventySix - StaticMeshes.ba2",
+    "Size": 2253047526,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - StaticMeshes.ba2",
+      "Hash": "FF0JYp2mlT8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - staticmeshes.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+HbFC/rppBQ=",
+    "Meta": null,
+    "Name": "SeventySix - GeneratedMeshes02.ba2",
+    "Size": 2148862558,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - GeneratedMeshes02.ba2",
+      "Hash": "+HbFC/rppBQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - generatedmeshes02.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9PAKRyivioE=",
+    "Meta": null,
+    "Name": "SeventySix - 04UpdateVoices.ba2",
+    "Size": 77145724,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 04UpdateVoices.ba2",
+      "Hash": "9PAKRyivioE=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 04updatevoices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "A8ohBK81Sys=",
+    "Meta": null,
+    "Name": "SeventySix - 01UpdateStream.ba2",
+    "Size": 1092685,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 01UpdateStream.ba2",
+      "Hash": "A8ohBK81Sys=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 01updatestream.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EnGC/CDAoXY=",
+    "Meta": null,
+    "Name": "libGLESv2.dll",
+    "Size": 4154664,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "libGLESv2.dll",
+      "Hash": "EnGC/CDAoXY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|libglesv2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oh1io9uQ34U=",
+    "Meta": null,
+    "Name": "Fallout76.exe",
+    "Size": 103259432,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Fallout76.exe",
+      "Hash": "oh1io9uQ34U=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|fallout76.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zEyGKniUo3c=",
+    "Meta": null,
+    "Name": "Appalachia.btd",
+    "Size": 1552345104,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\Terrain\\Appalachia.btd",
+      "Hash": "zEyGKniUo3c=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\terrain\\appalachia.btd"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6hxTqSABXCg=",
+    "Meta": null,
+    "Name": "sr.pak",
+    "Size": 308655,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\sr.pak",
+      "Hash": "6hxTqSABXCg=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\sr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BDR2tZQmoKg=",
+    "Meta": null,
+    "Name": "mr.pak",
+    "Size": 410702,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\mr.pak",
+      "Hash": "BDR2tZQmoKg=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\mr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "N7WONnY18hM=",
+    "Meta": null,
+    "Name": "es-419.pak",
+    "Size": 202726,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\es-419.pak",
+      "Hash": "N7WONnY18hM=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\es-419.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6NVKcXItgIM=",
+    "Meta": null,
+    "Name": "SeventySix - Textures04.ba2",
+    "Size": 4194071638,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures04.ba2",
+      "Hash": "6NVKcXItgIM=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures04.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0NEBZOQ8m04=",
+    "Meta": null,
+    "Name": "SeventySix - MeshesExtra.ba2",
+    "Size": 2198311922,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - MeshesExtra.ba2",
+      "Hash": "0NEBZOQ8m04=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - meshesextra.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hHCPCodv45U=",
+    "Meta": null,
+    "Name": "SeventySix - Animations.ba2",
+    "Size": 386325894,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Animations.ba2",
+      "Hash": "hHCPCodv45U=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - animations.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EJfM0Rb9E/8=",
+    "Meta": null,
+    "Name": "SeventySix - 00UpdateTextures.ba2",
+    "Size": 794031980,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 00UpdateTextures.ba2",
+      "Hash": "EJfM0Rb9E/8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 00updatetextures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZFcCMtyo8+c=",
+    "Meta": null,
+    "Name": "vcruntime140.dll",
+    "Size": 83752,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "vcruntime140.dll",
+      "Hash": "ZFcCMtyo8+c=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|vcruntime140.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nclKMKrI3eY=",
+    "Meta": null,
+    "Name": "cef_200_percent.pak",
+    "Size": 758060,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "cef_200_percent.pak",
+      "Hash": "nclKMKrI3eY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|cef_200_percent.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "XfXPMCaGYA8=",
+    "Meta": null,
+    "Name": "zh-TW.pak",
+    "Size": 172368,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\zh-TW.pak",
+      "Hash": "XfXPMCaGYA8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\zh-tw.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QgCNfYA5Gg8=",
+    "Meta": null,
+    "Name": "pt-BR.pak",
+    "Size": 199937,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\pt-BR.pak",
+      "Hash": "QgCNfYA5Gg8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\pt-br.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "y1MHIZmtO5I=",
+    "Meta": null,
+    "Name": "fil.pak",
+    "Size": 209294,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\fil.pak",
+      "Hash": "y1MHIZmtO5I=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\fil.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3bCD+JqxD9c=",
+    "Meta": null,
+    "Name": "SeventySix.cdx",
+    "Size": 691496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix.cdx",
+      "Hash": "3bCD+JqxD9c=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix.cdx"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OnIaSzy3ivo=",
+    "Meta": null,
+    "Name": "SeventySix - Interface.ba2",
+    "Size": 121715997,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Interface.ba2",
+      "Hash": "OnIaSzy3ivo=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - interface.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fECcVeX7n0U=",
+    "Meta": null,
+    "Name": "SeventySix - 06UpdateVoices.ba2",
+    "Size": 27449219,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 06UpdateVoices.ba2",
+      "Hash": "fECcVeX7n0U=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 06updatevoices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "C6nLEFg41u4=",
+    "Meta": null,
+    "Name": "SeventySix - 01UpdateTextures.ba2",
+    "Size": 258020853,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 01UpdateTextures.ba2",
+      "Hash": "C6nLEFg41u4=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 01updatetextures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MKUKhHs7Oac=",
+    "Meta": null,
+    "Name": "d3dcompiler_47.dll",
+    "Size": 4169000,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Bin64\\d3dcompiler_47.dll",
+      "Hash": "MKUKhHs7Oac=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|bin64\\d3dcompiler_47.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QToOBq0b/u0=",
+    "Meta": null,
+    "Name": "Ultra.ini",
+    "Size": 1162,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Ultra.ini",
+      "Hash": "QToOBq0b/u0=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|ultra.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lGD/ZdCKYk8=",
+    "Meta": null,
+    "Name": "chrome_elf.dll",
+    "Size": 569128,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "chrome_elf.dll",
+      "Hash": "lGD/ZdCKYk8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|chrome_elf.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Cerb/OJ+gaY=",
+    "Meta": null,
+    "Name": "AtomShop.bk2",
+    "Size": 134891048,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\Video\\AtomShop.bk2",
+      "Hash": "Cerb/OJ+gaY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\video\\atomshop.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q47z8iFSM9k=",
+    "Meta": null,
+    "Name": "sk.pak",
+    "Size": 213496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\sk.pak",
+      "Hash": "q47z8iFSM9k=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\sk.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tKx45UvQV0w=",
+    "Meta": null,
+    "Name": "gu.pak",
+    "Size": 409318,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\gu.pak",
+      "Hash": "tKx45UvQV0w=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\gu.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uSChyhbuZRA=",
+    "Meta": null,
+    "Name": "et.pak",
+    "Size": 183673,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\et.pak",
+      "Hash": "uSChyhbuZRA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\et.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mqgHwAZz8EM=",
+    "Meta": null,
+    "Name": "SeventySix - WorkshopIcons.ba2",
+    "Size": 33665642,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - WorkshopIcons.ba2",
+      "Hash": "mqgHwAZz8EM=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - workshopicons.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1E9bJ+2Dymo=",
+    "Meta": null,
+    "Name": "SeventySix - Startup.ba2",
+    "Size": 521163538,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Startup.ba2",
+      "Hash": "1E9bJ+2Dymo=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - startup.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZglNSGCTHWM=",
+    "Meta": null,
+    "Name": "SeventySix - Interface_ru.ba2",
+    "Size": 368547,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Interface_ru.ba2",
+      "Hash": "ZglNSGCTHWM=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - interface_ru.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "A1vxSK/Fa18=",
+    "Meta": null,
+    "Name": "SeventySix - 05UpdateTextures.ba2",
+    "Size": 197876574,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 05UpdateTextures.ba2",
+      "Hash": "A1vxSK/Fa18=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 05updatetextures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4/AY4K39glY=",
+    "Meta": null,
+    "Name": "SeventySix - 04UpdateMain.ba2",
+    "Size": 553877332,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 04UpdateMain.ba2",
+      "Hash": "4/AY4K39glY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 04updatemain.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qYLFx0US+28=",
+    "Meta": null,
+    "Name": "SeventySix - 00UpdateMain.ba2",
+    "Size": 394438696,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 00UpdateMain.ba2",
+      "Hash": "qYLFx0US+28=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 00updatemain.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "T+s+79NJyW8=",
+    "Meta": null,
+    "Name": "snapshot_blob.bin",
+    "Size": 1248724,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "snapshot_blob.bin",
+      "Hash": "T+s+79NJyW8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|snapshot_blob.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MtgRqyeBl0g=",
+    "Meta": null,
+    "Name": "High.ini",
+    "Size": 1157,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "High.ini",
+      "Hash": "MtgRqyeBl0g=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|high.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uHOVvWvbjxA=",
+    "Meta": null,
+    "Name": "CrashSender.exe",
+    "Size": 631296,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "CrashSender.exe",
+      "Hash": "uHOVvWvbjxA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|crashsender.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "b9WmfLhBRQ0=",
+    "Meta": null,
+    "Name": "sl.pak",
+    "Size": 196906,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\sl.pak",
+      "Hash": "b9WmfLhBRQ0=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\sl.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gKUn/IMMU28=",
+    "Meta": null,
+    "Name": "ml.pak",
+    "Size": 513529,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ml.pak",
+      "Hash": "gKUn/IMMU28=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "AtKkBcgHZ1I=",
+    "Meta": null,
+    "Name": "cs.pak",
+    "Size": 209141,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\cs.pak",
+      "Hash": "AtKkBcgHZ1I=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\cs.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "r81DHJBO64o=",
+    "Meta": null,
+    "Name": "SeventySix - Textures06.ba2",
+    "Size": 4193791401,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures06.ba2",
+      "Hash": "r81DHJBO64o=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures06.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q0rlIXYaDq4=",
+    "Meta": null,
+    "Name": "SeventySix - MiscClient.ba2",
+    "Size": 13662956,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - MiscClient.ba2",
+      "Hash": "q0rlIXYaDq4=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - miscclient.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "XAKD5aq5cTw=",
+    "Meta": null,
+    "Name": "SeventySix - GeneratedTextures01.ba2",
+    "Size": 4194227997,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - GeneratedTextures01.ba2",
+      "Hash": "XAKD5aq5cTw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - generatedtextures01.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+EcnkeKuyiU=",
+    "Meta": null,
+    "Name": "SeventySix - 06UpdateStream.ba2",
+    "Size": 13695529,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 06UpdateStream.ba2",
+      "Hash": "+EcnkeKuyiU=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 06updatestream.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "RluAoLuFsM0=",
+    "Meta": null,
+    "Name": "SeventySix - 03UpdateTextures.ba2",
+    "Size": 211208109,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 03UpdateTextures.ba2",
+      "Hash": "RluAoLuFsM0=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 03updatetextures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "W5KCyVDfle8=",
+    "Meta": null,
+    "Name": "ortp_x64.dll",
+    "Size": 231208,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "ortp_x64.dll",
+      "Hash": "W5KCyVDfle8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|ortp_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7P+Y2gKiNDA=",
+    "Meta": null,
+    "Name": "2ec263f9-3cfd-438d-ba25-2721a7c80bb3.dmp",
+    "Size": 760193,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "2ec263f9-3cfd-438d-ba25-2721a7c80bb3.dmp",
+      "Hash": "7P+Y2gKiNDA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|2ec263f9-3cfd-438d-ba25-2721a7c80bb3.dmp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pTDYv+8b7vo=",
+    "Meta": null,
+    "Name": "th.pak",
+    "Size": 391686,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\th.pak",
+      "Hash": "pTDYv+8b7vo=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\th.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MvvaS62pg7E=",
+    "Meta": null,
+    "Name": "hr.pak",
+    "Size": 196770,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\hr.pak",
+      "Hash": "MvvaS62pg7E=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\hr.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Fb0JLF7QZXc=",
+    "Meta": null,
+    "Name": "es.pak",
+    "Size": 206133,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\es.pak",
+      "Hash": "Fb0JLF7QZXc=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\es.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kZ30qQ7Ih3g=",
+    "Meta": null,
+    "Name": "SeventySix.esm",
+    "Size": 870863590,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix.esm",
+      "Hash": "kZ30qQ7Ih3g=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oHH4//QAhRE=",
+    "Meta": null,
+    "Name": "SeventySix - Textures10.ba2",
+    "Size": 2260600334,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures10.ba2",
+      "Hash": "oHH4//QAhRE=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures10.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "G9xdQmqKwRE=",
+    "Meta": null,
+    "Name": "SeventySix - Materials.ba2",
+    "Size": 7098109,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Materials.ba2",
+      "Hash": "G9xdQmqKwRE=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - materials.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UJzZkkPshGQ=",
+    "Meta": null,
+    "Name": "SeventySix - EnlightenExteriors01.ba2",
+    "Size": 4193369857,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - EnlightenExteriors01.ba2",
+      "Hash": "UJzZkkPshGQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - enlightenexteriors01.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lD5th4qJlPM=",
+    "Meta": null,
+    "Name": "SeventySix - 02UpdateStream.ba2",
+    "Size": 62837800,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 02UpdateStream.ba2",
+      "Hash": "lD5th4qJlPM=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 02updatestream.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "m+3pBTKy85A=",
+    "Meta": null,
+    "Name": "vivoxsdk.dll",
+    "Size": 12221736,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "vivoxsdk.dll",
+      "Hash": "m+3pBTKy85A=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|vivoxsdk.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "AbK8SpiBwD8=",
+    "Meta": null,
+    "Name": "v8_context_snapshot.bin",
+    "Size": 1648464,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "v8_context_snapshot.bin",
+      "Hash": "AbK8SpiBwD8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|v8_context_snapshot.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PcGxMBYUqXU=",
+    "Meta": null,
+    "Name": "Fallout76_06-07-20-23.dmp",
+    "Size": 778617,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Fallout76_06-07-20-23.dmp",
+      "Hash": "PcGxMBYUqXU=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|fallout76_06-07-20-23.dmp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "okOgX5vfCgY=",
+    "Meta": null,
+    "Name": "Intro.bk2",
+    "Size": 259594248,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\Video\\Intro.bk2",
+      "Hash": "okOgX5vfCgY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\video\\intro.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "K0EvQHhdDmU=",
+    "Meta": null,
+    "Name": "nb.pak",
+    "Size": 185196,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\nb.pak",
+      "Hash": "K0EvQHhdDmU=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\nb.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "C0MFB0ySHwU=",
+    "Meta": null,
+    "Name": "lv.pak",
+    "Size": 211447,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\lv.pak",
+      "Hash": "C0MFB0ySHwU=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\lv.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qwQdtk9MGTQ=",
+    "Meta": null,
+    "Name": "en-GB.pak",
+    "Size": 169273,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\en-GB.pak",
+      "Hash": "qwQdtk9MGTQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\en-gb.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "v7j+Y6lKblI=",
+    "Meta": null,
+    "Name": "SeventySix - Textures09.ba2",
+    "Size": 4193499585,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures09.ba2",
+      "Hash": "v7j+Y6lKblI=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures09.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "khtzFkS3y2E=",
+    "Meta": null,
+    "Name": "SeventySix - Interface_en.ba2",
+    "Size": 3165071,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Interface_en.ba2",
+      "Hash": "khtzFkS3y2E=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - interface_en.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "M8q0v1AUbTg=",
+    "Meta": null,
+    "Name": "SeventySix - GeneratedMeshes01.ba2",
+    "Size": 4193860873,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - GeneratedMeshes01.ba2",
+      "Hash": "M8q0v1AUbTg=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - generatedmeshes01.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FS4STpfhUCk=",
+    "Meta": null,
+    "Name": "SeventySix - 05UpdateVoices.ba2",
+    "Size": 20100596,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 05UpdateVoices.ba2",
+      "Hash": "FS4STpfhUCk=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 05updatevoices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LcMOHXDphTU=",
+    "Meta": null,
+    "Name": "SeventySix - 02UpdateMain.ba2",
+    "Size": 481272525,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 02UpdateMain.ba2",
+      "Hash": "LcMOHXDphTU=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 02updatemain.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q1fIjz6fkYM=",
+    "Meta": null,
+    "Name": "d3dcompiler_46.dll",
+    "Size": 3868456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Bin64\\d3dcompiler_46.dll",
+      "Hash": "q1fIjz6fkYM=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|bin64\\d3dcompiler_46.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fjaMASyf9to=",
+    "Meta": null,
+    "Name": "icudtl.dat",
+    "Size": 10197152,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "icudtl.dat",
+      "Hash": "fjaMASyf9to=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|icudtl.dat"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "po+bxz2k9lE=",
+    "Meta": null,
+    "Name": "Fallout76.ini",
+    "Size": 3993,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Fallout76.ini",
+      "Hash": "po+bxz2k9lE=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|fallout76.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pa8QJwkJ5UE=",
+    "Meta": null,
+    "Name": "te.pak",
+    "Size": 455567,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\te.pak",
+      "Hash": "pa8QJwkJ5UE=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\te.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qLOZGppCYhI=",
+    "Meta": null,
+    "Name": "pt-PT.pak",
+    "Size": 203825,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\pt-PT.pak",
+      "Hash": "qLOZGppCYhI=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\pt-pt.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "z06rcn2pMD4=",
+    "Meta": null,
+    "Name": "ko.pak",
+    "Size": 208142,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ko.pak",
+      "Hash": "z06rcn2pMD4=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ko.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zEav/lyT1CE=",
+    "Meta": null,
+    "Name": "el.pak",
+    "Size": 364294,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\el.pak",
+      "Hash": "zEav/lyT1CE=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\el.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ymskTwi1o9E=",
+    "Meta": null,
+    "Name": "SeventySix - Textures03.ba2",
+    "Size": 4193995443,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures03.ba2",
+      "Hash": "ymskTwi1o9E=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures03.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eybdlAJpa60=",
+    "Meta": null,
+    "Name": "SeventySix - Interface_zhhant.ba2",
+    "Size": 55365642,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Interface_zhhant.ba2",
+      "Hash": "eybdlAJpa60=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - interface_zhhant.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GpBvvpHGI2Q=",
+    "Meta": null,
+    "Name": "SeventySix - EnlightenInteriors01.ba2",
+    "Size": 4194128887,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - EnlightenInteriors01.ba2",
+      "Hash": "GpBvvpHGI2Q=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - enlighteninteriors01.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VTe/evUjKgQ=",
+    "Meta": null,
+    "Name": "SeventySix - 03UpdateMain.ba2",
+    "Size": 444805102,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 03UpdateMain.ba2",
+      "Hash": "VTe/evUjKgQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 03updatemain.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "MuAS495huWs=",
+    "Meta": null,
+    "Name": "libcef.dll",
+    "Size": 95154472,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "libcef.dll",
+      "Hash": "MuAS495huWs=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|libcef.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZvxsRTdIthA=",
+    "Meta": null,
+    "Name": "devtools_resources.pak",
+    "Size": 5378220,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "devtools_resources.pak",
+      "Hash": "ZvxsRTdIthA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|devtools_resources.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Or1/kKRx8fo=",
+    "Meta": null,
+    "Name": "sw.pak",
+    "Size": 190193,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\sw.pak",
+      "Hash": "Or1/kKRx8fo=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\sw.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rFuP1cVsLFs=",
+    "Meta": null,
+    "Name": "it.pak",
+    "Size": 199247,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\it.pak",
+      "Hash": "rFuP1cVsLFs=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\it.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZXXd2ehwyKg=",
+    "Meta": null,
+    "Name": "fi.pak",
+    "Size": 190506,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\fi.pak",
+      "Hash": "ZXXd2ehwyKg=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\fi.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5piAaItPTiQ=",
+    "Meta": null,
+    "Name": "en-US.pak",
+    "Size": 170200,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\en-US.pak",
+      "Hash": "5piAaItPTiQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\en-us.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yrcmjg8DCME=",
+    "Meta": null,
+    "Name": "SeventySix - Sounds02.ba2",
+    "Size": 1702638643,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Sounds02.ba2",
+      "Hash": "yrcmjg8DCME=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - sounds02.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/lG2JfhPvfk=",
+    "Meta": null,
+    "Name": "SeventySix - EnlightenInteriors02.ba2",
+    "Size": 644243606,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - EnlightenInteriors02.ba2",
+      "Hash": "/lG2JfhPvfk=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - enlighteninteriors02.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6eci0CONK0k=",
+    "Meta": null,
+    "Name": "SeventySix - 02UpdateTextures.ba2",
+    "Size": 1777486158,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 02UpdateTextures.ba2",
+      "Hash": "6eci0CONK0k=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 02updatetextures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "t/6y1B3JZRg=",
+    "Meta": null,
+    "Name": "libEGL.dll",
+    "Size": 103208,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "libEGL.dll",
+      "Hash": "t/6y1B3JZRg=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|libegl.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "V7xEqsNPdxA=",
+    "Meta": null,
+    "Name": "cef.pak",
+    "Size": 4124928,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "cef.pak",
+      "Hash": "V7xEqsNPdxA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|cef.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JsZ6ER8wsro=",
+    "Meta": null,
+    "Name": "ta.pak",
+    "Size": 480270,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ta.pak",
+      "Hash": "JsZ6ER8wsro=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ta.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JNXgJFf4f48=",
+    "Meta": null,
+    "Name": "hi.pak",
+    "Size": 416697,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\hi.pak",
+      "Hash": "JNXgJFf4f48=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\hi.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iw2x7OWPkIY=",
+    "Meta": null,
+    "Name": "am.pak",
+    "Size": 288929,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\am.pak",
+      "Hash": "iw2x7OWPkIY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\am.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uUP1ZrkxLKQ=",
+    "Meta": null,
+    "Name": "SeventySix - Textures02.ba2",
+    "Size": 4190580284,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures02.ba2",
+      "Hash": "uUP1ZrkxLKQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures02.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "I1CZI8/8CKw=",
+    "Meta": null,
+    "Name": "SeventySix - Interface_ko.ba2",
+    "Size": 17658581,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Interface_ko.ba2",
+      "Hash": "I1CZI8/8CKw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - interface_ko.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "K7xLTQIQ618=",
+    "Meta": null,
+    "Name": "SeventySix - EnlightenExteriors03.ba2",
+    "Size": 962419814,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - EnlightenExteriors03.ba2",
+      "Hash": "K7xLTQIQ618=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - enlightenexteriors03.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FxSgkq+moak=",
+    "Meta": null,
+    "Name": "SeventySix - 05UpdateMain.ba2",
+    "Size": 446419031,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 05UpdateMain.ba2",
+      "Hash": "FxSgkq+moak=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 05updatemain.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "r8MLes1dVxk=",
+    "Meta": null,
+    "Name": "NW.esm",
+    "Size": 26171228,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\NW.esm",
+      "Hash": "r8MLes1dVxk=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\nw.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nI1FaHuEhvM=",
+    "Meta": null,
+    "Name": "msvcp140.dll",
+    "Size": 634152,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "msvcp140.dll",
+      "Hash": "nI1FaHuEhvM=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|msvcp140.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TtPAwGTGGP8=",
+    "Meta": null,
+    "Name": "d3dcompiler_43.dll",
+    "Size": 2110760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "d3dcompiler_43.dll",
+      "Hash": "TtPAwGTGGP8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|d3dcompiler_43.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GNT22+e6vug=",
+    "Meta": null,
+    "Name": "EXM1PittWorldspace.btd",
+    "Size": 1581073,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\Terrain\\EXM1PittWorldspace.btd",
+      "Hash": "GNT22+e6vug=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\terrain\\exm1pittworldspace.btd"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZHruhLDHbIA=",
+    "Meta": null,
+    "Name": "sv.pak",
+    "Size": 186205,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\sv.pak",
+      "Hash": "ZHruhLDHbIA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\sv.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "B39p7wPayF0=",
+    "Meta": null,
+    "Name": "id.pak",
+    "Size": 181938,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\id.pak",
+      "Hash": "B39p7wPayF0=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\id.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "H+5ABcGhdsg=",
+    "Meta": null,
+    "Name": "SeventySix.bin",
+    "Size": 137,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix.bin",
+      "Hash": "H+5ABcGhdsg=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pGgZeu+cuWA=",
+    "Meta": null,
+    "Name": "SeventySix - Voices.ba2",
+    "Size": 3785349456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Voices.ba2",
+      "Hash": "pGgZeu+cuWA=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - voices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Soo5TX8RDRo=",
+    "Meta": null,
+    "Name": "SeventySix - Sounds01.ba2",
+    "Size": 4194181665,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Sounds01.ba2",
+      "Hash": "Soo5TX8RDRo=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - sounds01.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UD+/F39yCGo=",
+    "Meta": null,
+    "Name": "SeventySix - GeneratedTextures02.ba2",
+    "Size": 2122832843,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - GeneratedTextures02.ba2",
+      "Hash": "UD+/F39yCGo=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - generatedtextures02.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "k4d+olLrrMI=",
+    "Meta": null,
+    "Name": "SeventySix - 04UpdateStream.ba2",
+    "Size": 35105265,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 04UpdateStream.ba2",
+      "Hash": "k4d+olLrrMI=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 04updatestream.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gJJYztXW67M=",
+    "Meta": null,
+    "Name": "SeventySix - 03UpdateStream.ba2",
+    "Size": 3304791,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 03UpdateStream.ba2",
+      "Hash": "gJJYztXW67M=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 03updatestream.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WvBWZt/Qrbw=",
+    "Meta": null,
+    "Name": "Low.ini",
+    "Size": 1143,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Low.ini",
+      "Hash": "WvBWZt/Qrbw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|low.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oOuKLYrb5Io=",
+    "Meta": null,
+    "Name": "concrt140.dll",
+    "Size": 329000,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "concrt140.dll",
+      "Hash": "oOuKLYrb5Io=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|concrt140.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mXnnQ0i/cq0=",
+    "Meta": null,
+    "Name": "uk.pak",
+    "Size": 323325,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\uk.pak",
+      "Hash": "mXnnQ0i/cq0=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\uk.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GlJ4OO+rwIk=",
+    "Meta": null,
+    "Name": "ro.pak",
+    "Size": 207487,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ro.pak",
+      "Hash": "GlJ4OO+rwIk=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ro.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "O3cHowOZ56c=",
+    "Meta": null,
+    "Name": "lt.pak",
+    "Size": 211581,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\lt.pak",
+      "Hash": "O3cHowOZ56c=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\lt.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "d4yjhhRoSzc=",
+    "Meta": null,
+    "Name": "bg.pak",
+    "Size": 330617,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\bg.pak",
+      "Hash": "d4yjhhRoSzc=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\bg.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "alIdqTpasXI=",
+    "Meta": null,
+    "Name": "SeventySix - Interface_ja.ba2",
+    "Size": 23873807,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Interface_ja.ba2",
+      "Hash": "alIdqTpasXI=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - interface_ja.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1AMwxlfNSAI=",
+    "Meta": null,
+    "Name": "SeventySix - 06UpdateTextures.ba2",
+    "Size": 667840040,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 06UpdateTextures.ba2",
+      "Hash": "1AMwxlfNSAI=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 06updatetextures.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Ztl+vMks3N8=",
+    "Meta": null,
+    "Name": "SeventySix - 01UpdateMain.ba2",
+    "Size": 400262335,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 01UpdateMain.ba2",
+      "Hash": "Ztl+vMks3N8=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 01updatemain.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "txrt42C6F8E=",
+    "Meta": null,
+    "Name": "natives_blob.bin",
+    "Size": 213514,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "natives_blob.bin",
+      "Hash": "txrt42C6F8E=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|natives_blob.bin"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "E05/zFMFGaQ=",
+    "Meta": null,
+    "Name": "cef_extensions.pak",
+    "Size": 3303082,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "cef_extensions.pak",
+      "Hash": "E05/zFMFGaQ=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|cef_extensions.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zUcMnk+S49g=",
+    "Meta": null,
+    "Name": "MainMenuLoop.bk2",
+    "Size": 525430204,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\Video\\MainMenuLoop.bk2",
+      "Hash": "zUcMnk+S49g=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\video\\mainmenuloop.bk2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "N7mDa1ecQio=",
+    "Meta": null,
+    "Name": "ru.pak",
+    "Size": 313876,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\ru.pak",
+      "Hash": "N7mDa1ecQio=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\ru.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Sx7w7K0Jc/w=",
+    "Meta": null,
+    "Name": "he.pak",
+    "Size": 242050,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\he.pak",
+      "Hash": "Sx7w7K0Jc/w=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\he.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FxwFX5IKmwo=",
+    "Meta": null,
+    "Name": "da.pak",
+    "Size": 187704,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "locales\\da.pak",
+      "Hash": "FxwFX5IKmwo=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|locales\\da.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KWVJlQ4rXjY=",
+    "Meta": null,
+    "Name": "SeventySix - Textures07.ba2",
+    "Size": 4194083322,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Textures07.ba2",
+      "Hash": "KWVJlQ4rXjY=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - textures07.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FJyt+OF3Ewo=",
+    "Meta": null,
+    "Name": "SeventySix - Localization.ba2",
+    "Size": 202346059,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - Localization.ba2",
+      "Hash": "FJyt+OF3Ewo=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - localization.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xbQ29LEFLsk=",
+    "Meta": null,
+    "Name": "SeventySix - 06UpdateMain.ba2",
+    "Size": 475233595,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 06UpdateMain.ba2",
+      "Hash": "xbQ29LEFLsk=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 06updatemain.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YGbsRvueuWc=",
+    "Meta": null,
+    "Name": "SeventySix - 00UpdateVoices.ba2",
+    "Size": 8800408,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "Data\\SeventySix - 00UpdateVoices.ba2",
+      "Hash": "YGbsRvueuWc=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|data\\seventysix - 00updatevoices.ba2"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6dNqVykfHbE=",
+    "Meta": null,
+    "Name": "vccorlib140.dll",
+    "Size": 388904,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "vccorlib140.dll",
+      "Hash": "6dNqVykfHbE=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|vccorlib140.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "amVc3MrOkIw=",
+    "Meta": null,
+    "Name": "bink2w64.dll",
+    "Size": 391464,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout76",
+      "GameFile": "bink2w64.dll",
+      "Hash": "amVc3MrOkIw=",
+      "GameVersion": "1.7.20.10",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout76|1.7.20.10|bink2w64.dll"
+    }
+  }
+]
