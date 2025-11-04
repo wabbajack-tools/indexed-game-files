@@ -1,0 +1,2297 @@
+[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yxbpJLtOCgg=",
+    "Meta": null,
+    "Name": "Battle_07.mp3",
+    "Size": 142316,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Finale\\Battle_07.mp3",
+      "Hash": "yxbpJLtOCgg=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\finale\\battle_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZWhG61dnm7A=",
+    "Meta": null,
+    "Name": "Battle_03.mp3",
+    "Size": 72098,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Finale\\Battle_03.mp3",
+      "Hash": "ZWhG61dnm7A=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\finale\\battle_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QbU9FHKj4O0=",
+    "Meta": null,
+    "Name": "MainTitle.mp3",
+    "Size": 5004061,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Special\\MainTitle.mp3",
+      "Hash": "QbU9FHKj4O0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\special\\maintitle.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dQjcxuIbeyw=",
+    "Meta": null,
+    "Name": "Public_04.mp3",
+    "Size": 5858871,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Public\\Public_04.mp3",
+      "Hash": "dQjcxuIbeyw=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\public\\public_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CcbmGa8f7Ig=",
+    "Meta": null,
+    "Name": "Explore_05.mp3",
+    "Size": 5780608,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Explore\\Explore_05.mp3",
+      "Hash": "CcbmGa8f7Ig=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\explore\\explore_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yKjHoMhS1wM=",
+    "Meta": null,
+    "Name": "Endgame_17.mp3",
+    "Size": 1200600,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_17.mp3",
+      "Hash": "yKjHoMhS1wM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_17.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cZR89fVwPlA=",
+    "Meta": null,
+    "Name": "Dungeon_04.mp3",
+    "Size": 6049774,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Dungeon\\Dungeon_04.mp3",
+      "Hash": "cZR89fVwPlA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\dungeon\\dungeon_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Z2At6bfY25w=",
+    "Meta": null,
+    "Name": "Battle_01.mp3",
+    "Size": 5211116,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Battle_01.mp3",
+      "Hash": "Z2At6bfY25w=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\battle_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "wlkP2s1CL8U=",
+    "Meta": null,
+    "Name": "B22.bik",
+    "Size": 10375560,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B22.bik",
+      "Hash": "wlkP2s1CL8U=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b22.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "AEnQAeDQqtw=",
+    "Meta": null,
+    "Name": "B19.bik",
+    "Size": 10375640,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B19.bik",
+      "Hash": "AEnQAeDQqtw=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b19.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6YlZhjCM0xc=",
+    "Meta": null,
+    "Name": "B15.bik",
+    "Size": 41550464,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B15.bik",
+      "Hash": "6YlZhjCM0xc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b15.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "y/47arzoI+E=",
+    "Meta": null,
+    "Name": "B10.bik",
+    "Size": 40367752,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B10.bik",
+      "Hash": "y/47arzoI+E=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b10.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "O2ZWx17v9rg=",
+    "Meta": null,
+    "Name": "B02.bik",
+    "Size": 11329272,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B02.bik",
+      "Hash": "O2ZWx17v9rg=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b02.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JDKbj3gjB3o=",
+    "Meta": null,
+    "Name": "B01.bik",
+    "Size": 27032008,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B01.bik",
+      "Hash": "JDKbj3gjB3o=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b01.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "W5D/AGgZIuE=",
+    "Meta": null,
+    "Name": "shaderpackage014.sdp",
+    "Size": 1351036,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage014.sdp",
+      "Hash": "W5D/AGgZIuE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage014.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZEZ4QZrK+p8=",
+    "Meta": null,
+    "Name": "shaderpackage006.sdp",
+    "Size": 1346644,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage006.sdp",
+      "Hash": "ZEZ4QZrK+p8=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage006.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CAai629ZTG8=",
+    "Meta": null,
+    "Name": "Fallout3.esm",
+    "Size": 288771262,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Fallout3.esm",
+      "Hash": "CAai629ZTG8=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\fallout3.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LQht3K5wdRM=",
+    "Meta": null,
+    "Name": "Fallout - MenuVoices.bsa",
+    "Size": 1072132103,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Fallout - MenuVoices.bsa",
+      "Hash": "LQht3K5wdRM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\fallout - menuvoices.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pp0stHiIM/4=",
+    "Meta": null,
+    "Name": "BrokenSteel - Sounds.bsa",
+    "Size": 35527337,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\BrokenSteel - Sounds.bsa",
+      "Hash": "pp0stHiIM/4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\brokensteel - sounds.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eulQp3OlozI=",
+    "Meta": null,
+    "Name": "Anchorage.esm",
+    "Size": 13880961,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Anchorage.esm",
+      "Hash": "eulQp3OlozI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\anchorage.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HT1iiEENY44=",
+    "Meta": null,
+    "Name": "Fallout3.exe",
+    "Size": 16855040,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Fallout3.exe",
+      "Hash": "HT1iiEENY44=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|fallout3.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HwjsjBCJKMY=",
+    "Meta": null,
+    "Name": "Tension_01.mp3",
+    "Size": 3959746,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Tension\\Tension_01.mp3",
+      "Hash": "HwjsjBCJKMY=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\tension\\tension_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ezdwnsA14Bc=",
+    "Meta": null,
+    "Name": "Success.mp3",
+    "Size": 448389,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Special\\Success.mp3",
+      "Hash": "ezdwnsA14Bc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\special\\success.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JbdY6dreNKw=",
+    "Meta": null,
+    "Name": "Explore_07.mp3",
+    "Size": 5937865,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Explore\\Explore_07.mp3",
+      "Hash": "JbdY6dreNKw=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\explore\\explore_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HSpr0CkBwnM=",
+    "Meta": null,
+    "Name": "Explore_01.mp3",
+    "Size": 4950771,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Explore\\Explore_01.mp3",
+      "Hash": "HSpr0CkBwnM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\explore\\explore_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dfLqY15PzwI=",
+    "Meta": null,
+    "Name": "Endgame_04.mp3",
+    "Size": 385236,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_04.mp3",
+      "Hash": "dfLqY15PzwI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eN02zyzJPVI=",
+    "Meta": null,
+    "Name": "Endgame_02.mp3",
+    "Size": 337212,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_02.mp3",
+      "Hash": "eN02zyzJPVI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yk5fgSnn/FA=",
+    "Meta": null,
+    "Name": "B24.bik",
+    "Size": 10375508,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B24.bik",
+      "Hash": "yk5fgSnn/FA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b24.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xSiII79R6S4=",
+    "Meta": null,
+    "Name": "B20.bik",
+    "Size": 10375144,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B20.bik",
+      "Hash": "xSiII79R6S4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b20.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tBT4R4ycB48=",
+    "Meta": null,
+    "Name": "B09.bik",
+    "Size": 41167272,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B09.bik",
+      "Hash": "tBT4R4ycB48=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b09.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mdP/JYDfnmE=",
+    "Meta": null,
+    "Name": "B08.bik",
+    "Size": 20809964,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B08.bik",
+      "Hash": "mdP/JYDfnmE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b08.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kfAKjuIOIIY=",
+    "Meta": null,
+    "Name": "2 weeks later.bik",
+    "Size": 2101488,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\2 weeks later.bik",
+      "Hash": "kfAKjuIOIIY=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\2 weeks later.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4Ctjgi7OeT0=",
+    "Meta": null,
+    "Name": "shaderpackage017.sdp",
+    "Size": 1393812,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage017.sdp",
+      "Hash": "4Ctjgi7OeT0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage017.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "W5D/AGgZIuE=",
+    "Meta": null,
+    "Name": "shaderpackage015.sdp",
+    "Size": 1351036,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage015.sdp",
+      "Hash": "W5D/AGgZIuE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage015.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/Fs4i/5pCO0=",
+    "Meta": null,
+    "Name": "shaderpackage013.sdp",
+    "Size": 1380772,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage013.sdp",
+      "Hash": "/Fs4i/5pCO0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage013.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "71GDZHYJZbM=",
+    "Meta": null,
+    "Name": "shaderpackage007.sdp",
+    "Size": 1388744,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage007.sdp",
+      "Hash": "71GDZHYJZbM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage007.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SzyBLfrKqz8=",
+    "Meta": null,
+    "Name": "dotnetfx3_x64.exe",
+    "Size": 94482712,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "DotNetFX\\dotnetfx3_x64.exe",
+      "Hash": "SzyBLfrKqz8=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|dotnetfx\\dotnetfx3_x64.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eEROQbDJmw4=",
+    "Meta": null,
+    "Name": "ThePitt.esm",
+    "Size": 8728496,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\ThePitt.esm",
+      "Hash": "eEROQbDJmw4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\thepitt.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DQbQ25y32Wc=",
+    "Meta": null,
+    "Name": "Fallout - Meshes.bsa",
+    "Size": 748571387,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Fallout - Meshes.bsa",
+      "Hash": "DQbQ25y32Wc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\fallout - meshes.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nGd7rSTPlEc=",
+    "Meta": null,
+    "Name": "BrokenSteel - Main.bsa",
+    "Size": 528150080,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\BrokenSteel - Main.bsa",
+      "Hash": "nGd7rSTPlEc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\brokensteel - main.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zohi+Fsduiw=",
+    "Meta": null,
+    "Name": "VeryHigh.ini",
+    "Size": 1134,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "VeryHigh.ini",
+      "Hash": "zohi+Fsduiw=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|veryhigh.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/7Y5dxIZ4NY=",
+    "Meta": null,
+    "Name": "Battle_02.mp3",
+    "Size": 104699,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Finale\\Battle_02.mp3",
+      "Hash": "/7Y5dxIZ4NY=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\finale\\battle_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "InGP7zeI9iA=",
+    "Meta": null,
+    "Name": "MUS_TranquilityLane_02_LP.mp3",
+    "Size": 2467004,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\TranquilityLane\\MUS_TranquilityLane_02_LP.mp3",
+      "Hash": "InGP7zeI9iA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\tranquilitylane\\mus_tranquilitylane_02_lp.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+baXbkVHVSE=",
+    "Meta": null,
+    "Name": "Public_05.mp3",
+    "Size": 5564105,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Public\\Public_05.mp3",
+      "Hash": "+baXbkVHVSE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\public\\public_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sv8Ilgw00cE=",
+    "Meta": null,
+    "Name": "Endgame_05.mp3",
+    "Size": 385236,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_05.mp3",
+      "Hash": "sv8Ilgw00cE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lxmR25qIBAE=",
+    "Meta": null,
+    "Name": "Battle_06.mp3",
+    "Size": 4303935,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Battle_06.mp3",
+      "Hash": "lxmR25qIBAE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\battle_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "d/Hg18/aZbA=",
+    "Meta": null,
+    "Name": "B27.bik",
+    "Size": 41150312,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B27.bik",
+      "Hash": "d/Hg18/aZbA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b27.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bmhHRlbNP+o=",
+    "Meta": null,
+    "Name": "atimgpud.dll",
+    "Size": 165304,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "atimgpud.dll",
+      "Hash": "bmhHRlbNP+o=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|atimgpud.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7i03JvYf6jI=",
+    "Meta": null,
+    "Name": "libvorbisfile.dll",
+    "Size": 120248,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "libvorbisfile.dll",
+      "Hash": "7i03JvYf6jI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|libvorbisfile.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kewDvU14v5o=",
+    "Meta": null,
+    "Name": "Death.mp3",
+    "Size": 292572,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Special\\Death.mp3",
+      "Hash": "kewDvU14v5o=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\special\\death.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/qTWBsBU7wo=",
+    "Meta": null,
+    "Name": "Explore_02.mp3",
+    "Size": 5835173,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Explore\\Explore_02.mp3",
+      "Hash": "/qTWBsBU7wo=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\explore\\explore_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lIDZJoe09sI=",
+    "Meta": null,
+    "Name": "Endgame_09.mp3",
+    "Size": 1152576,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_09.mp3",
+      "Hash": "lIDZJoe09sI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_09.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bUaSzYcgw8w=",
+    "Meta": null,
+    "Name": "Endgame_08.mp3",
+    "Size": 1200600,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_08.mp3",
+      "Hash": "bUaSzYcgw8w=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_08.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Lf1QnNU/lRs=",
+    "Meta": null,
+    "Name": "Endgame_01.mp3",
+    "Size": 840420,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_01.mp3",
+      "Hash": "Lf1QnNU/lRs=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "emgOcMQ04AU=",
+    "Meta": null,
+    "Name": "Dungeon_01.mp3",
+    "Size": 6020224,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Dungeon\\Dungeon_01.mp3",
+      "Hash": "emgOcMQ04AU=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\dungeon\\dungeon_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2rqxAm86s7k=",
+    "Meta": null,
+    "Name": "Battle_03.mp3",
+    "Size": 2937836,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Battle_03.mp3",
+      "Hash": "2rqxAm86s7k=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\battle_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rONtQ1CK/zI=",
+    "Meta": null,
+    "Name": "Base_03.mp3",
+    "Size": 4019830,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Base\\Base_03.mp3",
+      "Hash": "rONtQ1CK/zI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\base\\base_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "d/QoJ/k3AcA=",
+    "Meta": null,
+    "Name": "B28.bik",
+    "Size": 41150192,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B28.bik",
+      "Hash": "d/QoJ/k3AcA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b28.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Pc9M7PnLvn0=",
+    "Meta": null,
+    "Name": "B21.bik",
+    "Size": 10375452,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B21.bik",
+      "Hash": "Pc9M7PnLvn0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b21.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aGVj1ZE+JkI=",
+    "Meta": null,
+    "Name": "ThePitt - Main.bsa",
+    "Size": 647948003,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\ThePitt - Main.bsa",
+      "Hash": "aGVj1ZE+JkI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\thepitt - main.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JfX2mpds7OM=",
+    "Meta": null,
+    "Name": "6 years later.bik",
+    "Size": 3094896,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\6 years later.bik",
+      "Hash": "JfX2mpds7OM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\6 years later.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Qa2pOrMmk/M=",
+    "Meta": null,
+    "Name": "shaderpackage019.sdp",
+    "Size": 1367052,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage019.sdp",
+      "Hash": "Qa2pOrMmk/M=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage019.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Qa2pOrMmk/M=",
+    "Meta": null,
+    "Name": "shaderpackage018.sdp",
+    "Size": 1367052,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage018.sdp",
+      "Hash": "Qa2pOrMmk/M=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage018.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ScBr1Akyjz8=",
+    "Meta": null,
+    "Name": "shaderpackage002.sdp",
+    "Size": 1001568,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage002.sdp",
+      "Hash": "ScBr1Akyjz8=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage002.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "sXhPv3lHusw=",
+    "Meta": null,
+    "Name": "dotnetfx3.exe",
+    "Size": 52770576,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "DotNetFX\\dotnetfx3.exe",
+      "Hash": "sXhPv3lHusw=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|dotnetfx\\dotnetfx3.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "7yJfBC6nlgM=",
+    "Meta": null,
+    "Name": "Zeta.esm",
+    "Size": 4950331,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Zeta.esm",
+      "Hash": "7yJfBC6nlgM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\zeta.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PID8cXCfIWM=",
+    "Meta": null,
+    "Name": "ThePitt - Sounds.bsa",
+    "Size": 24915213,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\ThePitt - Sounds.bsa",
+      "Hash": "PID8cXCfIWM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\thepitt - sounds.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tG6LHoTiS+0=",
+    "Meta": null,
+    "Name": "PointLookout - Sounds.bsa",
+    "Size": 33250919,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\PointLookout - Sounds.bsa",
+      "Hash": "tG6LHoTiS+0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\pointlookout - sounds.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0T8Y0HYkxNE=",
+    "Meta": null,
+    "Name": "Fallout - Sound.bsa",
+    "Size": 855989612,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Fallout - Sound.bsa",
+      "Hash": "0T8Y0HYkxNE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\fallout - sound.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CPdK9QGe6oM=",
+    "Meta": null,
+    "Name": "Anchorage - Main.bsa",
+    "Size": 545219034,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Anchorage - Main.bsa",
+      "Hash": "CPdK9QGe6oM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\anchorage - main.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "okzM76KVs5c=",
+    "Meta": null,
+    "Name": "medium.ini",
+    "Size": 1115,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "medium.ini",
+      "Hash": "okzM76KVs5c=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|medium.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "B+b+vePgrJM=",
+    "Meta": null,
+    "Name": "MainTitle.wav",
+    "Size": 5212104,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "MainTitle.wav",
+      "Hash": "B+b+vePgrJM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|maintitle.wav"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GbIzvyv4y1I=",
+    "Meta": null,
+    "Name": "Explore_06.mp3",
+    "Size": 4720768,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Explore\\Explore_06.mp3",
+      "Hash": "GbIzvyv4y1I=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\explore\\explore_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "roxtXF475uQ=",
+    "Meta": null,
+    "Name": "Endgame_15.mp3",
+    "Size": 1280988,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_15.mp3",
+      "Hash": "roxtXF475uQ=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_15.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FlPXsRt6S0g=",
+    "Meta": null,
+    "Name": "Endgame_06.mp3",
+    "Size": 481284,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_06.mp3",
+      "Hash": "FlPXsRt6S0g=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NmZsF6y+PkI=",
+    "Meta": null,
+    "Name": "Dungeon_05.mp3",
+    "Size": 5512174,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Dungeon\\Dungeon_05.mp3",
+      "Hash": "NmZsF6y+PkI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\dungeon\\dungeon_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/n9Y2XMRJ7g=",
+    "Meta": null,
+    "Name": "Dungeon_03.mp3",
+    "Size": 6117065,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Dungeon\\Dungeon_03.mp3",
+      "Hash": "/n9Y2XMRJ7g=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\dungeon\\dungeon_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "N4vImLpls9c=",
+    "Meta": null,
+    "Name": "Base_04.mp3",
+    "Size": 4138948,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Base\\Base_04.mp3",
+      "Hash": "N4vImLpls9c=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\base\\base_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zO/sHjCcPfo=",
+    "Meta": null,
+    "Name": "B29.bik",
+    "Size": 41150320,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B29.bik",
+      "Hash": "zO/sHjCcPfo=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b29.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KOe3dYfwy0M=",
+    "Meta": null,
+    "Name": "B23.bik",
+    "Size": 10375144,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B23.bik",
+      "Hash": "KOe3dYfwy0M=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b23.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "b6KxUNUEwxY=",
+    "Meta": null,
+    "Name": "B17.bik",
+    "Size": 41032024,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B17.bik",
+      "Hash": "b6KxUNUEwxY=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b17.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "S9ED5uXZmHk=",
+    "Meta": null,
+    "Name": "B04.bik",
+    "Size": 10824760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B04.bik",
+      "Hash": "S9ED5uXZmHk=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b04.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Qu8EzdKoeqo=",
+    "Meta": null,
+    "Name": "9 years later.bik",
+    "Size": 3426348,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\9 years later.bik",
+      "Hash": "Qu8EzdKoeqo=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\9 years later.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L82FGUDh1qc=",
+    "Meta": null,
+    "Name": "3 years later.bik",
+    "Size": 3606124,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\3 years later.bik",
+      "Hash": "L82FGUDh1qc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\3 years later.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Tv7eZCCqtGs=",
+    "Meta": null,
+    "Name": "shaderpackage009.sdp",
+    "Size": 1359440,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage009.sdp",
+      "Hash": "Tv7eZCCqtGs=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage009.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "e/tro3Ls/Qs=",
+    "Meta": null,
+    "Name": "FalloutPrefs.ini",
+    "Size": 1029,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Fallout3\\FalloutPrefs.ini",
+      "Hash": "e/tro3Ls/Qs=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|fallout3\\falloutprefs.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "u07XmpeAiIg=",
+    "Meta": null,
+    "Name": "Fallout - Misc.bsa",
+    "Size": 1793843,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Fallout - Misc.bsa",
+      "Hash": "u07XmpeAiIg=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\fallout - misc.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yrUqXYl4Abk=",
+    "Meta": null,
+    "Name": "DLCList.txt",
+    "Size": 71,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\DLCList.txt",
+      "Hash": "yrUqXYl4Abk=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\dlclist.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "SA6AE5Dys10=",
+    "Meta": null,
+    "Name": "Credits.txt",
+    "Size": 27662,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Credits.txt",
+      "Hash": "SA6AE5Dys10=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\credits.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uc1LFVNes44=",
+    "Meta": null,
+    "Name": "BrokenSteel.esm",
+    "Size": 11015915,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\BrokenSteel.esm",
+      "Hash": "uc1LFVNes44=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\brokensteel.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hH9CoPGKkJk=",
+    "Meta": null,
+    "Name": "libvorbis.dll",
+    "Size": 1241528,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "libvorbis.dll",
+      "Hash": "hH9CoPGKkJk=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|libvorbis.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aHFk+4Zwa2A=",
+    "Meta": null,
+    "Name": "installscript.vdf",
+    "Size": 1219,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "installscript.vdf",
+      "Hash": "aHFk+4Zwa2A=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|installscript.vdf"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nLywywT8jFo=",
+    "Meta": null,
+    "Name": "Battle_05.mp3",
+    "Size": 107207,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Finale\\Battle_05.mp3",
+      "Hash": "nLywywT8jFo=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\finale\\battle_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/chjgTyAT/s=",
+    "Meta": null,
+    "Name": "Battle_01.mp3",
+    "Size": 120373,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Finale\\Battle_01.mp3",
+      "Hash": "/chjgTyAT/s=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\finale\\battle_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5Qys/LjZTCk=",
+    "Meta": null,
+    "Name": "Public_02.mp3",
+    "Size": 6577761,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Public\\Public_02.mp3",
+      "Hash": "5Qys/LjZTCk=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\public\\public_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5Hfdj00r4pQ=",
+    "Meta": null,
+    "Name": "Explore_03.mp3",
+    "Size": 5746962,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Explore\\Explore_03.mp3",
+      "Hash": "5Hfdj00r4pQ=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\explore\\explore_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DOkUbS7nT7k=",
+    "Meta": null,
+    "Name": "Endgame_19.mp3",
+    "Size": 481284,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_19.mp3",
+      "Hash": "DOkUbS7nT7k=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_19.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Q3KQCHOZd6k=",
+    "Meta": null,
+    "Name": "Endgame_14.mp3",
+    "Size": 1396872,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_14.mp3",
+      "Hash": "Q3KQCHOZd6k=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_14.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rb0FjWDmjk0=",
+    "Meta": null,
+    "Name": "Battle_04.mp3",
+    "Size": 4974133,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Battle_04.mp3",
+      "Hash": "rb0FjWDmjk0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\battle_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/rZngwUXLU4=",
+    "Meta": null,
+    "Name": "B26.bik",
+    "Size": 10376684,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B26.bik",
+      "Hash": "/rZngwUXLU4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b26.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZXE7H5uFZys=",
+    "Meta": null,
+    "Name": "B18.bik",
+    "Size": 39353508,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B18.bik",
+      "Hash": "ZXE7H5uFZys=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b18.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3dTEsxHMosk=",
+    "Meta": null,
+    "Name": "B13.bik",
+    "Size": 43906968,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B13.bik",
+      "Hash": "3dTEsxHMosk=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b13.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "p+rRdhVA4bA=",
+    "Meta": null,
+    "Name": "B11.bik",
+    "Size": 23029160,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B11.bik",
+      "Hash": "p+rRdhVA4bA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b11.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VwE11yX+B0Y=",
+    "Meta": null,
+    "Name": "B12.bik",
+    "Size": 43907220,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B12.bik",
+      "Hash": "VwE11yX+B0Y=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b12.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OIBvRK3cO2k=",
+    "Meta": null,
+    "Name": "B07.bik",
+    "Size": 12473860,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B07.bik",
+      "Hash": "OIBvRK3cO2k=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b07.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rHZpPtNSshg=",
+    "Meta": null,
+    "Name": "1 year later.bik",
+    "Size": 3090848,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\1 year later.bik",
+      "Hash": "rHZpPtNSshg=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\1 year later.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4Ctjgi7OeT0=",
+    "Meta": null,
+    "Name": "shaderpackage016.sdp",
+    "Size": 1393812,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage016.sdp",
+      "Hash": "4Ctjgi7OeT0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage016.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/Fs4i/5pCO0=",
+    "Meta": null,
+    "Name": "shaderpackage012.sdp",
+    "Size": 1380772,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage012.sdp",
+      "Hash": "/Fs4i/5pCO0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage012.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hw7YEwwXiOQ=",
+    "Meta": null,
+    "Name": "shaderpackage003.sdp",
+    "Size": 1332844,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage003.sdp",
+      "Hash": "hw7YEwwXiOQ=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage003.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kpsdMi4WMvw=",
+    "Meta": null,
+    "Name": "Fallout - Voices.bsa",
+    "Size": 775540894,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Fallout - Voices.bsa",
+      "Hash": "kpsdMi4WMvw=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\fallout - voices.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lk3gZIgulLo=",
+    "Meta": null,
+    "Name": "Fallout3Launcher.exe",
+    "Size": 1605624,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Fallout3Launcher.exe",
+      "Hash": "lk3gZIgulLo=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|fallout3launcher.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "F1Yu7axAcJI=",
+    "Meta": null,
+    "Name": "low.ini",
+    "Size": 1103,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "low.ini",
+      "Hash": "F1Yu7axAcJI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|low.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pRXmtuPFaKE=",
+    "Meta": null,
+    "Name": "Fallout_default.ini",
+    "Size": 20224,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Fallout_default.ini",
+      "Hash": "pRXmtuPFaKE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|fallout_default.ini"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GSuIQv+Uymc=",
+    "Meta": null,
+    "Name": "Fallout3 - Garden of Eden Creation Kit.exe",
+    "Size": 8891219,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Fallout3 - Garden of Eden Creation Kit.exe",
+      "Hash": "GSuIQv+Uymc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|fallout3 - garden of eden creation kit.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jd5Gk+jgzqc=",
+    "Meta": null,
+    "Name": "Readme.txt",
+    "Size": 4201,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Readme.txt",
+      "Hash": "jd5Gk+jgzqc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|readme.txt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KHBfaIWypH4=",
+    "Meta": null,
+    "Name": "steam_api.dll",
+    "Size": 268648,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "steam_api.dll",
+      "Hash": "KHBfaIWypH4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|steam_api.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LAKPVnjQ+pE=",
+    "Meta": null,
+    "Name": "Battle_04.mp3",
+    "Size": 101565,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Finale\\Battle_04.mp3",
+      "Hash": "LAKPVnjQ+pE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\finale\\battle_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "10OX9jKbStA=",
+    "Meta": null,
+    "Name": "Public_03.mp3",
+    "Size": 5923237,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Public\\Public_03.mp3",
+      "Hash": "10OX9jKbStA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\public\\public_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TmoHsnlKPJE=",
+    "Meta": null,
+    "Name": "Endgame_18.mp3",
+    "Size": 1152576,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_18.mp3",
+      "Hash": "TmoHsnlKPJE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_18.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FQ/7NXYL5Mg=",
+    "Meta": null,
+    "Name": "Endgame_12.mp3",
+    "Size": 1396872,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_12.mp3",
+      "Hash": "FQ/7NXYL5Mg=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_12.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "82F/BRY1cn4=",
+    "Meta": null,
+    "Name": "Endgame_03.mp3",
+    "Size": 337212,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_03.mp3",
+      "Hash": "82F/BRY1cn4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_03.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BmUhWQEyhHQ=",
+    "Meta": null,
+    "Name": "Dungeon_02.mp3",
+    "Size": 5751058,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Dungeon\\Dungeon_02.mp3",
+      "Hash": "BmUhWQEyhHQ=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\dungeon\\dungeon_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KJxEvqznsEM=",
+    "Meta": null,
+    "Name": "Battle_07.mp3",
+    "Size": 4263184,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Battle_07.mp3",
+      "Hash": "KJxEvqznsEM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\battle_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DJPAsqrYN4I=",
+    "Meta": null,
+    "Name": "Battle_02.mp3",
+    "Size": 4934009,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Battle_02.mp3",
+      "Hash": "DJPAsqrYN4I=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\battle_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "h0/5g27BU00=",
+    "Meta": null,
+    "Name": "Base_01.mp3",
+    "Size": 3801446,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Base\\Base_01.mp3",
+      "Hash": "h0/5g27BU00=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\base\\base_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "5kIUptZe/nA=",
+    "Meta": null,
+    "Name": "B14.bik",
+    "Size": 47350948,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B14.bik",
+      "Hash": "5kIUptZe/nA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b14.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "S6r6aQxtarA=",
+    "Meta": null,
+    "Name": "Zeta - Main.bsa",
+    "Size": 495761599,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Zeta - Main.bsa",
+      "Hash": "S6r6aQxtarA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\zeta - main.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "W5izvROGmtM=",
+    "Meta": null,
+    "Name": "B06.bik",
+    "Size": 12022424,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B06.bik",
+      "Hash": "W5izvROGmtM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b06.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Cm/wE1E9ICM=",
+    "Meta": null,
+    "Name": "shaderpackage011.sdp",
+    "Size": 1337124,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage011.sdp",
+      "Hash": "Cm/wE1E9ICM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage011.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Cm/wE1E9ICM=",
+    "Meta": null,
+    "Name": "shaderpackage010.sdp",
+    "Size": 1337124,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage010.sdp",
+      "Hash": "Cm/wE1E9ICM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage010.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GeQcZPFJ2gc=",
+    "Meta": null,
+    "Name": "shaderpackage004.sdp",
+    "Size": 1375792,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Shaders\\shaderpackage004.sdp",
+      "Hash": "GeQcZPFJ2gc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\shaders\\shaderpackage004.sdp"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hnWQ3PRDZ5M=",
+    "Meta": null,
+    "Name": "PointLookout - Main.bsa",
+    "Size": 578858213,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\PointLookout - Main.bsa",
+      "Hash": "hnWQ3PRDZ5M=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\pointlookout - main.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NAs1jI2PpaI=",
+    "Meta": null,
+    "Name": "Zeta - Sounds.bsa",
+    "Size": 52368718,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Zeta - Sounds.bsa",
+      "Hash": "NAs1jI2PpaI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\zeta - sounds.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4QKF9mnPxgE=",
+    "Meta": null,
+    "Name": "Fallout - Textures.bsa",
+    "Size": 1120257480,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Fallout - Textures.bsa",
+      "Hash": "4QKF9mnPxgE=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\fallout - textures.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Bs61gT475C0=",
+    "Meta": null,
+    "Name": "PointLookout.esm",
+    "Size": 16729184,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\PointLookout.esm",
+      "Hash": "Bs61gT475C0=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\pointlookout.esm"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mrA1Gr7oaX8=",
+    "Meta": null,
+    "Name": "Anchorage - Sounds.bsa",
+    "Size": 35012678,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Anchorage - Sounds.bsa",
+      "Hash": "mrA1Gr7oaX8=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\anchorage - sounds.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "menYUTfbRu8=",
+    "Meta": null,
+    "Name": "ExitData.mhd",
+    "Size": 0,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "ExitData.mhd",
+      "Hash": "menYUTfbRu8=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|exitdata.mhd"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DRIgDfCFVU4=",
+    "Meta": null,
+    "Name": "Battle_06.mp3",
+    "Size": 179305,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Finale\\Battle_06.mp3",
+      "Hash": "DRIgDfCFVU4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\finale\\battle_06.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ya4movvCdiI=",
+    "Meta": null,
+    "Name": "Fallout INTRO Vsk.bik",
+    "Size": 330884112,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\Fallout INTRO Vsk.bik",
+      "Hash": "ya4movvCdiI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\fallout intro vsk.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "InGP7zeI9iA=",
+    "Meta": null,
+    "Name": "MUS_TranquilityLane_01_LP.mp3",
+    "Size": 2467004,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\TranquilityLane\\MUS_TranquilityLane_01_LP.mp3",
+      "Hash": "InGP7zeI9iA=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\tranquilitylane\\mus_tranquilitylane_01_lp.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9ptZByyOBmQ=",
+    "Meta": null,
+    "Name": "ExitTheVault.mp3",
+    "Size": 1345957,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Special\\ExitTheVault.mp3",
+      "Hash": "9ptZByyOBmQ=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\special\\exitthevault.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "XOJwm4VszJM=",
+    "Meta": null,
+    "Name": "Public_01.mp3",
+    "Size": 4403328,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Public\\Public_01.mp3",
+      "Hash": "XOJwm4VszJM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\public\\public_01.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6D0zWc+v0pk=",
+    "Meta": null,
+    "Name": "Explore_04.mp3",
+    "Size": 6855808,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Explore\\Explore_04.mp3",
+      "Hash": "6D0zWc+v0pk=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\explore\\explore_04.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "RRi7zWOHUCM=",
+    "Meta": null,
+    "Name": "Endgame_11.mp3",
+    "Size": 1248624,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_11.mp3",
+      "Hash": "RRi7zWOHUCM=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_11.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4SQHN2Hca4Q=",
+    "Meta": null,
+    "Name": "Endgame_07.mp3",
+    "Size": 481284,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Endgame\\Endgame_07.mp3",
+      "Hash": "4SQHN2Hca4Q=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\endgame\\endgame_07.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jQmWgaFaaRc=",
+    "Meta": null,
+    "Name": "Battle_05.mp3",
+    "Size": 3870720,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Battle\\Battle_05.mp3",
+      "Hash": "jQmWgaFaaRc=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\battle\\battle_05.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OZJGAct08E4=",
+    "Meta": null,
+    "Name": "Base_02.mp3",
+    "Size": 3911160,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Music\\Base\\Base_02.mp3",
+      "Hash": "OZJGAct08E4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\music\\base\\base_02.mp3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mUhvazxO5tw=",
+    "Meta": null,
+    "Name": "B25.bik",
+    "Size": 10377020,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B25.bik",
+      "Hash": "mUhvazxO5tw=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b25.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gRXP6TctE4w=",
+    "Meta": null,
+    "Name": "B16.bik",
+    "Size": 41550720,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B16.bik",
+      "Hash": "gRXP6TctE4w=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b16.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GQE/FhIvZdI=",
+    "Meta": null,
+    "Name": "B05.bik",
+    "Size": 12628628,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B05.bik",
+      "Hash": "GQE/FhIvZdI=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b05.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "G2lbTABDiL4=",
+    "Meta": null,
+    "Name": "B03.bik",
+    "Size": 11328528,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "Data\\Video\\B03.bik",
+      "Hash": "G2lbTABDiL4=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|data\\video\\b03.bik"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "EHVqe5JmdU8=",
+    "Meta": null,
+    "Name": "binkw32.dll",
+    "Size": 338944,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "binkw32.dll",
+      "Hash": "EHVqe5JmdU8=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|binkw32.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HGzxeu91GTQ=",
+    "Meta": null,
+    "Name": "high.ini",
+    "Size": 1116,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "Fallout3",
+      "GameFile": "high.ini",
+      "Hash": "HGzxeu91GTQ=",
+      "GameVersion": "1.7.0.4",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|Fallout3|1.7.0.4|high.ini"
+    }
+  }
+]
