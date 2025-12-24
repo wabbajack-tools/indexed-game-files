@@ -1,0 +1,1952 @@
+[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9XVykaue+/A=",
+    "Meta": null,
+    "Name": "OpenEXRUtil-3_2.dll",
+    "Size": 151552,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\OpenEXRUtil-3_2.dll",
+      "Hash": "9XVykaue+/A=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\openexrutil-3_2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "irK0mB/kZgI=",
+    "Meta": null,
+    "Name": "amd_fidelityfx_upscaler_dx12.dll",
+    "Size": 13138192,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\amd_fidelityfx_upscaler_dx12.dll",
+      "Hash": "irK0mB/kZgI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\amd_fidelityfx_upscaler_dx12.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oqN+b+VNga0=",
+    "Meta": null,
+    "Name": "svo-part1.pak",
+    "Size": 1996663954,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\svo-part1.pak",
+      "Hash": "oqN+b+VNga0=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\svo-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GxLCEKomXFw=",
+    "Meta": null,
+    "Name": "svo-part2.pak",
+    "Size": 1961390406,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\svo-part2.pak",
+      "Hash": "GxLCEKomXFw=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\svo-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+Cf5g8J4T20=",
+    "Meta": null,
+    "Name": "recast.pak",
+    "Size": 67509960,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\recast.pak",
+      "Hash": "+Cf5g8J4T20=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\recast.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Dn+2BcLoVIE=",
+    "Meta": null,
+    "Name": "hlod_vegetation.pak",
+    "Size": 166377196,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\hlod_vegetation.pak",
+      "Hash": "Dn+2BcLoVIE=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\hlod_vegetation.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HARfjbH5EaU=",
+    "Meta": null,
+    "Name": "amd_ags_x64.dll",
+    "Size": 109056,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\amd_ags_x64.dll",
+      "Hash": "HARfjbH5EaU=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\amd_ags_x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HlJo693g/mc=",
+    "Meta": null,
+    "Name": "Quatmosphere.dll",
+    "Size": 19456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64MasterMasterSteamPGO\\Quatmosphere.dll",
+      "Hash": "HlJo693g/mc=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64mastermastersteampgo\\quatmosphere.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KvXBa8V0wZA=",
+    "Meta": null,
+    "Name": "libxess.dll",
+    "Size": 77771112,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\libxess.dll",
+      "Hash": "KvXBa8V0wZA=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\libxess.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NUtNDaL+Fos=",
+    "Meta": null,
+    "Name": "Iex-3_2.dll",
+    "Size": 280576,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\Iex-3_2.dll",
+      "Hash": "NUtNDaL+Fos=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\iex-3_2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mti/SPaF0Ik=",
+    "Meta": null,
+    "Name": "GFSDK_Aftermath_Lib.x64.dll",
+    "Size": 5570136,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\GFSDK_Aftermath_Lib.x64.dll",
+      "Hash": "mti/SPaF0Ik=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\gfsdk_aftermath_lib.x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "79xcupBscwg=",
+    "Meta": null,
+    "Name": "Japanese_xml.pak",
+    "Size": 12817407,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Japanese_xml.pak",
+      "Hash": "79xcupBscwg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\japanese_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eTNyVTeEU04=",
+    "Meta": null,
+    "Name": "english-part1.pak",
+    "Size": 1586589447,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\english-part1.pak",
+      "Hash": "eTNyVTeEU04=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\english-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qzu8cdTxIXI=",
+    "Meta": null,
+    "Name": "hlod.pak",
+    "Size": 159673988,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\klaster\\hlod.pak",
+      "Hash": "qzu8cdTxIXI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\klaster\\hlod.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kW4WyhbyKAE=",
+    "Meta": null,
+    "Name": "Imath-3_2.dll",
+    "Size": 335872,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\Imath-3_2.dll",
+      "Hash": "kW4WyhbyKAE=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\imath-3_2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "FQaJPJYM6J4=",
+    "Meta": null,
+    "Name": "KingdomCome.exe",
+    "Size": 1524224,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64MasterMasterSteamPGO\\KingdomCome.exe",
+      "Hash": "FQaJPJYM6J4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64mastermastersteampgo\\kingdomcome.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ffAk38dl60w=",
+    "Meta": null,
+    "Name": "English_xml.pak",
+    "Size": 8429819,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\English_xml.pak",
+      "Hash": "ffAk38dl60w=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\english_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qa5B3vsxxNg=",
+    "Meta": null,
+    "Name": "Chineset_xml.pak",
+    "Size": 12863975,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Chineset_xml.pak",
+      "Hash": "qa5B3vsxxNg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\chineset_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ameWJGULntg=",
+    "Meta": null,
+    "Name": "svo-part1.pak",
+    "Size": 1970025137,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\svo-part1.pak",
+      "Hash": "ameWJGULntg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\svo-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nvFpjjfDryM=",
+    "Meta": null,
+    "Name": "svo-part0.pak",
+    "Size": 1975391046,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\svo-part0.pak",
+      "Hash": "nvFpjjfDryM=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\svo-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L1h/H+WP9iA=",
+    "Meta": null,
+    "Name": "svo.pak",
+    "Size": 1749403537,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\klaster\\svo.pak",
+      "Hash": "L1h/H+WP9iA=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\klaster\\svo.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IjyuqZRqMXI=",
+    "Meta": null,
+    "Name": "hlod.pak",
+    "Size": 903322734,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\hlod.pak",
+      "Hash": "IjyuqZRqMXI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\hlod.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DvIIp/7UZYo=",
+    "Meta": null,
+    "Name": "fmod.dll",
+    "Size": 1851904,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\fmod.dll",
+      "Hash": "DvIIp/7UZYo=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\fmod.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "N+pOkj2jkp8=",
+    "Meta": null,
+    "Name": "dxil.dll",
+    "Size": 1421856,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\dxil.dll",
+      "Hash": "N+pOkj2jkp8=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\dxil.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/aL1+yyvfGg=",
+    "Meta": null,
+    "Name": "WhGdk.dll",
+    "Size": 10240,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64MasterMasterSteamPGO\\WhGdk.dll",
+      "Hash": "/aL1+yyvfGg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64mastermastersteampgo\\whgdk.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4cXNoxYR2R8=",
+    "Meta": null,
+    "Name": "Korean_xml.pak",
+    "Size": 12990991,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Korean_xml.pak",
+      "Hash": "4cXNoxYR2R8=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\korean_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "XHZNrF834Ow=",
+    "Meta": null,
+    "Name": "French_xml.pak",
+    "Size": 12089535,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\French_xml.pak",
+      "Hash": "XHZNrF834Ow=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\french_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KflQxneCZjM=",
+    "Meta": null,
+    "Name": "Chineses_xml.pak",
+    "Size": 12747451,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Chineses_xml.pak",
+      "Hash": "KflQxneCZjM=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\chineses_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pA7Ot1laCv4=",
+    "Meta": null,
+    "Name": "Objects-part3.pak",
+    "Size": 407378009,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Objects-part3.pak",
+      "Hash": "pA7Ot1laCv4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\objects-part3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WQpeDPSycp8=",
+    "Meta": null,
+    "Name": "terrain.pak",
+    "Size": 278964253,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\terrain.pak",
+      "Hash": "WQpeDPSycp8=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\terrain.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "krwKymzCyVs=",
+    "Meta": null,
+    "Name": "hlod.pak",
+    "Size": 444503843,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\hlod.pak",
+      "Hash": "krwKymzCyVs=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\hlod.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q+r+vJEIjIQ=",
+    "Meta": null,
+    "Name": "terrain.pak",
+    "Size": 673581339,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\terrain.pak",
+      "Hash": "q+r+vJEIjIQ=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\terrain.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qO+jFWjUiMM=",
+    "Meta": null,
+    "Name": "terrain.pak",
+    "Size": 105243675,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\klaster\\terrain.pak",
+      "Hash": "qO+jFWjUiMM=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\klaster\\terrain.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OUryySIk6Ns=",
+    "Meta": null,
+    "Name": "IlmThread-3_2.dll",
+    "Size": 43008,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\IlmThread-3_2.dll",
+      "Hash": "OUryySIk6Ns=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\ilmthread-3_2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BeWG9GL38nM=",
+    "Meta": null,
+    "Name": "fmodstudio.dll",
+    "Size": 1518592,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\fmodstudio.dll",
+      "Hash": "BeWG9GL38nM=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\fmodstudio.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yk5sGN60RXU=",
+    "Meta": null,
+    "Name": "WHGame.dll",
+    "Size": 89166336,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64MasterMasterSteamPGO\\WHGame.dll",
+      "Hash": "yk5sGN60RXU=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64mastermastersteampgo\\whgame.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WH9n/VsegKc=",
+    "Meta": null,
+    "Name": "BugSplatHD64.exe",
+    "Size": 330240,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64MasterMasterSteamPGO\\BugSplatHD64.exe",
+      "Hash": "WH9n/VsegKc=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64mastermastersteampgo\\bugsplathd64.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "e7Tm3QQzf+M=",
+    "Meta": null,
+    "Name": "IPL_Videos-part2.pak",
+    "Size": 1584993022,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Videos-part2.pak",
+      "Hash": "e7Tm3QQzf+M=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_videos-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/Z8dlRsiO5k=",
+    "Meta": null,
+    "Name": "IPL_Characters-part0.pak",
+    "Size": 1995415068,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Characters-part0.pak",
+      "Hash": "/Z8dlRsiO5k=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_characters-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0vLi6tmW6dM=",
+    "Meta": null,
+    "Name": "svo-part2.pak",
+    "Size": 1986629247,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\svo-part2.pak",
+      "Hash": "0vLi6tmW6dM=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\svo-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9uJKtO5XLmI=",
+    "Meta": null,
+    "Name": "IPL_svo.pak",
+    "Size": 1820205455,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\IPL_svo.pak",
+      "Hash": "9uJKtO5XLmI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\ipl_svo.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qszrQIwT8yk=",
+    "Meta": null,
+    "Name": "Facials_english-part0.pak",
+    "Size": 1996853668,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Facials\\Facials_english-part0.pak",
+      "Hash": "qszrQIwT8yk=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\facials\\facials_english-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oIpPgJD7yTg=",
+    "Meta": null,
+    "Name": "level.pak",
+    "Size": 794343779,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\level.pak",
+      "Hash": "oIpPgJD7yTg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\level.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "tEZffkhBAcA=",
+    "Meta": null,
+    "Name": "cestool.pak",
+    "Size": 246470043,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\klaster\\cestool.pak",
+      "Hash": "tEZffkhBAcA=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\klaster\\cestool.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IqrL7lDMogQ=",
+    "Meta": null,
+    "Name": "Videos-part1.pak",
+    "Size": 1845654274,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Videos-part1.pak",
+      "Hash": "IqrL7lDMogQ=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\videos-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "XqnE9R95PSs=",
+    "Meta": null,
+    "Name": "bink2w64.dll",
+    "Size": 384000,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\bink2w64.dll",
+      "Hash": "XqnE9R95PSs=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\bink2w64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9kXc+qcX6qc=",
+    "Meta": null,
+    "Name": "Music.pak",
+    "Size": 1183620932,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Music.pak",
+      "Hash": "9kXc+qcX6qc=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\music.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iqqd+JPc89M=",
+    "Meta": null,
+    "Name": "IPL_Textures-part1.pak",
+    "Size": 1995842525,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Textures-part1.pak",
+      "Hash": "iqqd+JPc89M=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_textures-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pOlaqc8DnW0=",
+    "Meta": null,
+    "Name": "IPL_Objects-part5.pak",
+    "Size": 1595037100,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Objects-part5.pak",
+      "Hash": "pOlaqc8DnW0=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_objects-part5.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IFIRTGSF3oI=",
+    "Meta": null,
+    "Name": "english-part0.pak",
+    "Size": 1990848456,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\english-part0.pak",
+      "Hash": "IFIRTGSF3oI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\english-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "XDtidxk+uCg=",
+    "Meta": null,
+    "Name": "english-part2.pak",
+    "Size": 1518094173,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\english-part2.pak",
+      "Hash": "XDtidxk+uCg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\english-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rnnp5cKfTpk=",
+    "Meta": null,
+    "Name": "Objects-part2.pak",
+    "Size": 1994702041,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Objects-part2.pak",
+      "Hash": "rnnp5cKfTpk=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\objects-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L6kL6gAO+RA=",
+    "Meta": null,
+    "Name": "Czech_xml.pak",
+    "Size": 8528043,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Czech_xml.pak",
+      "Hash": "L6kL6gAO+RA=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\czech_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IAwv84SdsY4=",
+    "Meta": null,
+    "Name": "IPL_Textures-part0.pak",
+    "Size": 1955092680,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Textures-part0.pak",
+      "Hash": "IAwv84SdsY4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_textures-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "P2v9/iHuqYI=",
+    "Meta": null,
+    "Name": "IPL_Heads-part0.pak",
+    "Size": 1997639468,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Heads-part0.pak",
+      "Hash": "P2v9/iHuqYI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_heads-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HvF8MA+8sQI=",
+    "Meta": null,
+    "Name": "Videos-part3.pak",
+    "Size": 1988559692,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Videos-part3.pak",
+      "Hash": "HvF8MA+8sQI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\videos-part3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "q6x4oYYc8Bg=",
+    "Meta": null,
+    "Name": "level.pak",
+    "Size": 140659421,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\klaster\\level.pak",
+      "Hash": "q6x4oYYc8Bg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\klaster\\level.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "HH7RxV//o6Q=",
+    "Meta": null,
+    "Name": "IPL_english.pak",
+    "Size": 783448294,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\IPL_english.pak",
+      "Hash": "HH7RxV//o6Q=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\ipl_english.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nYbfhUCGhTg=",
+    "Meta": null,
+    "Name": "Textures-part1.pak",
+    "Size": 1819625643,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Textures-part1.pak",
+      "Hash": "nYbfhUCGhTg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\textures-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bQB8P6K4RbI=",
+    "Meta": null,
+    "Name": "amd_fidelityfx_loader_dx12.dll",
+    "Size": 24840,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\amd_fidelityfx_loader_dx12.dll",
+      "Hash": "bQB8P6K4RbI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\amd_fidelityfx_loader_dx12.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DJWysZe+5og=",
+    "Meta": null,
+    "Name": "ShadersBin.pak",
+    "Size": 5281378,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Engine\\ShadersBin.pak",
+      "Hash": "DJWysZe+5og=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|engine\\shadersbin.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hZ+1i5LICVY=",
+    "Meta": null,
+    "Name": "Scripts.pak",
+    "Size": 79323003,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Scripts.pak",
+      "Hash": "hZ+1i5LICVY=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\scripts.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "CfHQseyp4rQ=",
+    "Meta": null,
+    "Name": "IPL_Characters-part1.pak",
+    "Size": 1995390508,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Characters-part1.pak",
+      "Hash": "CfHQseyp4rQ=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_characters-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jIUmApekFqE=",
+    "Meta": null,
+    "Name": "IPL_Objects-part4.pak",
+    "Size": 1991005627,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Objects-part4.pak",
+      "Hash": "jIUmApekFqE=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_objects-part4.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iUJSQefVqLI=",
+    "Meta": null,
+    "Name": "Textures-part0.pak",
+    "Size": 2003148634,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Textures-part0.pak",
+      "Hash": "iUJSQefVqLI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\textures-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "OdCtVeZIGW0=",
+    "Meta": null,
+    "Name": "Portuguese_xml.pak",
+    "Size": 11734584,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Portuguese_xml.pak",
+      "Hash": "OdCtVeZIGW0=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\portuguese_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "INPAbHiQSyw=",
+    "Meta": null,
+    "Name": "Engine.pak",
+    "Size": 189908569,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Engine\\Engine.pak",
+      "Hash": "INPAbHiQSyw=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|engine\\engine.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zxkGE9S9+BY=",
+    "Meta": null,
+    "Name": "IPL_Textures-part2.pak",
+    "Size": 620736635,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Textures-part2.pak",
+      "Hash": "zxkGE9S9+BY=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_textures-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "e0Msmkv0VGU=",
+    "Meta": null,
+    "Name": "Videos-part4.pak",
+    "Size": 1824507570,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Videos-part4.pak",
+      "Hash": "e0Msmkv0VGU=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\videos-part4.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GP0qp8vJbxE=",
+    "Meta": null,
+    "Name": "recast.pak",
+    "Size": 5919193,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\klaster\\recast.pak",
+      "Hash": "GP0qp8vJbxE=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\klaster\\recast.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fDzyq0Lm1rE=",
+    "Meta": null,
+    "Name": "German_xml.pak",
+    "Size": 12208006,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\German_xml.pak",
+      "Hash": "fDzyq0Lm1rE=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\german_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "4GXhp5ie8UY=",
+    "Meta": null,
+    "Name": "IPL_Objects-part0.pak",
+    "Size": 1996741529,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Objects-part0.pak",
+      "Hash": "4GXhp5ie8UY=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_objects-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zHkXcxrZGtA=",
+    "Meta": null,
+    "Name": "Heads.pak",
+    "Size": 1150558924,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Heads.pak",
+      "Hash": "zHkXcxrZGtA=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\heads.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9GZIHyzJiog=",
+    "Meta": null,
+    "Name": "Facials_english-part1.pak",
+    "Size": 1996803436,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Facials\\Facials_english-part1.pak",
+      "Hash": "9GZIHyzJiog=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\facials\\facials_english-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pZzTdZN5k40=",
+    "Meta": null,
+    "Name": "cestool.pak",
+    "Size": 1174422240,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\cestool.pak",
+      "Hash": "pZzTdZN5k40=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\cestool.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iJB/uG2gOYc=",
+    "Meta": null,
+    "Name": "pros.sdk.x64.dll",
+    "Size": 4588544,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\pros.sdk.x64.dll",
+      "Hash": "iJB/uG2gOYc=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\pros.sdk.x64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "R/9w9GnrBzk=",
+    "Meta": null,
+    "Name": "Objects-part0.pak",
+    "Size": 1996534389,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Objects-part0.pak",
+      "Hash": "R/9w9GnrBzk=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\objects-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rnJIpBVod6k=",
+    "Meta": null,
+    "Name": "dxcompiler.dll",
+    "Size": 17367600,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\dxcompiler.dll",
+      "Hash": "rnJIpBVod6k=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\dxcompiler.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "nlpiM0xZ+hQ=",
+    "Meta": null,
+    "Name": "hlod_prefab.pak",
+    "Size": 634508290,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\hlod_prefab.pak",
+      "Hash": "nlpiM0xZ+hQ=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\hlod_prefab.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "g32zGAB2Fc4=",
+    "Meta": null,
+    "Name": "recast.pak",
+    "Size": 99732010,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\recast.pak",
+      "Hash": "g32zGAB2Fc4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\recast.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Mit3vSazlk4=",
+    "Meta": null,
+    "Name": "Videos-part2.pak",
+    "Size": 1435053434,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Videos-part2.pak",
+      "Hash": "Mit3vSazlk4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\videos-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qMaL5YwTs40=",
+    "Meta": null,
+    "Name": "Videos-part0.pak",
+    "Size": 1499982505,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Videos-part0.pak",
+      "Hash": "qMaL5YwTs40=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\videos-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "XpN8194d+4g=",
+    "Meta": null,
+    "Name": "Shaders.pak",
+    "Size": 679946,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Engine\\Shaders.pak",
+      "Hash": "XpN8194d+4g=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|engine\\shaders.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "T0cnOIvHC2g=",
+    "Meta": null,
+    "Name": "ShaderCacheStartup.pak",
+    "Size": 69606,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Engine\\ShaderCacheStartup.pak",
+      "Hash": "T0cnOIvHC2g=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|engine\\shadercachestartup.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZuXUJfQy6x4=",
+    "Meta": null,
+    "Name": "Sounds.pak",
+    "Size": 940778088,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Sounds.pak",
+      "Hash": "ZuXUJfQy6x4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\sounds.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "d+6fVapj2Sg=",
+    "Meta": null,
+    "Name": "Tables.pak",
+    "Size": 7209632,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Tables.pak",
+      "Hash": "d+6fVapj2Sg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\tables.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZVvq+XZKnG0=",
+    "Meta": null,
+    "Name": "Animations.pak",
+    "Size": 820904851,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Animations.pak",
+      "Hash": "ZVvq+XZKnG0=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\animations.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "PGqOvQawV6o=",
+    "Meta": null,
+    "Name": "IPL_Characters-part3.pak",
+    "Size": 434084720,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Characters-part3.pak",
+      "Hash": "PGqOvQawV6o=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_characters-part3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cWaz8LzguF0=",
+    "Meta": null,
+    "Name": "svo-part0.pak",
+    "Size": 1970765984,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\svo-part0.pak",
+      "Hash": "cWaz8LzguF0=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\svo-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YeqwPSq4rRg=",
+    "Meta": null,
+    "Name": "Facials_english-part2.pak",
+    "Size": 1992367272,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Facials\\Facials_english-part2.pak",
+      "Hash": "YeqwPSq4rRg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\facials\\facials_english-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BjjKwivmR18=",
+    "Meta": null,
+    "Name": "svo-part3.pak",
+    "Size": 644303216,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\svo-part3.pak",
+      "Hash": "BjjKwivmR18=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\svo-part3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9bjuzQJNRMY=",
+    "Meta": null,
+    "Name": "Objects-part1.pak",
+    "Size": 1996499163,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Objects-part1.pak",
+      "Hash": "9bjuzQJNRMY=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\objects-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IAV//6oEaaI=",
+    "Meta": null,
+    "Name": "AnselSDK64.dll",
+    "Size": 667184,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\AnselSDK64.dll",
+      "Hash": "IAV//6oEaaI=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\anselsdk64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Rl8H+wzgZZg=",
+    "Meta": null,
+    "Name": "Spanish_xml.pak",
+    "Size": 12047332,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Spanish_xml.pak",
+      "Hash": "Rl8H+wzgZZg=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\spanish_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "e1zprLKJ5Ug=",
+    "Meta": null,
+    "Name": "Italian_xml.pak",
+    "Size": 11694006,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Italian_xml.pak",
+      "Hash": "e1zprLKJ5Ug=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\italian_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/6icAEDHDG4=",
+    "Meta": null,
+    "Name": "IPL_Videos-part0.pak",
+    "Size": 1529370554,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Videos-part0.pak",
+      "Hash": "/6icAEDHDG4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_videos-part0.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qOhW/1KDHtw=",
+    "Meta": null,
+    "Name": "IPL_Objects-part3.pak",
+    "Size": 1996756857,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Objects-part3.pak",
+      "Hash": "qOhW/1KDHtw=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_objects-part3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hn+lD00Hxvk=",
+    "Meta": null,
+    "Name": "Characters.pak",
+    "Size": 1346031222,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Characters.pak",
+      "Hash": "hn+lD00Hxvk=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\characters.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QEiG7C34J2c=",
+    "Meta": null,
+    "Name": "IPL_GameData.pak",
+    "Size": 1020371129,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_GameData.pak",
+      "Hash": "QEiG7C34J2c=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_gamedata.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "voKLVjfQqnA=",
+    "Meta": null,
+    "Name": "IPL_Heads-part1.pak",
+    "Size": 40929054,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Heads-part1.pak",
+      "Hash": "voKLVjfQqnA=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_heads-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ryIKlV3LH6Q=",
+    "Meta": null,
+    "Name": "BugSplatRc64.dll",
+    "Size": 277504,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64MasterMasterSteamPGO\\BugSplatRc64.dll",
+      "Hash": "ryIKlV3LH6Q=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64mastermastersteampgo\\bugsplatrc64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lJnL3IcWkU8=",
+    "Meta": null,
+    "Name": "BsSndRpt64.exe",
+    "Size": 370176,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64MasterMasterSteamPGO\\BsSndRpt64.exe",
+      "Hash": "lJnL3IcWkU8=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64mastermastersteampgo\\bssndrpt64.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1CM1Xnr5RS8=",
+    "Meta": null,
+    "Name": "Turkish_xml.pak",
+    "Size": 12040449,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Turkish_xml.pak",
+      "Hash": "1CM1Xnr5RS8=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\turkish_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZBXrYk2FDas=",
+    "Meta": null,
+    "Name": "Polish_xml.pak",
+    "Size": 12052490,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Polish_xml.pak",
+      "Hash": "ZBXrYk2FDas=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\polish_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KbZCJOnXiR8=",
+    "Meta": null,
+    "Name": "ShaderCache.pak",
+    "Size": 110131119,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Engine\\ShaderCache.pak",
+      "Hash": "KbZCJOnXiR8=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|engine\\shadercache.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hOl3hpkiyOM=",
+    "Meta": null,
+    "Name": "IPL_Objects-part1.pak",
+    "Size": 1995632489,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Objects-part1.pak",
+      "Hash": "hOl3hpkiyOM=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_objects-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lmrLRu04hnY=",
+    "Meta": null,
+    "Name": "IPL_Objects-part2.pak",
+    "Size": 1996734228,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Objects-part2.pak",
+      "Hash": "lmrLRu04hnY=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_objects-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Z0UE7BEE4ok=",
+    "Meta": null,
+    "Name": "GeomCaches.pak",
+    "Size": 10553477,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\GeomCaches.pak",
+      "Hash": "Z0UE7BEE4ok=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\geomcaches.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Nh55ZY6be4U=",
+    "Meta": null,
+    "Name": "level.pak",
+    "Size": 700142607,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\level.pak",
+      "Hash": "Nh55ZY6be4U=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\level.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "DIBDrNvyzbM=",
+    "Meta": null,
+    "Name": "IPL_svo.pak",
+    "Size": 1552742765,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\kutnohorsko\\IPL_svo.pak",
+      "Hash": "DIBDrNvyzbM=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\kutnohorsko\\ipl_svo.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fDGjviy4n+g=",
+    "Meta": null,
+    "Name": "Vietnamese_xml.pak",
+    "Size": 12550277,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Vietnamese_xml.pak",
+      "Hash": "fDGjviy4n+g=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\vietnamese_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Wwgvsu/Tq/4=",
+    "Meta": null,
+    "Name": "IPL_Videos-part1.pak",
+    "Size": 1988791098,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Videos-part1.pak",
+      "Hash": "Wwgvsu/Tq/4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_videos-part1.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Y2hWMJ1m+CU=",
+    "Meta": null,
+    "Name": "IPL_GeomCaches.pak",
+    "Size": 4773238,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_GeomCaches.pak",
+      "Hash": "Y2hWMJ1m+CU=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_geomcaches.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "X4L2qkQ/wpM=",
+    "Meta": null,
+    "Name": "cestool.pak",
+    "Size": 419255482,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\cestool.pak",
+      "Hash": "X4L2qkQ/wpM=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\cestool.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LBWIJ2O4jtU=",
+    "Meta": null,
+    "Name": "Russian_xml.pak",
+    "Size": 13352670,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Russian_xml.pak",
+      "Hash": "LBWIJ2O4jtU=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\russian_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "re7OcqmHOaA=",
+    "Meta": null,
+    "Name": "Videos-part5.pak",
+    "Size": 759037682,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Videos-part5.pak",
+      "Hash": "re7OcqmHOaA=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\videos-part5.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GKnVdO1mH4I=",
+    "Meta": null,
+    "Name": "pak.cfg",
+    "Size": 994,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\pak.cfg",
+      "Hash": "GKnVdO1mH4I=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\pak.cfg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zHg9RgAmNjA=",
+    "Meta": null,
+    "Name": "Cinematics.pak",
+    "Size": 1167038769,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Cinematics.pak",
+      "Hash": "zHg9RgAmNjA=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\cinematics.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KMM2bNzU6Ow=",
+    "Meta": null,
+    "Name": "system.cfg",
+    "Size": 6038,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "system.cfg",
+      "Hash": "KMM2bNzU6Ow=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|system.cfg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aUjbKvxRbBQ=",
+    "Meta": null,
+    "Name": "hlod_vegetation.pak",
+    "Size": 238695640,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\trosecko\\hlod_vegetation.pak",
+      "Hash": "aUjbKvxRbBQ=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\trosecko\\hlod_vegetation.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LzkkiJc+uP4=",
+    "Meta": null,
+    "Name": "english-part3.pak",
+    "Size": 1784862151,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\english-part3.pak",
+      "Hash": "LzkkiJc+uP4=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\english-part3.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "1IXmFf2rH/k=",
+    "Meta": null,
+    "Name": "hlod_vegetation.pak",
+    "Size": 8435527,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\Levels\\klaster\\hlod_vegetation.pak",
+      "Hash": "1IXmFf2rH/k=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\levels\\klaster\\hlod_vegetation.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cwIgVHHY7L0=",
+    "Meta": null,
+    "Name": "nvngx_dlss.dll",
+    "Size": 48971808,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\nvngx_dlss.dll",
+      "Hash": "cwIgVHHY7L0=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\nvngx_dlss.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/Ff2W3PTky8=",
+    "Meta": null,
+    "Name": "steam_api64.dll",
+    "Size": 301928,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\steam_api64.dll",
+      "Hash": "/Ff2W3PTky8=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\steam_api64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/FtMwJ86V+Q=",
+    "Meta": null,
+    "Name": "OpenEXR-3_2.dll",
+    "Size": 2913280,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\OpenEXR-3_2.dll",
+      "Hash": "/FtMwJ86V+Q=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\openexr-3_2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cPI2RU6ujjw=",
+    "Meta": null,
+    "Name": "OpenEXRCore-3_2.dll",
+    "Size": 538112,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64Shared\\OpenEXRCore-3_2.dll",
+      "Hash": "cPI2RU6ujjw=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64shared\\openexrcore-3_2.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "g8pW9PFoS2U=",
+    "Meta": null,
+    "Name": "BugSplat64.dll",
+    "Size": 635904,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Bin\\Win64MasterMasterSteamPGO\\BugSplat64.dll",
+      "Hash": "g8pW9PFoS2U=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|bin\\win64mastermastersteampgo\\bugsplat64.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aawc5oNWcQc=",
+    "Meta": null,
+    "Name": "Ukrainian_xml.pak",
+    "Size": 13358164,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Localization\\Ukrainian_xml.pak",
+      "Hash": "aawc5oNWcQc=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|localization\\ukrainian_xml.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "vk7KKFBtr4I=",
+    "Meta": null,
+    "Name": "IPL_Characters-part2.pak",
+    "Size": 1995506556,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "Data\\IPL_Characters-part2.pak",
+      "Hash": "vk7KKFBtr4I=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|data\\ipl_characters-part2.pak"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Gad+QblKeIc=",
+    "Meta": null,
+    "Name": "whdlversions.json",
+    "Size": 15570,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "KingdomComeDeliverance2",
+      "GameFile": "whdlversions.json",
+      "Hash": "Gad+QblKeIc=",
+      "GameVersion": "0.0.0.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|KingdomComeDeliverance2|0.0.0.0|whdlversions.json"
+    }
+  }
+]
