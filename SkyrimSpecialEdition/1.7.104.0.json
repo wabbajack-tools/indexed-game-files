@@ -2626,6 +2626,21 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
+    "Hash": "6nxOeGLyPK8=",
+    "Meta": null,
+    "Name": "Skyrim - Voices_de0.bsa",
+    "Size": 1998240871,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "SkyrimSpecialEdition",
+      "GameFile": "Data\\Skyrim - Voices_de0.bsa",
+      "Hash": "6nxOeGLyPK8=",
+      "GameVersion": "1.7.104.0",
+      "PrimaryKeyString": "GameFileSourceDownloader+State|SkyrimSpecialEdition|1.7.104.0|data\\skyrim - voices_de0.bsa"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
     "Hash": "qDwRdbTXBYU=",
     "Meta": null,
     "Name": "Skyrim - Voices_en0.bsa",
