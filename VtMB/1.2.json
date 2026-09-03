@@ -73546,21 +73546,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "lYHRWJ8jVxQ=",
-    "Meta": null,
-    "Name": "unins000.dat",
-    "Size": 13019270,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "unins000.dat",
-      "Hash": "lYHRWJ8jVxQ=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|unins000.dat"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "FnlBsoeh/A4=",
     "Meta": null,
     "Name": "mrav2rightarm.vmt",
@@ -89007,36 +88992,6 @@
       "Hash": "MWhZDLyZKl0=",
       "GameVersion": "1.2",
       "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|webcache.zip"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "AbQPtyQs4/c=",
-    "Meta": null,
-    "Name": "unins000.msg",
-    "Size": 23147,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "unins000.msg",
-      "Hash": "AbQPtyQs4/c=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|unins000.msg"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "RAm2I6cJCQs=",
-    "Meta": null,
-    "Name": "goggame-1207659240.ico",
-    "Size": 129917,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "goggame-1207659240.ico",
-      "Hash": "RAm2I6cJCQs=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|goggame-1207659240.ico"
     }
   },
   {
@@ -119098,22 +119053,7 @@
       "GameVersion": "1.2",
       "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|vampire.exe.12"
     }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "UILexsgQog4=",
-    "Meta": null,
-    "Name": "unins000.exe",
-    "Size": 1343048,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "unins000.exe",
-      "Hash": "UILexsgQog4=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|unins000.exe"
-    }
-  },
+  }, 
   {
     "$type": "Archive, Wabbajack.Lib",
     "Hash": "4AIGGY/Sais=",
@@ -146217,21 +146157,6 @@
       "Hash": "J1XfQS8hCVE=",
       "GameVersion": "1.2",
       "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|vtmbup-readme.txt"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "Kmzs3D4idk4=",
-    "Meta": null,
-    "Name": "goggame-1207659240.hashdb",
-    "Size": 560966,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "goggame-1207659240.hashdb",
-      "Hash": "Kmzs3D4idk4=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|goggame-1207659240.hashdb"
     }
   },
   {
@@ -175456,21 +175381,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "a26C5GqiO58=",
-    "Meta": null,
-    "Name": "goggame-1207659240.script",
-    "Size": 2127,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "goggame-1207659240.script",
-      "Hash": "a26C5GqiO58=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|goggame-1207659240.script"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "/9d3lsKj5Eg=",
     "Meta": null,
     "Name": "rookiedcophead.ttz",
@@ -190542,21 +190452,6 @@
       "Hash": "suLrNbq9/Zs=",
       "GameVersion": "1.2",
       "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|vampire.exe"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "uKnhttiMbGQ=",
-    "Meta": null,
-    "Name": "goggame-galaxyFileList.ini",
-    "Size": 46,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "goggame-galaxyFileList.ini",
-      "Hash": "uKnhttiMbGQ=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|goggame-galaxyfilelist.ini"
     }
   },
   {
@@ -232276,21 +232171,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "KJw6WzpGn1M=",
-    "Meta": null,
-    "Name": "goglog.ini",
-    "Size": 756,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "goglog.ini",
-      "Hash": "KJw6WzpGn1M=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|goglog.ini"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "vYA+ofN0FbM=",
     "Meta": null,
     "Name": "chang2body.vmt",
@@ -248461,21 +248341,6 @@
   },
   {
     "$type": "Archive, Wabbajack.Lib",
-    "Hash": "UXY7sWiyLMg=",
-    "Meta": null,
-    "Name": "unins000.ini",
-    "Size": 41,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "unins000.ini",
-      "Hash": "UXY7sWiyLMg=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|unins000.ini"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
     "Hash": "wAmcqsGaDSw=",
     "Meta": null,
     "Name": "dbghelp.dll",
@@ -259827,21 +259692,6 @@
       "Hash": "TeyOI27lpmQ=",
       "GameVersion": "1.2",
       "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|bin\\shaderapidx9.dll.12"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "T10rkP4H2qw=",
-    "Meta": null,
-    "Name": "Launch Vampire - The Masquerade - Bloodlines.lnk",
-    "Size": 1148,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "Launch Vampire - The Masquerade - Bloodlines.lnk",
-      "Hash": "T10rkP4H2qw=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|launch vampire - the masquerade - bloodlines.lnk"
     }
   },
   {
@@ -274617,21 +274467,6 @@
       "Hash": "ACpwFOSKg8c=",
       "GameVersion": "1.2",
       "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|vtmbup-loader.txt"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "dmpMiGJYk2o=",
-    "Meta": null,
-    "Name": "goggame-1207659240.info",
-    "Size": 1403,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "goggame-1207659240.info",
-      "Hash": "dmpMiGJYk2o=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|goggame-1207659240.info"
     }
   },
   {
@@ -290547,21 +290382,6 @@
       "Hash": "bkhwXaCju40=",
       "GameVersion": "1.2",
       "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|bin\\stdshader_dbg.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "h9zkGbz1Oac=",
-    "Meta": null,
-    "Name": "EULA.txt",
-    "Size": 66328,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "EULA.txt",
-      "Hash": "h9zkGbz1Oac=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|eula.txt"
     }
   },
   {
@@ -306852,21 +306672,6 @@
       "Hash": "3PFt3hqjkIE=",
       "GameVersion": "1.2",
       "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|bin\\binkw32.dll"
-    }
-  },
-  {
-    "$type": "Archive, Wabbajack.Lib",
-    "Hash": "gFTn3qyDuLo=",
-    "Meta": null,
-    "Name": "gog.ico",
-    "Size": 69248,
-    "State": {
-      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-      "Game": "VtMB",
-      "GameFile": "gog.ico",
-      "Hash": "gFTn3qyDuLo=",
-      "GameVersion": "1.2",
-      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|VtMB|1.2|gog.ico"
     }
   }
 ]
