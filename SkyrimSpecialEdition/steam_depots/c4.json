@@ -16,5 +16,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 8042843504692938467
+  },
+  {
+    "Hash": "xEjUKCIoThk=",
+    "Size": 681304,
+    "Path": "Tools\\Audio\\xwmaencode.exe",
+    "Sha1": "BAA7F079A607C9FFA88D765163784D8C89C9173A",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

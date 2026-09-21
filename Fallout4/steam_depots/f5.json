@@ -9,6 +9,15 @@
     "Manifest": 8681102885670959037
   },
   {
+    "Hash": "9c4IFVDIIkQ=",
+    "Size": 65,
+    "Path": "Data\\Scripts\\Source\\User\\Readme.txt",
+    "Sha1": "B6033673E453893DD041EC479F0B85C17BC35B0E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
     "Hash": "9Tl44n/Hycc=",
     "Size": 550400,
     "Path": "GFSDK_SSAO_D3D11.win64.dll",
@@ -25,5 +34,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "9cuuUqbHIks=",
+    "Size": 1877,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\treeview-red-line.gif",
+    "Sha1": "95CB12070064CF3E1F57FA09EDA70077CCC156A5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "9WEDbi5lqhw=",
+    "Size": 103,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\images\\demo-spindown-closed.gif",
+    "Sha1": "474DC94117315B8AEDC5BFCCC557E20558A47D0F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "9cuuUqbHIks=",
+    "Size": 1877,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\treeview-red-line.gif",
+    "Sha1": "95CB12070064CF3E1F57FA09EDA70077CCC156A5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

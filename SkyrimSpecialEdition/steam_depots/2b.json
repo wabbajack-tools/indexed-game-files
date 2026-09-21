@@ -7,5 +7,23 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 4341968404481569190
+  },
+  {
+    "Hash": "KxwaSyFf7m4=",
+    "Size": 189,
+    "Path": "Papyrus Compiler\\ScriptCompile.bat",
+    "Sha1": "5B23CFCA8396898FF1C6E1E1E5104861AACEDE56",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "K31KABqBrfc=",
+    "Size": 6282885,
+    "Path": "Tools\\LipGen\\LipGenerator\\FonixData.cdf",
+    "Sha1": "E14C4245FCB774C35A6DEE051161BC65450C9BD3",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

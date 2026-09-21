@@ -25,5 +25,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "rG1fZfU+XOI=",
+    "Size": 14741,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.jgrowl.js",
+    "Sha1": "6D9900B0CA47E3C62BDE5FE7A0CFE98940E2687F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

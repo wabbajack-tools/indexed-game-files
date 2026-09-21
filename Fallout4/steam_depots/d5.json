@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "1YD0cnvmheg=",
+    "Size": 3571,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\sortable.html",
+    "Sha1": "C8A99CB113C2177E108DBCB5F42181A161104F1E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "1bzXFQ8qBCs=",
+    "Size": 17276,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.resizable.min.js",
+    "Sha1": "9F456C96675FCDDCFD7FA44FE6A34A1369F8F68A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

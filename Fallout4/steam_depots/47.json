@@ -16,5 +16,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "R+TWwecBc/M=",
+    "Size": 12984672,
+    "Path": "Tools\\Elric\\ElricInterop.dll",
+    "Sha1": "431F7751BDEA66063BBCE48A03D964834AD33978",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "R4l06I/zHYM=",
+    "Size": 1691,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\handle.html",
+    "Sha1": "07DBCC64D52A00453F71E1A65B20E15AB5F32F45",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "RzL0W9+q5yg=",
+    "Size": 119,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+    "Sha1": "6140799C338F9FA5CCCE4FB29346512806462A60",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "RxeGnHazqW4=",
+    "Size": 2510,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.button.css",
+    "Sha1": "C4B3D9CAD481BAEE9FB06727F231F479D3B17B49",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

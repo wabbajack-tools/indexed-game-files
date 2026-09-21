@@ -43,5 +43,14 @@
     "App": 489830,
     "Depot": 489831,
     "Manifest": 8442952117333549665
+  },
+  {
+    "Hash": "6DcqZ9DauUg=",
+    "Size": 535904,
+    "Path": "Papyrus Compiler\\PCompiler.dll",
+    "Sha1": "20FE760F751D50520C21E8241B0E80EE37618C40",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

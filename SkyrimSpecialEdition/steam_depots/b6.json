@@ -16,5 +16,14 @@
     "App": 489830,
     "Depot": 489831,
     "Manifest": 7089166303853251347
+  },
+  {
+    "Hash": "tvrXQP3POhQ=",
+    "Size": 13635096,
+    "Path": "Data\\Scripts.zip",
+    "Sha1": "E83C1DDBFF4B7E4D53D8FE36D5F06EEE69C1F0EE",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

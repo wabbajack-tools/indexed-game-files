@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "HCSCVcr+ibw=",
+    "Size": 43151,
+    "Path": "Tools\\ArtTools\\Blender\\bgs_skyrim_tools.zip",
+    "Sha1": "4E85438BF699945A41F6383D1FAB7E0BA34BCE8F",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "HLxEnagQ5RY=",
+    "Size": 113281,
+    "Path": "Tools\\ArtTools\\Blender\\io_scene_bsfbx_skyrim.zip",
+    "Sha1": "CFDDE35AF468CDCD64B151DE708CD5280231CB92",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

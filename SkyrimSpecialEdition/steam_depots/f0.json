@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489831,
     "Manifest": 7848722008564294070
+  },
+  {
+    "Hash": "8F+iRiHecKI=",
+    "Size": 125280,
+    "Path": "Papyrus Compiler\\antlr.runtime.dll",
+    "Sha1": "DDAAFCDB94398C3425D777F9B2ABA56C6E0638E8",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

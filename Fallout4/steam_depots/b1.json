@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "scLOPTAATQQ=",
+    "Size": 6394,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\combobox.html",
+    "Sha1": "12233868EA5FA7184A0B70D7BE1F70EF0D161CEF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "saMzhuOQ8r4=",
+    "Size": 7970,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\images\\pbar-ani.gif",
+    "Sha1": "43ED120B8BEA41291066EED37C351BCD1958F37C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "saMzhuOQ8r4=",
+    "Size": 7970,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\progressbar\\images\\pbar-ani.gif",
+    "Sha1": "43ED120B8BEA41291066EED37C351BCD1958F37C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "sVhPZsl9RFU=",
+    "Size": 8518,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.core.js",
+    "Sha1": "7D7ECD16D79EAFFE5C38C47BC8C4504B4825C108",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "segwysKdxcw=",
+    "Size": 418,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "60541AEC601D7EFA36ADF7B0B61EBEFA5892C5B3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

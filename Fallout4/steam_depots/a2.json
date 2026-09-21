@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "ogkARJiEWYU=",
+    "Size": 33967,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\jquery-ui-1.8.20.custom.css",
+    "Sha1": "83B9ED06678E59752399ED8B0EF658C340F0803A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ogkARJiEWYU=",
+    "Size": 33967,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\jquery-ui-1.8.20.custom.css",
+    "Sha1": "83B9ED06678E59752399ED8B0EF658C340F0803A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ohst0KOegII=",
+    "Size": 4419,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\removeClass.html",
+    "Sha1": "9D99AFFCABBEFCBCE18076EF85DBB08035CEDFDC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ogkARJiEWYU=",
+    "Size": 33967,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery-ui-1.8.20.custom.css",
+    "Sha1": "83B9ED06678E59752399ED8B0EF658C340F0803A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ogF/ha2BWq4=",
+    "Size": 1435,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ge.js",
+    "Sha1": "0381A10D5075E52416E6EA53775DCA844C254769",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ogF/ha2BWq4=",
+    "Size": 1435,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ge.js",
+    "Sha1": "0381A10D5075E52416E6EA53775DCA844C254769",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ou3cO0aEItY=",
+    "Size": 946,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-no.js",
+    "Sha1": "A78EE829CBF346F2DD0FFD34A22B11679CB8DEE8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

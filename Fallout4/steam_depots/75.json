@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "daEm7dz6PBo=",
+    "Size": 11230,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.dialog.min.js",
+    "Sha1": "166A8CE023672BE29878418CA7E774B874EDD7F1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "dQ4Bon+0Lt0=",
+    "Size": 23827,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.sortable.min.js",
+    "Sha1": "4DD19E7B1A138B21C352E944CE2B1FB58059B7B1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

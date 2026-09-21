@@ -25,5 +25,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "DxSgjZwNgUw=",
+    "Size": 115040,
+    "Path": "Tools\\Elric\\NiSystem.dll",
+    "Sha1": "B6BF8DF86B5AC68E2BA932DC29B21D3A918C2EBE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

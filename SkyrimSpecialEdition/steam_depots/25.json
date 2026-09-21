@@ -106,5 +106,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "JefjvYMvsEI=",
+    "Size": 24762208,
+    "Path": "Tools\\AssetWatcher\\Plugins\\Skyrim\\BSFBXDLL.dll",
+    "Sha1": "7B386C187240EB459E158367B0B1F3ACB9C49FF7",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

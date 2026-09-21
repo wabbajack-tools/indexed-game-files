@@ -25,5 +25,32 @@
     "App": 377160,
     "Depot": 480631,
     "Manifest": 6588493486198824788
+  },
+  {
+    "Hash": "6mtr4bUtwww=",
+    "Size": 540000,
+    "Path": "Tools\\Elric\\texconv.exe",
+    "Sha1": "2B333B39E10459005795E0AD0130990E6FDDA35D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6mumaPVEA8Q=",
+    "Size": 469,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.fade.min.js",
+    "Sha1": "4850F861C24C96EE4F285DDB04899E9E4CB1D382",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6mumaPVEA8Q=",
+    "Size": 469,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.fade.min.js",
+    "Sha1": "4850F861C24C96EE4F285DDB04899E9E4CB1D382",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

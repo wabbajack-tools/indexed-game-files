@@ -25,5 +25,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "MFv6Q1pPKnw=",
+    "Size": 1888,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\folding.html",
+    "Sha1": "E34074BF3E94CBC63C1E032DECA061755FFB62B1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

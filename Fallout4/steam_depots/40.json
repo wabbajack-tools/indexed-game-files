@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "QOmeYPd5GJM=",
+    "Size": 4912,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\external\\qunit.css",
+    "Sha1": "80E0621C697EF785085E4E0212081BE2317D6010",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "QFYDFT4OwZs=",
+    "Size": 1320,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ar.js",
+    "Sha1": "7064A425CAC3690A49AB760644CDE4A7EB4B9A77",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

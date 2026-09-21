@@ -25,5 +25,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "mQoL/i9ehM0=",
+    "Size": 117088,
+    "Path": "Tools\\Elric\\Elrich.exe",
+    "Sha1": "DFBE9A063EDB8EF8E48C99C662D1083ED171CFDE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "maoNZiHXXtU=",
+    "Size": 33898,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\jquery-ui-1.8.20.custom.css",
+    "Sha1": "CC9A146F3B08DC0C9F7D1F787E775619C3F940A1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mT9Gr4VjWCg=",
+    "Size": 1692,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\localization.html",
+    "Sha1": "88992AFD9104A2BA36250FEC98B4CFE093C51E86",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "maoNZiHXXtU=",
+    "Size": 33898,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery-ui-1.8.20.custom.css",
+    "Sha1": "CC9A146F3B08DC0C9F7D1F787E775619C3F940A1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

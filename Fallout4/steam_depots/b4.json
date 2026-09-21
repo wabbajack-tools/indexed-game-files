@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "tNq5UNmBT+c=",
+    "Size": 1656,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\accepted-elements.html",
+    "Sha1": "B9F31DB69918668BD24D7FC480FEF91A4D5E5665",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "tLiAmaqz3OA=",
+    "Size": 1414,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\range-vertical.html",
+    "Sha1": "19A455C859332113C143702D644F7881DD66DF67",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "tBk2AItpN9M=",
+    "Size": 1215,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\rangemin.html",
+    "Sha1": "6BF2DC9FBA1C77BC56FE93BC5EAC724B937BD3A2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "kX1ERdkU8zo=",
+    "Size": 52883296,
+    "Path": "Tools\\LipGen\\CreationKit32.exe",
+    "Sha1": "80BD676E98994657F1E1ADFFA05854104A5864E4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kd5NtqtUheg=",
+    "Size": 1993,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\treeview-default-line.gif",
+    "Sha1": "C75C70654C2A1782D8FB9BBEF8926C6FF74391F9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kd5NtqtUheg=",
+    "Size": 1993,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\treeview-default-line.gif",
+    "Sha1": "C75C70654C2A1782D8FB9BBEF8926C6FF74391F9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ka5CrlVdNzg=",
+    "Size": 1857,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.progressbar.min.js",
+    "Sha1": "3998223DB733130F0893C1E05E4AAECC1A0B71E9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

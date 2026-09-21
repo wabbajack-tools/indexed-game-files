@@ -25,5 +25,77 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "N6JgejtysEs=",
+    "Size": 1528,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\removeClass\\default.html",
+    "Sha1": "3626337228968CF8A7A73B7029D69470C9528FCB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Ny9VJ2Pzu8Q=",
+    "Size": 1339,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\constrain-area.html",
+    "Sha1": "EE30E8BF02C085113DAE890BB94B17804AC95852",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "N1a1eFh3iE0=",
+    "Size": 924,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-fr-CH.js",
+    "Sha1": "FD9BD4C5025D89CAAC47BF952407159E179C5CA0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Nwo9aK/+WvY=",
+    "Size": 1177,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.transfer.js",
+    "Sha1": "C11CF986AD49489422C1E35BBF75CE1F06019FA0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "N1ihcbqr8uQ=",
+    "Size": 2181,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.progressbar.min.js",
+    "Sha1": "9E19E28536AEFAD9E6476A92C402730C2B82D55A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "NzKRqHpexT8=",
+    "Size": 167,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "09D279862155C2E3F0C95DF8D31480F354FB6B1E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "N4Ya69J0uck=",
+    "Size": 964,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-zh-TW.js",
+    "Sha1": "60722262AD90FF70B9FB48B3A0EEF59DE13A68D4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Nwo9aK/+WvY=",
+    "Size": 1177,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.transfer.js",
+    "Sha1": "C11CF986AD49489422C1E35BBF75CE1F06019FA0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

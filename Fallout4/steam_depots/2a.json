@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "Konnz9zMTB8=",
+    "Size": 1534,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.explode.min.js",
+    "Sha1": "3C5C7353B4ADFD0AB4C2D536EE1F8A3C85B3D3D0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Kk+dSvOWGOE=",
+    "Size": 830,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.transfer.min.js",
+    "Sha1": "F98951A3D2A942842A52277322FBEC875954D879",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "KphbhQScVaE=",
+    "Size": 278,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+    "Sha1": "6C0DFFB86098E8C9C33D73AE44DBB58586D55FF3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Konnz9zMTB8=",
+    "Size": 1534,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.explode.min.js",
+    "Sha1": "3C5C7353B4ADFD0AB4C2D536EE1F8A3C85B3D3D0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

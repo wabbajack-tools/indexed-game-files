@@ -7,5 +7,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "y4c5CCh17wc=",
+    "Size": 4353,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-icons_ffd27a_256x240.png",
+    "Sha1": "523228D006745DAA20B66B56A863AE4F49800E18",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

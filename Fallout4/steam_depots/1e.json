@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "HleGTXTbBG8=",
+    "Size": 68168,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\resizable.html",
+    "Sha1": "1FD2AC07A07AB1706893444524BBDCF62B480287",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "HrPcqYBJSNw=",
+    "Size": 919,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-es.js",
+    "Sha1": "FDC01DD151E13943F02D528EA249E16D9776648C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "HgxV9mNc3ok=",
+    "Size": 20789,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.dialog.js",
+    "Sha1": "415E8FD38E2351C5F376DC19B47AC5BBA01373B0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Hrvm2OQMmBs=",
+    "Size": 1017,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ro.js",
+    "Sha1": "E6A0C57A9B1088F07AADA4A2DC8D1D6515FCB20F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

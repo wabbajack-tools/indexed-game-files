@@ -34,5 +34,23 @@
     "App": 377160,
     "Depot": 377161,
     "Manifest": 7497069378349273908
+  },
+  {
+    "Hash": "+bXkbjKrDww=",
+    "Size": 1762,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\external\\jquery.bgiframe-2.1.2.js",
+    "Sha1": "28F1EEABE065781054F6573497351A1F81742D6F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+doIBisBibY=",
+    "Size": 1140,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-kk.js",
+    "Sha1": "C3DCC062D2A61880AD8AFA333C1EE3B2CC2FCC56",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

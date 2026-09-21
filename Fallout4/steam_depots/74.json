@@ -16,5 +16,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "dCtpOoTDoWc=",
+    "Size": 2612,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\events.html",
+    "Sha1": "BE92BE4B08EF87F32D4D01B1FA1B494206FF2028",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "dPoaIgWwTwA=",
+    "Size": 2266,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\snap-to.html",
+    "Sha1": "CCD98A30A6B3ED68EBA854E5E189F538D5AE4E29",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "dPU5R0nMlYY=",
+    "Size": 4068,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.selectable.min.js",
+    "Sha1": "5C5C2ED4219AD9111E2F7CDC8CB4766EE1450CE4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "dK1JiDfastQ=",
+    "Size": 1220,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-el.js",
+    "Sha1": "BFEC6B3C720AA3A68BDB36F7BE6F663FC41AD4BC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "dDBciy/dLZQ=",
+    "Size": 932,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ko.js",
+    "Sha1": "9DC4024C83858F30435F14B130981C19BFE42EB1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

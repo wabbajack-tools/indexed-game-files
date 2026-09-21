@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "JSeR+acMlF8=",
+    "Size": 626016,
+    "Path": "Tools\\Elric\\BSCore.dll",
+    "Sha1": "1D40B90013911D13AC12EB2DDCB4CF1E6F196772",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JeY35iEuXKg=",
+    "Size": 1369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\range.html",
+    "Sha1": "735AB17C1AA25E9EFF5973A58F59357004FCF097",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JYKqTI2fwjo=",
+    "Size": 1373,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.dialog.css",
+    "Sha1": "4FC25451C98ACF570F68887C2E3209AAE88C03B2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JYKqTI2fwjo=",
+    "Size": 1373,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.dialog.css",
+    "Sha1": "4FC25451C98ACF570F68887C2E3209AAE88C03B2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JeY4jjN+hJ4=",
+    "Size": 18031,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.resizable.min.js",
+    "Sha1": "6B6ADB0CFA12BDECC1A4AD06D2B191B772173EF4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JfAXqNSbU1I=",
+    "Size": 4998,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jstree.wholerow.js",
+    "Sha1": "04B2B84712E42C5BEB33618508682CDE13EFE32F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JWNl3t+4RS0=",
+    "Size": 450782,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\js\\jquery-ui-1.10.3.custom.js",
+    "Sha1": "4F9B7857B8FB1943AD42AFBAFF191CD108080641",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

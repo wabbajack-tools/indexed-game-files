@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 393895,
     "Manifest": 7677765994120765493
+  },
+  {
+    "Hash": "bwy8JglPqqo=",
+    "Size": 1797,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\selectable\\serialize.html",
+    "Sha1": "2FDFD2EA8450DDC7CA0E553213B4D658BD275D86",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "bxLkS0YGb/U=",
+    "Size": 338,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.autocomplete.css",
+    "Sha1": "972A971121042C8D92D5187058B4411CAFD129D5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "bxLkS0YGb/U=",
+    "Size": 338,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.autocomplete.css",
+    "Sha1": "972A971121042C8D92D5187058B4411CAFD129D5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "b2AL5YkK/9k=",
+    "Size": 912,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-eo.js",
+    "Sha1": "0280E40D94A7FAE03AD3AEA2A797FAF74E1FEC95",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

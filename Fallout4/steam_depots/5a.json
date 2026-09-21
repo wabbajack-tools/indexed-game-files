@@ -1,5 +1,14 @@
 [
   {
+    "Hash": "WlXgq4LZB5U=",
+    "Size": 69107040,
+    "Path": "CreationKit.exe",
+    "Sha1": "05ACCF35DB49B99C8F61BF56B022881127AE112F",
+    "App": 1946160,
+    "Depot": 1946161,
+    "Manifest": 2230858119755611597
+  },
+  {
     "Hash": "WsakKiBBIVk=",
     "Size": 164130395,
     "Path": "Data\\ccBGSFO4115-X02 - Textures.ba2",
@@ -34,5 +43,77 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "Wv43nXNbpQI=",
+    "Size": 2091360,
+    "Path": "flowchartx32.dll",
+    "Sha1": "4E2CCDD4F9C6483DAE9DA68256F77E198C2E74A0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "WnTr/PqUqAY=",
+    "Size": 52133,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\accordion.html",
+    "Sha1": "47F39BB62F2D28CBB7C4EDD50E3006003C287E9C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "WgXzLNq64P8=",
+    "Size": 6299,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "E0F166FC364D4A7059798C275C19F0650AAB67E8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Ws52o/UDI+4=",
+    "Size": 220,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_flat_30_cccccc_40x100.png",
+    "Sha1": "A688137649AC0F77445EAF7B1B9A0C8C7BC24772",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "WgXzLNq64P8=",
+    "Size": 6299,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "E0F166FC364D4A7059798C275C19F0650AAB67E8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "WgXzLNq64P8=",
+    "Size": 6299,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "E0F166FC364D4A7059798C275C19F0650AAB67E8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Wpf1I7Oo8tQ=",
+    "Size": 1232,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-bg.js",
+    "Sha1": "C18317B40BFE909B5540E72C86244C089AF76E87",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "WpAZQA1lsrM=",
+    "Size": 18740,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.draggable.min.js",
+    "Sha1": "4352F8B2E0DE86DE086E18BEBFF066CAACCAAF18",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

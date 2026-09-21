@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "uLNSbwz37Ko=",
+    "Size": 1817,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\delay-start.html",
+    "Sha1": "EA5065C9D8AB0283958CD664078E234D75AF5F25",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "uLeDoetFDFI=",
+    "Size": 3405,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.treeview.pack.js",
+    "Sha1": "D66477BC34189287DB439D6BB164AEC470C00697",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "uGDJCtPPbPc=",
+    "Size": 947,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-es.js",
+    "Sha1": "FD18A39474045A4CD58FBE4C7375D8762230E8B7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

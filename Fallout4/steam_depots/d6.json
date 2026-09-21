@@ -16,5 +16,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "1h+XISCysU4=",
+    "Size": 73568,
+    "Path": "Tools\\Archive2\\Archive2.exe",
+    "Sha1": "E3CAF073FE52DD9B495D7494BAF910B70733D442",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "1pZsrSiOqgM=",
+    "Size": 116576,
+    "Path": "Tools\\Archive2\\Microsoft.WindowsAPICodePack.dll",
+    "Sha1": "692454B68F193F308C2595B3AAD6D60986D399FB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "1odHwCy4M9Y=",
+    "Size": 26959,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\jquery-ui.min.css",
+    "Sha1": "71AFBFDBE399C26E4C5ABD9219DC621A5F487F90",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

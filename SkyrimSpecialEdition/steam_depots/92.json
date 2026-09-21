@@ -16,5 +16,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "kqNobldeXgM=",
+    "Size": 330192,
+    "Path": "lex\\sscebr2.clx",
+    "Sha1": "DE8841E0137E89CD2238939433FAC6E340CAABBC",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

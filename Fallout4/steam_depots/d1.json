@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "0fNRihBD7T4=",
+    "Size": 95,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\images\\transparent_1x1.png",
+    "Sha1": "735F1C435683F1593E165DAEB4E59484247556EE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "0dHuQL8FZKY=",
+    "Size": 1916,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\default.html",
+    "Sha1": "819E51F441D1BACF6BC7F39EFC73A5B2F75CD4C0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "0Ql7soxnkyI=",
+    "Size": 904,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-de.js",
+    "Sha1": "0560573F488BAA60101AC86E0D30484AE4B2CD54",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "0a5MpOMeW2M=",
+    "Size": 277,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_highlight-soft_35_222222_1x100.png",
+    "Sha1": "DBC082EFF5195960F14CC4C9429370C7A1832BB8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

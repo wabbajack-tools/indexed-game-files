@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "m8w3nMIj0FU=",
+    "Size": 1621,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\animate\\default.html",
+    "Sha1": "36DD57799E19D0890AC0A35BC28BF6ED25C9EE9D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "m3wmsKiU5qo=",
+    "Size": 599,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\index.html",
+    "Sha1": "5BE02CB9B071AC4D5352CF6A26D03CCCF6A4AF68",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "m146B1uNAec=",
+    "Size": 303,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.all.css",
+    "Sha1": "BB75A6A459F3FECC4B14D94A62E045ECB72DB568",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

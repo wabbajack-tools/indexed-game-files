@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "dINL+vRS3z0=",
+    "Size": 141944,
+    "Path": "Tools\\AssetWatcher\\styles\\qwindowsvistastyle.dll",
+    "Sha1": "9A8E0565F9B00CF95991A0D63F2F3B1B7ADA52A2",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

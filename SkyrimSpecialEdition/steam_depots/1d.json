@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "HX7thozbLrQ=",
+    "Size": 21529,
+    "Path": "lex\\User\\correct.tlx",
+    "Sha1": "F7576390E8205D3A1F2A3A73E4635132988DF811",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "HcAbGo/Xevo=",
+    "Size": 1239,
+    "Path": "Tools\\LipGen\\LipFuzer\\LIPFuzer.txt",
+    "Sha1": "E75D45C13151BE1D3CD5CD000486F077E5375E0F",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

@@ -34,5 +34,68 @@
     "App": 377160,
     "Depot": 377164,
     "Manifest": 8492427313392140315
+  },
+  {
+    "Hash": "RGWVCmKj/I0=",
+    "Size": 277,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-bg_highlight-soft_44_444444_1x100.png",
+    "Sha1": "2100A80C043947F0A756F8A6A1654E3A161315B4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "RHyRJ085N6c=",
+    "Size": 809,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\default.html",
+    "Sha1": "BB7F057A68E21882F3970904546F40B9441B6BA7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ROms5VojSvA=",
+    "Size": 1730,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\placeholder.html",
+    "Sha1": "18CF1F70F44CDD53C2A509BB9DB3D60638F8C124",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "RGWVCmKj/I0=",
+    "Size": 277,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-bg_highlight-soft_44_444444_1x100.png",
+    "Sha1": "2100A80C043947F0A756F8A6A1654E3A161315B4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "RK+bjba4ntE=",
+    "Size": 77044,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery-ui-i18n.js",
+    "Sha1": "84AE195CED00B90A7A22C7326F518E10D41EF511",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "RBVPSCWEYu8=",
+    "Size": 4264,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jstree.state.js",
+    "Sha1": "A24DC9E5DB8C8C8B2F050150864D9AF7C4B07492",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "RKsYXsltNM0=",
+    "Size": 418,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "EBF326E608655A6FD3876A72221BC61FADA6DC88",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

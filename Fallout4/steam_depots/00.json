@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "AAquqc7GAEk=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-icons_4b8e0b_256x240.png",
+    "Sha1": "CD807F1B9078B49E89FD69016625B80B4C7C3449",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "AAquqc7GAEk=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-icons_4b8e0b_256x240.png",
+    "Sha1": "CD807F1B9078B49E89FD69016625B80B4C7C3449",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "AMxs96PsFTI=",
+    "Size": 485,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\fugue\\icons\\document.png",
+    "Sha1": "6F50954633BED539CFDF04EC3AC30F7B78D31DF7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "AAquqc7GAEk=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-icons_4b8e0b_256x240.png",
+    "Sha1": "CD807F1B9078B49E89FD69016625B80B4C7C3449",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

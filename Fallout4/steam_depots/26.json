@@ -16,5 +16,23 @@
     "App": 377160,
     "Depot": 435870,
     "Manifest": 1691678129192680960
+  },
+  {
+    "Hash": "JhnC2W6xep0=",
+    "Size": 58188,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\tabs.html",
+    "Sha1": "ED9CED82C5E64B9212E4EE94DD8BA6C60BEC4C48",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JtZbk88YCEw=",
+    "Size": 925,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ja.js",
+    "Sha1": "DF856F922479E9A0E0C860FB6C668648D04BC25F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

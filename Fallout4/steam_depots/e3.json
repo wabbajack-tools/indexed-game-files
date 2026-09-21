@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "40lbDKx8O9k=",
+    "Size": 2541,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\images\\high_tatras4_min.jpg",
+    "Sha1": "17C298F4874226F9EBCF2A87F44B84BA62D8E6A3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "422LyUtxhRc=",
+    "Size": 11188,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.dialog.min.js",
+    "Sha1": "2841D10FAA0C7FEF00B27B917121DAEB65B5E2B2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "45GN3ri9DsY=",
+    "Size": 5815,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "90F9F0AF8E9C126AD305A5EDF485806CC2433FA4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

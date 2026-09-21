@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "GwkKUOtRliE=",
+    "Size": 26995,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\jquery-ui-1.10.3.custom.min.css",
+    "Sha1": "5B6E31A9DC58B6629CDECF378625310D04616EE6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Gy9E8O69cwI=",
+    "Size": 1925,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\categories.html",
+    "Sha1": "9280F511E7D1C0C1F78D9D3E304F678FAF2B0F8D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "G3kX8bG+Yes=",
+    "Size": 1417,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\images\\jquery_32x32.png",
+    "Sha1": "AA1003E975FA36F14EA0A4287ED7CC73B015F486",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "G2W5Rm1NMys=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\images\\demo-spindown-open.gif",
+    "Sha1": "6F7319ABAFC2476F600A9B42502BCD3DE5DE6312",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Gz8e6Y133Zg=",
+    "Size": 404,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\intro.js",
+    "Sha1": "CD95FC4E0AFC1905ECE90FA4136483A160E036D0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "G+sg5Bjbap8=",
+    "Size": 17466,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.resizable.min.js",
+    "Sha1": "EFE34E87491783976D5AE4CBD9448785C29F62FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "750xyQs09MU=",
+    "Size": 2338,
+    "Path": "lex\\accent.tlx",
+    "Sha1": "3C7B8BFB0340A138974DC96DD2A42488E908B3DB",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

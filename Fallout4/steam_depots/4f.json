@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "T0SZBiUP91M=",
+    "Size": 343,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.selectable.css",
+    "Sha1": "FB73DD88E3920AFE3F0AE21B333D66806F87B4BA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "T0SZBiUP91M=",
+    "Size": 343,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.selectable.css",
+    "Sha1": "FB73DD88E3920AFE3F0AE21B333D66806F87B4BA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TztikdFytm0=",
+    "Size": 2844,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.mouse.min.js",
+    "Sha1": "99B08FB32A8829B5F53CBE516C8A51337E9F01E1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

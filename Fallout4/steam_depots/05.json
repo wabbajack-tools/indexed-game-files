@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "BbJgbBFKNy4=",
+    "Size": 562,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\accordion\\index.html",
+    "Sha1": "DB3A4B418F909828F6087F263958EF54B5FA9D0E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "BZMFfAymaBk=",
+    "Size": 1963,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.treeview.async.js",
+    "Sha1": "E4B90FA59B18939BCA4131CF2EC3FBE044B96329",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Ba7APftsVIw=",
+    "Size": 8089,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.treeview2.js",
+    "Sha1": "2255FE2E6199A338577E99FFC3FFD2BDA380CA6B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

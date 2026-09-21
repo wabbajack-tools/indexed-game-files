@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "su3/1pgJhTs=",
+    "Size": 574816,
+    "Path": "Tools\\Elric\\xtexconv.exe",
+    "Sha1": "0406E7979C663B8F4C08904FDD4D43080B0D1DC9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "sl9YPNuHiMo=",
+    "Size": 724,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.fade.js",
+    "Sha1": "2CF05CFE808F789D4EDC16BA6AAEDF6551CDD026",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "sr89YpmnScs=",
+    "Size": 4353,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-icons_228ef1_256x240.png",
+    "Sha1": "294B84455D3FA77532695928F1BD781F381F40E7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "sl9YPNuHiMo=",
+    "Size": 724,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.fade.js",
+    "Sha1": "2CF05CFE808F789D4EDC16BA6AAEDF6551CDD026",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

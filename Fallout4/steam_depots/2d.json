@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 393885,
     "Manifest": 5000262035721758737
+  },
+  {
+    "Hash": "LaIs1qHxx4o=",
+    "Size": 34028,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\jquery-ui-1.8.16.custom.css",
+    "Sha1": "39C8F35AEFEF0C32D39977BE29F67780FD6F3B59",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "LWjdHhX9nGE=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-icons_a83300_256x240.png",
+    "Sha1": "472EF933BE1BB6C294F2C317B1DE3C5AD6CDEFB1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "LdDNMIghcis=",
+    "Size": 41307,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.sortable.js",
+    "Sha1": "6B8229E46CA7B3A620198BF1CCA53AE441DEC532",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

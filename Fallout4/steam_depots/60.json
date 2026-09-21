@@ -7,5 +7,86 @@
     "App": 377160,
     "Depot": 377161,
     "Manifest": 7497069378349273908
+  },
+  {
+    "Hash": "YJbMkzKsxkc=",
+    "Size": 6299,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "B1F0CAFDA2728F6AE170671D8D79BE486BA90F39",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YBRdeVRxKZ0=",
+    "Size": 1349,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\progressbar\\resize.html",
+    "Sha1": "A3BD6988F78F8E5131BBA1A0E23885E31E5AB2F2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YJbMkzKsxkc=",
+    "Size": 6299,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "B1F0CAFDA2728F6AE170671D8D79BE486BA90F39",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YEeKn7TqHJA=",
+    "Size": 896,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-pt.js",
+    "Sha1": "86B78D646A511A5C20F42FAD1302C487A5D633CF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YOM/GeVIvZw=",
+    "Size": 800,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.highlight.min.js",
+    "Sha1": "D5E1D491B611BAF6DB178FB55FA6532EDEDF7082",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YJbMkzKsxkc=",
+    "Size": 6299,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "B1F0CAFDA2728F6AE170671D8D79BE486BA90F39",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YJbMkzKsxkc=",
+    "Size": 6299,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "B1F0CAFDA2728F6AE170671D8D79BE486BA90F39",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YMomh2YZtqc=",
+    "Size": 947,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-gl.js",
+    "Sha1": "88DB9E82E87D81C1D93DD0C42DDEBF83B3243448",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YOM/GeVIvZw=",
+    "Size": 800,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.highlight.min.js",
+    "Sha1": "D5E1D491B611BAF6DB178FB55FA6532EDEDF7082",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -7,5 +7,68 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "cQ07TQouc0A=",
+    "Size": 22994,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\images\\high_tatras.jpg",
+    "Sha1": "2A821FD3C59C802FD59A82F1988362A1531ABD1F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cc1GFGVJCBE=",
+    "Size": 4076,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\external\\jquery.metadata.js",
+    "Sha1": "0E940C157078D0CB2A746B88AD339A2E2BF736F5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cbwTKbO5/no=",
+    "Size": 957,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-lb.js",
+    "Sha1": "C61E9D35CFA73AFB7876BA8A11BB24DA1E6817AA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cQTBWESlYnc=",
+    "Size": 969,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.drop.min.js",
+    "Sha1": "13A28664A886EDE448F057FE1ECC37284D5EB505",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cRHIZPWLt/k=",
+    "Size": 13989,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jstree.types.js",
+    "Sha1": "F2D9B4C2FE80EF3CB89F86D5B41F2ECCF90A897C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cbwTKbO5/no=",
+    "Size": 957,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-lb.js",
+    "Sha1": "C61E9D35CFA73AFB7876BA8A11BB24DA1E6817AA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cQTBWESlYnc=",
+    "Size": 969,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.drop.min.js",
+    "Sha1": "13A28664A886EDE448F057FE1ECC37284D5EB505",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

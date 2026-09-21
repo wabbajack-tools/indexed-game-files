@@ -16,5 +16,95 @@
     "App": 377160,
     "Depot": 377164,
     "Manifest": 8492427313392140315
+  },
+  {
+    "Hash": "hUBVdGCIAeo=",
+    "Size": 125,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+    "Sha1": "808F832A5C4441B81E09C093C43FF948235C976E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hUBVdGCIAeo=",
+    "Size": 125,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+    "Sha1": "808F832A5C4441B81E09C093C43FF948235C976E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "haCcfEtqVwU=",
+    "Size": 1473,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\sortable.html",
+    "Sha1": "C4115F3F83033DCF0C3B95943989169E2B222753",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hUBVdGCIAeo=",
+    "Size": 125,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+    "Sha1": "808F832A5C4441B81E09C093C43FF948235C976E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hYD1ucVR7vI=",
+    "Size": 4292,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.core.min.js",
+    "Sha1": "D5D218ED6300CBDE4AA6CDCCF9707A423CD821BE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hZWJCOZhY1k=",
+    "Size": 324,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-bg_inset-hard_45_cd0a0a_1x100.png",
+    "Sha1": "04AF8F6A045FE70F676043D7AC24490ED6E4C344",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hT6E9GL02mY=",
+    "Size": 470,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "C83FAA3ACEACD799EC8AEAE2FDD6C1BFD72ED0FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hUBVdGCIAeo=",
+    "Size": 125,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+    "Sha1": "808F832A5C4441B81E09C093C43FF948235C976E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hUBVdGCIAeo=",
+    "Size": 125,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+    "Sha1": "808F832A5C4441B81E09C093C43FF948235C976E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hUBVdGCIAeo=",
+    "Size": 125,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+    "Sha1": "808F832A5C4441B81E09C093C43FF948235C976E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

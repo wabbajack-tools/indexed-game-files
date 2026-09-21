@@ -25,5 +25,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "8ZOy6GppPa8=",
+    "Size": 5415,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\side-scroll.html",
+    "Sha1": "BC3DBA6D41F5E35723F13DC4364BE6A23861E226",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "8eXZDH9PfVs=",
+    "Size": 1209,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\vakata-jstree.js",
+    "Sha1": "0E8848E98EC0A064FB6DAAC60203EAE51708EDFC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

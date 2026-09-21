@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "I1WaPJkp+iI=",
+    "Size": 1264480,
+    "Path": "Tools\\Elric\\BSMain.dll",
+    "Sha1": "2894CEEABC9D72DEE75E4FDD8EA9214E4095F818",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "I65LArec3W4=",
+    "Size": 10981,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.core.min.js",
+    "Sha1": "0C95CA51D8234EA9BF8644A69034BC00D5D24522",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "I9ks6Cw+47g=",
+    "Size": 1394,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ar.js",
+    "Sha1": "15914C97A22B6BF3F3022B181A40F5241BA09DD7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

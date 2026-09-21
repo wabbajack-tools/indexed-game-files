@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "CP25XZjqk74=",
+    "Size": 1177,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.resizable.css",
+    "Sha1": "9BA2ACA98C4781165F55D21AA3092DC9ACE1B39B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CHgSZndP9Xk=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-icons_228ef1_256x240.png",
+    "Sha1": "DE0A39BB7DED945F0B8CA299D30A2B72C8A08C83",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

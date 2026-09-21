@@ -7,5 +7,59 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "OM+fG0y6qwQ=",
+    "Size": 2445,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\colorpicker.html",
+    "Sha1": "C6CA80F5573A16D159B542E6B0183CEEBDDEFF82",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ONLiGbi3L+I=",
+    "Size": 4161,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\addClass.html",
+    "Sha1": "9BB33FF027569ED4C5963C946B7D3A9DA7210F48",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OGs9Hy5Rwek=",
+    "Size": 62844,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\autocomplete.html",
+    "Sha1": "E7AD03C626B5A1BE6B834B325EB49F31F34ED61D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OOD5F6U+E64=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-bg_glass_20_555555_1x400.png",
+    "Sha1": "51D733B81703268AB06627027357EEB3576E5335",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OPvCHsz0ruQ=",
+    "Size": 342,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-bg_glass_40_0078a3_1x400.png",
+    "Sha1": "96B1EE68E816E08CA03A6919B353008FB7AD5081",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OF44Giqi0S4=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-icons_888888_256x240.png",
+    "Sha1": "488AF2C51ACD097E9136D4DD1F0850168E8DE760",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

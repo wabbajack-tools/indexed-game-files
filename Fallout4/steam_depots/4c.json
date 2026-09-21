@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "TL+Z85gy0xk=",
+    "Size": 1220,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\steps.html",
+    "Sha1": "B73BFC4DD808471C9E14E58B650C0DD7AFAE834D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TBw91CeJPpw=",
+    "Size": 4058,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\bottom.html",
+    "Sha1": "0E0C6F251ECD27B4249C13D49336F5FF544929DC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TCXIEGMoPTo=",
+    "Size": 965,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.pulsate.min.js",
+    "Sha1": "48C9E85F75D7949AE04ADE8C3DA79A7854870E8C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

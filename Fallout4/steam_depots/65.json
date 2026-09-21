@@ -7,5 +7,68 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "ZVqiy62YlZY=",
+    "Size": 354144,
+    "Path": "Tools\\LipGen\\GFSDK_GodraysLib.Win32.dll",
+    "Sha1": "F14847AA27015282B3A904E9DA5853ECB8DD0E94",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Zcg5pMKG12g=",
+    "Size": 248,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-bg_highlight-hard_20_767676_1x100.png",
+    "Sha1": "CAB0C5F634FC1A24F8C975551068048AC4AAB39C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ZS06ZwULORM=",
+    "Size": 877,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\other-months.html",
+    "Sha1": "5FF12A7449A8DDB964022E9E956221D032187FEC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ZVeI/4qJWKE=",
+    "Size": 1808,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\dialog\\modal-confirmation.html",
+    "Sha1": "EA1AD39C4B8994EB4274802D0FE9B1EBC25F94C4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ZaBPOmTdK3k=",
+    "Size": 1374,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.tabs.css",
+    "Sha1": "17AFA339689D1E614803705A2ECF27B0718FCFC1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ZaBPOmTdK3k=",
+    "Size": 1374,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.tabs.css",
+    "Sha1": "17AFA339689D1E614803705A2ECF27B0718FCFC1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Zd29961naZk=",
+    "Size": 940,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-pl.js",
+    "Sha1": "B8CC65BA57EAFE0CEA99BA561B6E46AA92AD6F09",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,5 +1,59 @@
 [
   {
+    "Hash": "CtzTL2cL+7I=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-icons_a83300_256x240.png",
+    "Sha1": "536A3FEC6AC154969751BC608FF792F62473BEE0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Ch8b/OWK1FE=",
+    "Size": 106,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\folder.gif",
+    "Sha1": "6DA04C7B41B4D74D0D65B7E0E07250BAE434D0B6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Cmtp0osogKE=",
+    "Size": 1045,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\default.html",
+    "Sha1": "CBD6E9DF15FAE99E5C782E97EE20BD4ED23C0950",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CtzTL2cL+7I=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-icons_a83300_256x240.png",
+    "Sha1": "536A3FEC6AC154969751BC608FF792F62473BEE0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Ch8b/OWK1FE=",
+    "Size": 106,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\folder.gif",
+    "Sha1": "6DA04C7B41B4D74D0D65B7E0E07250BAE434D0B6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CtzTL2cL+7I=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-icons_a83300_256x240.png",
+    "Sha1": "536A3FEC6AC154969751BC608FF792F62473BEE0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
     "Hash": "CrCm93klFsA=",
     "Size": 1231,
     "Path": "Ultra.ini",

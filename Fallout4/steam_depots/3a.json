@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "Ogo8ZXPSVlY=",
+    "Size": 253280,
+    "Path": "Papyrus Compiler\\Antlr3.StringTemplate.dll",
+    "Sha1": "01E73E14142FBE2D1BDBDFC0B5CB4CB8D517F117",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "On6VYzRRssw=",
+    "Size": 3512,
+    "Path": "Tools\\Elric\\DDS_to_TGA.bat",
+    "Sha1": "B4F54DABC08E08F52860FB3CEC99D2771E8345A7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OpIbqP/m8MI=",
+    "Size": 2894,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\effect\\easing.html",
+    "Sha1": "0FB3B0BC2C5F751A82ED14F186110FC30FE0EC13",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OpIW1Zw+1b0=",
+    "Size": 26427,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\jquery-ui-1.8.21.custom.css",
+    "Sha1": "220912D2B4590973B165E468B5F656C806208BB8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

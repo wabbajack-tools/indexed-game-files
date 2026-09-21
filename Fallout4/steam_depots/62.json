@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "YkvlSIKn/00=",
+    "Size": 2553,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\accordion\\default.html",
+    "Sha1": "6205AF2FAE2D851B8619B19F203A78A5EC271A4B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YrOYJ4c0dL4=",
+    "Size": 8371,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.accordion.min.js",
+    "Sha1": "AA42571F425B358511A1BBCDEEAD3102AC14605E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

@@ -52,5 +52,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "iMlxPI6DPSk=",
+    "Size": 998240,
+    "Path": "Tools\\Elric\\NiMain.dll",
+    "Sha1": "0554FE273CC80C174AAC81FE957DBA9B1B0E60D9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "iAMpRefOmnM=",
+    "Size": 4309,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.jgrowl.css",
+    "Sha1": "7B51115644024B49AD4072B21D2C159483999D28",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "iGyOWnXA1dA=",
+    "Size": 5867,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "51F090CEF55AE0C8C1CCC5C8B6E1E549E35E801A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

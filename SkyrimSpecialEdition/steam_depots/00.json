@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 5260954425794414274
+  },
+  {
+    "Hash": "APFGz/JzwPI=",
+    "Size": 314720,
+    "Path": "Papyrus Compiler\\PapyrusAssembler.exe",
+    "Sha1": "C749D8C13F1BC2D61770A544946F77A6D4D0B8ED",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

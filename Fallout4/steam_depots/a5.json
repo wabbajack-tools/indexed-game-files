@@ -16,5 +16,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "paRKI4pk3Tc=",
+    "Size": 361312,
+    "Path": "Tools\\Elric\\BSResource.dll",
+    "Sha1": "B2F2C7B5EF049E0915123F5FC2E993A0AFA3E798",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pfQSfTmHw3g=",
+    "Size": 27488,
+    "Path": "Tools\\Elric\\ElricUtilities.dll",
+    "Sha1": "A8176CC272944371350AC5932A2A9AE5A0E4F072",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pSX8+WCpG/0=",
+    "Size": 18807,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.slider.js",
+    "Sha1": "4B1D3EAC54A14865BF799A8AAC134C2F7DBCBD66",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pSLAjZ6uKJA=",
+    "Size": 961,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-lv.js",
+    "Sha1": "E232EE17FF6E1C5E7E31010AA2087DCFE70A6CE3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pck6XsQFqmM=",
+    "Size": 4602,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.mouse.js",
+    "Sha1": "ADE9C989995981172EA9C763924970571A1F925F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

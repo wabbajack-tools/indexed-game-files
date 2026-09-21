@@ -7,5 +7,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "fDIkaYXLUP0=",
+    "Size": 1041,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.shake.min.js",
+    "Sha1": "44DB4000E703B9040FD16EA1D608E56C7736ACA7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "fDIkaYXLUP0=",
+    "Size": 1041,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.shake.min.js",
+    "Sha1": "44DB4000E703B9040FD16EA1D608E56C7736ACA7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

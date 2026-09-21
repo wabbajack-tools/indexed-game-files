@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "bHPxFu/csG0=",
+    "Size": 2091360,
+    "Path": "flowchartx32.dll",
+    "Sha1": "DD61C15BF7CD925B63A7392214076509DF9304B2",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "bO2AgJqJTjk=",
+    "Size": 6494840,
+    "Path": "Tools\\AssetWatcher\\Qt5Gui.dll",
+    "Sha1": "37161412DF2C1313A54749FE6F33E4DBF41D128A",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

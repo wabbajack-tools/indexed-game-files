@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 435881,
     "Manifest": 1207717296920736193
+  },
+  {
+    "Hash": "fsZljbwgkS8=",
+    "Size": 2655,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.button.css",
+    "Sha1": "5F48AAD6F7150476FE940C023267C5BDE9C0BDC6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "fsZljbwgkS8=",
+    "Size": 2655,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.button.css",
+    "Sha1": "5F48AAD6F7150476FE940C023267C5BDE9C0BDC6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "fpqCJOA0yPQ=",
+    "Size": 892,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-hr.js",
+    "Sha1": "16BB45D9F868C0122390F14EA9F2E4B9D1152376",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

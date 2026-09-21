@@ -7,5 +7,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "DSFljaBp4NM=",
+    "Size": 396,
+    "Path": "Tools\\LipGen\\Readme.txt",
+    "Sha1": "3D98D8390562C28DC65C2474C7145FD92F60B427",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

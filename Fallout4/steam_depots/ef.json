@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "750xyQs09MU=",
+    "Size": 2338,
+    "Path": "lex\\accent.tlx",
+    "Sha1": "3C7B8BFB0340A138974DC96DD2A42488E908B3DB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "7/K3T4zVSCs=",
+    "Size": 1022,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\index.html",
+    "Sha1": "29D2572E1C3FB39517CCA39C5F5D58D08FEF8947",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "72PpvE75zJU=",
+    "Size": 24113,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.core.js",
+    "Sha1": "8DB15D0AC91461FE7AF8CC8BF11314D1C96B2712",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "72PpvE75zJU=",
+    "Size": 24113,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.core.js",
+    "Sha1": "8DB15D0AC91461FE7AF8CC8BF11314D1C96B2712",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

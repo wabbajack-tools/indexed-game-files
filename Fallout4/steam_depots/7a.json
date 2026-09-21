@@ -16,5 +16,32 @@
     "App": 377160,
     "Depot": 435870,
     "Manifest": 1213339795579796878
+  },
+  {
+    "Hash": "eqGWXh84UJw=",
+    "Size": 1410,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\delay-start.html",
+    "Sha1": "4BD6B649C68D86C082415F0C59045BD5D51E2888",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "eg02R0wt8uk=",
+    "Size": 3141,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.bounce.js",
+    "Sha1": "1920469A0A0F04E3F80D537A81FE08407757AB85",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "eg02R0wt8uk=",
+    "Size": 3141,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.bounce.js",
+    "Sha1": "1920469A0A0F04E3F80D537A81FE08407757AB85",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

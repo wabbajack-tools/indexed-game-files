@@ -16,5 +16,23 @@
     "App": 377160,
     "Depot": 435870,
     "Manifest": 1691678129192680960
+  },
+  {
+    "Hash": "QQtp0lfnXII=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-icons_454545_256x240.png",
+    "Sha1": "1AB19DF782D0B8491FC21C1EDF7B20941624DD34",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "QeY9J02chvw=",
+    "Size": 16851728,
+    "Path": "Tools\\NIF_Exporter\\BGS_Fallout4Exporter_-_1.2.52.0.exe",
+    "Sha1": "EDE90B9D83F6D8BE332A2AF8F19F136FCE9B2274",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

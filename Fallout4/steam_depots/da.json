@@ -7,5 +7,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "2iPfblc+bQo=",
+    "Size": 1365,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\default.html",
+    "Sha1": "B6420142FB8B44FF6498A184B1B13E5C69085E49",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "2t+Y13K/uuU=",
+    "Size": 328,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "528A58237CFB33640BF8192D946368B7A9137413",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

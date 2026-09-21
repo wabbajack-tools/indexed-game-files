@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "Ka/ObX3B3a0=",
+    "Size": 4251,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\toggleClass.html",
+    "Sha1": "603C6E9B487ADBC9D2888562E3F3FDB57820207C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "KW6HYzdhaHU=",
+    "Size": 1362,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\MIT-LICENSE.txt",
+    "Sha1": "29924F91276B0CF00B19C6763CF746D0AE029187",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

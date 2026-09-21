@@ -61,5 +61,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "L91XJByrjQQ=",
+    "Size": 26976,
+    "Path": "Tools\\Elric\\ToolLib.dll",
+    "Sha1": "C0176A6D420752B2E3CE0A0766C69BECAE250F7F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "L+MNUPWtKXY=",
+    "Size": 2159,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\ajax.html",
+    "Sha1": "7678C8ECAC07CE9928AE18D1EB4F25C69FB98136",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "L2DuPk04hwI=",
+    "Size": 304,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.all.css",
+    "Sha1": "74C5B91FF3BB6AAE152181E614A36D41FCB741AF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "L2DuPk04hwI=",
+    "Size": 304,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.all.css",
+    "Sha1": "74C5B91FF3BB6AAE152181E614A36D41FCB741AF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "L8VUky1TovE=",
+    "Size": 9042,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.autocomplete.min.js",
+    "Sha1": "3502D80C0DDE6994E04CB425961485E1C4CEE05B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

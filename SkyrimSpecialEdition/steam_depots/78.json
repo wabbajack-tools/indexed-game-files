@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489831,
     "Manifest": 7848722008564294070
+  },
+  {
+    "Hash": "eCwfCPiR7CE=",
+    "Size": 284512,
+    "Path": "Tools\\Archive\\Archive.exe",
+    "Sha1": "93F68548F42BF1A67DF11FC844E2A76DADCA191A",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

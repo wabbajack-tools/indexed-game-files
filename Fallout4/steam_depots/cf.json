@@ -25,5 +25,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "zzWlO+EXONQ=",
+    "Size": 1221,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\button\\icons.html",
+    "Sha1": "44B33EA6BFE389BBE6E38B27F50AB72D3A7A9941",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "z1w16+OI9QU=",
+    "Size": 333,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\selectable\\index.html",
+    "Sha1": "36F5E1E241B8E9BFBB85D18C3DBA97E66EB74BB0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "z3HJ+68R4iw=",
+    "Size": 1544,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.bgsdlgeditor.css",
+    "Sha1": "B2970DCE7427E6D7F7BF1ACC90B8BDE275A975EB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

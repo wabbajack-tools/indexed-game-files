@@ -16,5 +16,23 @@
     "App": 377160,
     "Depot": 377164,
     "Manifest": 8492427313392140315
+  },
+  {
+    "Hash": "Hzuap3Gn0Po=",
+    "Size": 717,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\progressbar\\default.html",
+    "Sha1": "8FF68DBD71EA3EB72902FEA284380FA0CDFE82E4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "H33GHi72Zfk=",
+    "Size": 230,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_flat_50_5c5c5c_40x100.png",
+    "Sha1": "0DA01618B29998E920D955677A1522EDBC5523AA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

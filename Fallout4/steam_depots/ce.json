@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "zmAWdJ+o5as=",
+    "Size": 316,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-bg_glass_40_ffc73d_1x400.png",
+    "Sha1": "2CE1E94443527D87775261F74A13FF95EA6F7C9F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "zmAWdJ+o5as=",
+    "Size": 316,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-bg_glass_40_ffc73d_1x400.png",
+    "Sha1": "2CE1E94443527D87775261F74A13FF95EA6F7C9F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "zk7j8GynUpY=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-icons_cd0a0a_256x240.png",
+    "Sha1": "CC0D1CDA69297DD503DA85738976FF8AE5E2C0F5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

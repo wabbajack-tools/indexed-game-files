@@ -27,6 +27,69 @@
     "Manifest": 7497069378349273908
   },
   {
+    "Hash": "TRWIycG9riQ=",
+    "Size": 796,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.base.css",
+    "Sha1": "5322C0C07E9A6F0F407D5F3A53E67249CFA6C6B1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TRWIycG9riQ=",
+    "Size": 796,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.base.css",
+    "Sha1": "5322C0C07E9A6F0F407D5F3A53E67249CFA6C6B1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TdGaLb6l/Ws=",
+    "Size": 959,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.slide.min.js",
+    "Sha1": "A279EECAE1551BA12B59F25BCD78AD3CC39E5DF3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TeY7LGJ8eEQ=",
+    "Size": 35664,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.cleditor.js",
+    "Sha1": "4BD62DBE854FD3038F4472B43BDCB620E5F2C12F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TeY7LGJ8eEQ=",
+    "Size": 35664,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.cleditor.txt",
+    "Sha1": "4BD62DBE854FD3038F4472B43BDCB620E5F2C12F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TXW5Gixf0pU=",
+    "Size": 16854,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.accordion.js",
+    "Sha1": "7B51499B51FDB8BA02BD4FB0044E8DAE25B63CA9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "TdGaLb6l/Ws=",
+    "Size": 959,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.slide.min.js",
+    "Sha1": "A279EECAE1551BA12B59F25BCD78AD3CC39E5DF3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
     "Hash": "TfEHrvMkL44=",
     "Size": 1231,
     "Path": "Ultra.ini",

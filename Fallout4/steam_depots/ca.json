@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "ykFW+KOtOv8=",
+    "Size": 11122,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.droppable.js",
+    "Sha1": "D3AB014BDB706273DB117F11E23251768D3815B4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ygzpKMZfmBk=",
+    "Size": 3633,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.position.min.js",
+    "Sha1": "F06706DE263E9441EF8A32A5D6DCF3BD5D4428C7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "yh0C8m+57OU=",
+    "Size": 18904,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\ui.spinner.js",
+    "Sha1": "82F431BDA21D6AAA3224F8EC73B8308EC46F1B17",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "yiSP20qHRio=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-icons_4ca300_256x240.png",
+    "Sha1": "D4DB196E206D3E4CE40A7BD31AF5BA1F0A769394",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "yh0C8m+57OU=",
+    "Size": 18904,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.spinner.js",
+    "Sha1": "82F431BDA21D6AAA3224F8EC73B8308EC46F1B17",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "yh0C8m+57OU=",
+    "Size": 18904,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\ui.spinner.js",
+    "Sha1": "82F431BDA21D6AAA3224F8EC73B8308EC46F1B17",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

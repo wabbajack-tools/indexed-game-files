@@ -16,5 +16,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "NgJ3ZNuxXqI=",
+    "Size": 1713,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.drop.js",
+    "Sha1": "4229864F1DE8E549FA23ECDE32701BF897C99047",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Nnk4jnlxerM=",
+    "Size": 21493,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\misc.js",
+    "Sha1": "0ABCC108D4914FBDF4697589AD98CF3D3DF6BFBF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "NgJ3ZNuxXqI=",
+    "Size": 1713,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.drop.js",
+    "Sha1": "4229864F1DE8E549FA23ECDE32701BF897C99047",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

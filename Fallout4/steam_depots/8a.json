@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "inZEFEjddOs=",
+    "Size": 2243,
+    "Path": "CreationKit.ini",
+    "Sha1": "7572385844BB528601AEDE7FB9666091B61E6112",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "imM/vul4Ug8=",
+    "Size": 133509,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\datepicker.html",
+    "Sha1": "33CFFCF2F410F3F8A69AC36F89FE9B35F22FDF88",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "mmk9YJ9q4nU=",
+    "Size": 120,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+    "Sha1": "4966153F5260CC8B5B9EA3AFD5BD6B0DEE5BC7B1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "moMVNoN760Q=",
+    "Size": 7244,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.selectable.js",
+    "Sha1": "5683C72C34A5D9C67C4E924D6F4235BE27E3190A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ms4ioWdoTTI=",
+    "Size": 6276,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.position.min.js",
+    "Sha1": "FFCCF27CF0907637D44845A965C2B898DDF40F95",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mnbxctsr1dU=",
+    "Size": 1659,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.explode.min.js",
+    "Sha1": "64BF7344D350355B1AFF36EB5AE404AC5BF87A89",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mqZK27kZUTA=",
+    "Size": 26995,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\jquery-ui-1.10.3.custom.min.css",
+    "Sha1": "7E7ABEDB520B033A7E5EB00D26EF535A8B56E934",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mmk9YJ9q4nU=",
+    "Size": 120,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+    "Sha1": "4966153F5260CC8B5B9EA3AFD5BD6B0DEE5BC7B1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

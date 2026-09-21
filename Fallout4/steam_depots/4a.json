@@ -16,5 +16,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "Slfrz+KmvMY=",
+    "Size": 3744,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\external\\jquery.cookie.js",
+    "Sha1": "E87534834303989C5C9F7934D565FC3B863510A5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SqHnnoG5GbE=",
+    "Size": 252,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-bg_highlight-hard_40_aaaaaa_1x100.png",
+    "Sha1": "DAF87E825B672F496627CD381C1E9DE52ABE120D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "StdCLwr24e4=",
+    "Size": 17515,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\jquery.ui.theme.css",
+    "Sha1": "0D1C32804487D8193B13948B96F90DA60F8675C1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SiA8rrOUm00=",
+    "Size": 9122,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.accordion.min.js",
+    "Sha1": "E4CB7F8FD70130D44AEDFB507433ED5322B03ADC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

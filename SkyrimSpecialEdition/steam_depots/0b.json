@@ -25,5 +25,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "C7BS5IwpsfA=",
+    "Size": 101216,
+    "Path": "Tools\\Elric\\xg.dll",
+    "Sha1": "FEDAB7B7A375EC1A9C9DF7DFF1C3B6631223E1FF",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "ER+YusSDooI=",
+    "Size": 1731,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\button\\splitbutton.html",
+    "Sha1": "120679274FCD6D17B2529874CA16026CC6610BAD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "EW+Mqh+nXSs=",
+    "Size": 871,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-sr-SR.js",
+    "Sha1": "80964566C731DB2EE081BD495CA05673F1A8DACD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ETNuV4RYSTI=",
+    "Size": 943,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-nl.js",
+    "Sha1": "144D2A14270636D796DE819CCC5971E33A9289D1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

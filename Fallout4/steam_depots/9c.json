@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 435882,
     "Manifest": 8482181819175811242
+  },
+  {
+    "Hash": "nPQ+DbmCMyw=",
+    "Size": 352,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-bg_highlight-soft_33_003147_1x100.png",
+    "Sha1": "482A41284FAE1F51739C8367044CFDE11C0E4E44",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nOr+090CeGQ=",
+    "Size": 3489,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\position\\default.html",
+    "Sha1": "EFFF6DFFEB45FF7EE9676C3D6473FAD3DC83F9A8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nPQ+DbmCMyw=",
+    "Size": 352,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-bg_highlight-soft_33_003147_1x100.png",
+    "Sha1": "482A41284FAE1F51739C8367044CFDE11C0E4E44",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nJDudSh/ZdY=",
+    "Size": 16173,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.position.js",
+    "Sha1": "F904FFEE20BE6C4A43D11E7FC3EC282F78F3488C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

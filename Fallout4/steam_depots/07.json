@@ -34,5 +34,59 @@
     "App": 377160,
     "Depot": 377161,
     "Manifest": 7497069378349273908
+  },
+  {
+    "Hash": "BwrUHmgJXRY=",
+    "Size": 7796,
+    "Path": "lex\\ssceam.tlx",
+    "Sha1": "C9528FEE7D5ADB5A7514F6D10D9626DF708E44AE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "B92tNXu8lpc=",
+    "Size": 1986,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\animation.html",
+    "Sha1": "183B3272A2C8AD1A631A7D0E81EDDA79B45743D1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "BzNpBelS6qo=",
+    "Size": 400,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+    "Sha1": "194C3A9B7109D3D07E3EA3784AA88FA08277C554",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "B/MoKkCNz10=",
+    "Size": 27563,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\jquery-ui-1.9.1.custom.min.css",
+    "Sha1": "2B5568A3419DB2A80D71D218F1C58C522F7B8256",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "B1UjVzKPu+Q=",
+    "Size": 928,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-sk.js",
+    "Sha1": "69C37E16BE413DE4B646333BE8C05C990ABD2256",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "BxFjhQD+XF8=",
+    "Size": 4167,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.selectable.min.js",
+    "Sha1": "4FD884C805B096370D1B2E256BBD13C71CD62DD2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

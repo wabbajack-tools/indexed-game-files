@@ -34,5 +34,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "vcM5AgW96qM=",
+    "Size": 2019,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\empty-lists.html",
+    "Sha1": "2D1BA43DC58AE5518E5046AAA8A80FAE8F106DB1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "vdbnt2wutcw=",
+    "Size": 511,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\fugue\\icons\\folder-horizontal-open.png",
+    "Sha1": "67F3EC796257C535895232129F7F791DBE33C13F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

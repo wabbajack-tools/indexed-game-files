@@ -7,5 +7,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "Uw35LDUtosM=",
+    "Size": 2782,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\button\\toolbar.html",
+    "Sha1": "52BA8A5D3523EFA1894F8F0573E67AE9E42DA297",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Ux3VdZprBpw=",
+    "Size": 3978,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.scale.min.js",
+    "Sha1": "E02A509AE8CDAE745CC9A6DE7B68B32DBF8A2EB9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

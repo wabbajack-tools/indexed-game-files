@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "DOUrJfC3F68=",
+    "Size": 645984,
+    "Path": "Papyrus Compiler\\PCompiler.dll",
+    "Sha1": "DBA97AEA56ADD28AB19101D25F046607609FC23B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "DPu6O8zHJrc=",
+    "Size": 1459,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\images\\ui-anim_basic_16x16.gif",
+    "Sha1": "6F3B1ED039BBC59235783F90255F33E020E2F4E3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "DHhzS3hJ1Kw=",
+    "Size": 5348,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\effect.html",
+    "Sha1": "6FA755B6C18324DAE57867EF4B8AEFC76E60D70F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "DOPD4QneGL0=",
+    "Size": 401,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\fugue\\icons\\folder-horizontal.png",
+    "Sha1": "8B960D3F2FE0EDB3136AEB8CA6C74ED4252DBF85",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "DD14jkSXD2c=",
+    "Size": 1093,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.slide.min.js",
+    "Sha1": "620BACE07D3068D7E9902B7DC3CB2E2237899874",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

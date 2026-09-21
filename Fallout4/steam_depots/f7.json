@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "93gcUs8ju6I=",
+    "Size": 184763,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.jstree.js",
+    "Sha1": "BFA1F9E780477F448B80A34A7DA881E3EDEEE968",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "9/BupbR/KpQ=",
+    "Size": 27343,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.resizable.js",
+    "Sha1": "285293429E73755CAA0F3DE906CE617348649A5F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "94utLq2uetE=",
+    "Size": 4044,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.position.min.js",
+    "Sha1": "B8D5C3D84C8D5F498EFEA81E06E1F8469544CA7D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

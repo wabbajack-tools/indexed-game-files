@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "6FBXmYNeg+k=",
+    "Size": 276,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-bg_highlight-soft_80_eeeeee_1x100.png",
+    "Sha1": "46CBEF94ADCE3EB20DCAADF16A5FABB3B2C733B1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6A8yeLD63Lg=",
+    "Size": 1809,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\package.json",
+    "Sha1": "28ED797DDE42643D09C2CE2BDA002D276CF0D038",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6FBXmYNeg+k=",
+    "Size": 276,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-bg_highlight-soft_80_eeeeee_1x100.png",
+    "Sha1": "46CBEF94ADCE3EB20DCAADF16A5FABB3B2C733B1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6DWrGfTYWEU=",
+    "Size": 1093,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.clip.min.js",
+    "Sha1": "D6A0ED264C2124BB777B38C5E564EB674261606E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6POv0PD6SY8=",
+    "Size": 205,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-bg_flat_10_000000_40x100.png",
+    "Sha1": "900C84F2918BC91902F7E1CD7207BB7F1842E189",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6AOWrDJdji8=",
+    "Size": 27085,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\jquery-ui.min.css",
+    "Sha1": "37945C19FE288EB8F48380AE6F232347E3A94834",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6BPSLe0OHBU=",
+    "Size": 871,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-sr-SR.js",
+    "Sha1": "1A53EC842A6A49A7388780F411B62DD855CF51CA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

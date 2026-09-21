@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "c0OVNHgaLnk=",
+    "Size": 524128,
+    "Path": "Tools\\Elric\\NiParticle.dll",
+    "Sha1": "AF51F7DE06F7A485A30DC9B2EF84D235AA1E1516",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "c3LEmn1wLYY=",
+    "Size": 1216,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\treeview-black.gif",
+    "Sha1": "ABA88C95E09DCFCC806947383B3303F675B6BE5C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "c16bQDqexZ4=",
+    "Size": 4129,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.datepicker.css",
+    "Sha1": "E506AD55245973015D27F4AFEEA777CE08C5823E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "c3LEmn1wLYY=",
+    "Size": 1216,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\treeview-black.gif",
+    "Sha1": "ABA88C95E09DCFCC806947383B3303F675B6BE5C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "c3BWQ6i0fe8=",
+    "Size": 312,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "E451079F682056E938408A41D14B5323D5AEF074",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

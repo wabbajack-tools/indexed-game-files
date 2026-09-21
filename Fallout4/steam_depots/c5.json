@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "xW+jU5LGNxw=",
+    "Size": 1860,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\multiple-vertical.html",
+    "Sha1": "734DB00BD76AACF9F2D8433E574D54F3580AFAAA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xdX7HsqTh94=",
+    "Size": 1207,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-uk.js",
+    "Sha1": "755C3C8022B734BDAA71E81D0C944E73FCA6F5B4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xYiLw+n9T00=",
+    "Size": 1160,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.fold.min.js",
+    "Sha1": "62918334A8CD3203FF516B2F02E91E4552333609",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

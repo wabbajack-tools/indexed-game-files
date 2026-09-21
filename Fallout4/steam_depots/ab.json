@@ -7,5 +7,23 @@
     "App": 377160,
     "Depot": 435881,
     "Manifest": 1207717296920736193
+  },
+  {
+    "Hash": "qy+TOxrrgV0=",
+    "Size": 323076,
+    "Path": "Data\\LSData\\Wt16M9fs.dat",
+    "Sha1": "ECF7009DC0341AF3640BE15F22597DA2BE1E242F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qxsAHx3fRWg=",
+    "Size": 73983,
+    "Path": "Data\\Scripts\\Source\\DLC06\\DLC06.zip",
+    "Sha1": "D2D6041EB176639AEC8C8E679845832962BA7A19",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

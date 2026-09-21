@@ -16,5 +16,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "KIn963szZZU=",
+    "Size": 999,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\images\\sizzlejs_32x32.png",
+    "Sha1": "63BE4D2B306C4FA2553296F13F7377C8E918B20A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "KJ9k/ac+f2w=",
+    "Size": 6922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "CEFFFEA0AFC36E431428593604B5C4853B23751A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "KJ9k/ac+f2w=",
+    "Size": 6922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "CEFFFEA0AFC36E431428593604B5C4853B23751A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "KJ9k/ac+f2w=",
+    "Size": 6922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "CEFFFEA0AFC36E431428593604B5C4853B23751A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

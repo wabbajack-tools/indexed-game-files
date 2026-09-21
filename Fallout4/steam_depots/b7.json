@@ -7,5 +7,50 @@
     "App": 377160,
     "Depot": 490650,
     "Manifest": 4873048792354485093
+  },
+  {
+    "Hash": "twnfxuf8UjY=",
+    "Size": 998,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\default.html",
+    "Sha1": "4999535482439A3FD07DFDC855855E6D9C903BD3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "t44qM791EVQ=",
+    "Size": 2856,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\position\\cycler.html",
+    "Sha1": "E05FE1F7E7F8B7BF8CB6B7E1AC20C9B518AC5F33",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "twdmX7aTPvk=",
+    "Size": 4368,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\manipulation.html",
+    "Sha1": "8D2F501B78098CE8B137A2ED1E6FDED5DB94C5F1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "tx4aDWX6VxI=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-icons_cd0a0a_256x240.png",
+    "Sha1": "81C93136C68E35251A00B02F696AD68BDCAE580E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "t221B5Fdkl0=",
+    "Size": 276,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_highlight-soft_80_eeeeee_1x100.png",
+    "Sha1": "8DCD0236C6914C91999FD9DFA8FDC3AE454DCD05",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

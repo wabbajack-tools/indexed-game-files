@@ -106,5 +106,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "id921VJ7+KE=",
+    "Size": 850552,
+    "Path": "Tools\\AssetWatcher\\platforms\\qminimal.dll",
+    "Sha1": "CC2FC8DB9E8ACBD25455F22AE1BCA83A20CDD670",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

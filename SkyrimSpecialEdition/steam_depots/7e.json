@@ -115,5 +115,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "fiD8q9mnHk0=",
+    "Size": 1314424,
+    "Path": "Tools\\AssetWatcher\\Qt5Network.dll",
+    "Sha1": "E23E839EC0602662788F761EBE7DD4B39C018A7F",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

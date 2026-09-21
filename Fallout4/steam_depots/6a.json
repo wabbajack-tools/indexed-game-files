@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "auYJu4vvc4o=",
+    "Size": 220,
+    "Path": "Papyrus Compiler\\ScriptCompileReleaseFinal.bat",
+    "Sha1": "21E58E36B46B59A7C478B4AC465502A0CCA70DEA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ah5TAw2aSHg=",
+    "Size": 1223,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-fa.js",
+    "Sha1": "3438AEDB5B443580935B1D4F79D513A4D8728F92",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "amHZogxM41k=",
+    "Size": 963,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-lv.js",
+    "Sha1": "C91CF7C5C90229362DC4438137A2A841742032AC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

@@ -7,5 +7,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "RudelVgOEBQ=",
+    "Size": 1550,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\addClass\\default.html",
+    "Sha1": "89C93C70E19D42CCD99D8E9510C19F2954CA716D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

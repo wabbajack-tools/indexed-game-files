@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "gWbCsdn7tHI=",
+    "Size": 1193,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\images\\jqueryui_32x32.png",
+    "Sha1": "EAF68651A1FB82A39812FC2C46B3A7FD8006C2DF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gYwnYoxWlrk=",
+    "Size": 1000,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-zh-TW.js",
+    "Sha1": "70A9E86A53BBBC2F22B638141A0A040192699EA9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gY/m4M5UMz8=",
+    "Size": 15540,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.accordion.js",
+    "Sha1": "E49D832A900B5C349D05CC30BAF174B14D8A3A2A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gQ8BX8MWelQ=",
+    "Size": 35233,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jqCKWebBuilder.js",
+    "Sha1": "250F0F0FE1FD651C9E0D41D4AC2BF23E5975BA8C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gTVDsjveyTM=",
+    "Size": 16886,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\jquery-ui-1.10.3.custom.min.css",
+    "Sha1": "077F9D3649666CD58E224284083171AFB14F2E5B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gV3zh5laDbQ=",
+    "Size": 1297,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-th.js",
+    "Sha1": "B98AFB5FCDB15D2DE74E941B0CC8F0B68CDCC2E3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

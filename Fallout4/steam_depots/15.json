@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "FUip1f9PBjw=",
+    "Size": 968,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-pt-BR.js",
+    "Sha1": "102D8F561650FA20D205098F142B045A1B9F8688",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "FapNBHrxlEA=",
+    "Size": 6112,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.droppable.min.js",
+    "Sha1": "D1C00093CD2AF42D4EA83358EB88A04FA0479F1F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

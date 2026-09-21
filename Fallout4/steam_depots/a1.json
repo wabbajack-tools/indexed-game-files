@@ -25,5 +25,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "oSULOnXKDn4=",
+    "Size": 24416,
+    "Path": "Tools\\LipGen\\LipFuzer\\LIPFuzer.exe",
+    "Sha1": "27153C987B36364415D8CF31084BF267D4155A24",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "oVpwYENyRBE=",
+    "Size": 9536,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\AUTHORS.txt",
+    "Sha1": "08D6FC219879D3AA789FF3997F1C293AD66C9184",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "oV89y25xk1U=",
+    "Size": 934,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ko.js",
+    "Sha1": "479F83EF2EFCEB6D430D9C88C121672FFE973402",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "od6k7pVnjlE=",
+    "Size": 970,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-zh-CN.js",
+    "Sha1": "AB5987D9944737CC79B6AB1EE9CA802001C3A5F6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

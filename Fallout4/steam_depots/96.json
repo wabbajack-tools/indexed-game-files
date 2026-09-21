@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "lnR+NFrXvWc=",
+    "Size": 2112,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\visual-feedback.html",
+    "Sha1": "07ED25EF9F33F144FB1F2BED8B6FF11FA488AEE4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "lqots4aXMGg=",
+    "Size": 10205,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.slider.min.js",
+    "Sha1": "44CFAB7D9EC5EAB0AC6C62406F450FC0C489F988",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "lvBdocYaPjc=",
+    "Size": 63328,
+    "Path": "Tools\\PapyrusProfileAnalyzer.exe",
+    "Sha1": "BCC7DBD8CA0EB5E7F9FCCBAF366C6A06B3D6D963",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

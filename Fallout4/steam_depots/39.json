@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "OQuaHYNuZkI=",
+    "Size": 1741,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\maxheight.html",
+    "Sha1": "F430131285AA44D571DF7F4424E6D9F01695BD8D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OQ9Wl7q26JY=",
+    "Size": 646,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.progressbar.css",
+    "Sha1": "6F0919381E60953A39FF716504E02FA68F3E773A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OQ9Wl7q26JY=",
+    "Size": 646,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.progressbar.css",
+    "Sha1": "6F0919381E60953A39FF716504E02FA68F3E773A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

@@ -7,5 +7,113 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "J9boEj6/XQg=",
+    "Size": 285,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-bg_loop_25_000000_21x21.png",
+    "Sha1": "ED1AA6F31306ECF12372AD59F6CCD6867CABB9D4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J55DHIaD7oI=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "FDEF3E8CEEB36B14BF914B909BEBD1919154ACCE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J55DHIaD7oI=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "FDEF3E8CEEB36B14BF914B909BEBD1919154ACCE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J44zBThWzvg=",
+    "Size": 939,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\dropdown-month-year.html",
+    "Sha1": "25BD70FBD0345B65F1C79797BE8A1ADDE9F63674",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J9boEj6/XQg=",
+    "Size": 285,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-bg_loop_25_000000_21x21.png",
+    "Sha1": "ED1AA6F31306ECF12372AD59F6CCD6867CABB9D4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J55DHIaD7oI=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "FDEF3E8CEEB36B14BF914B909BEBD1919154ACCE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J6073TT20E4=",
+    "Size": 967,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-sl.js",
+    "Sha1": "6F9AA8AF02F9D808819E265948F558DFB9A8D21D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J7hLAZmKo5U=",
+    "Size": 211253,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery-ui-1.8.16.custom.min.js",
+    "Sha1": "51F65B25DB450506DAF414A3CEF06ED3728405BF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J55DHIaD7oI=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "FDEF3E8CEEB36B14BF914B909BEBD1919154ACCE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J55DHIaD7oI=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "FDEF3E8CEEB36B14BF914B909BEBD1919154ACCE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J55DHIaD7oI=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "FDEF3E8CEEB36B14BF914B909BEBD1919154ACCE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "J9uANC4gkYs=",
+    "Size": 903,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-id.js",
+    "Sha1": "5D66641AAE12197629B227E6B0826578F9607960",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

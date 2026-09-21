@@ -16,5 +16,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "f/alqsuvyS0=",
+    "Size": 1795,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\cursor-style.html",
+    "Sha1": "705DAC29C7C8CFBFF4A08148FAAE65145B90A1E2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "f6L5Yn+OKcQ=",
+    "Size": 19948,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\position.html",
+    "Sha1": "5CE2079EEE523FDF2E1979080EE9D6E905657BBF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "f5fS97k7stI=",
+    "Size": 1162,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.autocomplete.css",
+    "Sha1": "F7CA6701ED0F76818BA66B20959FBEF4A77EDBB8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "f0ZOR1qQsdM=",
+    "Size": 93113,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery-1.10.2.min.js",
+    "Sha1": "2CF8733FE01E2D149140CB840595FA5D21769F93",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "f0B7yaxIgH8=",
+    "Size": 3318,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.widget.min.js",
+    "Sha1": "3585430094A19DCA7583FF9F457A445C81173F80",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

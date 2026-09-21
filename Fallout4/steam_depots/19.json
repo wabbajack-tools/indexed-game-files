@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "Gf41iq9behE=",
+    "Size": 1285,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.resizable.css",
+    "Sha1": "04709DCD2C3FF40BD55FEA216A73BD05E1C5C0CE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Gf41iq9behE=",
+    "Size": 1285,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.resizable.css",
+    "Sha1": "04709DCD2C3FF40BD55FEA216A73BD05E1C5C0CE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "GbeWkNLb6Vw=",
+    "Size": 1086,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.accordion.css",
+    "Sha1": "119B12A20E0C58D685D8B4CB4C78675A3692F585",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

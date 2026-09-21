@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "+ALLlceNaEE=",
+    "Size": 1065,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\min-max.html",
+    "Sha1": "C9E255920A396DCB4C06DA74B4A0275D257FAE41",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+DtfuwZuxx4=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-icons_2e83ff_256x240.png",
+    "Sha1": "AF6008353D9A2305E5D259FA2BDB386AF303989C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+IHefhVPJ0Q=",
+    "Size": 1356,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.core.css",
+    "Sha1": "C83C388670347448C8DEA6AE9BFC4ABC63AAF297",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+GK6mnhCwVw=",
+    "Size": 922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-en-NZ.js",
+    "Sha1": "629EA72001E8C381E8ECE737FB356F86A269B10E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+H2RbJ32+Nk=",
+    "Size": 6975,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-icons_cccccc_256x240.png",
+    "Sha1": "933568FB86F1119A9A73E6B30B9317F933EFC265",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+GK6mnhCwVw=",
+    "Size": 922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-en-NZ.js",
+    "Sha1": "629EA72001E8C381E8ECE737FB356F86A269B10E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

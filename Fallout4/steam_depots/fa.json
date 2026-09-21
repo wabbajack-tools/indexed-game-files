@@ -7,5 +7,86 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "+kQKgTMCmUo=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "D6DEE0EAF76929C4E06B2F2BC3058BDAD1D0A1FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+kQKgTMCmUo=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "D6DEE0EAF76929C4E06B2F2BC3058BDAD1D0A1FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+snGoBZNMgQ=",
+    "Size": 2543,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\london.xml",
+    "Sha1": "42069647C8228B5AEC53A6100F9FC2C87742B22F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+v24uOtgKz4=",
+    "Size": 273,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\position\\index.html",
+    "Sha1": "83F2B8F45E9B1C9757931CEBE0B631C26DA87F59",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+kQKgTMCmUo=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "D6DEE0EAF76929C4E06B2F2BC3058BDAD1D0A1FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+kQKgTMCmUo=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "D6DEE0EAF76929C4E06B2F2BC3058BDAD1D0A1FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+kQKgTMCmUo=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "D6DEE0EAF76929C4E06B2F2BC3058BDAD1D0A1FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+kQKgTMCmUo=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "D6DEE0EAF76929C4E06B2F2BC3058BDAD1D0A1FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+kQKgTMCmUo=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "D6DEE0EAF76929C4E06B2F2BC3058BDAD1D0A1FC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

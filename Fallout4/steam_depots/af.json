@@ -7,5 +7,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "r7BtY3L1J4k=",
+    "Size": 1144,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\aspect-ratio.html",
+    "Sha1": "C42FA89D02DAA8868645D9B8D6711D30708FEBDC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "r9N49iDA5vY=",
+    "Size": 1205,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-uk.js",
+    "Sha1": "6616588E776C9C4D3DBFC3900F536738197DB177",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

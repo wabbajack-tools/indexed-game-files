@@ -25,5 +25,23 @@
     "App": 377160,
     "Depot": 377161,
     "Manifest": 7497069378349273908
+  },
+  {
+    "Hash": "MWW7HcDPrBM=",
+    "Size": 33172,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\jquery-ui-1.10.0.custom.css",
+    "Sha1": "8D60DC36AAEC7A738D4B33AE7D679997129E117D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "MdAQXE+QkmE=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-icons_228ef1_256x240.png",
+    "Sha1": "736FBAF083580AA99334F99A623D2504D86DECD6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

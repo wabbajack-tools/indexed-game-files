@@ -16,5 +16,68 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "3n36hY3VOzs=",
+    "Size": 841,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\plus.gif",
+    "Sha1": "F79DC8CC53C75B578B3E5305AE7D94B183F08D46",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3sGWbWTSsn0=",
+    "Size": 926,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-rm.js",
+    "Sha1": "75DE8C839A9024214568497D62D1DF7789471C08",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3qnBrHZeRcU=",
+    "Size": 43989,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.sortable.js",
+    "Sha1": "0AF8A66DDCFBA0943EDA77F735E234B95F3858A7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3p+L5f2euAQ=",
+    "Size": 3744,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.scale.min.js",
+    "Sha1": "4C6D7439826165816D272200F3AF32D7BD50576A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3n36hY3VOzs=",
+    "Size": 841,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\plus.gif",
+    "Sha1": "F79DC8CC53C75B578B3E5305AE7D94B183F08D46",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3kIaU/lxQNM=",
+    "Size": 4353,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-icons_ef8c08_256x240.png",
+    "Sha1": "0663F49B664B02F68FE8D00803988F10BDA9AAD7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3p+L5f2euAQ=",
+    "Size": 3744,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.scale.min.js",
+    "Sha1": "4C6D7439826165816D272200F3AF32D7BD50576A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

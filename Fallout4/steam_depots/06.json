@@ -7,5 +7,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "Bs3Bp/cdmcc=",
+    "Size": 1222,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\treeview-default.gif",
+    "Sha1": "1AC0CE202EB6CC1A2A369A47C4BABC35D055FE7B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "BtyMB+zLM+U=",
+    "Size": 1697,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\remote-with-cache.html",
+    "Sha1": "75C6EC3B237D0CC55D5F9EEB4F3B854E62C606DF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Bs3Bp/cdmcc=",
+    "Size": 1222,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\treeview-default.gif",
+    "Sha1": "1AC0CE202EB6CC1A2A369A47C4BABC35D055FE7B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "BhYwabXWYXg=",
+    "Size": 904,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-de.js",
+    "Sha1": "EC2C15E4A062DE85B644FF0C8CBA35B7CC4A5D1C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "BnzI5Sc/pG8=",
+    "Size": 912,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ms.js",
+    "Sha1": "32B711AF4A30E16CBE0FFE0A8ACF5598488599D9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

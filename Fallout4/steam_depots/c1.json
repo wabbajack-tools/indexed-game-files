@@ -7,5 +7,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "wfzUHb9Axu8=",
+    "Size": 22814,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.tabs.js",
+    "Sha1": "5D6ED3A9B97B02E98A1D9C97BFF2CFADEDE36A80",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "wcBEIcDWTvs=",
+    "Size": 5355,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-icons_228ef1_256x240.png",
+    "Sha1": "EE9AA10250046F1DE24908B47913516B0D39C4EB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

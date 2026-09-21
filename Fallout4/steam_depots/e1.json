@@ -25,5 +25,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "4ckfbj8j18c=",
+    "Size": 397152,
+    "Path": "Tools\\Elric\\BSSystem.dll",
+    "Sha1": "9EFB9E955F4F9CCA130F2D472F730D5B532601AD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "4RI/NXXLraI=",
+    "Size": 1206,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\date-range.html",
+    "Sha1": "B6066FF8E058AC6C042FE5F9243B20F084A3E70E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "4UCdgyncEKQ=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-icons_ffcf29_256x240.png",
+    "Sha1": "94CFB3B5B2A3073BB2D5D3A6A987E2010D4D7706",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -34,5 +34,32 @@
     "App": 377160,
     "Depot": 377161,
     "Manifest": 7497069378349273908
+  },
+  {
+    "Hash": "kBPCtNvqmqo=",
+    "Size": 328061,
+    "Path": "lex\\ssceam2.clx",
+    "Sha1": "388F4DF46EAE7E1E5530ED169654D264E6D4AD85",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kHHN68p88hg=",
+    "Size": 2209,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\xml.html",
+    "Sha1": "03DA985F020493F82DCC4AEA8840C47CEA1D0048",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kPqpAZhXWzA=",
+    "Size": 33296,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\jquery-ui-1.10.3.custom.css",
+    "Sha1": "D5FBDD13C6090D1D020C24A2B5B6DF8F3FEE799D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

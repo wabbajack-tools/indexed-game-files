@@ -25,5 +25,59 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "2RJ4fqRU5fY=",
+    "Size": 1802,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\accordion\\no-auto-height.html",
+    "Sha1": "40FD77857DAEFD5CCE5DF5B285FE07B715859FC7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "2ZAiSsLFSy8=",
+    "Size": 1164,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.slider.css",
+    "Sha1": "419CFB7F675EB14583BF23B8413D631EB77C73C1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "2aaLhp40FNU=",
+    "Size": 941,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-nl-BE.js",
+    "Sha1": "005418B41E43431A5CE6C181E7EA749AAA43F5AB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "2fpsNpp307M=",
+    "Size": 1590,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.bounce.min.js",
+    "Sha1": "B153C2BF2AA7FA2C7E8C160D5AD0E522415CA617",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "2aaLhp40FNU=",
+    "Size": 941,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-nl-BE.js",
+    "Sha1": "005418B41E43431A5CE6C181E7EA749AAA43F5AB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "2fpsNpp307M=",
+    "Size": 1590,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.bounce.min.js",
+    "Sha1": "B153C2BF2AA7FA2C7E8C160D5AD0E522415CA617",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]
