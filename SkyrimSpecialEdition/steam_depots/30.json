@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "MGj6VyAsJho=",
+    "Size": 105799354,
+    "Path": "Data\\Skyrim - Interface.bsa",
+    "Sha1": "5032978A9087FA971A00E5C567BB08C60F7B1CE5",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  },
+  {
+    "Hash": "MNpDudAjreE=",
+    "Size": 107081915,
+    "Path": "Data\\Skyrim - Textures6.bsa",
+    "Sha1": "B3CF8B87980F9F381A504D973E84941C2D352EE1",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  }
+]

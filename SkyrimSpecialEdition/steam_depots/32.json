@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "MhDJueWnro8=",
+    "Size": 17658991,
+    "Path": "Data\\Skyrim - Misc.bsa",
+    "Sha1": "B44A7F5F9F818C6C7986834359BC42FE941D1432",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 4940892828028256588
+  },
+  {
+    "Hash": "MoS+FCNe/h4=",
+    "Size": 1406304717,
+    "Path": "Data\\Skyrim - Textures3.bsa",
+    "Sha1": "884078F407C153C152897F11FF97B7C7DA56A0D5",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  },
+  {
+    "Hash": "MrsudRvMvjw=",
+    "Size": 916509890,
+    "Path": "Data\\_ResourcePack.bsa",
+    "Sha1": "BCB8BAC1424402AC3E58430400CF74CF5E180B3F",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8442952117333549665
+  }
+]

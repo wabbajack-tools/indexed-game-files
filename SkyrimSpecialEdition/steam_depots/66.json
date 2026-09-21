@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "Zjz5YcU4sgg=",
+    "Size": 1153102432,
+    "Path": "Data\\Skyrim - Meshes0.bsa",
+    "Sha1": "2E592F86CE8B8C61E5774994ECEC793705288471",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 1985552842565684891
+  },
+  {
+    "Hash": "Zoa/k+0EYQQ=",
+    "Size": 18874147,
+    "Path": "Data\\Update.esm",
+    "Sha1": "D42CB406A3565389CD87FDA40CB25D449FD0B275",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 4341968404481569190
+  }
+]

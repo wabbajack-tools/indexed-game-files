@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "e8HijAgUqFk=",
+    "Size": 3757522,
+    "Path": "Data\\ccBGSFO4016-Prey - Main.ba2",
+    "Sha1": "BE5EF73C7CC8C15F0A3E5C7FF6FEAB93216E6C30",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "e6NMo1Mopts=",
+    "Size": 39976,
+    "Path": "Data\\ccBGSFO4110-WS_Enclave - Main.ba2",
+    "Sha1": "8CEE329EF21EF6A8FD832D5DDDF793CD36DB6C97",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  }
+]

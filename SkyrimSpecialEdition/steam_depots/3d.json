@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "PUJxFUNZ7tY=",
+    "Size": 1345109830,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "83936B604B25631A318BEC3A3A3C30B2EB23E1A0",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  },
+  {
+    "Hash": "PRSjYyQzfSA=",
+    "Size": 2035,
+    "Path": "Skyrim.ccc",
+    "Sha1": "B4E4B548EC67027E86280DE94F61E53859DFB188",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  },
+  {
+    "Hash": "PRSjYyQzfSA=",
+    "Size": 2035,
+    "Path": "Skyrim.ccc",
+    "Sha1": "B4E4B548EC67027E86280DE94F61E53859DFB188",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 4341968404481569190
+  },
+  {
+    "Hash": "PRSjYyQzfSA=",
+    "Size": 2035,
+    "Path": "Skyrim.ccc",
+    "Sha1": "B4E4B548EC67027E86280DE94F61E53859DFB188",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  },
+  {
+    "Hash": "PRSjYyQzfSA=",
+    "Size": 2035,
+    "Path": "Skyrim.ccc",
+    "Sha1": "B4E4B548EC67027E86280DE94F61E53859DFB188",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  }
+]

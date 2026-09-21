@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "teoU9OialzM=",
+    "Size": 8012051,
+    "Path": "Data\\DLCRobot.esm",
+    "Sha1": "0C686868B73D38D658B0F79E225C21D456895D16",
+    "App": 377160,
+    "Depot": 435871,
+    "Manifest": 5106118861901111234
+  },
+  {
+    "Hash": "tSG9pGxASuw=",
+    "Size": 2971385,
+    "Path": "Data\\DLCworkshop03.esm",
+    "Sha1": "94A3E2D6893031E93855C45ADE3B4E2168305D85",
+    "App": 377160,
+    "Depot": 393885,
+    "Manifest": 5000262035721758737
+  },
+  {
+    "Hash": "tfNDwjjeMFM=",
+    "Size": 1215,
+    "Path": "Medium.ini",
+    "Sha1": "FC7D5CFA30F638BCFB918111F5170D5E79A21F8A",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "tfNDwjjeMFM=",
+    "Size": 1215,
+    "Path": "Medium.ini",
+    "Sha1": "FC7D5CFA30F638BCFB918111F5170D5E79A21F8A",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

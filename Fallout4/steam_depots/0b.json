@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "CwYyEna7znU=",
+    "Size": 489080015,
+    "Path": "Data\\Fallout4 - Interface.ba2",
+    "Sha1": "EBFEE4004B82BBAB0BAE77764151368F4BF74D49",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "C02YyoI9G1U=",
+    "Size": 1963767149,
+    "Path": "Data\\Fallout4 - Textures5.ba2",
+    "Sha1": "D127C0AED4A1F600995D1705AA179061615B304C",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  }
+]

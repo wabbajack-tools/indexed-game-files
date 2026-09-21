@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "JGUWEemYgck=",
+    "Size": 88632041,
+    "Path": "Data\\ccBGSFO4038-HorseArmor - Textures.ba2",
+    "Sha1": "91911D4289587B0460B789DCF5C2DBFA995EEE3F",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "JEsNseqmNHI=",
+    "Size": 17403965,
+    "Path": "Data\\ccFRSFO4001-HandmadeShotgun - Textures.ba2",
+    "Sha1": "4C566C2123E6E3412A77204A0DB89FC7F6B8CA5E",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "JDcohsdfdsI=",
+    "Size": 292217,
+    "Path": "Data\\ccFSVFO4007-Halloween.esl",
+    "Sha1": "C832A21C225BCA9A12E741D6E750CC046A71D9F3",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "JO30VXmk58A=",
+    "Size": 218554028,
+    "Path": "Data\\DLCRobot - Textures.ba2",
+    "Sha1": "7F84F2638A34A0C52B13B09DC738845687651931",
+    "App": 377160,
+    "Depot": 435870,
+    "Manifest": 1213339795579796878
+  }
+]

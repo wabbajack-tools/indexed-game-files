@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "xT3J6oJEmXA=",
+    "Size": 3224203,
+    "Path": "Data\\MarketplaceTextures.bsa",
+    "Sha1": "3D281E94B420FC18D69CD054687E477C285CE8AC",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3552311541133526669
+  },
+  {
+    "Hash": "xT3J6oJEmXA=",
+    "Size": 3224203,
+    "Path": "Data\\MarketplaceTextures.bsa",
+    "Sha1": "3D281E94B420FC18D69CD054687E477C285CE8AC",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 4940892828028256588
+  },
+  {
+    "Hash": "xQgLwgAzEH0=",
+    "Size": 1153118032,
+    "Path": "Data\\Skyrim - Meshes0.bsa",
+    "Sha1": "929439E046DE5A536CBF123B148EAD87DE9DAE80",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8893533186410323048
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "iH91kpboDws=",
+    "Size": 74565260,
+    "Path": "Data\\DLCCoast.esm",
+    "Sha1": "DA4F1DFF0FDE640D8374A519E4EFAD7A319DB06F",
+    "App": 377160,
+    "Depot": 435882,
+    "Manifest": 8482181819175811242
+  },
+  {
+    "Hash": "iOLew8Zifco=",
+    "Size": 1575702490,
+    "Path": "Data\\Fallout4 - Sounds.ba2",
+    "Sha1": "C256F737514253C93CD17E07ADD65AFC13034A45",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 5983086794954940044
+  },
+  {
+    "Hash": "iAVjq3kjwWQ=",
+    "Size": 547749609,
+    "Path": "Data\\Fallout4 - Textures7.ba2",
+    "Sha1": "C96C5DF95490744087408169D6ACC090822D15FE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "iAVjq3kjwWQ=",
+    "Size": 547749609,
+    "Path": "Data\\Fallout4 - Textures7.ba2",
+    "Sha1": "C96C5DF95490744087408169D6ACC090822D15FE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "iD0YZE7skis=",
+    "Size": 52552472,
+    "Path": "Fallout4.exe",
+    "Sha1": "2CABDE484F6A90E139EC1F0D563CAC663756918D",
+    "App": 377160,
+    "Depot": 377162,
+    "Manifest": 5698952341602575696
+  },
+  {
+    "Hash": "iOWMAmSK+S4=",
+    "Size": 348160,
+    "Path": "GFSDK_GodraysLib.x64.dll",
+    "Sha1": "AA58B3A390395167166B85D9B08A90759A109B0C",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  }
+]

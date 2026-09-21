@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "O/jol0olWHM=",
+    "Size": 3898,
+    "Path": "Data\\ccBGSFO4096-AS_Enclave.esl",
+    "Sha1": "08121D954B55826680852EA6474662D430AA82CB",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "O3IJIyV+b0w=",
+    "Size": 3226837,
+    "Path": "Data\\ccFSVFO4007-Halloween - Main.ba2",
+    "Sha1": "0FA39F153F495E20119399FC3053E3C1D49F4368",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

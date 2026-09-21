@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "9paFl7BG300=",
+    "Size": 360736,
+    "Path": "cudart64_75.dll",
+    "Sha1": "D1E4BA8B146821FED11180911D1C663C2B349F94",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "9paFl7BG300=",
+    "Size": 360736,
+    "Path": "cudart64_75.dll",
+    "Sha1": "D1E4BA8B146821FED11180911D1C663C2B349F94",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "9paFl7BG300=",
+    "Size": 360736,
+    "Path": "cudart64_75.dll",
+    "Sha1": "D1E4BA8B146821FED11180911D1C663C2B349F94",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "9jgT5Qusbq0=",
+    "Size": 20757652,
+    "Path": "Data\\ccSBJFO4003-Grenade - Main.ba2",
+    "Sha1": "DD540F43566E84C77D3898F50AE18C5CB7887FE8",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "9hQSwQke0ic=",
+    "Size": 2410629991,
+    "Path": "Data\\Fallout4 - Textures2.ba2",
+    "Sha1": "6667E7F60DF1EC1E16DC386CE9400FFD177B44FC",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  }
+]

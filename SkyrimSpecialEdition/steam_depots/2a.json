@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "KlDWaFMy8HI=",
+    "Size": 3979105,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "C5BEF0E60A237A2F0A12BEEEDD57067411D6D017",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  },
+  {
+    "Hash": "Kn32RyN2Sag=",
+    "Size": 214496000,
+    "Path": "Data\\Skyrim - Textures8.bsa",
+    "Sha1": "7F96C5BCDB5E13248049EE90A0E8EA0740954101",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "NS0RwoWpCQ4=",
+    "Size": 459992,
+    "Path": "Data\\ccBGSFO4046-TesCan.esl",
+    "Sha1": "29D878B35AEA971416A2D7ED7B0E63368B26F539",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "NVb2xzwGgL0=",
+    "Size": 132412447,
+    "Path": "Data\\ccOTMFO4001-Remnants - Textures.ba2",
+    "Sha1": "DC37F5B7E38C66DEE723D1A633AF24C269AAE412",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "NVb2xzwGgL0=",
+    "Size": 132412447,
+    "Path": "Data\\ccOTMFO4001-Remnants - Textures.ba2",
+    "Sha1": "DC37F5B7E38C66DEE723D1A633AF24C269AAE412",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "NSbXTb5XeJw=",
+    "Size": 55469349,
+    "Path": "Data\\DLCworkshop01 - Main.ba2",
+    "Sha1": "05A2A7D57896B5EAD5BDEA5182809CCA103E21BB",
+    "App": 377160,
+    "Depot": 435880,
+    "Manifest": 366079256218893805
+  },
+  {
+    "Hash": "NQrRr+z9HMI=",
+    "Size": 1555,
+    "Path": "Fallout4IDs.ccc",
+    "Sha1": "830ACE980B3C079EB6A34AF8B24A877B149B3418",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  }
+]

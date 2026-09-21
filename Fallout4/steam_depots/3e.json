@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "Pm2DAl5CGxM=",
+    "Size": 3898,
+    "Path": "Data\\ccBGSFO4096-AS_Enclave.esl",
+    "Sha1": "AD9D2BEF1F171189D71BBAC3DB81D33641C1793E",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "PpzODXW9j2M=",
+    "Size": 12795022,
+    "Path": "Data\\Fallout4 - Shaders.ba2",
+    "Sha1": "B544299B304B2B20DBC5AC5E7DC1749CAD4FEAA1",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  }
+]

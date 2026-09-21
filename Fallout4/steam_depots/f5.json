@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "9TBANsrPdxg=",
+    "Size": 1063570,
+    "Path": "Data\\ccFSVFO4002-MidCenturyModern - Main.ba2",
+    "Sha1": "FE09B5CE8DC67E5F253577555CBD195308843877",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "9Tl44n/Hycc=",
+    "Size": 550400,
+    "Path": "GFSDK_SSAO_D3D11.win64.dll",
+    "Sha1": "E7E200C4ED26B0AD4B28A0A30ED01B4B4C9EF27C",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "9Tl44n/Hycc=",
+    "Size": 550400,
+    "Path": "GFSDK_SSAO_D3D11.win64.dll",
+    "Sha1": "E7E200C4ED26B0AD4B28A0A30ED01B4B4C9EF27C",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

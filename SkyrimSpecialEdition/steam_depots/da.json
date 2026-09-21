@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "2ijY0jzc0p4=",
+    "Size": 204574260,
+    "Path": "Data\\Skyrim - Misc.bsa",
+    "Sha1": "CD60962AB662218F2C7BD0E0C8343D7B5618F4EB",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 6913241376784585188
+  },
+  {
+    "Hash": "2poWa74Xenc=",
+    "Size": 1538656059,
+    "Path": "Data\\Skyrim - Sounds.bsa",
+    "Sha1": "48BC3D0B4C8F661AE781F3E7C0A54DFDAC03A6C8",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3552311541133526669
+  },
+  {
+    "Hash": "2qFqEOOSrBI=",
+    "Size": 1265325033,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "2796AE2EA726D81892A2BDB6E22694165D41B3A1",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  },
+  {
+    "Hash": "2qgYd+KweEY=",
+    "Size": 916509929,
+    "Path": "Data\\_ResourcePack.bsa",
+    "Sha1": "6702685171713AC2889188C583B38446FE283F0D",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3737743381894105176
+  }
+]

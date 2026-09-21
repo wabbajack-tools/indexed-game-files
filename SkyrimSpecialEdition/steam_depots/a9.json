@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "qfqjD1dP9SI=",
+    "Size": 65155583,
+    "Path": "Data\\Skyrim - Animations.bsa",
+    "Sha1": "CF5DB82A0641CA126429DB4A0EE4989EAB7C7348",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3552311541133526669
+  },
+  {
+    "Hash": "qfqjD1dP9SI=",
+    "Size": 65155583,
+    "Path": "Data\\Skyrim - Animations.bsa",
+    "Sha1": "CF5DB82A0641CA126429DB4A0EE4989EAB7C7348",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3737743381894105176
+  },
+  {
+    "Hash": "qfqjD1dP9SI=",
+    "Size": 65155583,
+    "Path": "Data\\Skyrim - Animations.bsa",
+    "Sha1": "CF5DB82A0641CA126429DB4A0EE4989EAB7C7348",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 4940892828028256588
+  },
+  {
+    "Hash": "qfqjD1dP9SI=",
+    "Size": 65155583,
+    "Path": "Data\\Skyrim - Animations.bsa",
+    "Sha1": "CF5DB82A0641CA126429DB4A0EE4989EAB7C7348",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8442952117333549665
+  },
+  {
+    "Hash": "qQl/08zgOq8=",
+    "Size": 700871549,
+    "Path": "Data\\Skyrim - Textures7.bsa",
+    "Sha1": "09233A8D532BE24C021B2FE87DEE44F3911324DF",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  },
+  {
+    "Hash": "qfq0YluTrTc=",
+    "Size": 36897792,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "DC6F7836386D44C848AABE497E1D136B28DE7A94",
+    "App": 489830,
+    "Depot": 489833,
+    "Manifest": 2442187225363891157
+  }
+]

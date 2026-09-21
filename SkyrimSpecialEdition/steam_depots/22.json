@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "Io8AjJA/PWE=",
+    "Size": 249753412,
+    "Path": "Data\\Skyrim.esm",
+    "Sha1": "0273422B62A4D39737DCB03E3EB067922AAE074A",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  },
+  {
+    "Hash": "IgpX/bmW9sM=",
+    "Size": 19121864,
+    "Path": "Data\\Update.esm",
+    "Sha1": "3A57A962C39588A4DFDD3193224063A20E03B450",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  }
+]

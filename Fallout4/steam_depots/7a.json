@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "enQfKf4uPUM=",
+    "Size": 104296054,
+    "Path": "Data\\DLCNukaWorld - Geometry.csg",
+    "Sha1": "186E6CD6C369E1574DA2559D3E1F698F6F5BEFE5",
+    "App": 377160,
+    "Depot": 490650,
+    "Manifest": 4873048792354485093
+  },
+  {
+    "Hash": "eu5QrDBP6FE=",
+    "Size": 364112638,
+    "Path": "Data\\DLCRobot - Main.ba2",
+    "Sha1": "904EEA1CD538D29DE181EA0E192926662CD8D9F6",
+    "App": 377160,
+    "Depot": 435870,
+    "Manifest": 1213339795579796878
+  }
+]

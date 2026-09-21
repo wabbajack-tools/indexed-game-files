@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "ULE7yHAreRI=",
+    "Size": 7221,
+    "Path": "Data\\ccBGSFO4006-PipBoy(Chrome) - Main.ba2",
+    "Sha1": "7C2D178A412E7246BEE5A4F3E3B3E383822D091C",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "UFFP1Os/Ss8=",
+    "Size": 200696646,
+    "Path": "Data\\DLCworkshop03 - Main.ba2",
+    "Sha1": "68555FA32990462F63D1A1D9B3D44CBC8A3AAEA8",
+    "App": 377160,
+    "Depot": 480631,
+    "Manifest": 6588493486198824788
+  }
+]

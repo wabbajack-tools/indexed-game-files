@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "GPdcQrqi2NI=",
+    "Size": 3978606,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "6107A0816736A0CE631E4B0FAAC6011BB6D58709",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "GG4pOfUmiRA=",
+    "Size": 166880326,
+    "Path": "Data\\Skyrim - Patch.bsa",
+    "Sha1": "5609F6A4018D90D847E1889F5CE4650D13A0A637",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8702665189575304780
+  }
+]

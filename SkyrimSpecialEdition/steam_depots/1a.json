@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "Gv8nN+Nh4Fo=",
+    "Size": 1265325033,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "3F7A88AB135F966B3E1ABFAB7E8603AAC5FFF6F9",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "Gnz9dmNoMys=",
+    "Size": 78418,
+    "Path": "Data\\_ResourcePack.esl",
+    "Sha1": "77B458985F7CEFC159E7CFEDC936B28CC1C8ECD8",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8442952117333549665
+  }
+]

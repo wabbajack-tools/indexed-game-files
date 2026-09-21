@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "qvltobwiDWQ=",
+    "Size": 52674155,
+    "Path": "Data\\ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2",
+    "Sha1": "87C07761F657727346E4F2A132C98792679C2573",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "qpLGZ53IrDw=",
+    "Size": 595925,
+    "Path": "Data\\ccSBJFO4003-Grenade.esl",
+    "Sha1": "871DFB425350C5535A9AC49721E75C01BFBB35A5",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

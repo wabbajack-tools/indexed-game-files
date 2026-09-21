@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "uih/rTXQ1iM=",
+    "Size": 1153134081,
+    "Path": "Data\\Skyrim - Meshes0.bsa",
+    "Sha1": "EC0283D2194684748AAF63C121E7287F5B36D854",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3552311541133526669
+  },
+  {
+    "Hash": "uutAUjvgpvg=",
+    "Size": 1346030841,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "E6C5A656F7C124D7F86BAEB0C8232E364983F4FD",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1476684358338706955
+  },
+  {
+    "Hash": "uutAUjvgpvg=",
+    "Size": 1346030841,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "E6C5A656F7C124D7F86BAEB0C8232E364983F4FD",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2337986449035143556
+  },
+  {
+    "Hash": "uutAUjvgpvg=",
+    "Size": 1346030841,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "E6C5A656F7C124D7F86BAEB0C8232E364983F4FD",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "uutAUjvgpvg=",
+    "Size": 1346030841,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "E6C5A656F7C124D7F86BAEB0C8232E364983F4FD",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 6077137133470860357
+  },
+  {
+    "Hash": "uqBBlM0ADRE=",
+    "Size": 18874041,
+    "Path": "Data\\Update.esm",
+    "Sha1": "06AE741C9E11F765E4F902D1F8813CD6D9860A90",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  },
+  {
+    "Hash": "uuCxBZAT5Bk=",
+    "Size": 35410264,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "B4394ADDCE2EB123CD2544B50723944C45854AEC",
+    "App": 489830,
+    "Depot": 489833,
+    "Manifest": 5357951305619261097
+  }
+]

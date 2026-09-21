@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "JihvI3+b2eA=",
+    "Size": 49141,
+    "Path": "Data\\ccBGSFO4116-HeavyFlamer.esl",
+    "Sha1": "207BA59185993024113EAFB2299024C2BA989E65",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "JoVk8DvAfxI=",
+    "Size": 363294448,
+    "Path": "Data\\DLCRobot - Main.ba2",
+    "Sha1": "374A67E06BEA9A962407E66667D47804C8C34D28",
+    "App": 377160,
+    "Depot": 435870,
+    "Manifest": 1691678129192680960
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "H+5Nz0tMcy4=",
+    "Size": 17713449,
+    "Path": "Data\\Skyrim - Misc.bsa",
+    "Sha1": "B7F1ABC81020CD3C926E7D01A784E32DF1B2EEFC",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8442952117333549665
+  },
+  {
+    "Hash": "H/kY9UbRpN0=",
+    "Size": 19121201,
+    "Path": "Data\\Update.esm",
+    "Sha1": "50824D1FBDE484486189058B8CE119D5D4501883",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  }
+]

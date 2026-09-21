@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "8m+BalLcmnY=",
+    "Size": 67308970,
+    "Path": "Data\\Skyrim - Shaders.bsa",
+    "Sha1": "6ABAE00C0DAC191E2BE79278DB39BD193DEE7A4C",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5260954425794414274
+  },
+  {
+    "Hash": "8nHuDbnzCw0=",
+    "Size": 1265325033,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "07E84D1C07EEE136CF84BB756878FF4AD8A3078E",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1476684358338706955
+  },
+  {
+    "Hash": "8nHuDbnzCw0=",
+    "Size": 1265325033,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "07E84D1C07EEE136CF84BB756878FF4AD8A3078E",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2337986449035143556
+  },
+  {
+    "Hash": "8nHuDbnzCw0=",
+    "Size": 1265325033,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "07E84D1C07EEE136CF84BB756878FF4AD8A3078E",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "8nHuDbnzCw0=",
+    "Size": 1265325033,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "07E84D1C07EEE136CF84BB756878FF4AD8A3078E",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 6077137133470860357
+  },
+  {
+    "Hash": "8iPX1dhv7+E=",
+    "Size": 34769792,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "001C5ADD65383E188DC863C7ACC9A3FDE548019E",
+    "App": 489830,
+    "Depot": 489833,
+    "Manifest": 2289561010626853674
+  },
+  {
+    "Hash": "8utDE1m7CoM=",
+    "Size": 4705280,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "295B1B0E6B9BFCAD1948D885F1AFAA39AF4B74EB",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2756691988703496654
+  }
+]

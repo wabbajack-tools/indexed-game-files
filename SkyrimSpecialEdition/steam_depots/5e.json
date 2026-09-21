@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "XlKELPX7jog=",
+    "Size": 3978550,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "537A0A565831E1E2BE1400E2C49A5D3948B0C51D",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1476684358338706955
+  },
+  {
+    "Hash": "Xpu54wlhxn8=",
+    "Size": 107211187,
+    "Path": "Data\\Skyrim - Textures6.bsa",
+    "Sha1": "FC8FF5F52434FF6F1700D9648DF1C51CB9E85922",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5260954425794414274
+  },
+  {
+    "Hash": "Xmip5+8KSS0=",
+    "Size": 18825054,
+    "Path": "Data\\Update.esm",
+    "Sha1": "81938DC2B909C2E50C0B425C5338FC974E61A3F6",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  }
+]

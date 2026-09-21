@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "dUSNQC77KRY=",
+    "Size": 25885945,
+    "Path": "Data\\Dawnguard.esm",
+    "Sha1": "BDD4AE0C37944FE6D502099BA71EE29D64D634B8",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2337986449035143556
+  },
+  {
+    "Hash": "dU4cINSw7no=",
+    "Size": 1511504224,
+    "Path": "Data\\Skyrim - Textures1.bsa",
+    "Sha1": "4AD8ABE629A79AB15D300A433AAFC5E37E3D8CA6",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "dU6T9PKXBnc=",
+    "Size": 35371288,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "98668D6CB3EC92F2F3EB1BFFF52D2EB5F3AD17C0",
+    "App": 489830,
+    "Depot": 489833,
+    "Manifest": 8453224879269405640
+  }
+]

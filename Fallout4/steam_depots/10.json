@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "EMIAySDLQKA=",
+    "Size": 298384,
+    "Path": "steam_api64.dll",
+    "Sha1": "39CAC2889D8CA497EE0D8434FC9F6966F18FA336",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "EMIAySDLQKA=",
+    "Size": 298384,
+    "Path": "steam_api64.dll",
+    "Sha1": "39CAC2889D8CA497EE0D8434FC9F6966F18FA336",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

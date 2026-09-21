@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "qN3nSxaDvLE=",
+    "Size": 1401677791,
+    "Path": "Data\\Skyrim - Textures3.bsa",
+    "Sha1": "1169E5D6D17C7ACBD887ECF8D343289F831F514A",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "qDwRdbTXBYU=",
+    "Size": 1805869173,
+    "Path": "Data\\Skyrim - Voices_en0.bsa",
+    "Sha1": "11A2B48A78A62958592F5CA16A85C264BC63DD99",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3552311541133526669
+  },
+  {
+    "Hash": "qDwRdbTXBYU=",
+    "Size": 1805869173,
+    "Path": "Data\\Skyrim - Voices_en0.bsa",
+    "Sha1": "11A2B48A78A62958592F5CA16A85C264BC63DD99",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 4940892828028256588
+  }
+]

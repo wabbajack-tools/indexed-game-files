@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "NX/WsMv3Zx4=",
+    "Size": 3979183,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "D32C64FAB27ACC8CF828B37717A38CD125B1F7D3",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  },
+  {
+    "Hash": "NSjSglH0F/s=",
+    "Size": 3977748,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "2B4C9A33E5C2CD4FB47D935D22B1AA397DDB8738",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 6077137133470860357
+  }
+]

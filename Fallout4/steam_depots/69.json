@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "aaof6tIsHO4=",
+    "Size": 15966307,
+    "Path": "Data\\ccBGSFO4018-GaussRiflePrototype - Main.ba2",
+    "Sha1": "C32281706053498CFB28144EB7C906DE0A18D715",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "afrjCm9u0gE=",
+    "Size": 1579741414,
+    "Path": "Data\\Fallout4 - Sounds.ba2",
+    "Sha1": "FEA266489E025C3E5290BAFEF8C2B49C799DA9F6",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7332110922360867314
+  },
+  {
+    "Hash": "afrjCm9u0gE=",
+    "Size": 1579741414,
+    "Path": "Data\\Fallout4 - Sounds.ba2",
+    "Sha1": "FEA266489E025C3E5290BAFEF8C2B49C799DA9F6",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7497069378349273908
+  },
+  {
+    "Hash": "aQAxtBjW4yg=",
+    "Size": 4698,
+    "Path": "Fallout4.ccc",
+    "Sha1": "B6232962C4C8EE380ECF2812C1CC0C59287A11C7",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

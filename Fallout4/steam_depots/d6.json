@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "1uLPZxUyzxU=",
+    "Size": 88632041,
+    "Path": "Data\\ccBGSFO4038-HorseArmor - Textures.ba2",
+    "Sha1": "0CDD2ABE56A342F1622578D1B66ED40BAE3F7D10",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "1rpEjroQWgI=",
+    "Size": 1770500,
+    "Path": "Data\\Fallout4 - Materials.ba2",
+    "Sha1": "E965F31FB89C104B44D2295360633009C5332CA2",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  }
+]

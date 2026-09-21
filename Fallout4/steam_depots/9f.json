@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "n8KxyuRbLR0=",
+    "Size": 2095389,
+    "Path": "Data\\ccBGSFO4004-PipBoy(Camo02) - Textures.ba2",
+    "Sha1": "997AA096B14CAAE43A45BF9028366DC22121BAA0",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "n2WNb9PJnMg=",
+    "Size": 42496,
+    "Path": "nvToolsExt64_1.dll",
+    "Sha1": "01068BB9A8A29A86453383968CAEEAE0839FAF35",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "n2WNb9PJnMg=",
+    "Size": 42496,
+    "Path": "nvToolsExt64_1.dll",
+    "Sha1": "01068BB9A8A29A86453383968CAEEAE0839FAF35",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

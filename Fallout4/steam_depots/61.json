@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "YUPgMom+RCg=",
+    "Size": 1299968,
+    "Path": "flexRelease_x64.dll",
+    "Sha1": "DBF8378D5B8F8AC6E509EA18FEE0E202451DDD70",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "YUPgMom+RCg=",
+    "Size": 1299968,
+    "Path": "flexRelease_x64.dll",
+    "Sha1": "DBF8378D5B8F8AC6E509EA18FEE0E202451DDD70",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

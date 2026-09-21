@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "HPcRGvbRBrk=",
+    "Size": 1782122,
+    "Path": "Data\\ccBGSFO4019-ChineseStealthArmor - Main.ba2",
+    "Sha1": "FB974C23B40E28F3D0615F1B0D4879B05AB359A5",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "HDfCs1J0an0=",
+    "Size": 606,
+    "Path": "installscript.vdf",
+    "Sha1": "FBCDC3C0FCDFD4980A1839AC5888F4E065DC8E1C",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7332110922360867314
+  },
+  {
+    "Hash": "HDfCs1J0an0=",
+    "Size": 606,
+    "Path": "installscript.vdf",
+    "Sha1": "FBCDC3C0FCDFD4980A1839AC5888F4E065DC8E1C",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7497069378349273908
+  }
+]

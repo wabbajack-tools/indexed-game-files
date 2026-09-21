@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "7NdxcGKbdes=",
+    "Size": 13222,
+    "Path": "Data\\ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2",
+    "Sha1": "9F9623585AA801B87B039FE832979264C5294AF9",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "7AQCyTzsXME=",
+    "Size": 1207,
+    "Path": "Low.ini",
+    "Sha1": "3075FA59F1465F309F40D9F4BF8FD4CE0FA8B9FE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "7AQCyTzsXME=",
+    "Size": 1207,
+    "Path": "Low.ini",
+    "Sha1": "3075FA59F1465F309F40D9F4BF8FD4CE0FA8B9FE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "7AQCyTzsXME=",
+    "Size": 1207,
+    "Path": "Low.ini",
+    "Sha1": "3075FA59F1465F309F40D9F4BF8FD4CE0FA8B9FE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

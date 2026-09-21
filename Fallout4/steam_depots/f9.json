@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "+c4e1xOdlkk=",
+    "Size": 11881,
+    "Path": "Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
+    "Sha1": "2E9DC2B5F71A94F7061B808E566D3DB7A0C8CCEB",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "+ZhbHNdji0g=",
+    "Size": 381902820,
+    "Path": "Data\\Video\\AGILITY.bk2",
+    "Sha1": "2ACCDB601DC4F63BE695F0CB93D11666F6CE0B1D",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 5983086794954940044
+  },
+  {
+    "Hash": "+ZhbHNdji0g=",
+    "Size": 381902820,
+    "Path": "Data\\Video\\AGILITY.bk2",
+    "Sha1": "2ACCDB601DC4F63BE695F0CB93D11666F6CE0B1D",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7332110922360867314
+  },
+  {
+    "Hash": "+ZhbHNdji0g=",
+    "Size": 381902820,
+    "Path": "Data\\Video\\AGILITY.bk2",
+    "Sha1": "2ACCDB601DC4F63BE695F0CB93D11666F6CE0B1D",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7497069378349273908
+  }
+]

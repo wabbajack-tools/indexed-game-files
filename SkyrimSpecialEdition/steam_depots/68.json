@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "aKpCDVU04sU=",
+    "Size": 64663944,
+    "Path": "Data\\Dragonborn.esm",
+    "Sha1": "A0344E923FC49CAB1AB6880ED04D8CC6269A3DBC",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "aH3DgyjH9Gw=",
+    "Size": 4724064,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "085756EBFB43D0456B2B2A31F058E1BDB4E42F7D",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  }
+]

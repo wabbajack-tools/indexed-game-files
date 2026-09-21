@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "VbyGyDKNJCQ=",
+    "Size": 438112,
+    "Path": "bink2w64.dll",
+    "Sha1": "18C7DCC2629C738E00DDEE1EB3BCEC3E8C13BDF2",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "VY/83YFmgP4=",
+    "Size": 633617,
+    "Path": "Data\\DLCworkshop01.esm",
+    "Sha1": "0594A362F29EF2429E2A9D5E25A4D29A48FDEC35",
+    "App": 377160,
+    "Depot": 435880,
+    "Manifest": 366079256218893805
+  },
+  {
+    "Hash": "VapF64VPYtk=",
+    "Size": 400271092,
+    "Path": "Data\\Video\\CHARISMA.bk2",
+    "Sha1": "1E992B0F6B411C7E11BBAE05D67C41ACED37273F",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 5983086794954940044
+  },
+  {
+    "Hash": "VapF64VPYtk=",
+    "Size": 400271092,
+    "Path": "Data\\Video\\CHARISMA.bk2",
+    "Sha1": "1E992B0F6B411C7E11BBAE05D67C41ACED37273F",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7332110922360867314
+  },
+  {
+    "Hash": "VapF64VPYtk=",
+    "Size": 400271092,
+    "Path": "Data\\Video\\CHARISMA.bk2",
+    "Sha1": "1E992B0F6B411C7E11BBAE05D67C41ACED37273F",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7497069378349273908
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "fwpxeYjpt8o=",
+    "Size": 11305376,
+    "Path": "Data\\ccBGSFO4016-Prey - Textures.ba2",
+    "Sha1": "1335F99C31DF60FFE4488F3E44767AA4777C4E56",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "f+yGNLn7jN0=",
+    "Size": 2598316,
+    "Path": "Data\\ccFRSFO4001-HandmadeShotgun - Main.ba2",
+    "Sha1": "E15C91F339745B32FE06AD405E8CCF63EB77F79B",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  }
+]
