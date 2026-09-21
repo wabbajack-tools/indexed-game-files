@@ -25,5 +25,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "n6hmGLaneRA=",
+    "Size": 1002,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-pt-BR.js",
+    "Sha1": "6BBE3AC838B2855D1289075B91A0E28583AA087E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

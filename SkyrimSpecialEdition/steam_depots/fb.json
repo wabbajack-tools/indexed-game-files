@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "+x53YoHI7S4=",
+    "Size": 328670,
+    "Path": "lex\\ssceca2.clx",
+    "Sha1": "4E1CCCFD476901BBCE27A68E257F78C86C91E1CB",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "++7IuQz8aMs=",
+    "Size": 295320,
+    "Path": "Tools\\redist\\dxwebsetup.exe",
+    "Sha1": "7BF35F2AFCA666078DB35CA95130BEB2E3782212",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

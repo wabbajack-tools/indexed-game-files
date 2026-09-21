@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "t5j3UyBQI9w=",
+    "Size": 338552,
+    "Path": "Tools\\AssetWatcher\\Qt5Svg.dll",
+    "Sha1": "24BFF3990A730B33AB67234B250EB8812ED62155",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "t8t2H5AFypY=",
+    "Size": 4740960,
+    "Path": "Tools\\HavokBehaviorPostProcess\\HavokBehaviorPostProcess.exe",
+    "Sha1": "4847C6CDB873A9305BDA50F2D8F141DECBD36652",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

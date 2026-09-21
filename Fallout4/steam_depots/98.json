@@ -34,5 +34,59 @@
     "App": 377160,
     "Depot": 480631,
     "Manifest": 6588493486198824788
+  },
+  {
+    "Hash": "mBq4gNmHn1c=",
+    "Size": 984,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\button\\radio.html",
+    "Sha1": "3752BB56ECA823C23E9BA79B77BAB8C4A83A1D0A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mGYXF8AfcJc=",
+    "Size": 4073,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\vertical.html",
+    "Sha1": "CC52FD9AC6CF097B75A4D45CC0BC74415D1C7567",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mFDXo6CV7Pk=",
+    "Size": 35110,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\button.html",
+    "Sha1": "DF4649035662BD4006158CD97FF407CB484317AD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mKvBMNCx7Yg=",
+    "Size": 262,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-bg_glass_100_f6f6f6_1x400.png",
+    "Sha1": "252860383BDDAE6DE9644E6295ED0B63890385B4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mMaoFfDkB4o=",
+    "Size": 31376,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\jquery-ui-1.8.23.custom.css",
+    "Sha1": "EEF93D1C12886405220A54522CE46A4B959F633A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "mMjp502AVHw=",
+    "Size": 8519,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.treeview.js",
+    "Sha1": "D0FF749B3069B591023A3093F89C383B3526C9A1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

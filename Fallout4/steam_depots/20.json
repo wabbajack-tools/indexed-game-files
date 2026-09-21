@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "IMzuTYLp5so=",
+    "Size": 4234,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\accordion\\hoverintent.html",
+    "Sha1": "A79BCF0649500483ACB708E4D5C0823C78958806",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "IHgNoOPomcE=",
+    "Size": 6119,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\dialog\\modal-form.html",
+    "Sha1": "2D12DC87802C1F4A324502333D7069C2A62CA5E0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "IOcP2HvGQC8=",
+    "Size": 1601,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\scroll.html",
+    "Sha1": "24D0985207CF2F00D591E1EBE6D34EFE35A80304",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "IAD4Y6mECVc=",
+    "Size": 49397,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\selectable.html",
+    "Sha1": "8512BE187F9574420D83C5C9000E442F17390771",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "IKfNnWgqR7o=",
+    "Size": 1139,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-is.js",
+    "Sha1": "C6C8E8DAED07FBB9DE846D7D608D5537F28FB75C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

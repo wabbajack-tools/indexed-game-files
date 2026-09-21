@@ -16,5 +16,77 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "A1faxi5DDQQ=",
+    "Size": 3762,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "9974C47AA8D11AF7585F1368E448F6840CE7FFE5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "A1faxi5DDQQ=",
+    "Size": 3762,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "9974C47AA8D11AF7585F1368E448F6840CE7FFE5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "A1faxi5DDQQ=",
+    "Size": 3762,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "9974C47AA8D11AF7585F1368E448F6840CE7FFE5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "A1faxi5DDQQ=",
+    "Size": 3762,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "9974C47AA8D11AF7585F1368E448F6840CE7FFE5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "A1faxi5DDQQ=",
+    "Size": 3762,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "9974C47AA8D11AF7585F1368E448F6840CE7FFE5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "A1faxi5DDQQ=",
+    "Size": 3762,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "9974C47AA8D11AF7585F1368E448F6840CE7FFE5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "A9uMOR1vPO0=",
+    "Size": 901,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ca.js",
+    "Sha1": "5ADF73388589FDF193FA09E2C85B54D53AA9BE10",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "A2f9SfOStSM=",
+    "Size": 1013,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-sl.js",
+    "Sha1": "2687973E3A549098C65C09E4BD9E92C3A1F8A299",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

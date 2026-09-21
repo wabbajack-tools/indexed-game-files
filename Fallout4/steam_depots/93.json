@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "k6V2ecs8TjM=",
+    "Size": 780,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\index.html",
+    "Sha1": "0B7B0C50F4E1376DB7DCF76222104C391668C1D7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "k9i4GljYv1k=",
+    "Size": 335,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\images\\demo-config-on.gif",
+    "Sha1": "70E45075FE5AD7F35A51D9BA252193D68050FBAF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kz2/4WYkH3A=",
+    "Size": 5437,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\toggle.html",
+    "Sha1": "921555DBF93BFD81FB5C71D1B3850E798AD6AAEC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "k2t2+STnSHU=",
+    "Size": 1387,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.slider.css",
+    "Sha1": "B78381C39728CC93F0E8B3D6D652091816B70EFF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "k2t2+STnSHU=",
+    "Size": 1387,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.slider.css",
+    "Sha1": "B78381C39728CC93F0E8B3D6D652091816B70EFF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "k5qPkciaO7E=",
+    "Size": 941,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-fo.js",
+    "Sha1": "FDAD13DBF37E132B923AD72DC4F622DEE56ABDC6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kxyTIYsrJZ4=",
+    "Size": 6957,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.button.min.js",
+    "Sha1": "DC80A6802D2EC7F805D47E023A52E3B707F388C0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

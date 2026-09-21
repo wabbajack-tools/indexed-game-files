@@ -61,5 +61,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "8jf8/ti3Sr0=",
+    "Size": 112,
+    "Path": "Tools\\HavokBehaviorPostProcess\\UpgradeHavokBehavior.bat",
+    "Sha1": "19EAE2D3913F479473A56490E7D149C451865F93",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

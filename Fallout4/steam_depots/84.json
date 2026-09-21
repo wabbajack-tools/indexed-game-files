@@ -25,5 +25,68 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "hK7YQh4V+70=",
+    "Size": 437,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.base.css",
+    "Sha1": "FC996F0A47213D546AFCB969842755A8A24E2E98",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hCKVG27W/vU=",
+    "Size": 1737,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.clip.js",
+    "Sha1": "055D606CA44217FBAFB7C5233522A0694ED3862A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hHmjgFm+9DM=",
+    "Size": 722,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.pulsate.min.js",
+    "Sha1": "5E418108D1AF9422BCE4460A710E9F1516F15C59",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hPQse1qzS+0=",
+    "Size": 6244,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-icons_ffffff_256x240.png",
+    "Sha1": "A2F3D052B33D4AE8A7E48E8B9E1535AD247D5BB8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hCKVG27W/vU=",
+    "Size": 1737,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.clip.js",
+    "Sha1": "055D606CA44217FBAFB7C5233522A0694ED3862A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hJ/O9QXDFfM=",
+    "Size": 22724,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.dialog.js",
+    "Sha1": "2539829B6B636949A243E8C8D0F0A80E779CD3D7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hHmjgFm+9DM=",
+    "Size": 722,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.pulsate.min.js",
+    "Sha1": "5E418108D1AF9422BCE4460A710E9F1516F15C59",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

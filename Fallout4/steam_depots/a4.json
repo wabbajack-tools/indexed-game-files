@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "pBrYyMzcPp8=",
+    "Size": 359264,
+    "Path": "Tools\\Elric\\NiCollision.dll",
+    "Sha1": "FE876AD5D194D8339F35E7375ABCEEBB322B17EA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pD2Jzx1TOAo=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-icons_454545_256x240.png",
+    "Sha1": "00E4F026FF6A9E00F95F249D857D8CD5A584F266",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pJ23verNJgU=",
+    "Size": 11467,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.tabs.min.js",
+    "Sha1": "C4B6B3610A595F476BD44979A88A2842F1B50A4D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

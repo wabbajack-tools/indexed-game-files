@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "2/yV7ISF0b0=",
+    "Size": 1212,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\rangemax.html",
+    "Sha1": "1547F9D597F5AC19F14594FA8524E023B52F7026",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "2x9n77SsWjY=",
+    "Size": 17926,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.theme.css",
+    "Sha1": "86FE41D5B70A084FD93874E131164C51BA71D7CF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

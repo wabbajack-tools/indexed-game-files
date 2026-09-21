@@ -7,5 +7,68 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "xEjUKCIoThk=",
+    "Size": 681304,
+    "Path": "Tools\\Audio\\xwmaencode.exe",
+    "Sha1": "BAA7F079A607C9FFA88D765163784D8C89C9173A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xBClBZH9DB4=",
+    "Size": 277,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-bg_highlight-soft_35_222222_1x100.png",
+    "Sha1": "428742294A74A3169EF1301BBC85F67A7891A75D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xCgaEdfLeHU=",
+    "Size": 3144,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\collapsible.html",
+    "Sha1": "4A64F31FAEA3706FC7B075A4A50EC2E57B75747E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xDmrcDAxSSQ=",
+    "Size": 3255,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\default.html",
+    "Sha1": "C45C70AD0E6DD2F846768B13F94F427B4220758E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xBClBZH9DB4=",
+    "Size": 277,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-bg_highlight-soft_35_222222_1x100.png",
+    "Sha1": "428742294A74A3169EF1301BBC85F67A7891A75D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xKkcPWVM6dU=",
+    "Size": 913,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-da.js",
+    "Sha1": "397E4CF1D3498AE62CF2D3F12F07E19DB23474C8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xLv9IrPVuG4=",
+    "Size": 952,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-cs.js",
+    "Sha1": "F9A6FB4EA8D9C2F2DEE9727009BCFC505B437449",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

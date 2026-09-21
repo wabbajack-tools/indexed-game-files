@@ -25,5 +25,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "fZrxRbIWeks=",
+    "Size": 253792,
+    "Path": "Tools\\Elric\\NiOptimization.dll",
+    "Sha1": "E73292A1EB01589434F7D78751A3F6D41AC09B39",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "fbVeqdVZqB4=",
+    "Size": 2740,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\shopping-cart.html",
+    "Sha1": "543F2DF702E467561FD20EE3C92642DB83E3807C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "fUUExL63r/k=",
+    "Size": 3558,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\animate.html",
+    "Sha1": "194222FD9F7307521E079D11D6A023E0AA698A5B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "fSyuvyNrW3w=",
+    "Size": 902,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.blind.min.js",
+    "Sha1": "1489FE0ED637722133A23292A51D4CD381515C0E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -16,5 +16,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "7rDndHc2HSI=",
+    "Size": 91573,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery-1.6.2.min.js",
+    "Sha1": "5193E36C1E8BB5CF7A9A5C1A4B3E0BEE7FF40024",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "7kiIS0l3Ks0=",
+    "Size": 206855,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery-ui-1.8.20.custom.min.js",
+    "Sha1": "1BB2123C6B83ADEA7DCA01F71018C0BF2281B265",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "7kIQh9rvbgM=",
+    "Size": 928,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.highlight.min.js",
+    "Sha1": "DA43A4EAE4C8138D230C19DC37E48BA6EE8D16C7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

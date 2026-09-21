@@ -16,5 +16,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "6Wi5iXcqHrI=",
+    "Size": 5416,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\show.html",
+    "Sha1": "20D3B5859CF9DE0920D8603C29439747FBC5945C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "6eYy1DGZmnM=",
+    "Size": 6781,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "2166B809447EC99097B3931BF3C11A0A2BFC1A73",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

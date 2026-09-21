@@ -7,5 +7,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "X3cmY6PMmco=",
+    "Size": 2567,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\multiple.html",
+    "Sha1": "D4DC6D0DEF3EED069967738EEF568178079A96A0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "X9up8u7SlOk=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-icons_4b8e0b_256x240.png",
+    "Sha1": "659DCC20DE3068A4DE3462B22A5415CA1669CD9D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

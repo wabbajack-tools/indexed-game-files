@@ -43,5 +43,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "NVPOWKyho4k=",
+    "Size": 24583,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\images\\high_tatras3.jpg",
+    "Sha1": "F5BD5D62D5149BFC34AC07F23B2B330E6291D54D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "NVpmULoaItw=",
+    "Size": 277978,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\jquery-1.9.1.js",
+    "Sha1": "5EC3938685E3084324D706A5390B7D7EF6D94C61",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "NZA1FFDHKLI=",
+    "Size": 940,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-pl.js",
+    "Sha1": "8F13EB5A86E947EBF7CBBAD9BEFF98FBDF3AE7EC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "NVpmULoaItw=",
+    "Size": 277978,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\js\\jquery-1.9.1.js",
+    "Sha1": "5EC3938685E3084324D706A5390B7D7EF6D94C61",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "uQ0PsHQFUDA=",
+    "Size": 3089,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\accordion\\fillspace.html",
+    "Sha1": "8C96AF0D15F86010659003AFF822B4173AC8C234",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "uZUP2Vgr1OY=",
+    "Size": 1417,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\delay-start.html",
+    "Sha1": "9CC9051734209AE4D622944705C1015169AA0941",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "uYjkEjjfezs=",
+    "Size": 2365,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\connect-lists-through-tabs.html",
+    "Sha1": "558A58596164AD137DFD30024E4E9A2196A518DB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ucurb0EZ6Bw=",
+    "Size": 913,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-gl.js",
+    "Sha1": "D848EF2AAA693E412F1C22E5116C9F3F756BEC0A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "uVEpniW5GZM=",
+    "Size": 38432,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.qtip-1.0.0-rc3.min.js",
+    "Sha1": "41EB192ED05792ACD28789430D5C6C8530BDA7E9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ubMPVIW3zGQ=",
+    "Size": 922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-fr-CH.js",
+    "Sha1": "6FDF55528CFB0312AC9CCB2F434CB24D3055C6C4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

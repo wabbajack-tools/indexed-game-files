@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "FrIZbK5OSSY=",
+    "Size": 914,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ms.js",
+    "Sha1": "95A5CD5774B2DE6723912649E24AC49FA4CBFB66",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "FtqckyptMNM=",
+    "Size": 208,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-bg_flat_65_ffffff_40x100.png",
+    "Sha1": "181D9313E7E0C02C7EEE42BC6C5E3DD41A36B011",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

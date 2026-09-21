@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "PdoUQEq8cv8=",
+    "Size": 94843,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery-1.7.2.min.js",
+    "Sha1": "3F51E2EECFA88C61E1200A48ED14F2CDDA98ED87",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "PaZ+LrSwP5Y=",
+    "Size": 312,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "4DC2983A6AF66CBF2FB6CFE3AD73B81988331622",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "PdoUQEq8cv8=",
+    "Size": 94843,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery-1.7.2.min.js",
+    "Sha1": "3F51E2EECFA88C61E1200A48ED14F2CDDA98ED87",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

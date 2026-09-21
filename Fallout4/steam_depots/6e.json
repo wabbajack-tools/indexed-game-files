@@ -34,5 +34,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "bl7/h/JH/hM=",
+    "Size": 267728,
+    "Path": "Tools\\LipGen\\ssce5532.dll",
+    "Sha1": "D8B4AB0AC66F1FB7369D9A2F72645561F4DC1978",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -7,5 +7,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "UhC9ce11aaA=",
+    "Size": 1121,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\visual-feedback.html",
+    "Sha1": "A258C185B45F56A44E6B20A1016A40BE8AB261CC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

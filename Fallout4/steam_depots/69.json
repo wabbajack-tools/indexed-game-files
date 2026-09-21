@@ -27,6 +27,15 @@
     "Manifest": 7497069378349273908
   },
   {
+    "Hash": "aXDVosmb9fM=",
+    "Size": 39096,
+    "Path": "Data\\Scripts\\Source\\DLC05\\DLC05.zip",
+    "Sha1": "735F4E91B26C6B6D6F0C5500CB316897EB8CDED2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
     "Hash": "aQAxtBjW4yg=",
     "Size": 4698,
     "Path": "Fallout4.ccc",
@@ -34,5 +43,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "aW3lqzRTr9A=",
+    "Size": 1056,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\snap-to-grid.html",
+    "Sha1": "BC649FF0EEBAAD8B2162BC7AF6707B3C9DB1531F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "aaPX7ktlDPg=",
+    "Size": 207,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "6CF182DF9680A8F7D5E40EA068C2E6CD6367E60B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

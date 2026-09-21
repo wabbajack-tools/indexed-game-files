@@ -16,5 +16,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "e5zg7xySg84=",
+    "Size": 1422688,
+    "Path": "Papyrus Compiler\\PapyrusAssembler.exe",
+    "Sha1": "748A95A25587D00F37F1639A02B8285E8BF4FD31",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "e4Ee3W6hfVA=",
+    "Size": 110,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+    "Sha1": "C81EA6FBA4DB897DF599670C6BF3B3B5764D4E54",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "e5UlKM+LjJg=",
+    "Size": 1459,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ml.js",
+    "Sha1": "C5A9E3DDAD15DA49C7F1E50B10AC44C665B13127",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "e3+Bnav04X4=",
+    "Size": 10141,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.slider.min.js",
+    "Sha1": "AF31482A399713EA5ABBFD1BB735471E1E91D486",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "e4Ee3W6hfVA=",
+    "Size": 110,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+    "Sha1": "C81EA6FBA4DB897DF599670C6BF3B3B5764D4E54",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

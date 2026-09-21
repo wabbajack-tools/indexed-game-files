@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "ugHG8PF/ApM=",
+    "Size": 268,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\effect\\index.html",
+    "Sha1": "750CCCFFF4CA4218AE5818A67F3E9440BBD786AA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "umsJqN9n5dg=",
+    "Size": 6916,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-icons_ededed_256x240.png",
+    "Sha1": "3823663531B7A5FC159A83F70150D998BFD42A4A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ug8GzN/DTgA=",
+    "Size": 205,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-bg_flat_10_000000_40x100.png",
+    "Sha1": "6D30B45AAF8CB3A7F9561B0ACAE96EF2AEC96AEA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "vFujBiVe/Sw=",
+    "Size": 1877,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\treeview-black-line.gif",
+    "Sha1": "0C139F1919ECB2D4E6BF4854A7D5CCC991C396F0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "vFujBiVe/Sw=",
+    "Size": 1877,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\treeview-black-line.gif",
+    "Sha1": "0C139F1919ECB2D4E6BF4854A7D5CCC991C396F0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "vPLCqhkaDBY=",
+    "Size": 18890,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.draggable.min.js",
+    "Sha1": "7F190DF9A3D8B1E2F17C0702189BF4DAC52F3973",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

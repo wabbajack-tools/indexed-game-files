@@ -16,5 +16,14 @@
     "App": 489830,
     "Depot": 489831,
     "Manifest": 7089166303853251347
+  },
+  {
+    "Hash": "T2h4YTCZuJ4=",
+    "Size": 25245176,
+    "Path": "Tools\\redist\\VC_redist.x64.exe",
+    "Sha1": "1A18B960482C2A242DF0E891DE9E3A125E439122",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

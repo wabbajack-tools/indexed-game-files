@@ -25,5 +25,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "cixwrw0p0+E=",
+    "Size": 261761,
+    "Path": "Data\\LSData\\DtC6dal.dat",
+    "Sha1": "9949C058223D656755262532830EE6EF32564988",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cqrbXQ5lxGA=",
+    "Size": 3844,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\cookie.html",
+    "Sha1": "17BC3AB7202C96C868DC98A15224E202B37D8250",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "chA7sEzwIoc=",
+    "Size": 10625,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.core.min.js",
+    "Sha1": "053AA8B7626A463EFE49DED9910BDAB7EF3F2F20",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ct0qkWggzaU=",
+    "Size": 7731,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.autocomplete.min.js",
+    "Sha1": "8A2EF19387C0A6B1796066774B2F801C1F38ABA6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "chA7sEzwIoc=",
+    "Size": 10625,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.core.min.js",
+    "Sha1": "053AA8B7626A463EFE49DED9910BDAB7EF3F2F20",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

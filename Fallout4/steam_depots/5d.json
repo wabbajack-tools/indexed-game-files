@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "XZF0QLbHndI=",
+    "Size": 1000,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\progressbar\\animated.html",
+    "Sha1": "E41036BB179DD9F8170172FC0B8763DD7767C3A7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XSMSDakMk7A=",
+    "Size": 4788,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\switchClass.html",
+    "Sha1": "13403166806772D88490D4D459F80EDEBA5EDFF5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XV01KQnGp7I=",
+    "Size": 262285,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\jquery-1.7.2.js",
+    "Sha1": "434EAB219874717FEAEAD47A6D3B3636E3B84C8D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XSW+jDzAERk=",
+    "Size": 1015,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ro.js",
+    "Sha1": "0F3CA2B699F92FAA2CFC282EE45850EF51754914",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XV01KQnGp7I=",
+    "Size": 262285,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery-1.7.2.js",
+    "Sha1": "434EAB219874717FEAEAD47A6D3B3636E3B84C8D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XYu3FjehIio=",
+    "Size": 7275,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.widget.js",
+    "Sha1": "B0FE014AB2D0518B5DEA4ACBEC32B21C0724B6CD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

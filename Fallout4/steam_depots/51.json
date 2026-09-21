@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "UanQTW3ZBYM=",
+    "Size": 2164,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\images\\high_tatras2_min.jpg",
+    "Sha1": "C244609EBC84D56589E106D0872CCB0365AE5729",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "URKAkbLO4/U=",
+    "Size": 334,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.selectable.css",
+    "Sha1": "14A48B7A90D08571843BC51A5B94141449B3E852",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Uf/X9KqNOck=",
+    "Size": 7253,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.button.min.js",
+    "Sha1": "F2CA2A5E7E8DF3A2C99D113FF41BDC18E92E1DA4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

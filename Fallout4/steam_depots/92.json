@@ -7,5 +7,59 @@
     "App": 377160,
     "Depot": 435880,
     "Manifest": 366079256218893805
+  },
+  {
+    "Hash": "kqNobldeXgM=",
+    "Size": 330192,
+    "Path": "lex\\sscebr2.clx",
+    "Sha1": "DE8841E0137E89CD2238939433FAC6E340CAABBC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kt1dRJUw66Y=",
+    "Size": 1006,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-zh-CN.js",
+    "Sha1": "89E1419ABEF0E979E213F0BB0FB25F53DAF04931",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "khLn1WNLVBI=",
+    "Size": 7130,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.scale.js",
+    "Sha1": "63293EDC781C9DB6D4B507EBB0B7F165B981F007",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kgjclY3LEm8=",
+    "Size": 28702,
+    "Path": "Tools\\MaterialEditor\\htdocs\\index.html",
+    "Sha1": "4FAF58ACF082AF2EA527E5F1C3B564B290EED7F5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "kg9Z+jJGoE4=",
+    "Size": 4796,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\themes\\default\\style.css",
+    "Sha1": "08D325542A0C185849AE49B5AD1AE2EE2C041987",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "khLn1WNLVBI=",
+    "Size": 7130,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.scale.js",
+    "Sha1": "63293EDC781C9DB6D4B507EBB0B7F165B981F007",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

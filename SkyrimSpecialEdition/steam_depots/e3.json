@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 5260954425794414274
+  },
+  {
+    "Hash": "4wKftR7+Sdc=",
+    "Size": 796512,
+    "Path": "Tools\\LipGen\\LipGenerator\\LipGenerator.exe",
+    "Sha1": "B9D2BB477BC76528D7B927B40B574595015395B5",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

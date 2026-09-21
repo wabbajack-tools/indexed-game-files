@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "4IABP9jKuwY=",
+    "Size": 5447,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.treeview.min.js",
+    "Sha1": "0FED78CAD7E0F460FCA650074B9E69B94F568815",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "4Cch9tbOLqo=",
+    "Size": 904,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-tr.js",
+    "Sha1": "CEDACD8A773C73C2F2E12F24726F6DA5ADB9741D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "4CityzA/w/4=",
+    "Size": 9038,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.position.js",
+    "Sha1": "E8A8ABE1FFB0766B9968A3CD74D486AF28E3213C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "4Idaz2ElBao=",
+    "Size": 4144,
+    "Path": "Tools\\NIF_Exporter\\README.txt",
+    "Sha1": "46C9993D1E790E63601FD2D824CFE64BF48EDBC2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

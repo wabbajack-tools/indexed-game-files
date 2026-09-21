@@ -7,5 +7,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "XH2DS96PefE=",
+    "Size": 2404,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\multiple-remote.html",
+    "Sha1": "33E6BA26AFE5316B8CC6FFC5AB52C6208F074988",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XLlFN/Stq/w=",
+    "Size": 206,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\images\\icon-docs-info.gif",
+    "Sha1": "9A9406337215A3C16FB8991F5BAF052FDF8B35FD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XDdzW6QLPok=",
+    "Size": 228088,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery-ui-1.10.3.custom.min.js",
+    "Sha1": "EDAE2C008A8621C0342583F7F1FA51A8275A10BA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XEXgYU5ZEp8=",
+    "Size": 56170,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\jquery-ui-1.8.16.custom.css",
+    "Sha1": "799CDFDD7A8BF50A772911BB09EA1473A7C015C1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XG9YxJPRKIU=",
+    "Size": 910,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-sq.js",
+    "Sha1": "9DB71E39F5BA187B9680FB1FE5733C01E0CAF770",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

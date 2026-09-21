@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "ZpU7rgiQ0UA=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-bg_glass_40_111111_1x400.png",
+    "Sha1": "A6669A8C27F5C3709473AEF3B909A2CEDF35BF4D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Zput9N8EZZ4=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-icons_ef8c08_256x240.png",
+    "Sha1": "508D4514DAACEDA192339E67E5CD378914BB880F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ZsqbWP/Q+Uw=",
+    "Size": 8884,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-icons_f6cf3b_256x240.png",
+    "Sha1": "CB17AE743190E68B05BC4803E726DFE065F0A664",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

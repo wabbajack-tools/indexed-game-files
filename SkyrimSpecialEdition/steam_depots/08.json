@@ -7,5 +7,23 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "CEVJogJMMy4=",
+    "Size": 16736,
+    "Path": "Papyrus Compiler\\Antlr3.Utility.dll",
+    "Sha1": "7A2A09FA9E1F42C8476F013422E2F3B79658A1FC",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "CGGPbE5XYBE=",
+    "Size": 583,
+    "Path": "SkyrimReservedAddOnIndexes.txt",
+    "Sha1": "F0EE21A04D3FAA30A13992935E58E9DC5E6C8382",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

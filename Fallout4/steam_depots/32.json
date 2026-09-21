@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "MiiYnHjhpzs=",
+    "Size": 1993,
+    "Path": "Papyrus Compiler\\PapyrusProject.xsd",
+    "Sha1": "1EF7BA10AE2A39795A1CB26641FA2F48D3334C01",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Mn60aiU9SDQ=",
+    "Size": 1140,
+    "Path": "Tools\\MaterialEditor\\htdocs\\tesscript.js",
+    "Sha1": "13EEBFCF902F9CABADCFB0579896009F8711E41C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "MtyL7juWDoA=",
+    "Size": 72351,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery-ui-i18n.js",
+    "Sha1": "2D6B12858699B075A702A23B85D0545B83755263",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "MuAqYovFtoc=",
+    "Size": 78355,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.datepicker.js",
+    "Sha1": "7325F8FC6905BD89B7AD8C2983DE4A7C9CA1E3B0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

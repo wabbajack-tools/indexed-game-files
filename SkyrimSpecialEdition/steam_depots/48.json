@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "SPdZFfZsTvw=",
+    "Size": 7798,
+    "Path": "lex\\sscebr.tlx",
+    "Sha1": "968A06CE6362B2611BEA5D104148FEFC70F64E6A",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "SPdZFfZsTvw=",
+    "Size": 7798,
+    "Path": "lex\\ssceca.tlx",
+    "Sha1": "968A06CE6362B2611BEA5D104148FEFC70F64E6A",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "P7z+R7CMUn8=",
+    "Size": 400950,
+    "Path": "Data\\Scripts\\Source\\DLC01\\DLC01.zip",
+    "Sha1": "F0D1C0F5C2034B83672F2A2F99A8D4CE8B3517D2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Pz00fHtNQks=",
+    "Size": 5630976,
+    "Path": "Tools\\LipGen\\LipGenerator\\LipGenerator.pdb",
+    "Sha1": "E5FCF8A60B32DB9D6A8A02A8B8D8FF2A50B01EF6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "P1H9aFO6h6o=",
+    "Size": 11756,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.button.js",
+    "Sha1": "E7671434A2049DBBBB5DD64685C4361DE68DA277",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

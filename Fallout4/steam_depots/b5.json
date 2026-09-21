@@ -34,5 +34,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "tZYXorQpCkk=",
+    "Size": 264544,
+    "Path": "Tools\\Elric\\libcurl.dll",
+    "Sha1": "5D979B2E518049CF17E20CFE6835A66B439DA1D5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "tV4FdCxI9IQ=",
+    "Size": 984,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-lt.js",
+    "Sha1": "5480DDB00C6F11AEFC75D3172FAACF879CF52669",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "tbGZrgKLSH8=",
+    "Size": 1102,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.drop.min.js",
+    "Sha1": "F73D1B9BEC5F1D2DD7775596110A46B081D172E0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "tbOgx7X/D5c=",
+    "Size": 123,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-bg_inset-soft_95_fef1ec_1x100.png",
+    "Sha1": "68A0605F609AEF52D5DCDB5B3730A22175DC133B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "tS7BUka7R5E=",
+    "Size": 1230,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ar-DZ.js",
+    "Sha1": "F99090C833552B2023D846BD7594C3145DFD7D03",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

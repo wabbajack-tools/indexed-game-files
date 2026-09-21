@@ -43,5 +43,32 @@
     "App": 377160,
     "Depot": 377161,
     "Manifest": 7497069378349273908
+  },
+  {
+    "Hash": "/Ttdir6zr7U=",
+    "Size": 333,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\progressbar\\index.html",
+    "Sha1": "EAF9B8F67C6906C854A4F52F4840BFF2833110E5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "/VBXp/uInMQ=",
+    "Size": 4,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\outro.js",
+    "Sha1": "B1F146C3157E6486D1E66716213B247B173F2BDB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "/RNR73KPDng=",
+    "Size": 6991,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-icons_bbbbbb_256x240.png",
+    "Sha1": "2D5B27463C2D07E64CF1A9912D5514FE228BDC9C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

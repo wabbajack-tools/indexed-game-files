@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "s36jaa7cqlY=",
+    "Size": 3632,
+    "Path": "lex\\tech.tlx",
+    "Sha1": "F5F0D8A8D62E3AD529DED25B94A53DDE0B25873A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "s9Dxn58JpjE=",
+    "Size": 1471,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\default.html",
+    "Sha1": "BC1B5C070E122BD17445A52E85CC70CBDCCEB0FB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "swa2z4Jb/Vs=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-icons_2e83ff_256x240.png",
+    "Sha1": "5C0800291A8DC41AE915D9FE6D42F96C67035A23",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

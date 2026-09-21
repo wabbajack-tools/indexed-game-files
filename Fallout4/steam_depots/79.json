@@ -7,5 +7,59 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "eXQ1PzE7GF0=",
+    "Size": 1230,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\treeview-red.gif",
+    "Sha1": "9E4C45D0883EFF05E6507CCA3485002AE0EA23E4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "eeWt1NVb5sc=",
+    "Size": 1640,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\selectable\\display-grid.html",
+    "Sha1": "458D9E34CA7D6FC80DAD46D078D592BDC457B02D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "eeeuLqHYSFM=",
+    "Size": 1301,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\slider-vertical.html",
+    "Sha1": "B02F7652B45CF2D800D1D64072F9E8E5FEBD65AA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "eXQ1PzE7GF0=",
+    "Size": 1230,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\treeview-red.gif",
+    "Sha1": "9E4C45D0883EFF05E6507CCA3485002AE0EA23E4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "eYfUU8OQQZo=",
+    "Size": 17614,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\jquery.ui.theme.css",
+    "Sha1": "3D7BA004CEE377EA91616D40FECBD6FBFE8EC735",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "eYnsYyomKQ8=",
+    "Size": 924,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-pt.js",
+    "Sha1": "F2ED03B3AB97A2944563681594A212CFD57D690B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

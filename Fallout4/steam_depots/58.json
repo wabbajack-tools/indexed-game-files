@@ -34,5 +34,14 @@
     "App": 377160,
     "Depot": 377161,
     "Manifest": 5983086794954940044
+  },
+  {
+    "Hash": "WF0kHdNaNF4=",
+    "Size": 2126,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\constrain-movement.html",
+    "Sha1": "66680D51C762EBFB0467C26CB9D7F7099008658E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

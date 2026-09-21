@@ -16,5 +16,23 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "O1ftFMJntQ8=",
+    "Size": 2871,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\accordion\\sortable.html",
+    "Sha1": "B23B2EF46806E73A19AFE7EC8F85F4A66C48E42B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "OxRGlSnvlSA=",
+    "Size": 371,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-bg_glass_100_f6f6f6_1x400.png",
+    "Sha1": "FAECE7A24887291C7A7694A8188EAE876179FC77",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

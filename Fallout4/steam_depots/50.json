@@ -16,5 +16,14 @@
     "App": 377160,
     "Depot": 480631,
     "Manifest": 6588493486198824788
+  },
+  {
+    "Hash": "UKwjCWfbrKo=",
+    "Size": 86231,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\draggable.html",
+    "Sha1": "D22151FD24D835843D8B53B9533323DE977F73F6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "qGyePdvfPbs=",
+    "Size": 346,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\addClass\\index.html",
+    "Sha1": "8ED4388962927C82528E70B28FB794C6FF7A9905",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qGyePdvfPbs=",
+    "Size": 346,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\animate\\index.html",
+    "Sha1": "8ED4388962927C82528E70B28FB794C6FF7A9905",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qGyePdvfPbs=",
+    "Size": 346,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\hide\\index.html",
+    "Sha1": "8ED4388962927C82528E70B28FB794C6FF7A9905",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qGyePdvfPbs=",
+    "Size": 346,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\removeClass\\index.html",
+    "Sha1": "8ED4388962927C82528E70B28FB794C6FF7A9905",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qGyePdvfPbs=",
+    "Size": 346,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\show\\index.html",
+    "Sha1": "8ED4388962927C82528E70B28FB794C6FF7A9905",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qGyePdvfPbs=",
+    "Size": 346,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\switchClass\\index.html",
+    "Sha1": "8ED4388962927C82528E70B28FB794C6FF7A9905",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qGyePdvfPbs=",
+    "Size": 346,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\toggleClass\\index.html",
+    "Sha1": "8ED4388962927C82528E70B28FB794C6FF7A9905",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qGyePdvfPbs=",
+    "Size": 346,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\toggle\\index.html",
+    "Sha1": "8ED4388962927C82528E70B28FB794C6FF7A9905",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qF+MObLvy34=",
+    "Size": 869,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-bs.js",
+    "Sha1": "B0B90D417853149DBB8412D1AD75DF9AF1578B33",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

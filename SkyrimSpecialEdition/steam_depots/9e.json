@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489831,
     "Manifest": 1985552842565684891
+  },
+  {
+    "Hash": "nutRGnJhnVI=",
+    "Size": 18432,
+    "Path": "Tools\\RoboVoicer.exe",
+    "Sha1": "08CD7A2A18901855D8D7961A75B5612409B8C5A5",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

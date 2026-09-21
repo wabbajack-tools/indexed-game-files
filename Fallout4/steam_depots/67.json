@@ -1,5 +1,14 @@
 [
   {
+    "Hash": "Z4zgCXojY/Y=",
+    "Size": 3554,
+    "Path": "EditorTips.txt",
+    "Sha1": "EFF834A746B1589F4D69734B6F7A8B7DBAE1E9E4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
     "Hash": "Z5xlK0qMnOY=",
     "Size": 55343016,
     "Path": "Fallout4.exe",
@@ -7,5 +16,68 @@
     "App": 377160,
     "Depot": 377162,
     "Manifest": 4737695048810094469
+  },
+  {
+    "Hash": "Z72n/Hhf4Rw=",
+    "Size": 25619,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\images\\high_tatras2.jpg",
+    "Sha1": "C04B91D17FE2251992C713EB7ABEC174E4344050",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ZxjWngOV7MQ=",
+    "Size": 2147,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\images\\high_tatras_min.jpg",
+    "Sha1": "836AB60BAFCB5A8CBA92EC1C6BB3E6F98B0934BC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ZyXRrbnf7CU=",
+    "Size": 83814,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\dialog.html",
+    "Sha1": "5DF084D6480DB210DD4D6C9739AE89A359F8A4E3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Zw84ApJlh2s=",
+    "Size": 928,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-sk.js",
+    "Sha1": "5A1CCCDE83F4CCA97F3B1BBAA7BABF841D6177D8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Z3QV//tIfYs=",
+    "Size": 4328,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.selectable.min.js",
+    "Sha1": "9E4C13055C8C6AD09D1FE97FF45A406B25ED88E2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Z7n1lUu0gG8=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-bg_glass_55_1c1c1c_1x400.png",
+    "Sha1": "015A8245A221C0504DB16C2BC78354FE79AD498C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Z2RjbtpGV3E=",
+    "Size": 316,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-bg_glass_40_ffc73d_1x400.png",
+    "Sha1": "3524DA2E55D6014790CEECE9FF845AFBA5D7C212",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

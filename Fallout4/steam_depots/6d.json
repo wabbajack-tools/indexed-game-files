@@ -16,5 +16,50 @@
     "App": 377160,
     "Depot": 377164,
     "Manifest": 8492427313392140315
+  },
+  {
+    "Hash": "bWL9LiYirZI=",
+    "Size": 2972608,
+    "Path": "flowchartx64.dll",
+    "Sha1": "03498D4128AEA26CBA8021D22179B67728BBAD33",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "bSmE17300JU=",
+    "Size": 2116,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\items.html",
+    "Sha1": "09490925C2EB2CC599F2D4C9912F67D965A4BE1A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "bX5x8zn1AqA=",
+    "Size": 1519,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ta.js",
+    "Sha1": "AA56E9514557AD8E3CF92782647917A886993002",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "bX5x8zn1AqA=",
+    "Size": 1519,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ta.js",
+    "Sha1": "AA56E9514557AD8E3CF92782647917A886993002",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "bRawChf2sLU=",
+    "Size": 3193,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.widget.min.js",
+    "Sha1": "29CDAB3A19A379338C8F0412E589EC7B697F83A7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

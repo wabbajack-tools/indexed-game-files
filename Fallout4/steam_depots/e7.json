@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "5yhvmSM5OsQ=",
+    "Size": 854,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\multiple-calendars.html",
+    "Sha1": "FB9C44C46E7CA3A171C5C8B19700FDA731D5C9F6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "55ezSJBU1hA=",
+    "Size": 1004,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-zh-HK.js",
+    "Sha1": "20E159EC7E9C234A8C66A7D48A79214D477FDA76",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5+meSupGSpw=",
+    "Size": 33309,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\jquery-ui.css",
+    "Sha1": "385618A95333A8D54A9FCAF4053D14F1784F13A0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5/vLoUgfs3w=",
+    "Size": 4028,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.cookie.js",
+    "Sha1": "17F3160516F50FBFD387C435746E4554F6A03935",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

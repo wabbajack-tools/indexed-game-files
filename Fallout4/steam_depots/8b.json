@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "iwVpn7Z6P7A=",
+    "Size": 129,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "64AF20EA3FCCECFE681B5AD1B593B9FB7F3DC89A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "iwVpn7Z6P7A=",
+    "Size": 129,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "64AF20EA3FCCECFE681B5AD1B593B9FB7F3DC89A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "iwVpn7Z6P7A=",
+    "Size": 129,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "64AF20EA3FCCECFE681B5AD1B593B9FB7F3DC89A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "i2XE8XBp21U=",
+    "Size": 33359,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\jquery-ui.css",
+    "Sha1": "BE692E489E611FD7231814A51F30ABF3F9150998",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "iwVpn7Z6P7A=",
+    "Size": 129,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "64AF20EA3FCCECFE681B5AD1B593B9FB7F3DC89A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "iwVpn7Z6P7A=",
+    "Size": 129,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "64AF20EA3FCCECFE681B5AD1B593B9FB7F3DC89A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "i10CMkowE1g=",
+    "Size": 388073,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery-ui-1.8.16.custom.js",
+    "Sha1": "3726D22855A468ECF3B79CEB82CE4BC7B039D7F1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

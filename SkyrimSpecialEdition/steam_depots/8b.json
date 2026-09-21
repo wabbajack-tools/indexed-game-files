@@ -43,5 +43,23 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 5260954425794414274
+  },
+  {
+    "Hash": "i7o2o7af5QI=",
+    "Size": 166240,
+    "Path": "Papyrus Compiler\\StringTemplate.dll",
+    "Sha1": "DCC0906E137DEB2854F32EB13B0245E18870F5FF",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "i349bhAvByI=",
+    "Size": 488,
+    "Path": "Tools\\HavokBehaviorPostProcess\\readme.txt",
+    "Sha1": "E31AA82E747A0CA4C4B83BB0E88DFA4196049272",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

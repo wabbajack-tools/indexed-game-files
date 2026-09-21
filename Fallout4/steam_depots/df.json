@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "36lZqO7d/2E=",
+    "Size": 18562,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.draggable.min.js",
+    "Sha1": "F7A6F7C571DAA674F2757BF8881250FB404B0171",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "33DSrBajQlQ=",
+    "Size": 252,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-bg_highlight-hard_100_f9f9f9_1x100.png",
+    "Sha1": "D2E19632CDBC48274B24A9292BE994B296BD6891",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3w1Yfzpcs/I=",
+    "Size": 21985,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.tabs.js",
+    "Sha1": "1B4D79A675267047DE6712B11DBB307C3888F34C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

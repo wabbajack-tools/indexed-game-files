@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "jD+Dke6gBo8=",
+    "Size": 3368,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\show\\default.html",
+    "Sha1": "66A4F2BCA96C0CBD764E4AA4061712467ADD02BD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "jEVAgYFedyY=",
+    "Size": 111,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-bg_glass_75_dadada_1x400.png",
+    "Sha1": "11E9ED5A7DB83CF86034068E4F6DE4C2F273F0C1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "jEVAgYFedyY=",
+    "Size": 111,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-bg_glass_75_dadada_1x400.png",
+    "Sha1": "11E9ED5A7DB83CF86034068E4F6DE4C2F273F0C1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

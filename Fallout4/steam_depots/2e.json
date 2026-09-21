@@ -43,5 +43,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "LpjysoXDlOI=",
+    "Size": 386,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.progressbar.css",
+    "Sha1": "6E41C016B4BEC5B45507B4E518FB3BFA39618E84",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

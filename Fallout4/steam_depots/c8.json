@@ -7,5 +7,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "yFMsdZ8Jjl4=",
+    "Size": 110,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\file.gif",
+    "Sha1": "F56FA2EEB471C9DFA39F8C6362632A1780B1EEFA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "yETCTpQLFaI=",
+    "Size": 1039,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-he.js",
+    "Sha1": "727073E4C736B6CDDB2F5694F79A7E75635EC932",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "yEcN5rCW2qE=",
+    "Size": 7146,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.button.min.js",
+    "Sha1": "DDAC91CDECF7633A6519A9A091A7B3C699593BA5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "yFMsdZ8Jjl4=",
+    "Size": 110,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\file.gif",
+    "Sha1": "F56FA2EEB471C9DFA39F8C6362632A1780B1EEFA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "yNwQ+ARiSRQ=",
+    "Size": 272,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "AD6504AD80CFC3CCE432421A36E68C209AEFB773",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

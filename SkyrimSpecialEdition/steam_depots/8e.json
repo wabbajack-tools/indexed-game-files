@@ -1,5 +1,14 @@
 [
   {
+    "Hash": "jhmc3PA/6Qs=",
+    "Size": 26063,
+    "Path": "Tools\\AssetWatcher\\SettingsGeneration.py",
+    "Sha1": "A2985DB1F8738FCD6E8F8BD65004DF7E83FD9D98",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
     "Hash": "joAkOFfS7Wc=",
     "Size": 911,
     "Path": "Ultra.ini",

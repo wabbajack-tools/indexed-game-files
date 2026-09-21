@@ -16,5 +16,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "a+1BC/GaJHg=",
+    "Size": 33592,
+    "Path": "Data\\Scripts\\Source\\CreationClub\\CreationClub.zip",
+    "Sha1": "3D1984E671AD45867A3DE37306431B9871B32668",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "a3UO9H7xnI4=",
+    "Size": 625,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\screen.css",
+    "Sha1": "71EB380B7925F7AC26772A9C991C4597117D0330",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "a8qY6jOknYo=",
+    "Size": 9038,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.autocomplete.min.js",
+    "Sha1": "64CDFD9CC209C1A4D9BE3E6598F42BEC105549D2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

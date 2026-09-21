@@ -16,5 +16,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "3P0qDYLZpsU=",
+    "Size": 1613152,
+    "Path": "Tools\\LipGen\\LipGenerator\\LipGenerator.exe",
+    "Sha1": "42C466A891A6B983C1596CF6A0D49B3D56E928FB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3P8jRAwndwI=",
+    "Size": 922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\textarea.html",
+    "Sha1": "022D816355242B7BD419BA4066E45AAA0482BD1E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "3BIjsKN39Cg=",
+    "Size": 2200,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\ajax\\content3-slow.php",
+    "Sha1": "ABF2731B79ABB6589DEBDA481023D5275784A61F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

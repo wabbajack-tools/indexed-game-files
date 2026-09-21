@@ -7,5 +7,59 @@
     "App": 377160,
     "Depot": 435870,
     "Manifest": 1691678129192680960
+  },
+  {
+    "Hash": "VCktVl4juwc=",
+    "Size": 323,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-bg_highlight-hard_20_0972a5_1x100.png",
+    "Sha1": "38B0CF9044A87D5909F03A2319BD64FBD88D684A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "VFvrbSePLME=",
+    "Size": 1103,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\alt-field.html",
+    "Sha1": "1215B4B30F9E7941A0750C3CEA86837076714AC4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "VCktVl4juwc=",
+    "Size": 323,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-bg_highlight-hard_20_0972a5_1x100.png",
+    "Sha1": "38B0CF9044A87D5909F03A2319BD64FBD88D684A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "VEHNW/lgMUE=",
+    "Size": 1297,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-th.js",
+    "Sha1": "49B891E21FCAA9D9835426A842403BE512BEDE1C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "VBinJWtbkmk=",
+    "Size": 280,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-bg_highlight-soft_50_aaaaaa_1x100.png",
+    "Sha1": "7952A7A93A0DAE87E8D9F4681C8A2141800EC284",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "VBfw3BB8Uak=",
+    "Size": 285,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_loop_25_000000_21x21.png",
+    "Sha1": "004121CE30FD87B1FCFD1F3C5D116F42C4D264C3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

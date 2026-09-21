@@ -25,5 +25,50 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "8/Lk93tJSGo=",
+    "Size": 113504,
+    "Path": "Papyrus Compiler\\Antlr3.Runtime.dll",
+    "Sha1": "035290BF887D309670E207117F8B04A0CEF70B69",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "82POIDuuFqs=",
+    "Size": 33120,
+    "Path": "Papyrus Compiler\\PapyrusCompiler.exe",
+    "Sha1": "312F1AC1A0A05F2953AE8B163893D8ECCF8F0F65",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "8+QajeJyIXY=",
+    "Size": 139616,
+    "Path": "Tools\\Elric\\xg.dll",
+    "Sha1": "0BED5D424942329686D262C58BDD83366894B3C0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "81stp1vgv20=",
+    "Size": 1195,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\max-min.html",
+    "Sha1": "D8E95EFFFC8CAC1CC4E9B0A001372A008717F24A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "85FoloLdEAQ=",
+    "Size": 51568,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\droppable.html",
+    "Sha1": "F100CB2FC36C382DEDAB4D37744A40EBEC3D491D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

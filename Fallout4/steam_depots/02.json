@@ -16,5 +16,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "Au3olkGot+M=",
+    "Size": 986,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\default.html",
+    "Sha1": "B44D0CAB7041580E6A7455F81D67E44A71C4ADCD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

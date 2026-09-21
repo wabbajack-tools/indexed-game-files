@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "/wray4Ny3eA=",
+    "Size": 499,
+    "Path": "Tools\\Elric\\Configs\\KeepExtraData.cfg",
+    "Sha1": "612E1F34468AAF54B6403C1791FCB577AF92E92C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "/+jdzMuhE68=",
+    "Size": 1164,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.shake.min.js",
+    "Sha1": "D7E21577F3EB884A84BB08C97EDAD87BB8098BA5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "//HTkaUUVck=",
+    "Size": 276,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-bg_highlight-soft_80_eeeeee_1x100.png",
+    "Sha1": "13F1A5C5BFCA5CDEE8A6C257242834771B827C93",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "//Hwtc78IAo=",
+    "Size": 380,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "74D7F51C8232C0D0BB49D5A532BF974B7E7CF4F2",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

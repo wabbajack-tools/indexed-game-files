@@ -25,5 +25,32 @@
     "App": 377160,
     "Depot": 377162,
     "Manifest": 5847529232406005096
+  },
+  {
+    "Hash": "GKcJ1tJi3n4=",
+    "Size": 3081,
+    "Path": "Tools\\Elric\\README.txt",
+    "Sha1": "9059AC432C7400C8AADE7E7357D9832D28899D36",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "GP9N1hroWKQ=",
+    "Size": 24870,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\images\\high_tatras4.jpg",
+    "Sha1": "1DB2C8826FFC00C220B64288D0724A49AAEA8482",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "GKAVdauGqmA=",
+    "Size": 11730,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.dialog.min.js",
+    "Sha1": "78390AC93D23B50771CDE566EEDD06E85582DA9A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

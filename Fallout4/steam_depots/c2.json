@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "wil4olW9Zw0=",
+    "Size": 328,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+    "Sha1": "048B06B4606CAF7231C07238927172335760E361",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "whF1h+cJvsg=",
+    "Size": 2807,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.ui.mouse.min.js",
+    "Sha1": "8CF68CD4B9478EEB47C70C45588F82384348E078",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

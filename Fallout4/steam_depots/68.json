@@ -7,5 +7,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "aPffTuNKo8I=",
+    "Size": 31947,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.draggable.js",
+    "Sha1": "4A55D5A86D0896EB5084E4E2174A912B6693441A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

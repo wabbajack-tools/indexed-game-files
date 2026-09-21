@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "gFy40Qx79us=",
+    "Size": 837,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\minus.gif",
+    "Sha1": "0A6091520A88EA81CF8ADBC3189B7D39F9AE434F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gD5FY1uHyp0=",
+    "Size": 2734,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\jquery.treeview.css",
+    "Sha1": "125A715E290E414BA72684499C978BEE16DC7E8F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gDppQw1H2O8=",
+    "Size": 306,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\demos.css",
+    "Sha1": "7C53E290225FE1C6752F877D4C31291D4502CBDB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gFy40Qx79us=",
+    "Size": 837,
+    "Path": "Tools\\MaterialEditor\\htdocs\\images\\minus.gif",
+    "Sha1": "0A6091520A88EA81CF8ADBC3189B7D39F9AE434F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gJU4xg1jQds=",
+    "Size": 1704,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.effects.bounce.min.js",
+    "Sha1": "BF34CE63FE1A166CEA46A0981452E7023BA9098B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "gKtG/R2QaW8=",
+    "Size": 323,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_highlight-hard_20_0972a5_1x100.png",
+    "Sha1": "32BC066003CEEE5B7C28DCBE80FA8374BF22B20D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

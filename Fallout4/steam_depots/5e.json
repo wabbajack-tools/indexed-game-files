@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "XthyvhKzOuM=",
+    "Size": 971,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-hu.js",
+    "Sha1": "00E4C04BDBD6BBA60581D53B3DB3A7C6686AF946",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Xsf56txv5L0=",
+    "Size": 1711,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.slide.js",
+    "Sha1": "FF199FB313BA3847F9B4E2459F30F33E85C9CE96",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "XthyvhKzOuM=",
+    "Size": 971,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-hu.js",
+    "Sha1": "00E4C04BDBD6BBA60581D53B3DB3A7C6686AF946",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Xsf56txv5L0=",
+    "Size": 1711,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.slide.js",
+    "Sha1": "FF199FB313BA3847F9B4E2459F30F33E85C9CE96",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "p3BKVf4U5sI=",
+    "Size": 1738,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\animated-overlay.gif",
+    "Sha1": "16FD304B0511EB4792545FF12A53C9C19F98FDF7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pykiwsKT0RM=",
+    "Size": 1353,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-km.js",
+    "Sha1": "0D8B4BA7049EDC75F5152234C769A981C6D6E3EC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "p3BKVf4U5sI=",
+    "Size": 1738,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\animated-overlay.gif",
+    "Sha1": "16FD304B0511EB4792545FF12A53C9C19F98FDF7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "p3BKVf4U5sI=",
+    "Size": 1738,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\animated-overlay.gif",
+    "Sha1": "16FD304B0511EB4792545FF12A53C9C19F98FDF7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "p3BKVf4U5sI=",
+    "Size": 1738,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\animated-overlay.gif",
+    "Sha1": "16FD304B0511EB4792545FF12A53C9C19F98FDF7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "p3BKVf4U5sI=",
+    "Size": 1738,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\animated-overlay.gif",
+    "Sha1": "16FD304B0511EB4792545FF12A53C9C19F98FDF7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "p3BKVf4U5sI=",
+    "Size": 1738,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\animated-overlay.gif",
+    "Sha1": "16FD304B0511EB4792545FF12A53C9C19F98FDF7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pykiwsKT0RM=",
+    "Size": 1353,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-km.js",
+    "Sha1": "0D8B4BA7049EDC75F5152234C769A981C6D6E3EC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

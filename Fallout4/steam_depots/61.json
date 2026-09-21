@@ -16,5 +16,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "YRFRD9xtTq0=",
+    "Size": 1707,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\dialog\\animated.html",
+    "Sha1": "36B4FDDEDBFB21E485C5297CC5EF221912CC071F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YSHfpHirBNg=",
+    "Size": 1457,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\hotelrooms.html",
+    "Sha1": "1D65050B7E9083C8762D5CB0AD74771B3CDE2DBE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Yb6hVadbcmc=",
+    "Size": 944,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-az.js",
+    "Sha1": "B2BC8D4EB5A7F7FCE875BA8B5DFA195F02AF14E5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "YbXv1UyJ6U0=",
+    "Size": 277,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_highlight-soft_44_444444_1x100.png",
+    "Sha1": "76DAD6CEA7BD03FE2D95FCF8D091C4BBA446F446",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

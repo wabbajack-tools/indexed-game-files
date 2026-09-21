@@ -7,5 +7,14 @@
     "App": 377160,
     "Depot": 490650,
     "Manifest": 4873048792354485093
+  },
+  {
+    "Hash": "yX5+62MNwl0=",
+    "Size": 15377,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\GPL-LICENSE.txt",
+    "Sha1": "99A6C722BA15A95D82A4F1706F899B6278D442FD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

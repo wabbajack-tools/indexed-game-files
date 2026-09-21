@@ -16,5 +16,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "Irj5Y20PXVU=",
+    "Size": 622797,
+    "Path": "Data\\Scripts\\Source\\DLC03\\DLC03.zip",
+    "Sha1": "1763BDDC7D8D42A43673C1652407F89DD4043DF5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "IttIOoo+LUo=",
+    "Size": 927,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-cy-GB.js",
+    "Sha1": "6FE992A8516B482409C2F49B74BD8D0C2B898D0B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "IjodKlx5RHQ=",
+    "Size": 910,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-sq.js",
+    "Sha1": "E952219BFDE6A1F6BCB7D389D2C6B08F46EA5603",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "IpPmuLKb+Fw=",
+    "Size": 7225,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.selectable.js",
+    "Sha1": "4A1B8E4ACF8C5338B9D5FEA9AD221F7A4E0C1E5C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

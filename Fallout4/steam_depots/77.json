@@ -7,5 +7,32 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "d/MWtd9QDcU=",
+    "Size": 945,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-nl.js",
+    "Sha1": "34B936C9F36F9D4A0378BB18E057573465668B94",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "d2496hHklB8=",
+    "Size": 17564,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\jquery.ui.theme.css",
+    "Sha1": "1855091045A55A89D509650FD3767B35CD898707",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "dzBL+dk1gT8=",
+    "Size": 53600,
+    "Path": "Tools\\PapyrusStackDumpAnalyzer.exe",
+    "Sha1": "FE1C73A0F2642938C375A382B3034E75B5529F8B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

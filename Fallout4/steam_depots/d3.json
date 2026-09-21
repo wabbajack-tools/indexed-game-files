@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "00NIETAXNTw=",
+    "Size": 33296,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\jquery-ui-1.10.3.custom.css",
+    "Sha1": "0DC5C35673655676F0602BFA4BF31E977B714D29",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "08zLh3B5TZ4=",
+    "Size": 24208,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\search.php",
+    "Sha1": "912EADA12F8F000AC7CC374DD33083B1D619B724",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "0wZFuQCcqCs=",
+    "Size": 29850,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\position\\images\\earth.jpg",
+    "Sha1": "D225262DBEF62A87A9E47C41C734118B1D12A992",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "0wJQtI5G8tA=",
+    "Size": 207,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "17D661CA61D886E540E54E319D5571A8ED4A7787",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

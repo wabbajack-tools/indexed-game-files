@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "lNy4aNANDpQ=",
+    "Size": 45,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\tabs\\ajax\\content4-broken.php",
+    "Sha1": "798FF82673AC26D025BD6CEF2F54335C1AE86FB7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "lC1Gg0wGok4=",
+    "Size": 28368,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.resizable.js",
+    "Sha1": "11644555255A754C394CA11224639BFFF65DEB49",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "lGkqliheypQ=",
+    "Size": 5044,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jstree.unique.js",
+    "Sha1": "A41108FE30A7AC3FA11A6147F124C5364FE4D443",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "lJJOqqlpVsU=",
+    "Size": 2484,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.progressbar.js",
+    "Sha1": "680F641D99DBFAD5537120775E194840ADAC9E28",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

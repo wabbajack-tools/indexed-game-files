@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "VwwaIQcdALk=",
+    "Size": 117,
+    "Path": "Papyrus Compiler\\PapyrusCompiler.exe.config",
+    "Sha1": "6B7168AE1FA2FA7CF268E36BA4678AED2B9DBB5D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "V8EnZYFOw7I=",
+    "Size": 23982,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.sortable.min.js",
+    "Sha1": "0C573A0A0749551642C1D35A1C76AE35EDA1769E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "V9L5pLXRxHI=",
+    "Size": 26992,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\jquery-ui-1.10.0.custom.min.css",
+    "Sha1": "621C3CBBCD2C68889F57F7419644D6BADA5467C0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "V65ujgn/28k=",
+    "Size": 942,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-az.js",
+    "Sha1": "76319C2A9C92EAA0E70C856FF835B0F83061394E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

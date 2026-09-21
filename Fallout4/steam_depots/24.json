@@ -34,5 +34,50 @@
     "App": 377160,
     "Depot": 435870,
     "Manifest": 1213339795579796878
+  },
+  {
+    "Hash": "JAmVxSpgvpk=",
+    "Size": 3337,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\hide\\default.html",
+    "Sha1": "96B277247DFCA2F49DD9ABC2B02DBD2F6ADC48A7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JPeiRky+ZRI=",
+    "Size": 1080,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-mk.js",
+    "Sha1": "F129ACA23660AF856E47F9152B13C9C0FFE9DF3F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JBB9Tdgrk+s=",
+    "Size": 702,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.transfer.min.js",
+    "Sha1": "F902733413908AB64571157CF79C17493A9EC0DB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JPeiRky+ZRI=",
+    "Size": 1080,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-mk.js",
+    "Sha1": "F129ACA23660AF856E47F9152B13C9C0FFE9DF3F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JBB9Tdgrk+s=",
+    "Size": 702,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.transfer.min.js",
+    "Sha1": "F902733413908AB64571157CF79C17493A9EC0DB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "jZ+hYbtcp+M=",
+    "Size": 1060,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-sr.js",
+    "Sha1": "87067D2E387DCACB8FCC711F91E0F7C068151BD5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "jSSMETPc/0k=",
+    "Size": 17763,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.autocomplete.js",
+    "Sha1": "7150A1DF6982E5AC4F27A9DC3DC6B6B2DEA1C547",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

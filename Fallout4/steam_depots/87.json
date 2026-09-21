@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "h8ER85vFDD4=",
+    "Size": 269,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\images\\calendar.gif",
+    "Sha1": "A6C77332824D2A10931B374A3C35ADFC0D0E6E18",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "h8ER85vFDD4=",
+    "Size": 269,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\images\\calendar.gif",
+    "Sha1": "A6C77332824D2A10931B374A3C35ADFC0D0E6E18",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "h5RnOP3crFc=",
+    "Size": 925,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-cy-GB.js",
+    "Sha1": "9A5CA1CBAFA676311A2B1B522059E0FED05903D6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

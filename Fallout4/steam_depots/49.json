@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "SQR3V5FlIZc=",
+    "Size": 1019,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\show-week.html",
+    "Sha1": "106096E42033B0357D5BE5559338A430BE91676F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SWc4f1c3mDc=",
+    "Size": 1526,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\display-grid.html",
+    "Sha1": "9E5887B17D9A0522EA5A2222EF2E4C1EA78531F7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "STAnFkqPl0w=",
+    "Size": 974,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-et.js",
+    "Sha1": "0A7490A0EDE3760482BAA8E18D9F31B8CDD8AE6C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Se3sD5ThWiA=",
+    "Size": 12234,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.button.js",
+    "Sha1": "2B1D6B9AD42B45C5DA7E00F5A4144F5B1E046DD5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SVext2T14pI=",
+    "Size": 114109,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery-ui-1.10.3.custom.min.js",
+    "Sha1": "8ACFD50F7621DA87BC42798BF4BE8F925B40802F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

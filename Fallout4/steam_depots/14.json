@@ -7,5 +7,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "FCGKKrYA7Ac=",
+    "Size": 1188,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\draggable\\revert.html",
+    "Sha1": "307B37BD621EB1CBC1481E41B60ED429120C7112",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "nZfrl3odyO8=",
+    "Size": 5075004,
+    "Path": "Data\\Scripts\\Source\\Base\\Base.zip",
+    "Sha1": "D7A85A30576672C9C2499AEF74BC7DAA9A020596",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nVJRyRRjM3I=",
+    "Size": 2932,
+    "Path": "lex\\User\\userdic.tlx",
+    "Sha1": "D75CBF2A9F7B76651C1FF04A922DC0C6E08F5FF5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nZnox93BJr4=",
+    "Size": 2472,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\accordion\\mouseover.html",
+    "Sha1": "B86F56EFC4B47E806EEB71A273F0F09617DFFC8D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nXWxGLEY4+U=",
+    "Size": 1461,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ml.js",
+    "Sha1": "25A436FC006C217B9878D05C8783C6EB03078F4E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

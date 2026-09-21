@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "/PldxkYaf98=",
+    "Size": 2510,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\autocomplete\\custom-data.html",
+    "Sha1": "ACBE98A6231941BFCD11C972AC40556409A78D5B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "/AWgOmgaoNw=",
+    "Size": 1101,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\resizable\\helper.html",
+    "Sha1": "B7F0239E0D24F988FCC2A8E02F2F1914CA12625F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "/EOmKkeHEMc=",
+    "Size": 15590,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.widget.js",
+    "Sha1": "8603BB2E78738F352CB9F00809B17676489DBF18",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "/CxIRNw+iwk=",
+    "Size": 965,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.clip.min.js",
+    "Sha1": "6BE4459A2631710FC91CC968BB69C3E9D6F280AB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "/CxIRNw+iwk=",
+    "Size": 965,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.clip.min.js",
+    "Sha1": "6BE4459A2631710FC91CC968BB69C3E9D6F280AB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

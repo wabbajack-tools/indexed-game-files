@@ -7,5 +7,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "vnpAA/QkbT0=",
+    "Size": 2827,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\portlets.html",
+    "Sha1": "6727F261A7A5BD6E0E3E9B4AA88B38B94A377307",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

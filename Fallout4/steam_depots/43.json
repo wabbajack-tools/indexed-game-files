@@ -7,5 +7,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "Q+R02faA/pU=",
+    "Size": 553312,
+    "Path": "Tools\\Archive2\\Microsoft.WindowsAPICodePack.Shell.dll",
+    "Sha1": "68B2983AE332AA92822BB1BC48FC0C7D15D1AB9E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "QySwWCJEN2o=",
+    "Size": 32986,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\position\\images\\rocket.jpg",
+    "Sha1": "56695A76CBE9B551725CD5061F42911C14F04195",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Q8MHTRUt/vk=",
+    "Size": 936,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-eu.js",
+    "Sha1": "FDF0AA7149D343C08E35AD870AED1A3CB26E6A39",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Q/E/xkRE5AA=",
+    "Size": 316,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_glass_40_ffc73d_1x400.png",
+    "Sha1": "227E92F15DFD29354C62CA2C8B9BFE12343D97EA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

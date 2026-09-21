@@ -7,5 +7,59 @@
     "App": 377160,
     "Depot": 435871,
     "Manifest": 7785009542965564688
+  },
+  {
+    "Hash": "x4rCjnnvzqs=",
+    "Size": 1527,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\selectable\\default.html",
+    "Sha1": "954C312BF26A7A98D06A319ACD5B427F9EF06125",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "x+EJq2/EAow=",
+    "Size": 101,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+    "Sha1": "53B50999C4C9838A2A2A190B54203AB9C6ACBB21",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "xwLII2dSq70=",
+    "Size": 17551,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.theme.css",
+    "Sha1": "E868CB8027094D9C41E155955D401365F086EDC9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "x6ywQRrbpTw=",
+    "Size": 913,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-sv.js",
+    "Sha1": "B92C56FCC71E37A38480C57D619A2EF054113C95",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "x+EJq2/EAow=",
+    "Size": 101,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+    "Sha1": "53B50999C4C9838A2A2A190B54203AB9C6ACBB21",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "x49BFMlM+Sk=",
+    "Size": 413,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+    "Sha1": "467A7A13CA0D5BA02D884A74167B3ECA44E9E6E4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

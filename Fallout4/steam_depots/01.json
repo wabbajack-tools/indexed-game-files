@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "AXYtoNia+5I=",
+    "Size": 6986,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\droppable\\photo-manager.html",
+    "Sha1": "418248A42256B7D5272B3D32D31D4901A0332DA9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "AajBWIBqBlM=",
+    "Size": 705,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\index.html",
+    "Sha1": "546F553EA8FCDF3691F7A9F80A15B1069B8E070D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ATzb37nBRQ8=",
+    "Size": 3513,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.progressbar.js",
+    "Sha1": "931B5C1EC0BFA9CEFF4A099BF05C68A074150930",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "AZnyOqaoFnA=",
+    "Size": 1038,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.fold.min.js",
+    "Sha1": "C6FE984AE668801B5ED059535E4AE3BFF0020DCF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "AZnyOqaoFnA=",
+    "Size": 1038,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.fold.min.js",
+    "Sha1": "C6FE984AE668801B5ED059535E4AE3BFF0020DCF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

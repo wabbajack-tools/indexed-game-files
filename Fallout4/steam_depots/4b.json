@@ -16,5 +16,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "S3qtMTZQhO0=",
+    "Size": 5815,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+    "Sha1": "36EC7DE9DE0078DD9B155F4F58042EC7D4284E43",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "Q+c8D50QtbE=",
+    "Size": 546656,
+    "Path": "Tools\\Elric\\xtexconv.exe",
+    "Sha1": "D820023AE255653D7EC17335B06C46E33239F5C1",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "Q94b1Z7rPLE=",
+    "Size": 1650360,
+    "Path": "Tools\\Exporting Blender Art Assets for Skyrim.pdf",
+    "Sha1": "DBCECFE7F7FA491A3A8643953180FEC5A8BD6557",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

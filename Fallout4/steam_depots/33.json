@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "MwFfwFA6tbQ=",
+    "Size": 402784,
+    "Path": "Tools\\Elric\\BSGraphics.dll",
+    "Sha1": "821AA7A33B175FFE98281388B073FA9379EC7D31",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "MwHCWOzUys0=",
+    "Size": 1398,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\toggleClass\\default.html",
+    "Sha1": "68B708545C6100F5CED94A1313FD4F88D205FF66",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "MwnVQJMQZN0=",
+    "Size": 1428,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.blind.js",
+    "Sha1": "A2E42E2F91815AF6C2C32ACD6AD71BADC370EFA7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "M/yghTBaK+g=",
+    "Size": 1051,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-fr.js",
+    "Sha1": "306D2EFFC4171910A28C8FC576B94294B55F46B3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "M8zenjLFZNg=",
+    "Size": 1060,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-sr.js",
+    "Sha1": "5172F14A93D782290C5F0228C6420014529AF331",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "MwnVQJMQZN0=",
+    "Size": 1428,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.blind.js",
+    "Sha1": "A2E42E2F91815AF6C2C32ACD6AD71BADC370EFA7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

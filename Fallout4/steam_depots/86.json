@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "hkvZtXFsDIs=",
+    "Size": 1837,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\sortable\\connect-lists.html",
+    "Sha1": "4685B90EF6F9A320295841B9FB05555452C18C71",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hqKOPy78gH4=",
+    "Size": 905,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-id.js",
+    "Sha1": "CC21AB886AD318C77DFC995F69541C4E63B1154B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "hhqogTVyaQM=",
+    "Size": 1150,
+    "Path": "Tools\\MaterialEditor\\htdocs\\favicon.ico",
+    "Sha1": "8EE75E83382259A7CBC01CC2BEE1BADC5FAE6257",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

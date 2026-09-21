@@ -16,5 +16,68 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "HX7thozbLrQ=",
+    "Size": 21529,
+    "Path": "lex\\User\\correct.tlx",
+    "Sha1": "F7576390E8205D3A1F2A3A73E4635132988DF811",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "HcAbGo/Xevo=",
+    "Size": 1239,
+    "Path": "Tools\\LipGen\\LipFuzer\\LIPFuzer.txt",
+    "Sha1": "E75D45C13151BE1D3CD5CD000486F077E5375E0F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Hdg+yArqkCg=",
+    "Size": 969,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-is.js",
+    "Sha1": "B33DEBD0D0C22CD2EC2DB45870259C946A27DDAD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "HY0eIYxs4hM=",
+    "Size": 1997,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.shake.js",
+    "Sha1": "1CF17CF9F1918DC7DC78C18DDC9F44AE729C8497",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "HXUmmwHB7S4=",
+    "Size": 2342,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jstree.sort.js",
+    "Sha1": "DBF76BF90A432DB297F57843892D5AA6D1F02233",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "HXKF0xQLJn4=",
+    "Size": 955,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-da.js",
+    "Sha1": "A0B040EA66326722B700C9D7420DA77CD4B1DDDD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "HY0eIYxs4hM=",
+    "Size": 1997,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.shake.js",
+    "Sha1": "1CF17CF9F1918DC7DC78C18DDC9F44AE729C8497",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

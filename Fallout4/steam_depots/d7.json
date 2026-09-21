@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "14kZDY+6a1A=",
+    "Size": 176718,
+    "Path": "Data\\LSData\\DtC6dl.dat",
+    "Sha1": "1F1FA5371F815EC747B2132E1E10C67C4DAEA1F7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "1y0vSXarXK4=",
+    "Size": 1273,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.effects.pulsate.js",
+    "Sha1": "8612A88938FF10ECD5627B5DD96A75525E2038E3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "1/P+R/9Wuo0=",
+    "Size": 6491,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.ui.widget.min.js",
+    "Sha1": "71B17D40FC9D80D8AF6C4913CF66AA414A222A06",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "14KQU96XGo4=",
+    "Size": 2599,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.treeview.css",
+    "Sha1": "037C029B84F65175ED469BAA45815936B38F7B89",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "17zXeiHRp6M=",
+    "Size": 262,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-lightness\\images\\ui-bg_glass_100_f6f6f6_1x400.png",
+    "Sha1": "DEDFA4B3397838A0C06591412691C40BAB88B1D6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "1w3sW9Z1tbs=",
+    "Size": 1095,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-tj.js",
+    "Sha1": "328624C35F554A47741C612F70720B24C4660F67",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "1y0vSXarXK4=",
+    "Size": 1273,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.effects.pulsate.js",
+    "Sha1": "8612A88938FF10ECD5627B5DD96A75525E2038E3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

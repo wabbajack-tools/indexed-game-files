@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "sGJ1SL69wIA=",
+    "Size": 178528,
+    "Path": "Tools\\Elric\\NiStripify.dll",
+    "Sha1": "75C2AF2B369CC64E2091C81A2A631F4AFD7204B9",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "sBRMdibuMac=",
+    "Size": 1140,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-ru.js",
+    "Sha1": "1A750ED3169D398809A4CC0A2625A1E9189A87B7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "sL0Up99VqQo=",
+    "Size": 21851,
+    "Path": "Tools\\MaterialEditor\\htdocs\\MaterialEditor.js",
+    "Sha1": "134969D52D0B53F9EEE5379A3F0DE69009D581E3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

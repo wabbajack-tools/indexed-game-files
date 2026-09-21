@@ -1,5 +1,14 @@
 [
   {
+    "Hash": "Fzk/bnreC2Y=",
+    "Size": 323076,
+    "Path": "Data\\LSData\\Wt16M9bs.dat",
+    "Sha1": "02A3E694CD6CA628B238A3A7DC51054006322EFC",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
     "Hash": "F1Az0VXCJSE=",
     "Size": 1310560,
     "Path": "flexRelease_x64.dll",
@@ -7,5 +16,14 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "F37GERovHv4=",
+    "Size": 336848,
+    "Path": "ssce5564.dll",
+    "Sha1": "3112F4E4C3EBFB7DA59170C129888189D0023015",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "E2R/KwOrg2M=",
+    "Size": 14946,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\index.html",
+    "Sha1": "C18DC60391106CCC8214E768CD0348A571FB82DD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "EzQUxaQRcoc=",
+    "Size": 911,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-no.js",
+    "Sha1": "1347870E7A4364C24621C2C95C6B6BB2CFA714FB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "E+6dHU8q2kw=",
+    "Size": 781,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.blind.min.js",
+    "Sha1": "58C6E802BE48F07C6F05710F75408AAF2420F96D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "E/Y+mUO4ATo=",
+    "Size": 2831,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.mouse.min.js",
+    "Sha1": "822B18F1F81F116743B70E8A4FC366AB1C498F67",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "E7CZ6QNQf6E=",
+    "Size": 3816,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-bg_gloss-wave_25_333333_500x100.png",
+    "Sha1": "929710D8AE649E1BCA8D324DAECB5FA35BB31A00",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Ez0SvIzgHxs=",
+    "Size": 33260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\jquery-ui.css",
+    "Sha1": "6072EE823CD70C6147C0449DE005C5EDA2FECAEF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "E0Q8UKKYkq8=",
+    "Size": 1138,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-ru.js",
+    "Sha1": "A865B9E9342EA339B465A8390D2145DD585102A8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "E+6dHU8q2kw=",
+    "Size": 781,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.blind.min.js",
+    "Sha1": "58C6E802BE48F07C6F05710F75408AAF2420F96D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

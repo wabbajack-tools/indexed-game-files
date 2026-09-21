@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "qTlp40n46k4=",
+    "Size": 6922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "692A53CAD7F748BC7B691B98B9116CE3269CD22B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qWcyQHS+ZnU=",
+    "Size": 1477,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\switchClass\\default.html",
+    "Sha1": "1F63E07A0346ED9156F5A09ED59AB175FABA7BAE",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qTlp40n46k4=",
+    "Size": 6922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "692A53CAD7F748BC7B691B98B9116CE3269CD22B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qTlp40n46k4=",
+    "Size": 6922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "692A53CAD7F748BC7B691B98B9116CE3269CD22B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "qTlp40n46k4=",
+    "Size": 6922,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "692A53CAD7F748BC7B691B98B9116CE3269CD22B",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

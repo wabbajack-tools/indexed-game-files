@@ -34,5 +34,68 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "SPdZFfZsTvw=",
+    "Size": 7798,
+    "Path": "lex\\sscebr.tlx",
+    "Sha1": "968A06CE6362B2611BEA5D104148FEFC70F64E6A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SPdZFfZsTvw=",
+    "Size": 7798,
+    "Path": "lex\\ssceca.tlx",
+    "Sha1": "968A06CE6362B2611BEA5D104148FEFC70F64E6A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SKRM7r0Iykw=",
+    "Size": 1459,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\dialog\\modal.html",
+    "Sha1": "E7C700E9CAE31232A671845B6593692FEAFA07B3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SMrtnS4xdeo=",
+    "Size": 115213,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\sortable.html",
+    "Sha1": "7FEBA34B8E61954799E1A1111D24A60672276124",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SO9hw6GEmfA=",
+    "Size": 920,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-en-AU.js",
+    "Sha1": "F59020B2AF55003A0C9945AA0FBFAE19C321774E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SDS/8laxTnM=",
+    "Size": 13611,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.js",
+    "Sha1": "256417856436648DEA99AEC78DACA3A26AB1F0D6",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "SO9hw6GEmfA=",
+    "Size": 920,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-en-AU.js",
+    "Sha1": "F59020B2AF55003A0C9945AA0FBFAE19C321774E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

@@ -7,5 +7,86 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "nn/r33qedXY=",
+    "Size": 90,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+    "Sha1": "C12C01392B4C7016A1F63101F13F6296B1AC5493",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nn/r33qedXY=",
+    "Size": 90,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+    "Sha1": "C12C01392B4C7016A1F63101F13F6296B1AC5493",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nsX0DG+gzRk=",
+    "Size": 3799,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\slider\\tabs.html",
+    "Sha1": "D9359287452097AD364517F7D1CDBF6AF2DD75D4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nn2Dwmnbgho=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-icons_222222_256x240.png",
+    "Sha1": "1F12BAC718A6275823D9805CBE6BF6818838AA8C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nk02tJIvJIA=",
+    "Size": 4369,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-icons_888888_256x240.png",
+    "Sha1": "FFB3D9CFD842BF9E23F126A9DCF6546A7DFC5701",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nn/r33qedXY=",
+    "Size": 90,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+    "Sha1": "C12C01392B4C7016A1F63101F13F6296B1AC5493",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nn/r33qedXY=",
+    "Size": 90,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+    "Sha1": "C12C01392B4C7016A1F63101F13F6296B1AC5493",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nn/r33qedXY=",
+    "Size": 90,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+    "Sha1": "C12C01392B4C7016A1F63101F13F6296B1AC5493",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "nn/r33qedXY=",
+    "Size": 90,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+    "Sha1": "C12C01392B4C7016A1F63101F13F6296B1AC5493",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

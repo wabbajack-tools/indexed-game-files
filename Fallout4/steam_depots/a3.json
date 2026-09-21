@@ -16,5 +16,32 @@
     "App": 377160,
     "Depot": 435870,
     "Manifest": 1691678129192680960
+  },
+  {
+    "Hash": "o4L2Jzr+quE=",
+    "Size": 1267,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\button\\checkbox.html",
+    "Sha1": "2FCB0D788CD1AB6D270EDA7E4EB023ED52770215",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "o8FipPlqyys=",
+    "Size": 34272,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\progressbar.html",
+    "Sha1": "99C5EE58576A4F0232532C8A434138B5B24D858F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "o6iksZrGeGg=",
+    "Size": 59060,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\external\\qunit.js",
+    "Sha1": "22EAEBCEA85E2FA41F8E830C5C82255F31F0EB44",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

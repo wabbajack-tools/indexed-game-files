@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "Qr6FP9E/Urc=",
+    "Size": 1465464,
+    "Path": "Tools\\AssetWatcher\\platforms\\qwindows.dll",
+    "Sha1": "4EBBBE56F7FD5A18A6916B9EFD7F073A5D5658E0",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

@@ -1,0 +1,119 @@
+[
+  {
+    "Hash": "pgiQB18z068=",
+    "Size": 480608,
+    "Path": "Tools\\Archive2\\Archive2Interop.dll",
+    "Sha1": "ACC419CEC4E24CC38B0C1AAB20A69BB3EE46EF6C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "psc79AoqUtA=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "7E5C99E9F0113BA6B63C2BB408B8347191316CDA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "ph47u2BIVdo=",
+    "Size": 142,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui.spinner.css",
+    "Sha1": "71B4562DF0857957A327859AFEC1FAF7C1DCD845",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "psc79AoqUtA=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "7E5C99E9F0113BA6B63C2BB408B8347191316CDA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pgjcL/FRjbg=",
+    "Size": 1359,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\dialog\\default.html",
+    "Sha1": "79FDCD534B8DED5C6DA50622AEF3F7ED02B1D2E7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "psc79AoqUtA=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "7E5C99E9F0113BA6B63C2BB408B8347191316CDA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "psc79AoqUtA=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "7E5C99E9F0113BA6B63C2BB408B8347191316CDA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "puLMsZsY6Sw=",
+    "Size": 18637,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.bgsdlgeditor.js",
+    "Sha1": "D6D62047180AA24E851E360A6B48CA96DCA93FFD",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "psc79AoqUtA=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\bootstrap\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "7E5C99E9F0113BA6B63C2BB408B8347191316CDA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "psc79AoqUtA=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "7E5C99E9F0113BA6B63C2BB408B8347191316CDA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "psc79AoqUtA=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "7E5C99E9F0113BA6B63C2BB408B8347191316CDA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "psc79AoqUtA=",
+    "Size": 105,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+    "Sha1": "7E5C99E9F0113BA6B63C2BB408B8347191316CDA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "pnK8f/BTOGU=",
+    "Size": 920,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-eu.js",
+    "Sha1": "0DD90E7501FB921A5371B1A4378CC119A03A2CA5",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

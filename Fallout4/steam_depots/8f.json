@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "jxoOy3wr6zM=",
+    "Size": 17881,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\jquery.ui.theme.css",
+    "Sha1": "A153822C26B233A563BC5F79483C074BF03FB258",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "jx5KkL3SrP0=",
+    "Size": 1117,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-vi.js",
+    "Sha1": "C2D55240449FCB6C2D5DF41EB8A68C7E200F4B32",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "j0p3nThDNk4=",
+    "Size": 4549,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.3\\images\\ui-icons_ef8c08_256x240.png",
+    "Sha1": "5DF2A9F742078D5244FA4CF06C1C31F20CBA7A75",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

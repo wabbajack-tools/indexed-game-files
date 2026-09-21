@@ -7,5 +7,14 @@
     "App": 489830,
     "Depot": 489832,
     "Manifest": 6077137133470860357
+  },
+  {
+    "Hash": "3GUmir2+zBM=",
+    "Size": 5539448,
+    "Path": "Tools\\AssetWatcher\\Qt5Widgets.dll",
+    "Sha1": "FF44FDDEEC2D335EC0EAA861714B561F899675FD",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
   }
 ]

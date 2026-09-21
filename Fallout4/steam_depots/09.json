@@ -16,5 +16,113 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "CZWG9+3H8WM=",
+    "Size": 323076,
+    "Path": "Data\\LSData\\Wt8S9bs.dat",
+    "Sha1": "D6339E8B7FC321D0BF4B91784A532E4A6B6835AF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "Ceab9QB3o7I=",
+    "Size": 758302,
+    "Path": "Data\\Scripts\\Source\\DLC04\\DLC04.zip",
+    "Sha1": "46B85E696442E9DE8B77F58721213499B0EBFC8E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CSIK2fX5lZY=",
+    "Size": 251,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "25ED36E9222F92DC1D4148EEF3C37D581A09EE23",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CSIK2fX5lZY=",
+    "Size": 251,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "25ED36E9222F92DC1D4148EEF3C37D581A09EE23",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CXWUvR+X6LE=",
+    "Size": 2886,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\accordion\\custom-icons.html",
+    "Sha1": "7F08FCA27523A07DAD2C1F119CB7424CF01B2D75",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CSIK2fX5lZY=",
+    "Size": 251,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "25ED36E9222F92DC1D4148EEF3C37D581A09EE23",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CS2vhi9bySk=",
+    "Size": 78362,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery.ui.datepicker.js",
+    "Sha1": "0826440E7552EBD76E1137C0338ACFF80941486E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CQUzkt2Meds=",
+    "Size": 309,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\black-tie\\images\\ui-bg_inset-hard_55_ffeb80_1x100.png",
+    "Sha1": "8227CA91C43C683B05FBFFBF09983B003E7773AA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CRbSeom1WiI=",
+    "Size": 230,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-bg_flat_50_5c5c5c_40x100.png",
+    "Sha1": "68525AF5A5D94700B829CFD1307B5C52A9326962",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CSIK2fX5lZY=",
+    "Size": 251,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "25ED36E9222F92DC1D4148EEF3C37D581A09EE23",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CSIK2fX5lZY=",
+    "Size": 251,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "25ED36E9222F92DC1D4148EEF3C37D581A09EE23",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "CSIK2fX5lZY=",
+    "Size": 251,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "25ED36E9222F92DC1D4148EEF3C37D581A09EE23",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

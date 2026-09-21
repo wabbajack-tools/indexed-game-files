@@ -16,5 +16,23 @@
     "App": 377160,
     "Depot": 377164,
     "Manifest": 8492427313392140315
+  },
+  {
+    "Hash": "Epz8QGZrJZE=",
+    "Size": 50361,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\docs\\slider.html",
+    "Sha1": "19F5C40AB9282EC32B4C374D2AF7108580A34669",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "EvRKY8mSweo=",
+    "Size": 4383,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.core.min.js",
+    "Sha1": "74069E705D0668E5D9A45148EB9E57CA42E2785E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

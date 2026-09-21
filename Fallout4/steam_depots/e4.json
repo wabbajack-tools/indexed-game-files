@@ -7,5 +7,113 @@
     "App": 377160,
     "Depot": 435880,
     "Manifest": 366079256218893805
+  },
+  {
+    "Hash": "5HfRQ6bdMrE=",
+    "Size": 213,
+    "Path": "Papyrus Compiler\\ScriptCompileRelease.bat",
+    "Sha1": "311526434B8265DDAC5F4234381B2DCCB443660E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5NkFufuDcz8=",
+    "Size": 6975,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\dark-hive\\images\\ui-icons_cccccc_256x240.png",
+    "Sha1": "378EAAB0B08B34B93F03E43B84B0D15E11F46449",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5D6LosaMIRs=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\ui-lightness\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "C375BBD91E5A554A968AEC7897A5ACA0271ABB36",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5D6LosaMIRs=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\xui-lightness\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "C375BBD91E5A554A968AEC7897A5ACA0271ABB36",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5DKrsBuUXNs=",
+    "Size": 784,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\inline.html",
+    "Sha1": "F7FA46A21F3803E50947DCD56751316EBFCF8C12",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5NkFufuDcz8=",
+    "Size": 6975,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\images\\ui-icons_cccccc_256x240.png",
+    "Sha1": "378EAAB0B08B34B93F03E43B84B0D15E11F46449",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5D6LosaMIRs=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\ui-lightness\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "C375BBD91E5A554A968AEC7897A5ACA0271ABB36",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5NkFufuDcz8=",
+    "Size": 6975,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-icons_cccccc_256x240.png",
+    "Sha1": "378EAAB0B08B34B93F03E43B84B0D15E11F46449",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5LIgUVIg75s=",
+    "Size": 275,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\ui-darkness\\images\\ui-bg_inset-soft_25_000000_1x100.png",
+    "Sha1": "679AFCBC10680F0C676EC126438C48671CC3648E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5D6LosaMIRs=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.8.23\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "C375BBD91E5A554A968AEC7897A5ACA0271ABB36",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5D6LosaMIRs=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.9.1\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "C375BBD91E5A554A968AEC7897A5ACA0271ABB36",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "5D6LosaMIRs=",
+    "Size": 260,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+    "Sha1": "C375BBD91E5A554A968AEC7897A5ACA0271ABB36",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]

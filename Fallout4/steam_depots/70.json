@@ -25,5 +25,41 @@
     "App": 377160,
     "Depot": 377163,
     "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "cCxTjWLyAQI=",
+    "Size": 944480,
+    "Path": "Tools\\Elric\\DotNetMagic2005.dll",
+    "Sha1": "8D911959DF04BECF3ED19D0DC429C00BA4FAED6A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cKpx1TrcuPw=",
+    "Size": 502,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\dialog\\index.html",
+    "Sha1": "5079F28695B13471495135A293F94879FDA5451D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cGGADl/yLcY=",
+    "Size": 455,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\css\\ui-lightness\\1.10.0\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+    "Sha1": "0D054EE646ED0B6B195620281D313611F44C0B83",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "cHCFGwwDwzs=",
+    "Size": 10468,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery.ui.droppable.js",
+    "Sha1": "094D505FCC07C43044E78FFE05666354C23479D3",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
   }
 ]
