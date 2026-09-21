@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "GO12EAP3jsM=",
+    "Size": 603820524,
+    "Path": "Data\\Fallout4 - Textures8.ba2",
+    "Sha1": "FB5335D563F335F66D5967FAC292AC78478F786D",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "GO12EAP3jsM=",
+    "Size": 603820524,
+    "Path": "Data\\Fallout4 - Textures8.ba2",
+    "Sha1": "FB5335D563F335F66D5967FAC292AC78478F786D",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "GLgTbVBqsxQ=",
+    "Size": 65503104,
+    "Path": "Fallout4.exe",
+    "Sha1": "A22B3A8BFD3A8AD3B5F7A9E6EAF5BDAD76004DC3",
+    "App": 377160,
+    "Depot": 377162,
+    "Manifest": 5847529232406005096
+  }
+]

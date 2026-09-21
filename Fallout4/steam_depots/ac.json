@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "rCo6DIZ1mqg=",
+    "Size": 427520,
+    "Path": "bink2w64.dll",
+    "Sha1": "02BDFAA1AECF85761C354B3A13F48E38B0DE887A",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "rCo6DIZ1mqg=",
+    "Size": 427520,
+    "Path": "bink2w64.dll",
+    "Sha1": "02BDFAA1AECF85761C354B3A13F48E38B0DE887A",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "rOWl/wcyTpM=",
+    "Size": 41645986,
+    "Path": "Data\\ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2",
+    "Sha1": "EE6A513C3A525F94D041A5F225387D0D3342C2A3",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  }
+]

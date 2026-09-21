@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "L3EnIYIs58s=",
+    "Size": 2216026,
+    "Path": "Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+    "Sha1": "D92583CDB3F3EE4BB913D6859C2BDD27FD0D61AB",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "L1RdvbPgIk8=",
+    "Size": 1493340537,
+    "Path": "Data\\Fallout4 - Meshes.ba2",
+    "Sha1": "27EF717BAC5130641241BDEA3DB35B8819014E59",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7332110922360867314
+  },
+  {
+    "Hash": "L1RdvbPgIk8=",
+    "Size": 1493340537,
+    "Path": "Data\\Fallout4 - Meshes.ba2",
+    "Sha1": "27EF717BAC5130641241BDEA3DB35B8819014E59",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "L1RdvbPgIk8=",
+    "Size": 1493340537,
+    "Path": "Data\\Fallout4 - Meshes.ba2",
+    "Sha1": "27EF717BAC5130641241BDEA3DB35B8819014E59",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "LyHvzStuzDg=",
+    "Size": 661456,
+    "Path": "msvcp110.dll",
+    "Sha1": "2A94C1CECFB957195FCBBF1C59827A12025B5615",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "LyHvzStuzDg=",
+    "Size": 661456,
+    "Path": "msvcp110.dll",
+    "Sha1": "2A94C1CECFB957195FCBBF1C59827A12025B5615",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "LyHvzStuzDg=",
+    "Size": 661456,
+    "Path": "msvcp110.dll",
+    "Sha1": "2A94C1CECFB957195FCBBF1C59827A12025B5615",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

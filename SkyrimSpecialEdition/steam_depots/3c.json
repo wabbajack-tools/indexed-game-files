@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "PDVHLK2W12M=",
+    "Size": 1345109830,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "B1B58553AF157A147692AB67EB8BD46E8735DA42",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  },
+  {
+    "Hash": "PBGN5rwZGPI=",
+    "Size": 107081915,
+    "Path": "Data\\Skyrim - Textures6.bsa",
+    "Sha1": "FD824B2F04C6990BBF7FA13AA7367FE8AF1D3462",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  },
+  {
+    "Hash": "PJMJLiaO22Y=",
+    "Size": 916509890,
+    "Path": "Data\\_ResourcePack.bsa",
+    "Sha1": "D6BC357CEFA06F6E61C6C5B89D22D5319D13E954",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3552311541133526669
+  },
+  {
+    "Hash": "PJMJLiaO22Y=",
+    "Size": 916509890,
+    "Path": "Data\\_ResourcePack.bsa",
+    "Sha1": "D6BC357CEFA06F6E61C6C5B89D22D5319D13E954",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 4940892828028256588
+  }
+]

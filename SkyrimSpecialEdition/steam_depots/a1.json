@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "oct60LUJHOc=",
+    "Size": 249753477,
+    "Path": "Data\\Skyrim.esm",
+    "Sha1": "A381E16FDBF9716407B8341C48C435C7477173C9",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1476684358338706955
+  },
+  {
+    "Hash": "oZzXdq/4XGs=",
+    "Size": 18825075,
+    "Path": "Data\\Update.esm",
+    "Sha1": "466920F20B0BB2FB73699F61802E930A07008788",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 6077137133470860357
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "EI4aMIMWhjk=",
+    "Size": 25886225,
+    "Path": "Data\\Dawnguard.esm",
+    "Sha1": "1B979FB20B70531555295733ACDE6287760233E5",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "EMIAySDLQKA=",
+    "Size": 298384,
+    "Path": "steam_api64.dll",
+    "Sha1": "39CAC2889D8CA497EE0D8434FC9F6966F18FA336",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  },
+  {
+    "Hash": "EMIAySDLQKA=",
+    "Size": 298384,
+    "Path": "steam_api64.dll",
+    "Sha1": "39CAC2889D8CA497EE0D8434FC9F6966F18FA336",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 4341968404481569190
+  },
+  {
+    "Hash": "EMIAySDLQKA=",
+    "Size": 298384,
+    "Path": "steam_api64.dll",
+    "Sha1": "39CAC2889D8CA497EE0D8434FC9F6966F18FA336",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  },
+  {
+    "Hash": "EMIAySDLQKA=",
+    "Size": 298384,
+    "Path": "steam_api64.dll",
+    "Sha1": "39CAC2889D8CA497EE0D8434FC9F6966F18FA336",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  }
+]

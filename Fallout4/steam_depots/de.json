@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "3hkCspad584=",
+    "Size": 353280,
+    "Path": "flexExtRelease_x64.dll",
+    "Sha1": "B2DBF3F879E0B799D437F6B9B922BD1E827C04CE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "3hkCspad584=",
+    "Size": 353280,
+    "Path": "flexExtRelease_x64.dll",
+    "Sha1": "B2DBF3F879E0B799D437F6B9B922BD1E827C04CE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

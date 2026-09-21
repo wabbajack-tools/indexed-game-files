@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "FZXovxp8lX0=",
+    "Size": 298496,
+    "Path": "binkw64.dll",
+    "Sha1": "B40E183A1C785403B9A760C87D436AE03662EC3B",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "FQbA20bA5Dw=",
+    "Size": 111740475,
+    "Path": "Data\\ccBGSSSE037-Curios.bsa",
+    "Sha1": "6ED7FF8B9CD17EFDBA6619685AB9F0B0770B0642",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3660787314279169352
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "RNcHKDphAvw=",
+    "Size": 22562982,
+    "Path": "Data\\DLCworkshop03 - Geometry.csg",
+    "Sha1": "1201CB43D40FCDCED8CD97AC9F9C429330C6CEC2",
+    "App": 377160,
+    "Depot": 480631,
+    "Manifest": 6588493486198824788
+  },
+  {
+    "Hash": "RDE6albE4iI=",
+    "Size": 17399872,
+    "Path": "Data\\Fallout4 - Misc.ba2",
+    "Sha1": "16B36FE30490A25454D4E69CED820B1DE51BC784",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "RHpv+ziXYaQ=",
+    "Size": 380362384,
+    "Path": "Data\\Video\\Intro.bk2",
+    "Sha1": "B7458E0917753DB451EB59FC419DB8D80FA1F1E7",
+    "App": 377160,
+    "Depot": 377164,
+    "Manifest": 2178106366609958945
+  },
+  {
+    "Hash": "RHpv+ziXYaQ=",
+    "Size": 380362384,
+    "Path": "Data\\Video\\Intro.bk2",
+    "Sha1": "B7458E0917753DB451EB59FC419DB8D80FA1F1E7",
+    "App": 377160,
+    "Depot": 377164,
+    "Manifest": 8492427313392140315
+  }
+]

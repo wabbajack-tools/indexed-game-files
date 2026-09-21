@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "LsNhrJ6et0k=",
+    "Size": 2709070014,
+    "Path": "Data\\Fallout4 - Textures1.ba2",
+    "Sha1": "11C6205A58A7048999266117A939609150EB7259",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "LsNhrJ6et0k=",
+    "Size": 2709070014,
+    "Path": "Data\\Fallout4 - Textures1.ba2",
+    "Sha1": "11C6205A58A7048999266117A939609150EB7259",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "LoodhtJofQg=",
+    "Size": 221085404,
+    "Path": "Data\\Video\\Endgame_FEMALE_A.bk2",
+    "Sha1": "68BF4272C46F08CEAE979DA044172A7EAF4760F7",
+    "App": 377160,
+    "Depot": 377164,
+    "Manifest": 2178106366609958945
+  },
+  {
+    "Hash": "LoodhtJofQg=",
+    "Size": 221085404,
+    "Path": "Data\\Video\\Endgame_FEMALE_A.bk2",
+    "Sha1": "68BF4272C46F08CEAE979DA044172A7EAF4760F7",
+    "App": 377160,
+    "Depot": 377164,
+    "Manifest": 8492427313392140315
+  },
+  {
+    "Hash": "Lqno6WIlL7I=",
+    "Size": 53088,
+    "Path": "nvToolsExt64_1.dll",
+    "Sha1": "3D2CDA61454C51E443ADEB6C22A3EC7102BB682F",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  }
+]

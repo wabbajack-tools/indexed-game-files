@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "kX9UFltG4+s=",
+    "Size": 116177491,
+    "Path": "Data\\Skyrim - Animations.bsa",
+    "Sha1": "BAAF8E17A51228773F177E1FA82F4697D748D3A5",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 7848722008564294070
+  },
+  {
+    "Hash": "kUglMc/FQa4=",
+    "Size": 78483,
+    "Path": "Data\\_ResourcePack.esl",
+    "Sha1": "1CDFB9B32552F73DA2928C033853C678686A3031",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3552311541133526669
+  },
+  {
+    "Hash": "kUglMc/FQa4=",
+    "Size": 78483,
+    "Path": "Data\\_ResourcePack.esl",
+    "Sha1": "1CDFB9B32552F73DA2928C033853C678686A3031",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 4940892828028256588
+  }
+]

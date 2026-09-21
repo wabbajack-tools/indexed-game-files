@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "uQVDc38svG4=",
+    "Size": 1538656059,
+    "Path": "Data\\Skyrim - Sounds.bsa",
+    "Sha1": "33F78A1D7E1DF99BFC0D85A0AC0C42078BBB9771",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8893533186410323048
+  },
+  {
+    "Hash": "uYuE6dOb1QM=",
+    "Size": 78418,
+    "Path": "Data\\_ResourcePack.esl",
+    "Sha1": "6C2AA0A34F151504A77DF7CA5A17691CC37B0ED3",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3737743381894105176
+  }
+]

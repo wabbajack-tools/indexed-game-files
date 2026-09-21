@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "f+OVJlWp6cA=",
+    "Size": 378762772,
+    "Path": "Data\\Skyrim - Meshes1.bsa",
+    "Sha1": "46725C10726702DBFAB6861701286DAC25F48B5B",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3737743381894105176
+  },
+  {
+    "Hash": "f+OVJlWp6cA=",
+    "Size": 378762772,
+    "Path": "Data\\Skyrim - Meshes1.bsa",
+    "Sha1": "46725C10726702DBFAB6861701286DAC25F48B5B",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8442952117333549665
+  },
+  {
+    "Hash": "f94jj7/40mM=",
+    "Size": 1401677791,
+    "Path": "Data\\Skyrim - Textures3.bsa",
+    "Sha1": "2868113AC700CA600B5BB4F62BF83B38EA12D491",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5260954425794414274
+  }
+]

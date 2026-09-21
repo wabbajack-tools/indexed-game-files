@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "gVQKrJZltug=",
+    "Size": 12774518,
+    "Path": "Data\\ccQDRSSE001-SurvivalMode.bsa",
+    "Sha1": "488E0AF0A301A136E8F63F8065035C82D0FF1D4C",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 349141704917442044
+  },
+  {
+    "Hash": "gVQKrJZltug=",
+    "Size": 12774518,
+    "Path": "Data\\ccQDRSSE001-SurvivalMode.bsa",
+    "Sha1": "488E0AF0A301A136E8F63F8065035C82D0FF1D4C",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 7089166303853251347
+  },
+  {
+    "Hash": "gWrSukN2VrA=",
+    "Size": 254053048,
+    "Path": "Data\\Skyrim - Textures8.bsa",
+    "Sha1": "A960569D5B26EE22929E30461B5C391A7E1C6FE1",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "gWqiG12CBrA=",
+    "Size": 4713472,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "70DB49944B12B7BF74D0BB9E677E5B00C3A97D3D",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 4341968404481569190
+  },
+  {
+    "Hash": "gWqiG12CBrA=",
+    "Size": 4713472,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "70DB49944B12B7BF74D0BB9E677E5B00C3A97D3D",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  }
+]

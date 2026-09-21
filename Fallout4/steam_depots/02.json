@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "AhEzntXlbJ4=",
+    "Size": 4520448,
+    "Path": "Fallout4Launcher.exe",
+    "Sha1": "CAA2CDC6DC5A8069CE3B4417176F2FB86DCBB4CC",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "AkonBSPQylo=",
+    "Size": 1220,
+    "Path": "High.ini",
+    "Sha1": "9647C3DFA7DFFCA891F6C4519DFDF4A9B06FB4B8",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  }
+]

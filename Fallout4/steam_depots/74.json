@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "dPXFf5LMTfk=",
+    "Size": 5113,
+    "Path": "Fallout4.ccc",
+    "Sha1": "1BE8CC22673D919DD2EF4685314556521574FDF1",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "dDY35KRcwbw=",
+    "Size": 4533600,
+    "Path": "Fallout4Launcher.exe",
+    "Sha1": "B39E6C29F631814FE94631DF46164CCE1B159AB8",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  }
+]

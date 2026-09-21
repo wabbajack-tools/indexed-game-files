@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "mKA1umIwZgk=",
+    "Size": 1783176,
+    "Path": "Data\\ccBGSFO4019-ChineseStealthArmor - Main.ba2",
+    "Sha1": "637C27E5F754DF5352CBFDBE6AAD5E30F38ED103",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "mEvEfYQc2mI=",
+    "Size": 431598,
+    "Path": "Data\\ccBGSFO4044-HellfirePowerArmor.esl",
+    "Sha1": "EC6DF0EC54A544E1A99E834D2624623ECAE58516",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "mHUbt5Zv0s4=",
+    "Size": 122977015,
+    "Path": "Data\\DLCRobot - Voices_en.ba2",
+    "Sha1": "F0890555DBEEAE1D2CC9B030EE0D0B0E485CC4A4",
+    "App": 377160,
+    "Depot": 435871,
+    "Manifest": 7785009542965564688
+  },
+  {
+    "Hash": "mFo6JqLF9Do=",
+    "Size": 208483596,
+    "Path": "Data\\DLCworkshop03 - Textures.ba2",
+    "Sha1": "6E0C6378107223ED12038A8B80288E970AA370FF",
+    "App": 377160,
+    "Depot": 480631,
+    "Manifest": 6588493486198824788
+  }
+]

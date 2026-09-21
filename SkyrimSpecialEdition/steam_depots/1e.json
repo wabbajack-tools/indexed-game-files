@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "Ht5zItXW/SY=",
+    "Size": 1425350,
+    "Path": "Data\\ccBGSSSE001-Fish.esm",
+    "Sha1": "830FBB6643848A614D5A2C2A370CA22910344076",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3660787314279169352
+  },
+  {
+    "Hash": "Hsv2De8nO7Q=",
+    "Size": 249753426,
+    "Path": "Data\\Skyrim.esm",
+    "Sha1": "35CF0E6033714C175A50F50E9E4285B16F97B347",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "6iUwY1KZums=",
+    "Size": 1092769307,
+    "Path": "Data\\ccBGSSSE025-AdvDSGS.bsa",
+    "Sha1": "4DC48E32CD32B21138FD40B88A77600607C4F0C8",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 1985552842565684891
+  },
+  {
+    "Hash": "6iUwY1KZums=",
+    "Size": 1092769307,
+    "Path": "Data\\ccBGSSSE025-AdvDSGS.bsa",
+    "Sha1": "4DC48E32CD32B21138FD40B88A77600607C4F0C8",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 6913241376784585188
+  },
+  {
+    "Hash": "6nWZkhNuYpM=",
+    "Size": 25885111,
+    "Path": "Data\\Dawnguard.esm",
+    "Sha1": "06A27B47A3D395DF1EE53700DFD16116A7639215",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  },
+  {
+    "Hash": "6n+UdS1Y8jw=",
+    "Size": 67768230,
+    "Path": "Data\\Skyrim - Shaders.bsa",
+    "Sha1": "5F6B0C024E5F05C55A64B47A7AD0F5E212FEEF07",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  }
+]

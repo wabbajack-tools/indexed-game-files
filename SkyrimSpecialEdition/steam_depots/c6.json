@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "xt07sOZ6EUs=",
+    "Size": 25884488,
+    "Path": "Data\\Dawnguard.esm",
+    "Sha1": "DDAA3F01E177DCE2D293E3D08E3513DA62CE4710",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  },
+  {
+    "Hash": "xn0zykJZrQk=",
+    "Size": 1538656059,
+    "Path": "Data\\Skyrim - Sounds.bsa",
+    "Sha1": "66855749F446296E02B17A701498E48975A8166F",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 4940892828028256588
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "/Sglpr+ZffA=",
+    "Size": 204313675,
+    "Path": "Data\\Skyrim - Misc.bsa",
+    "Sha1": "8B68778DFA8379B587ACE17A11E8910676091EBB",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 7848722008564294070
+  },
+  {
+    "Hash": "/UjmU5YV13I=",
+    "Size": 810446049,
+    "Path": "Data\\Skyrim - Textures5.bsa",
+    "Sha1": "FA6070659ED4660B93FA4F9D037835124E8F4AF8",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  }
+]

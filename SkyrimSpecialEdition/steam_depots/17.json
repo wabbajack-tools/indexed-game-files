@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "F76LaGyCAJA=",
+    "Size": 64663913,
+    "Path": "Data\\Dragonborn.esm",
+    "Sha1": "4AB05C4C8371581285E6D7EC21A6ACB212761827",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1476684358338706955
+  },
+  {
+    "Hash": "F0clUSPO+WE=",
+    "Size": 3977660,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "EA45CE7259FC7A11B102FCAF1A9B53ECFE8045D1",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2756691988703496654
+  }
+]

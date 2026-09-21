@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "/eyE4TJm+ZY=",
+    "Size": 2221631,
+    "Path": "Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+    "Sha1": "9E6EA4B6AA3B1D84245ED7EECF0F4110A72FC4FB",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "/R6flLo0rdY=",
+    "Size": 643894,
+    "Path": "Data\\ccBGSFO4115-X02.esl",
+    "Sha1": "613A67CF02F90C55F2EA8C7B978C4A0112CA99BA",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "/YoBMfMWEho=",
+    "Size": 322255456,
+    "Path": "Data\\Video\\MainMenuLoop.bk2",
+    "Sha1": "851D6ACBCCBBCED72F9BC8ECBD39A8C742513E17",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 5983086794954940044
+  },
+  {
+    "Hash": "/YoBMfMWEho=",
+    "Size": 322255456,
+    "Path": "Data\\Video\\MainMenuLoop.bk2",
+    "Sha1": "851D6ACBCCBBCED72F9BC8ECBD39A8C742513E17",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7332110922360867314
+  },
+  {
+    "Hash": "/YoBMfMWEho=",
+    "Size": 322255456,
+    "Path": "Data\\Video\\MainMenuLoop.bk2",
+    "Sha1": "851D6ACBCCBBCED72F9BC8ECBD39A8C742513E17",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7497069378349273908
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "6urerwlpM6g=",
+    "Size": 2269911,
+    "Path": "Data\\ccBGSFO4003-PipBoy(Camo01) - Textures.ba2",
+    "Sha1": "D2A2337E22E6A032CCCDEA67BB5B623384DB9C13",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "6tgSrW663Kg=",
+    "Size": 122977015,
+    "Path": "Data\\DLCRobot - Voices_en.ba2",
+    "Sha1": "D9E3D3E7873FEEF900EE6DEBF28B21858C2835D0",
+    "App": 377160,
+    "Depot": 435871,
+    "Manifest": 5106118861901111234
+  },
+  {
+    "Hash": "6kSvV9UAFjA=",
+    "Size": 696408,
+    "Path": "Data\\DLCworkshop03.cdx",
+    "Sha1": "C4C3896F1FC5227664B9126E72978D111AC9B20C",
+    "App": 377160,
+    "Depot": 480631,
+    "Manifest": 6588493486198824788
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "MPp6qxH4cRI=",
+    "Size": 76970780,
+    "Path": "Data\\ccBGSFO4044-HellfirePowerArmor - Textures.ba2",
+    "Sha1": "2641C8869C266FA4747BAD2F6BE89EC1C3B0B73E",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "MO8259i3XEQ=",
+    "Size": 292206,
+    "Path": "Data\\ccFSVFO4007-Halloween.esl",
+    "Sha1": "5DDC84105DA5DB0531544CA2AF36125C472EED48",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "MGAfEhwEKRE=",
+    "Size": 4522496,
+    "Path": "Fallout4Launcher.exe",
+    "Sha1": "5B218057D21F0F607101A9925AF080ED37327178",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  }
+]

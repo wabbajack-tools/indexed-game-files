@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "4VzJFpoeSyY=",
+    "Size": 12845022,
+    "Path": "Data\\Fallout4 - Shaders.ba2",
+    "Sha1": "6E64126DFD9CA6BB8A64E5850AFBAF060828D0BF",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "4V/K/sLdEXo=",
+    "Size": 56024998,
+    "Path": "Data\\Fallout4 - Startup.ba2",
+    "Sha1": "D75D0626C698A73C9C8042316BC716E1C566C3BA",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "4SCpYp54M/c=",
+    "Size": 363872,
+    "Path": "flexExtRelease_x64.dll",
+    "Sha1": "1A22AA03134C18BA86C3B565B84F8598F7539A8B",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "zFVCQsts+EE=",
+    "Size": 1346030841,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "23AD877254F7370D2CCBA5ADACE92721146E4031",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "zJl1CmheETU=",
+    "Size": 249753479,
+    "Path": "Data\\Skyrim.esm",
+    "Sha1": "40C806B1BE8226D7D2105DAA982C9AB85BE243D4",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2337986449035143556
+  }
+]

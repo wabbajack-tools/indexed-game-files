@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "XTaNNFIm3eM=",
+    "Size": 1152069673,
+    "Path": "Data\\Skyrim - Meshes0.bsa",
+    "Sha1": "7A832CDDC07AD8BF751BEB692F140308FB978103",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 7848722008564294070
+  },
+  {
+    "Hash": "XVpa268dn7k=",
+    "Size": 378853634,
+    "Path": "Data\\Skyrim - Meshes1.bsa",
+    "Sha1": "DA4E360491F542E168701C0EF950D5DC79AF507F",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8893533186410323048
+  }
+]

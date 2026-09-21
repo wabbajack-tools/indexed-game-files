@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "pdo++Qrx7S0=",
+    "Size": 64663944,
+    "Path": "Data\\Dragonborn.esm",
+    "Sha1": "237116ADBAAA18F0FC0A2E17EE6FBBE094229ED3",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "pS/6jcnFx1I=",
+    "Size": 652490581,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "30F22217D50C3FBFFF97EA8EB8910F8EFD69461B",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 4341968404481569190
+  },
+  {
+    "Hash": "pS/6jcnFx1I=",
+    "Size": 652490581,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "30F22217D50C3FBFFF97EA8EB8910F8EFD69461B",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  }
+]

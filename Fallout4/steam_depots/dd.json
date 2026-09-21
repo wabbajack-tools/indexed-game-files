@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "3QGscRUP3fo=",
+    "Size": 849360,
+    "Path": "msvcr110.dll",
+    "Sha1": "6C8C572E736BC53D1B5A608D3D9F697B1BB261DA",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "3QGscRUP3fo=",
+    "Size": 849360,
+    "Path": "msvcr110.dll",
+    "Sha1": "6C8C572E736BC53D1B5A608D3D9F697B1BB261DA",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "3QGscRUP3fo=",
+    "Size": 849360,
+    "Path": "msvcr110.dll",
+    "Sha1": "6C8C572E736BC53D1B5A608D3D9F697B1BB261DA",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

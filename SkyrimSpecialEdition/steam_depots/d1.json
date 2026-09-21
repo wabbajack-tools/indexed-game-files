@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "0Twc9cQfrso=",
+    "Size": 204421620,
+    "Path": "Data\\Skyrim - Misc.bsa",
+    "Sha1": "B259D6BCA0ADBDAEDD8AB7F077D5E3FE026DED64",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 1985552842565684891
+  },
+  {
+    "Hash": "0bhc8w0adVI=",
+    "Size": 4363776,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "7662D5453D5B4666CD23977AD8435CEC68D22A73",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1476684358338706955
+  },
+  {
+    "Hash": "0bhc8w0adVI=",
+    "Size": 4363776,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "7662D5453D5B4666CD23977AD8435CEC68D22A73",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2337986449035143556
+  },
+  {
+    "Hash": "0bhc8w0adVI=",
+    "Size": 4363776,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "7662D5453D5B4666CD23977AD8435CEC68D22A73",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5260954425794414274
+  },
+  {
+    "Hash": "0bhc8w0adVI=",
+    "Size": 4363776,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "7662D5453D5B4666CD23977AD8435CEC68D22A73",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 6077137133470860357
+  },
+  {
+    "Hash": "0bhc8w0adVI=",
+    "Size": 4363776,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "7662D5453D5B4666CD23977AD8435CEC68D22A73",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 7231497621745539234
+  },
+  {
+    "Hash": "0bhc8w0adVI=",
+    "Size": 4363776,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "7662D5453D5B4666CD23977AD8435CEC68D22A73",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8702665189575304780
+  }
+]

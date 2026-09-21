@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "yRcX3Ttf9YM=",
+    "Size": 67318282,
+    "Path": "Data\\Skyrim - Shaders.bsa",
+    "Sha1": "E781167532998737289946742E3644456E66A879",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "yV6J6PrJxF8=",
+    "Size": 249752131,
+    "Path": "Data\\Skyrim.esm",
+    "Sha1": "CA06A2739BA0E2F2B999E5DB5E4E96BB79D56166",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "EwvbU7wcUUo=",
+    "Size": 655189115,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "BBD18B650C9580833B3C3E7B4F986F6AD7AFECA8",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "E4vQ3HnFBL0=",
+    "Size": 4724064,
+    "Path": "SkyrimSELauncher.exe",
+    "Sha1": "34732A41E2AFD59DED5B37A53ED7AFAE89D64E11",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5728778377666085157
+  }
+]

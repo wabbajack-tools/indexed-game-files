@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "vYP2IRQ3Tt8=",
+    "Size": 126295340,
+    "Path": "Data\\ccBGSFO4038-HorseArmor - Textures.ba2",
+    "Sha1": "8D97E02354414F798DD35E3D5839FC743BAB3C01",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "vSJ86DGuiNU=",
+    "Size": 64313805,
+    "Path": "Data\\DLCNukaWorld.esm",
+    "Sha1": "9E694B2534E0F68E28BFB59E5BFD4B9B4B3246DA",
+    "App": 377160,
+    "Depot": 393895,
+    "Manifest": 7677765994120765493
+  },
+  {
+    "Hash": "vc0CTLVB0ew=",
+    "Size": 1770496,
+    "Path": "Data\\Fallout4 - Materials.ba2",
+    "Sha1": "FBE3F1E2F5EA4C99EC0864BF4625F3C84C1FE95E",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "vc0CTLVB0ew=",
+    "Size": 1770496,
+    "Path": "Data\\Fallout4 - Materials.ba2",
+    "Sha1": "FBE3F1E2F5EA4C99EC0864BF4625F3C84C1FE95E",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  }
+]

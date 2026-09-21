@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "vbGhR356+Bs=",
+    "Size": 1423500,
+    "Path": "Data\\ccBGSSSE001-Fish.esm",
+    "Sha1": "461EB84B77E110BA561A197A159381030E83EF3D",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 6913241376784585188
+  },
+  {
+    "Hash": "vYlL6NHTTxc=",
+    "Size": 214496000,
+    "Path": "Data\\Skyrim - Textures8.bsa",
+    "Sha1": "F9D30F199B76F9B6780DC370833118EC9EE7A598",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5260954425794414274
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "grZ8occWzPg=",
+    "Size": 7098,
+    "Path": "Data\\ccBGSFO4001-PipBoy(Black) - Main.ba2",
+    "Sha1": "569CAD14C2A28189909D6B8FE69EF2901A5BC60A",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "gp4D1D3JuFI=",
+    "Size": 1477174,
+    "Path": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+    "Sha1": "C67FD305034972D55543A48124E975630C88F48C",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  }
+]

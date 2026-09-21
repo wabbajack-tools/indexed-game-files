@@ -1,0 +1,101 @@
+[
+  {
+    "Hash": "VTFw7kmYtLs=",
+    "Size": 1092876237,
+    "Path": "Data\\ccBGSSSE025-AdvDSGS.bsa",
+    "Sha1": "3C1918963F810BA070AB3D24D0489B2C5221858D",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3552311541133526669
+  },
+  {
+    "Hash": "VTFw7kmYtLs=",
+    "Size": 1092876237,
+    "Path": "Data\\ccBGSSSE025-AdvDSGS.bsa",
+    "Sha1": "3C1918963F810BA070AB3D24D0489B2C5221858D",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 3737743381894105176
+  },
+  {
+    "Hash": "VTFw7kmYtLs=",
+    "Size": 1092876237,
+    "Path": "Data\\ccBGSSSE025-AdvDSGS.bsa",
+    "Sha1": "3C1918963F810BA070AB3D24D0489B2C5221858D",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 4940892828028256588
+  },
+  {
+    "Hash": "VTFw7kmYtLs=",
+    "Size": 1092876237,
+    "Path": "Data\\ccBGSSSE025-AdvDSGS.bsa",
+    "Sha1": "3C1918963F810BA070AB3D24D0489B2C5221858D",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 8442952117333549665
+  },
+  {
+    "Hash": "VT5uI6QOA2g=",
+    "Size": 25886225,
+    "Path": "Data\\Dawnguard.esm",
+    "Sha1": "08632ABEB9F9690CB12AF984120AB545E61F26C8",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 5260954425794414274
+  },
+  {
+    "Hash": "Va4FkqPxmd0=",
+    "Size": 64663775,
+    "Path": "Data\\Dragonborn.esm",
+    "Sha1": "54942AC0E19A6E4EF2992BE029E37DC5A52C0B03",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1885196179801530198
+  },
+  {
+    "Hash": "VTeJeDgqCJw=",
+    "Size": 3978550,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "992D6D97D5E1C4E8FC184D1C627ECCEC53767BE8",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2337986449035143556
+  },
+  {
+    "Hash": "VX7KHQ0qSXM=",
+    "Size": 652401558,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "9DE5C47E41141D84DD7ACE3998AC4FE38DA5825B",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 1476684358338706955
+  },
+  {
+    "Hash": "VX7KHQ0qSXM=",
+    "Size": 652401558,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "9DE5C47E41141D84DD7ACE3998AC4FE38DA5825B",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "VX7KHQ0qSXM=",
+    "Size": 652401558,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "9DE5C47E41141D84DD7ACE3998AC4FE38DA5825B",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 6077137133470860357
+  },
+  {
+    "Hash": "VYn5P05t/WM=",
+    "Size": 35403608,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "3F42A76B2895711FAA9F8B0358FA1A0519948258",
+    "App": 489830,
+    "Depot": 489833,
+    "Manifest": 6964426252826681862
+  }
+]
