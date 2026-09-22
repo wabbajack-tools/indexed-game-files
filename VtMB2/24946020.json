@@ -1,0 +1,2327 @@
+﻿[
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "sI+bO8EfOrs=",
+        "Meta":  null,
+        "Name":  "AkRoomVerb.dll",
+        "Size":  233984,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkRoomVerb.dll",
+                      "Hash":  "sI+bO8EfOrs=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akroomverb.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Q5LCbQBEweA=",
+        "Meta":  null,
+        "Name":  "AkParametricEQ.dll",
+        "Size":  145920,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkParametricEQ.dll",
+                      "Hash":  "Q5LCbQBEweA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akparametriceq.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "zIPVJnPgGOg=",
+        "Meta":  null,
+        "Name":  "AkMatrixReverb.dll",
+        "Size":  183296,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkMatrixReverb.dll",
+                      "Hash":  "zIPVJnPgGOg=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akmatrixreverb.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "iNBEMAL52bc=",
+        "Meta":  null,
+        "Name":  "AkGuitarDistortion.dll",
+        "Size":  156672,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkGuitarDistortion.dll",
+                      "Hash":  "iNBEMAL52bc=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akguitardistortion.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "GoX+p46gXv0=",
+        "Meta":  null,
+        "Name":  "AkFlanger.dll",
+        "Size":  144384,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkFlanger.dll",
+                      "Hash":  "GoX+p46gXv0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akflanger.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "cvlFIBcwm7I=",
+        "Meta":  null,
+        "Name":  "AkDelay.dll",
+        "Size":  122368,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkDelay.dll",
+                      "Hash":  "cvlFIBcwm7I=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akdelay.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Zjlzb46na94=",
+        "Meta":  null,
+        "Name":  "AkCompressor.dll",
+        "Size":  133632,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkCompressor.dll",
+                      "Hash":  "Zjlzb46na94=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akcompressor.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Atfb4aKdZf0=",
+        "Meta":  null,
+        "Name":  "Galaxy64.dll",
+        "Size":  14389760,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\OnlineSubsystemGOG\\Source\\ThirdParty\\GalaxySDK\\Libraries\\Galaxy64.dll",
+                      "Hash":  "Atfb4aKdZf0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\onlinesubsystemgog\\source\\thirdparty\\galaxysdk\\libraries\\galaxy64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "krg66+HryjE=",
+        "Meta":  null,
+        "Name":  "sl.pcl.dll",
+        "Size":  175064,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.pcl.dll",
+                      "Hash":  "krg66+HryjE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\streamlinecore\\binaries\\thirdparty\\win64\\sl.pcl.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "QTy9Tg5SOBI=",
+        "Meta":  null,
+        "Name":  "sl.dlss_g.dll",
+        "Size":  447456,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.dlss_g.dll",
+                      "Hash":  "QTy9Tg5SOBI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\streamlinecore\\binaries\\thirdparty\\win64\\sl.dlss_g.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "DKZnvDbvr0c=",
+        "Meta":  null,
+        "Name":  "sl.common.dll",
+        "Size":  673240,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.common.dll",
+                      "Hash":  "DKZnvDbvr0c=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\streamlinecore\\binaries\\thirdparty\\win64\\sl.common.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "aA0K1vrh48s=",
+        "Meta":  null,
+        "Name":  "nvngx_deepdvc.dll",
+        "Size":  3143712,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\nvngx_deepdvc.dll",
+                      "Hash":  "aA0K1vrh48s=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\streamlinecore\\binaries\\thirdparty\\win64\\nvngx_deepdvc.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "nV1aIsAnKkw=",
+        "Meta":  null,
+        "Name":  "nvngx_dlss.dll",
+        "Size":  29981808,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlss.dll",
+                      "Hash":  "nV1aIsAnKkw=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\dlss\\binaries\\thirdparty\\win64\\nvngx_dlss.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Lxwzc4wj4Vc=",
+        "Meta":  null,
+        "Name":  "libvorbis_64.dll",
+        "Size":  1714176,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
+                      "Hash":  "Lxwzc4wj4Vc=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\thirdparty\\vorbis\\win64\\vs2015\\libvorbis_64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "VKn1DRo65zY=",
+        "Meta":  null,
+        "Name":  "steam_api64.dll",
+        "Size":  295336,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv157\\Win64\\steam_api64.dll",
+                      "Hash":  "VKn1DRo65zY=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\thirdparty\\steamworks\\steamv157\\win64\\steam_api64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "b58KAOub+6g=",
+        "Meta":  null,
+        "Name":  "GFSDK_Aftermath_Lib.x64.dll",
+        "Size":  5431880,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
+                      "Hash":  "b58KAOub+6g=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\thirdparty\\nvidia\\nvaftermath\\win64\\gfsdk_aftermath_lib.x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "I2fGndEtpu4=",
+        "Meta":  null,
+        "Name":  "CrashReportClient.pak",
+        "Size":  21728105,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Programs\\CrashReportClient\\Content\\Paks\\CrashReportClient.pak",
+                      "Hash":  "I2fGndEtpu4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\programs\\crashreportclient\\content\\paks\\crashreportclient.pak"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "LZwrZ7Po0yI=",
+        "Meta":  null,
+        "Name":  "Ventrue_Posession_vp9.mp4",
+        "Size":  1221710,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Ventrue\\Ventrue_Posession_vp9.mp4",
+                      "Hash":  "LZwrZ7Po0yI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\ventrue\\ventrue_posession_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "1GHnfpQB140=",
+        "Meta":  null,
+        "Name":  "Ventrue_FleshOfMarble_vp9.mp4",
+        "Size":  2211694,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Ventrue\\Ventrue_FleshOfMarble_vp9.mp4",
+                      "Hash":  "1GHnfpQB140=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\ventrue\\ventrue_fleshofmarble_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "vmYbJ6nveDA=",
+        "Meta":  null,
+        "Name":  "Tremer_Recall_vp9.mp4",
+        "Size":  819057,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Tremere\\Tremer_Recall_vp9.mp4",
+                      "Hash":  "vmYbJ6nveDA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\tremere\\tremer_recall_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "PkxcKF62tqc=",
+        "Meta":  null,
+        "Name":  "Tremer_CauldronOfBlood_vp9.mp4",
+        "Size":  605089,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Tremere\\Tremer_CauldronOfBlood_vp9.mp4",
+                      "Hash":  "PkxcKF62tqc=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\tremere\\tremer_cauldronofblood_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "AC3+8Od3Kxk=",
+        "Meta":  null,
+        "Name":  "Toreador_Fleetness_vp9.mp4",
+        "Size":  513281,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Toreador\\Toreador_Fleetness_vp9.mp4",
+                      "Hash":  "AC3+8Od3Kxk=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\toreador\\toreador_fleetness_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "e2P6wtX5QVQ=",
+        "Meta":  null,
+        "Name":  "Lasombra_ShadowStep_vp9.mp4",
+        "Size":  777946,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Lasombra\\Lasombra_ShadowStep_vp9.mp4",
+                      "Hash":  "e2P6wtX5QVQ=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\lasombra\\lasombra_shadowstep_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "oyUkeUrQnOA=",
+        "Meta":  null,
+        "Name":  "Lasombra_GlimpseOfOblivion_vp9.mp4",
+        "Size":  867138,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Lasombra\\Lasombra_GlimpseOfOblivion_vp9.mp4",
+                      "Hash":  "oyUkeUrQnOA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\lasombra\\lasombra_glimpseofoblivion_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "mRJi18lVelU=",
+        "Meta":  null,
+        "Name":  "Lasombra_ArmsOfArhiman_vp9.mp4",
+        "Size":  949678,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Lasombra\\Lasombra_ArmsOfArhiman_vp9.mp4",
+                      "Hash":  "mRJi18lVelU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\lasombra\\lasombra_armsofarhiman_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "omvEIa2xLck=",
+        "Meta":  null,
+        "Name":  "Brujah_Lightningstrike_vp9.mp4",
+        "Size":  966234,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Brujah\\Brujah_Lightningstrike_vp9.mp4",
+                      "Hash":  "omvEIa2xLck=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\brujah\\brujah_lightningstrike_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "L6mlKv5Sfp0=",
+        "Meta":  null,
+        "Name":  "Brujah_Charge_vp9.mp4",
+        "Size":  621227,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Brujah\\Brujah_Charge_vp9.mp4",
+                      "Hash":  "L6mlKv5Sfp0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\brujah\\brujah_charge_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "5evw8FmFD9g=",
+        "Meta":  null,
+        "Name":  "Banu_Unseen_Aura_vp9.mp4",
+        "Size":  1470368,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\BanuHaqim\\Banu_Unseen_Aura_vp9.mp4",
+                      "Hash":  "5evw8FmFD9g=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\banuhaqim\\banu_unseen_aura_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "IvG8qoK0GzM=",
+        "Meta":  null,
+        "Name":  "Banu_SilenceOfDeath_vp9.mp4",
+        "Size":  733014,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\BanuHaqim\\Banu_SilenceOfDeath_vp9.mp4",
+                      "Hash":  "IvG8qoK0GzM=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\banuhaqim\\banu_silenceofdeath_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "8PMprsTWpxM=",
+        "Meta":  null,
+        "Name":  "Banu_Bladedhand_vp9.mp4",
+        "Size":  834956,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\BanuHaqim\\Banu_Bladedhand_vp9.mp4",
+                      "Hash":  "8PMprsTWpxM=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\banuhaqim\\banu_bladedhand_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "7hZXE14l7ck=",
+        "Meta":  null,
+        "Name":  "dbghelp.dll",
+        "Size":  2221984,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll",
+                      "Hash":  "7hZXE14l7ck=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\thirdparty\\dbghelp\\dbghelp.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "ZaYCn2ZhbfI=",
+        "Meta":  null,
+        "Name":  "D9_vp9.mp4",
+        "Size":  2173339,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D9_vp9.mp4",
+                      "Hash":  "ZaYCn2ZhbfI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d9_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "J07wg21WbtI=",
+        "Meta":  null,
+        "Name":  "D7_vp9.mp4",
+        "Size":  2847905,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D7_vp9.mp4",
+                      "Hash":  "J07wg21WbtI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d7_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "uiBVjfHMXHE=",
+        "Meta":  null,
+        "Name":  "D5_vp9.mp4",
+        "Size":  3448938,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D5_vp9.mp4",
+                      "Hash":  "uiBVjfHMXHE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d5_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "7Vx353O05A8=",
+        "Meta":  null,
+        "Name":  "D3_vp9.mp4",
+        "Size":  3921522,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D3_vp9.mp4",
+                      "Hash":  "7Vx353O05A8=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d3_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "u2jMHN3N0oc=",
+        "Meta":  null,
+        "Name":  "D1_vp9.mp4",
+        "Size":  3593277,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D1_vp9.mp4",
+                      "Hash":  "u2jMHN3N0oc=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d1_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "2xQNKyG5vwo=",
+        "Meta":  null,
+        "Name":  "UE_still_logo_v01_1080_vp9.mp4",
+        "Size":  167499,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\UE_still_logo_v01_1080_vp9.mp4",
+                      "Hash":  "2xQNKyG5vwo=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\ue_still_logo_v01_1080_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "jDb4WBcY8vE=",
+        "Meta":  null,
+        "Name":  "Frontend_LoopClip_vp9.mp4",
+        "Size":  1590759,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\Frontend_LoopClip_vp9.mp4",
+                      "Hash":  "jDb4WBcY8vE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\frontend_loopclip_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "L60NRP3pLok=",
+        "Meta":  null,
+        "Name":  "tbbmalloc.dll",
+        "Size":  55296,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\tbbmalloc.dll",
+                      "Hash":  "L60NRP3pLok=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\tbbmalloc.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "JDOT6w5v+6Q=",
+        "Meta":  null,
+        "Name":  "boost_atomic-mt-x64.dll",
+        "Size":  17408,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_atomic-mt-x64.dll",
+                      "Hash":  "JDOT6w5v+6Q=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_atomic-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "nnAs3fVJh2o=",
+        "Meta":  null,
+        "Name":  "amd_fidelityfx_upscaler_dx12.dll",
+        "Size":  22348552,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\AMD\\FSR\\Source\\fidelityfx-sdk\\Kits\\FidelityFX\\signedbin\\amd_fidelityfx_upscaler_dx12.dll",
+                      "Hash":  "nnAs3fVJh2o=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\amd\\fsr\\source\\fidelityfx-sdk\\kits\\fidelityfx\\signedbin\\amd_fidelityfx_upscaler_dx12.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "UzyVzYE5Ckc=",
+        "Meta":  null,
+        "Name":  "onnxruntime.dll",
+        "Size":  13552168,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Plugins\\NNE\\NNERuntimeORT\\Binaries\\ThirdParty\\Onnxruntime\\Win64\\onnxruntime.dll",
+                      "Hash":  "UzyVzYE5Ckc=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\plugins\\nne\\nneruntimeort\\binaries\\thirdparty\\onnxruntime\\win64\\onnxruntime.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "9n9HGnhC+QA=",
+        "Meta":  null,
+        "Name":  "MasteringSuite.dll",
+        "Size":  242688,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\MasteringSuite.dll",
+                      "Hash":  "9n9HGnhC+QA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\masteringsuite.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "h20mNxZXWQ0=",
+        "Meta":  null,
+        "Name":  "AkToneGen.dll",
+        "Size":  137216,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkToneGen.dll",
+                      "Hash":  "h20mNxZXWQ0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\aktonegen.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "JMiQN0qzR0g=",
+        "Meta":  null,
+        "Name":  "AkSynthOne.dll",
+        "Size":  162816,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkSynthOne.dll",
+                      "Hash":  "JMiQN0qzR0g=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\aksynthone.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "ed7rb0CS+jE=",
+        "Meta":  null,
+        "Name":  "AkSoundEngineDLL.dll",
+        "Size":  1604608,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkSoundEngineDLL.dll",
+                      "Hash":  "ed7rb0CS+jE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\aksoundenginedll.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "wkoTi+qyNVo=",
+        "Meta":  null,
+        "Name":  "AkRecorder.dll",
+        "Size":  117760,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkRecorder.dll",
+                      "Hash":  "wkoTi+qyNVo=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akrecorder.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "kJM08PBRWwM=",
+        "Meta":  null,
+        "Name":  "AkPeakLimiter.dll",
+        "Size":  124928,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkPeakLimiter.dll",
+                      "Hash":  "kJM08PBRWwM=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akpeaklimiter.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "nYwiHicr+sQ=",
+        "Meta":  null,
+        "Name":  "AkMotion.dll",
+        "Size":  205312,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkMotion.dll",
+                      "Hash":  "nYwiHicr+sQ=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akmotion.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "HP9kpkO65lg=",
+        "Meta":  null,
+        "Name":  "AkHarmonizer.dll",
+        "Size":  214528,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkHarmonizer.dll",
+                      "Hash":  "HP9kpkO65lg=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akharmonizer.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "wfI7aNRr+nU=",
+        "Meta":  null,
+        "Name":  "AkGain.dll",
+        "Size":  117248,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkGain.dll",
+                      "Hash":  "wfI7aNRr+nU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akgain.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "t2miiFLVvpM=",
+        "Meta":  null,
+        "Name":  "AkExpander.dll",
+        "Size":  133632,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkExpander.dll",
+                      "Hash":  "t2miiFLVvpM=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akexpander.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "DEW9THuTs04=",
+        "Meta":  null,
+        "Name":  "AkConvolutionReverb.dll",
+        "Size":  210944,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkConvolutionReverb.dll",
+                      "Hash":  "DEW9THuTs04=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akconvolutionreverb.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "B+j5/Wfi8VE=",
+        "Meta":  null,
+        "Name":  "AkAudioInput.dll",
+        "Size":  117248,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkAudioInput.dll",
+                      "Hash":  "B+j5/Wfi8VE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akaudioinput.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "84LmoK8EPd8=",
+        "Meta":  null,
+        "Name":  "sl.reflex.dll",
+        "Size":  198616,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.reflex.dll",
+                      "Hash":  "84LmoK8EPd8=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\streamlinecore\\binaries\\thirdparty\\win64\\sl.reflex.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "q2Mm2Si6z/0=",
+        "Meta":  null,
+        "Name":  "sl.interposer.dll",
+        "Size":  556000,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.interposer.dll",
+                      "Hash":  "q2Mm2Si6z/0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\streamlinecore\\binaries\\thirdparty\\win64\\sl.interposer.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "oi6P+mhCrUo=",
+        "Meta":  null,
+        "Name":  "sl.deepdvc.dll",
+        "Size":  189400,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\sl.deepdvc.dll",
+                      "Hash":  "oi6P+mhCrUo=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\streamlinecore\\binaries\\thirdparty\\win64\\sl.deepdvc.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "rcSPeqpDkww=",
+        "Meta":  null,
+        "Name":  "nvngx_dlssg.dll",
+        "Size":  7509024,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\StreamlineCore\\Binaries\\ThirdParty\\Win64\\nvngx_dlssg.dll",
+                      "Hash":  "rcSPeqpDkww=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\streamlinecore\\binaries\\thirdparty\\win64\\nvngx_dlssg.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "yK9DOqwoWls=",
+        "Meta":  null,
+        "Name":  "nvngx_dlssd.dll",
+        "Size":  28548208,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\NVidia\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlssd.dll",
+                      "Hash":  "yK9DOqwoWls=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\nvidia\\dlss\\binaries\\thirdparty\\win64\\nvngx_dlssd.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "M97KT41TkS4=",
+        "Meta":  null,
+        "Name":  "xaudio2_9redist.dll",
+        "Size":  847440,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll",
+                      "Hash":  "M97KT41TkS4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\thirdparty\\windows\\xaudio2_9\\x64\\xaudio2_9redist.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "6i3ihYyzyeo=",
+        "Meta":  null,
+        "Name":  "libvorbisfile_64.dll",
+        "Size":  37888,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
+                      "Hash":  "6i3ihYyzyeo=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\thirdparty\\vorbis\\win64\\vs2015\\libvorbisfile_64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "txZV+ddrA30=",
+        "Meta":  null,
+        "Name":  "libogg_64.dll",
+        "Size":  49152,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
+                      "Hash":  "txZV+ddrA30=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\thirdparty\\ogg\\win64\\vs2015\\libogg_64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "9o80xmyElxs=",
+        "Meta":  null,
+        "Name":  "msquic.dll",
+        "Size":  2536368,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\ThirdParty\\MsQuic\\v220\\win64\\msquic.dll",
+                      "Hash":  "9o80xmyElxs=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\thirdparty\\msquic\\v220\\win64\\msquic.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "s57gIx7w02c=",
+        "Meta":  null,
+        "Name":  "Ventrue_TerminalDecree_vp9.mp4",
+        "Size":  705292,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Ventrue\\Ventrue_TerminalDecree_vp9.mp4",
+                      "Hash":  "s57gIx7w02c=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\ventrue\\ventrue_terminaldecree_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "8lqS5Vw8JVs=",
+        "Meta":  null,
+        "Name":  "Ventrue_MassManipulaion_vp9.mp4",
+        "Size":  1100998,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Ventrue\\Ventrue_MassManipulaion_vp9.mp4",
+                      "Hash":  "8lqS5Vw8JVs=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\ventrue\\ventrue_massmanipulaion_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "M2n9yP2Sx7o=",
+        "Meta":  null,
+        "Name":  "Ventrue_CloudMemory_vp9.mp4",
+        "Size":  279246,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Ventrue\\Ventrue_CloudMemory_vp9.mp4",
+                      "Hash":  "M2n9yP2Sx7o=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\ventrue\\ventrue_cloudmemory_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "fM+enxlBMPI=",
+        "Meta":  null,
+        "Name":  "Tremer_CorrosiveVitae_vp9.mp4",
+        "Size":  835613,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Tremere\\Tremer_CorrosiveVitae_vp9.mp4",
+                      "Hash":  "fM+enxlBMPI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\tremere\\tremer_corrosivevitae_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "LBPk22fulRE=",
+        "Meta":  null,
+        "Name":  "Tremer_BloodSalvo_vp9.mp4",
+        "Size":  439395,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Tremere\\Tremer_BloodSalvo_vp9.mp4",
+                      "Hash":  "LBPk22fulRE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\tremere\\tremer_bloodsalvo_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "ujDBtPLq7mo=",
+        "Meta":  null,
+        "Name":  "C6_vp9.mp4",
+        "Size":  1861738,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\C6_vp9.mp4",
+                      "Hash":  "ujDBtPLq7mo=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\c6_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "nMIdbc8XaBA=",
+        "Meta":  null,
+        "Name":  "C4_vp9.mp4",
+        "Size":  1758316,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\C4_vp9.mp4",
+                      "Hash":  "nMIdbc8XaBA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\c4_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "UydtGDy+PbA=",
+        "Meta":  null,
+        "Name":  "SplashVideo_vp9.mp4",
+        "Size":  222023,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\SplashVideo_vp9.mp4",
+                      "Hash":  "UydtGDy+PbA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\splashvideo_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "6RvJEx3QcS8=",
+        "Meta":  null,
+        "Name":  "BL2_Intro_vp9.mp4",
+        "Size":  13923580,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\BL2_Intro_vp9.mp4",
+                      "Hash":  "6RvJEx3QcS8=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\bl2_intro_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "0HcLSp2gIDU=",
+        "Meta":  null,
+        "Name":  "Bennyvision_vp9.mp4",
+        "Size":  19377360,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\Bennyvision_vp9.mp4",
+                      "Hash":  "0HcLSp2gIDU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\bennyvision_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "j3/2EEboaqY=",
+        "Meta":  null,
+        "Name":  "Application.ico",
+        "Size":  213824,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Icons\\Application.ico",
+                      "Hash":  "j3/2EEboaqY=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\icons\\application.ico"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "xUSv2+KrxF0=",
+        "Meta":  null,
+        "Name":  "PDXSDK.dll",
+        "Size":  1678336,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\PDXSDK.dll",
+                      "Hash":  "xUSv2+KrxF0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\pdxsdk.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "FoUdlnbTanY=",
+        "Meta":  null,
+        "Name":  "boost_system-mt-x64.dll",
+        "Size":  9728,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_system-mt-x64.dll",
+                      "Hash":  "FoUdlnbTanY=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_system-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "7KP/kFRNMrA=",
+        "Meta":  null,
+        "Name":  "boost_regex-mt-x64.dll",
+        "Size":  234496,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_regex-mt-x64.dll",
+                      "Hash":  "7KP/kFRNMrA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_regex-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "qwfp2bBDv90=",
+        "Meta":  null,
+        "Name":  "boost_program_options-mt-x64.dll",
+        "Size":  351232,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_program_options-mt-x64.dll",
+                      "Hash":  "qwfp2bBDv90=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_program_options-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "gSUWOMRNeJ4=",
+        "Meta":  null,
+        "Name":  "theme-settings.json",
+        "Size":  521,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\LauncherAssets\\theme-settings.json",
+                      "Hash":  "gSUWOMRNeJ4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcherassets\\theme-settings.json"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "menYUTfbRu8=",
+        "Meta":  null,
+        "Name":  "launcher-ingame-settings.json",
+        "Size":  0,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\launcher-ingame-settings.json",
+                      "Hash":  "menYUTfbRu8=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcher-ingame-settings.json"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "ZssghFndfJw=",
+        "Meta":  null,
+        "Name":  "launcher-installer-windows_2025.1.exe",
+        "Size":  157460032,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\launcher-installer-windows_2025.1.exe",
+                      "Hash":  "ZssghFndfJw=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcher-installer-windows_2025.1.exe"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "cvuGFOR1XYM=",
+        "Meta":  null,
+        "Name":  "Tremer_Bloodcurse_vp9.mp4",
+        "Size":  888438,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Tremere\\Tremer_Bloodcurse_vp9.mp4",
+                      "Hash":  "cvuGFOR1XYM=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\tremere\\tremer_bloodcurse_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "1IlnuXDGf5w=",
+        "Meta":  null,
+        "Name":  "Toreador_BlurredMomentum_vp9.mp4",
+        "Size":  1009428,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Toreador\\Toreador_BlurredMomentum_vp9.mp4",
+                      "Hash":  "1IlnuXDGf5w=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\toreador\\toreador_blurredmomentum_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "6Cu6DIuTRC0=",
+        "Meta":  null,
+        "Name":  "Toreador_Beckon_vp9.mp4",
+        "Size":  649609,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Toreador\\Toreador_Beckon_vp9.mp4",
+                      "Hash":  "6Cu6DIuTRC0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\toreador\\toreador_beckon_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "WqFB1v6h3TI=",
+        "Meta":  null,
+        "Name":  "Lasombra_ShadowCloak_vp9.mp4",
+        "Size":  1440084,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Lasombra\\Lasombra_ShadowCloak_vp9.mp4",
+                      "Hash":  "WqFB1v6h3TI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\lasombra\\lasombra_shadowcloak_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "bADGc8r1d4I=",
+        "Meta":  null,
+        "Name":  "Lasombra_EnterOblivion_vp9.mp4",
+        "Size":  406892,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Lasombra\\Lasombra_EnterOblivion_vp9.mp4",
+                      "Hash":  "bADGc8r1d4I=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\lasombra\\lasombra_enteroblivion_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Q3w7BCtxePI=",
+        "Meta":  null,
+        "Name":  "Brujah_Taunt_vp9.mp4",
+        "Size":  790337,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Brujah\\Brujah_Taunt_vp9.mp4",
+                      "Hash":  "Q3w7BCtxePI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\brujah\\brujah_taunt_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "4fZw6sfAD5I=",
+        "Meta":  null,
+        "Name":  "Brujah_Earthshock_vp9.mp4",
+        "Size":  841648,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Brujah\\Brujah_Earthshock_vp9.mp4",
+                      "Hash":  "4fZw6sfAD5I=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\brujah\\brujah_earthshock_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "h1AQOdnrRBU=",
+        "Meta":  null,
+        "Name":  "Brujah_Brutality_vp9.mp4",
+        "Size":  799480,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Brujah\\Brujah_Brutality_vp9.mp4",
+                      "Hash":  "h1AQOdnrRBU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\brujah\\brujah_brutality_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Gts0D1zCaoc=",
+        "Meta":  null,
+        "Name":  "Banu_SplitSecond_vp9.mp4",
+        "Size":  762582,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\BanuHaqim\\Banu_SplitSecond_vp9.mp4",
+                      "Hash":  "Gts0D1zCaoc=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\banuhaqim\\banu_splitsecond_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "cg0cYJ+f1OI=",
+        "Meta":  null,
+        "Name":  "Banu_Mute_vp9.mp4",
+        "Size":  1465213,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\BanuHaqim\\Banu_Mute_vp9.mp4",
+                      "Hash":  "cg0cYJ+f1OI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\banuhaqim\\banu_mute_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "8PKd9iXstOw=",
+        "Meta":  null,
+        "Name":  "invisible.cur",
+        "Size":  326,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Content\\Slate\\Cursor\\invisible.cur",
+                      "Hash":  "8PKd9iXstOw=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\content\\slate\\cursor\\invisible.cur"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "qEwWs4k9lYI=",
+        "Meta":  null,
+        "Name":  "YsabellaVideoScreens_vp9.mp4",
+        "Size":  1551112,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\YsabellaScreens\\YsabellaVideoScreens_vp9.mp4",
+                      "Hash":  "qEwWs4k9lYI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\ysabellascreens\\ysabellavideoscreens_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "kxCoNmEYH1A=",
+        "Meta":  null,
+        "Name":  "D8_vp9.mp4",
+        "Size":  3487338,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D8_vp9.mp4",
+                      "Hash":  "kxCoNmEYH1A=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d8_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "6GAe8jDiYn0=",
+        "Meta":  null,
+        "Name":  "D6_vp9.mp4",
+        "Size":  3156024,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D6_vp9.mp4",
+                      "Hash":  "6GAe8jDiYn0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d6_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "ISoj3Q0yPUA=",
+        "Meta":  null,
+        "Name":  "D4_vp9.mp4",
+        "Size":  3461020,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D4_vp9.mp4",
+                      "Hash":  "ISoj3Q0yPUA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d4_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Gd+N6779U9g=",
+        "Meta":  null,
+        "Name":  "D2_vp9.mp4",
+        "Size":  4522563,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D2_vp9.mp4",
+                      "Hash":  "Gd+N6779U9g=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d2_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "KpYhgZfLaGE=",
+        "Meta":  null,
+        "Name":  "D10_vp9.mp4",
+        "Size":  3262613,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\D10_vp9.mp4",
+                      "Hash":  "KpYhgZfLaGE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\d10_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "l/0N7hICL14=",
+        "Meta":  null,
+        "Name":  "C3_vp9.mp4",
+        "Size":  2550977,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\C3_vp9.mp4",
+                      "Hash":  "l/0N7hICL14=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\c3_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "G7+X/csBiM4=",
+        "Meta":  null,
+        "Name":  "C1_vp9.mp4",
+        "Size":  988189,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\C1_vp9.mp4",
+                      "Hash":  "G7+X/csBiM4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\c1_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "tqVoDEKljFs=",
+        "Meta":  null,
+        "Name":  "B3_vp9.mp4",
+        "Size":  1937544,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\B3_vp9.mp4",
+                      "Hash":  "tqVoDEKljFs=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\b3_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "7h7NQf1qgl4=",
+        "Meta":  null,
+        "Name":  "B1_vp9.mp4",
+        "Size":  2573550,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\B1_vp9.mp4",
+                      "Hash":  "7h7NQf1qgl4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\b1_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "bLCSAx3T67Y=",
+        "Meta":  null,
+        "Name":  "A1_vp9.mp4",
+        "Size":  3713037,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\A1_vp9.mp4",
+                      "Hash":  "bLCSAx3T67Y=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\a1_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "TWmZXMhYX7Q=",
+        "Meta":  null,
+        "Name":  "d3d12SDKLayers.dll",
+        "Size":  5773344,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\D3D12\\d3d12SDKLayers.dll",
+                      "Hash":  "TWmZXMhYX7Q=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\d3d12\\d3d12sdklayers.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "BpoZV/11MAw=",
+        "Meta":  null,
+        "Name":  "TessellationTable.bin",
+        "Size":  259568,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Content\\Renderer\\TessellationTable.bin",
+                      "Hash":  "BpoZV/11MAw=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\content\\renderer\\tessellationtable.bin"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "QGWdpKgEqYU=",
+        "Meta":  null,
+        "Name":  "tbb.dll",
+        "Size":  213504,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\Win64\\tbb.dll",
+                      "Hash":  "QGWdpKgEqYU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\win64\\tbb.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "H4KxbEvBM5o=",
+        "Meta":  null,
+        "Name":  "CrashReportClient.exe",
+        "Size":  26836480,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\Win64\\CrashReportClient.exe",
+                      "Hash":  "H4KxbEvBM5o=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\win64\\crashreportclient.exe"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "TYW0RWovT6U=",
+        "Meta":  null,
+        "Name":  "global.utoc",
+        "Size":  794,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Paks\\global.utoc",
+                      "Hash":  "TYW0RWovT6U=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\paks\\global.utoc"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "pzXpxeeU0yA=",
+        "Meta":  null,
+        "Name":  "Bloodlines2-Windows.utoc",
+        "Size":  29669248,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Paks\\Bloodlines2-Windows.utoc",
+                      "Hash":  "pzXpxeeU0yA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\paks\\bloodlines2-windows.utoc"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "tGtDVxwRQmM=",
+        "Meta":  null,
+        "Name":  "Bloodlines2-Windows.pak",
+        "Size":  165072795,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Paks\\Bloodlines2-Windows.pak",
+                      "Hash":  "tGtDVxwRQmM=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\paks\\bloodlines2-windows.pak"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "xw5TKFLUDGg=",
+        "Meta":  null,
+        "Name":  "FabienConvoLoop_vp9.mp4",
+        "Size":  478119,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\FabienConvoLoop_vp9.mp4",
+                      "Hash":  "xw5TKFLUDGg=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\fabienconvoloop_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "svGjw5vo3HY=",
+        "Meta":  null,
+        "Name":  "BL2_P_SaveGameIcon.png",
+        "Size":  180172,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Icons\\BL2_P_SaveGameIcon.png",
+                      "Hash":  "svGjw5vo3HY=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\icons\\bl2_p_savegameicon.png"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "QGWdpKgEqYU=",
+        "Meta":  null,
+        "Name":  "tbb.dll",
+        "Size":  213504,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\tbb.dll",
+                      "Hash":  "QGWdpKgEqYU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\tbb.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "EOi/kS3nGEE=",
+        "Meta":  null,
+        "Name":  "OpenColorIO_2_3.dll",
+        "Size":  4274688,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\OpenColorIO_2_3.dll",
+                      "Hash":  "EOi/kS3nGEE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\opencolorio_2_3.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "duTvcWacHAg=",
+        "Meta":  null,
+        "Name":  "boost_thread-mt-x64.dll",
+        "Size":  74240,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_thread-mt-x64.dll",
+                      "Hash":  "duTvcWacHAg=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_thread-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "fTq7DJx1OnU=",
+        "Meta":  null,
+        "Name":  "boost_python311-mt-x64.dll",
+        "Size":  192512,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_python311-mt-x64.dll",
+                      "Hash":  "fTq7DJx1OnU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_python311-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "p8DB58ZcQ7A=",
+        "Meta":  null,
+        "Name":  "boost_iostreams-mt-x64.dll",
+        "Size":  48640,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_iostreams-mt-x64.dll",
+                      "Hash":  "p8DB58ZcQ7A=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_iostreams-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "QEzHk8e1VZc=",
+        "Meta":  null,
+        "Name":  "ThirdPartyLicenses.txt",
+        "Size":  29710,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\ThirdPartyLicenses.txt",
+                      "Hash":  "QEzHk8e1VZc=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\thirdpartylicenses.txt"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "grOhE9i66y8=",
+        "Meta":  null,
+        "Name":  "dowser.exe",
+        "Size":  7565344,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\dowser.exe",
+                      "Hash":  "grOhE9i66y8=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\dowser.exe"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "w97k4dKRjag=",
+        "Meta":  null,
+        "Name":  "AkSilenceGenerator.dll",
+        "Size":  108544,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkSilenceGenerator.dll",
+                      "Hash":  "w97k4dKRjag=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\aksilencegenerator.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "fU0crXRsSyg=",
+        "Meta":  null,
+        "Name":  "AkReflect.dll",
+        "Size":  181248,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkReflect.dll",
+                      "Hash":  "fU0crXRsSyg=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akreflect.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "/IvRi2vwqmg=",
+        "Meta":  null,
+        "Name":  "AkPitchShifter.dll",
+        "Size":  152064,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkPitchShifter.dll",
+                      "Hash":  "/IvRi2vwqmg=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akpitchshifter.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "U9vKV94PAWY=",
+        "Meta":  null,
+        "Name":  "boost_filesystem-mt-x64.dll",
+        "Size":  140288,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_filesystem-mt-x64.dll",
+                      "Hash":  "U9vKV94PAWY=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_filesystem-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "2U6GG3vXxYw=",
+        "Meta":  null,
+        "Name":  "boost_chrono-mt-x64.dll",
+        "Size":  35328,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\boost_chrono-mt-x64.dll",
+                      "Hash":  "2U6GG3vXxYw=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\boost_chrono-mt-x64.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "KEEdUS70394=",
+        "Meta":  null,
+        "Name":  "Background.jpg",
+        "Size":  2972684,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\LauncherAssets\\Background.jpg",
+                      "Hash":  "KEEdUS70394=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcherassets\\background.jpg"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "SUvkZkprUPU=",
+        "Meta":  null,
+        "Name":  "PlayButtonBackground.png",
+        "Size":  12648,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\LauncherAssets\\PlayButtonBackground.png",
+                      "Hash":  "SUvkZkprUPU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcherassets\\playbuttonbackground.png"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "ARoMZX1rzfg=",
+        "Meta":  null,
+        "Name":  "GameFont.ttf",
+        "Size":  57676,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\LauncherAssets\\GameFont.ttf",
+                      "Hash":  "ARoMZX1rzfg=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcherassets\\gamefont.ttf"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "10jvEK5LYRk=",
+        "Meta":  null,
+        "Name":  "GameLogo.png",
+        "Size":  652,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\LauncherAssets\\GameLogo.png",
+                      "Hash":  "10jvEK5LYRk=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcherassets\\gamelogo.png"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "81bpqYt9Kd8=",
+        "Meta":  null,
+        "Name":  "settings-layout.json",
+        "Size":  3205,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\settings-layout.json",
+                      "Hash":  "81bpqYt9Kd8=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\settings-layout.json"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "oHUhRQrq9LM=",
+        "Meta":  null,
+        "Name":  "amd_fidelityfx_framegeneration_dx12.dll",
+        "Size":  38245640,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\AMD\\FSR\\Source\\fidelityfx-sdk\\Kits\\FidelityFX\\signedbin\\amd_fidelityfx_framegeneration_dx12.dll",
+                      "Hash":  "oHUhRQrq9LM=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\amd\\fsr\\source\\fidelityfx-sdk\\kits\\fidelityfx\\signedbin\\amd_fidelityfx_framegeneration_dx12.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "FZ0SgKIt3i4=",
+        "Meta":  null,
+        "Name":  "McDSP.dll",
+        "Size":  300032,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\McDSP.dll",
+                      "Hash":  "FZ0SgKIt3i4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\mcdsp.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "plgG0TQXjYU=",
+        "Meta":  null,
+        "Name":  "AkTremolo.dll",
+        "Size":  142336,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkTremolo.dll",
+                      "Hash":  "plgG0TQXjYU=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\aktremolo.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "f66pBJKvXRA=",
+        "Meta":  null,
+        "Name":  "AkTimeStretch.dll",
+        "Size":  194560,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkTimeStretch.dll",
+                      "Hash":  "f66pBJKvXRA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\aktimestretch.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "S7i8bsTA9b0=",
+        "Meta":  null,
+        "Name":  "AkStereoDelay.dll",
+        "Size":  158208,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkStereoDelay.dll",
+                      "Hash":  "S7i8bsTA9b0=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\akstereodelay.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "JO2K9MOfKBg=",
+        "Meta":  null,
+        "Name":  "AkSineTone.dll",
+        "Size":  117760,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Plugins\\Wwise\\ThirdParty\\x64_vc170\\Release\\bin\\AkSineTone.dll",
+                      "Hash":  "JO2K9MOfKBg=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\plugins\\wwise\\thirdparty\\x64_vc170\\release\\bin\\aksinetone.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "NIR/IAaGqA4=",
+        "Meta":  null,
+        "Name":  "Toreador_EntrancingKiss_vp9.mp4",
+        "Size":  1699720,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Toreador\\Toreador_EntrancingKiss_vp9.mp4",
+                      "Hash":  "NIR/IAaGqA4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\toreador\\toreador_entrancingkiss_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Vgmj/LNHsg4=",
+        "Meta":  null,
+        "Name":  "Toreador_Blink_vp9.mp4",
+        "Size":  702366,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\AbilityTree\\Toreador\\Toreador_Blink_vp9.mp4",
+                      "Hash":  "Vgmj/LNHsg4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\abilitytree\\toreador\\toreador_blink_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "VCDI2SbVox4=",
+        "Meta":  null,
+        "Name":  "C5_vp9.mp4",
+        "Size":  2063042,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\C5_vp9.mp4",
+                      "Hash":  "VCDI2SbVox4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\c5_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "cRhkT3uk4Tw=",
+        "Meta":  null,
+        "Name":  "C2_vp9.mp4",
+        "Size":  1294418,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\C2_vp9.mp4",
+                      "Hash":  "cRhkT3uk4Tw=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\c2_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "qOpHZ16ZYTw=",
+        "Meta":  null,
+        "Name":  "B4_vp9.mp4",
+        "Size":  1995954,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\B4_vp9.mp4",
+                      "Hash":  "qOpHZ16ZYTw=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\b4_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "/CLc/6jXB6s=",
+        "Meta":  null,
+        "Name":  "B2_vp9.mp4",
+        "Size":  4869619,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\B2_vp9.mp4",
+                      "Hash":  "/CLc/6jXB6s=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\b2_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "IjmGgt1ldOs=",
+        "Meta":  null,
+        "Name":  "A2_vp9.mp4",
+        "Size":  3926002,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Movies\\MultipleEndings\\A2_vp9.mp4",
+                      "Hash":  "IjmGgt1ldOs=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\movies\\multipleendings\\a2_vp9.mp4"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "2cMQpWJmF3o=",
+        "Meta":  null,
+        "Name":  "DirectML.dll",
+        "Size":  14021152,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\DML\\DirectML.dll",
+                      "Hash":  "2cMQpWJmF3o=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\dml\\directml.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "Mkv0fkJwcBA=",
+        "Meta":  null,
+        "Name":  "D3D12Core.dll",
+        "Size":  3334176,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\D3D12\\D3D12Core.dll",
+                      "Hash":  "Mkv0fkJwcBA=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\d3d12\\d3d12core.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "L60NRP3pLok=",
+        "Meta":  null,
+        "Name":  "tbbmalloc.dll",
+        "Size":  55296,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\Win64\\tbbmalloc.dll",
+                      "Hash":  "L60NRP3pLok=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\win64\\tbbmalloc.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "cTTk+M3bIxs=",
+        "Meta":  null,
+        "Name":  "EOSSDK-Win64-Shipping.dll",
+        "Size":  18266584,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Binaries\\Win64\\EOSSDK-Win64-Shipping.dll",
+                      "Hash":  "cTTk+M3bIxs=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\binaries\\win64\\eossdk-win64-shipping.dll"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "9TvynjpEr6c=",
+        "Meta":  null,
+        "Name":  "steam_autocloud.vdf",
+        "Size":  51,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Saved\\SaveGames\\steam_autocloud.vdf",
+                      "Hash":  "9TvynjpEr6c=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\saved\\savegames\\steam_autocloud.vdf"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "6uejF7DkYKc=",
+        "Meta":  null,
+        "Name":  "global.ucas",
+        "Size":  3275056,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Paks\\global.ucas",
+                      "Hash":  "6uejF7DkYKc=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\paks\\global.ucas"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "RrdoLlvtak4=",
+        "Meta":  null,
+        "Name":  "Bloodlines2-Windows.ucas",
+        "Size":  24504138576,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Content\\Paks\\Bloodlines2-Windows.ucas",
+                      "Hash":  "RrdoLlvtak4=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\content\\paks\\bloodlines2-windows.ucas"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "/XVxBLXnHx8=",
+        "Meta":  null,
+        "Name":  "app-icon.png",
+        "Size":  35182,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\LauncherAssets\\app-icon.png",
+                      "Hash":  "/XVxBLXnHx8=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcherassets\\app-icon.png"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "5+VghtnX+Yo=",
+        "Meta":  null,
+        "Name":  "app-icon.ico",
+        "Size":  32516,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\LauncherAssets\\app-icon.ico",
+                      "Hash":  "5+VghtnX+Yo=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcherassets\\app-icon.ico"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "OGRRBXyLqRI=",
+        "Meta":  null,
+        "Name":  "Bloodlines2.exe",
+        "Size":  358912,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2.exe",
+                      "Hash":  "OGRRBXyLqRI=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2.exe"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "menYUTfbRu8=",
+        "Meta":  null,
+        "Name":  "StagedBuild_Bloodlines2.ini",
+        "Size":  0,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Engine\\Config\\StagedBuild_Bloodlines2.ini",
+                      "Hash":  "menYUTfbRu8=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|engine\\config\\stagedbuild_bloodlines2.ini"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "6iDIQJB1SrE=",
+        "Meta":  null,
+        "Name":  "Bloodlines2-Win64-Shipping.exe",
+        "Size":  171451392,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Bloodlines2\\Binaries\\Win64\\Bloodlines2-Win64-Shipping.exe",
+                      "Hash":  "6iDIQJB1SrE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|bloodlines2\\binaries\\win64\\bloodlines2-win64-shipping.exe"
+                  }
+    },
+    {
+        "$type":  "Archive, Wabbajack.Lib",
+        "Hash":  "KMIKGDkaoHE=",
+        "Meta":  null,
+        "Name":  "launcher-settings.json",
+        "Size":  803,
+        "State":  {
+                      "$type":  "GameFileSourceDownloader, Wabbajack.Lib",
+                      "Game":  "VtMB2",
+                      "GameFile":  "Launcher\\launcher-settings.json",
+                      "Hash":  "KMIKGDkaoHE=",
+                      "GameVersion":  "24946020",
+                      "PrimaryKeyString":  "GameFileSourceDownloader+State|VtMB2|24946020|launcher\\launcher-settings.json"
+                  }
+    }
+]
