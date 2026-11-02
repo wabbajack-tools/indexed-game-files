@@ -1,0 +1,1352 @@
+[
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "yxK/cOCsXlU=",
+    "Meta": null,
+    "Name": "pak5_mod.pk3",
+    "Size": 18133775,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\pak5_mod.pk3",
+      "Hash": "yxK/cOCsXlU=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\pak5_mod.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "r2wtMikjS1s=",
+    "Meta": null,
+    "Name": "quit2.urc",
+    "Size": 5174,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\quit2.urc",
+      "Hash": "r2wtMikjS1s=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\quit2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ffpzG4fDXGA=",
+    "Meta": null,
+    "Name": "base_g.pk3",
+    "Size": 94253048,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\loc\\base_g.pk3",
+      "Hash": "ffpzG4fDXGA=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\loc\\base_g.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qjoLnqeXebw=",
+    "Meta": null,
+    "Name": "credits2.urc",
+    "Size": 13526,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\credits2.urc",
+      "Hash": "qjoLnqeXebw=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\credits2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "y+/jmabq710=",
+    "Meta": null,
+    "Name": "quit2.urc",
+    "Size": 5427,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\quit2.urc",
+      "Hash": "y+/jmabq710=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\quit2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NhOUXumQK28=",
+    "Meta": null,
+    "Name": "legalplate.tga",
+    "Size": 223810,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\legalplate.tga",
+      "Hash": "NhOUXumQK28=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\legalplate.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "oHcC4SQ0gOg=",
+    "Meta": null,
+    "Name": "newgame2.urc",
+    "Size": 4386,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\newgame2.urc",
+      "Hash": "oHcC4SQ0gOg=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\newgame2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "n9sFLstAmHA=",
+    "Meta": null,
+    "Name": "main2.urc",
+    "Size": 5346,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\main2.urc",
+      "Hash": "n9sFLstAmHA=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\main2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "VOeC+wMSuRY=",
+    "Meta": null,
+    "Name": "base_d.pk3",
+    "Size": 4330899,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\loc\\base_d.pk3",
+      "Hash": "VOeC+wMSuRY=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\loc\\base_d.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "QG+6d3jpWzw=",
+    "Meta": null,
+    "Name": "credits2.urc",
+    "Size": 14577,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\credits2.urc",
+      "Hash": "QG+6d3jpWzw=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\credits2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lCtZn8gJL7U=",
+    "Meta": null,
+    "Name": "legalplate.tga",
+    "Size": 237097,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\legalplate.tga",
+      "Hash": "lCtZn8gJL7U=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\legalplate.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zXkVKDB2wsw=",
+    "Meta": null,
+    "Name": "audio_video.tga",
+    "Size": 65071,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\audio_video.tga",
+      "Hash": "zXkVKDB2wsw=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\audio_video.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ghQ6QeJlKEY=",
+    "Meta": null,
+    "Name": "controls2.urc",
+    "Size": 20288,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\controls2.urc",
+      "Hash": "ghQ6QeJlKEY=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\controls2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qjHZX9oaz1E=",
+    "Meta": null,
+    "Name": "title.urc",
+    "Size": 1126,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\title.urc",
+      "Hash": "qjHZX9oaz1E=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\title.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "G1kTqdzBEoU=",
+    "Meta": null,
+    "Name": "quit2.urc",
+    "Size": 5421,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\quit2.urc",
+      "Hash": "G1kTqdzBEoU=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\quit2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dyZdwuKKPr0=",
+    "Meta": null,
+    "Name": "audio_video.tga",
+    "Size": 65080,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\audio_video.tga",
+      "Hash": "dyZdwuKKPr0=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\audio_video.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mutQ+1yEAS0=",
+    "Meta": null,
+    "Name": "controls2.urc",
+    "Size": 20808,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\controls2.urc",
+      "Hash": "mutQ+1yEAS0=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\controls2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eR6mLz0rQlc=",
+    "Meta": null,
+    "Name": "loadsave2.urc",
+    "Size": 12758,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\loadsave2.urc",
+      "Hash": "eR6mLz0rQlc=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\loadsave2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "/h7a2nAPkKM=",
+    "Meta": null,
+    "Name": "main2.urc",
+    "Size": 5346,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\main2.urc",
+      "Hash": "/h7a2nAPkKM=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\main2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "lVRE6npp57c=",
+    "Meta": null,
+    "Name": "Zone3.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone3.tga",
+      "Hash": "lVRE6npp57c=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone3.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "TJNEiGU8rCg=",
+    "Meta": null,
+    "Name": "lowpass.flt",
+    "Size": 40960,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\lowpass.flt",
+      "Hash": "TJNEiGU8rCg=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\lowpass.flt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LMBm6QQ9xaw=",
+    "Meta": null,
+    "Name": "newgame2.urc",
+    "Size": 4386,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\newgame2.urc",
+      "Hash": "LMBm6QQ9xaw=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\newgame2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "fidUmPCdMfw=",
+    "Meta": null,
+    "Name": "msseax2.m3d",
+    "Size": 65536,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\msseax2.m3d",
+      "Hash": "fidUmPCdMfw=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\msseax2.m3d"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hlqkHjHOo9o=",
+    "Meta": null,
+    "Name": "credits2.urc",
+    "Size": 15008,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\credits2.urc",
+      "Hash": "hlqkHjHOo9o=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\credits2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "9xHFwwfJIHU=",
+    "Meta": null,
+    "Name": "mssfast.m3d",
+    "Size": 61440,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\mssfast.m3d",
+      "Hash": "9xHFwwfJIHU=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\mssfast.m3d"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kXMT/+qleko=",
+    "Meta": null,
+    "Name": "mss32.dll",
+    "Size": 352256,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\mss32.dll",
+      "Hash": "kXMT/+qleko=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\mss32.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "g+f9EwSgD9o=",
+    "Meta": null,
+    "Name": "Zone7.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone7.tga",
+      "Hash": "g+f9EwSgD9o=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone7.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qxDA0XWREb8=",
+    "Meta": null,
+    "Name": "Zone6.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone6.tga",
+      "Hash": "qxDA0XWREb8=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone6.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "BhE2SuJaS1w=",
+    "Meta": null,
+    "Name": "reverb3.flt",
+    "Size": 53248,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\reverb3.flt",
+      "Hash": "BhE2SuJaS1w=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\reverb3.flt"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "LdSiKkrA/cE=",
+    "Meta": null,
+    "Name": "mssdolby.m3d",
+    "Size": 65536,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\mssdolby.m3d",
+      "Hash": "LdSiKkrA/cE=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\mssdolby.m3d"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "GRN9EIpqJQU=",
+    "Meta": null,
+    "Name": "msseax.m3d",
+    "Size": 49152,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\msseax.m3d",
+      "Hash": "GRN9EIpqJQU=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\msseax.m3d"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "JiPPE/H9bQE=",
+    "Meta": null,
+    "Name": "mssa3d2.m3d",
+    "Size": 61440,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\mssa3d2.m3d",
+      "Hash": "JiPPE/H9bQE=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\mssa3d2.m3d"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L2cPHOnZ/0g=",
+    "Meta": null,
+    "Name": "Zone2.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone2.tga",
+      "Hash": "L2cPHOnZ/0g=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone2.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "NhOUXumQK28=",
+    "Meta": null,
+    "Name": "legalplate.tga",
+    "Size": 223810,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\DEU\\legalplate.tga",
+      "Hash": "NhOUXumQK28=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\deu\\legalplate.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "+NV+c/woR7g=",
+    "Meta": null,
+    "Name": "title_bg.tga",
+    "Size": 2764844,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\title_bg.tga",
+      "Hash": "+NV+c/woR7g=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\title_bg.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qPAPRSwNP00=",
+    "Meta": null,
+    "Name": "quitbg.tga",
+    "Size": 983084,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\quitbg.tga",
+      "Hash": "qPAPRSwNP00=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\quitbg.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jX1I8omCo5A=",
+    "Meta": null,
+    "Name": "pak0.pk3",
+    "Size": 289276327,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\pak0.pk3",
+      "Hash": "jX1I8omCo5A=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\pak0.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "pqLlCaEZvx4=",
+    "Meta": null,
+    "Name": "base_s.pk3",
+    "Size": 113548925,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\loc\\base_s.pk3",
+      "Hash": "pqLlCaEZvx4=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\loc\\base_s.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "in5/+R+J25c=",
+    "Meta": null,
+    "Name": "pak2.pk3",
+    "Size": 102269403,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\pak2.pk3",
+      "Hash": "in5/+R+J25c=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\pak2.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "b1mP8lV5zSk=",
+    "Meta": null,
+    "Name": "Zone1.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone1.tga",
+      "Hash": "b1mP8lV5zSk=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone1.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "YJCuvKFmD74=",
+    "Meta": null,
+    "Name": "loadsave2.urc",
+    "Size": 12755,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\loadsave2.urc",
+      "Hash": "YJCuvKFmD74=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\loadsave2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uN6sMmzoWPY=",
+    "Meta": null,
+    "Name": "newgame2.urc",
+    "Size": 4388,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\newgame2.urc",
+      "Hash": "uN6sMmzoWPY=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\newgame2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "k1PTCuRh/zc=",
+    "Meta": null,
+    "Name": "Zone0.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone0.tga",
+      "Hash": "k1PTCuRh/zc=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone0.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "D9WqiPWCe0I=",
+    "Meta": null,
+    "Name": "keybind_pc_deu.scr",
+    "Size": 1175,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\keybind_pc_deu.scr",
+      "Hash": "D9WqiPWCe0I=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\keybind_pc_deu.scr"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KI0pwCfRuHw=",
+    "Meta": null,
+    "Name": "pak4_english.pk3",
+    "Size": 49731,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\pak4_english.pk3",
+      "Hash": "KI0pwCfRuHw=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\pak4_english.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "UdxJIxh/ePM=",
+    "Meta": null,
+    "Name": "notification_dialog.tga",
+    "Size": 393260,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\notification_dialog.tga",
+      "Hash": "UdxJIxh/ePM=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\notification_dialog.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "jibjLkxi6tg=",
+    "Meta": null,
+    "Name": "keybind_pc_fra.scr",
+    "Size": 1191,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\keybind_pc_fra.scr",
+      "Hash": "jibjLkxi6tg=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\keybind_pc_fra.scr"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "AjQWLwXQhvM=",
+    "Meta": null,
+    "Name": "keybind_pc_esn.scr",
+    "Size": 1401,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\keybind_pc_esn.scr",
+      "Hash": "AjQWLwXQhvM=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\keybind_pc_esn.scr"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "3L84qf92haA=",
+    "Meta": null,
+    "Name": "title.urc",
+    "Size": 1124,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\title.urc",
+      "Hash": "3L84qf92haA=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\title.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "dyZdwuKKPr0=",
+    "Meta": null,
+    "Name": "audio_video.tga",
+    "Size": 65080,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\audio_video.tga",
+      "Hash": "dyZdwuKKPr0=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\audio_video.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "WUpVJWRQsvY=",
+    "Meta": null,
+    "Name": "loadsave2.urc",
+    "Size": 12431,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\loadsave2.urc",
+      "Hash": "WUpVJWRQsvY=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\loadsave2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "bi0pWO75bec=",
+    "Meta": null,
+    "Name": "controls2.urc",
+    "Size": 19799,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\controls2.urc",
+      "Hash": "bi0pWO75bec=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\controls2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "kmt70ipLO7k=",
+    "Meta": null,
+    "Name": "mp3dec.asi",
+    "Size": 126976,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\mp3dec.asi",
+      "Hash": "kmt70ipLO7k=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\mp3dec.asi"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "U8Tk7LOtd2U=",
+    "Meta": null,
+    "Name": "default_pc_fra.cfg",
+    "Size": 1625,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\default_pc_fra.cfg",
+      "Hash": "U8Tk7LOtd2U=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\default_pc_fra.cfg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hPoH1R+eRdU=",
+    "Meta": null,
+    "Name": "title.urc",
+    "Size": 1134,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\title.urc",
+      "Hash": "hPoH1R+eRdU=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\title.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "L2iggqCvdWA=",
+    "Meta": null,
+    "Name": "loadbg.tga",
+    "Size": 1310764,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\loadbg.tga",
+      "Hash": "L2iggqCvdWA=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\loadbg.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uYzDQyaYmIs=",
+    "Meta": null,
+    "Name": "highlight.tga",
+    "Size": 11369,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\highlight.tga",
+      "Hash": "uYzDQyaYmIs=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\highlight.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "IwP8lKww7Sc=",
+    "Meta": null,
+    "Name": "mssa3d.m3d",
+    "Size": 49152,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\SndDrivers\\mssa3d.m3d",
+      "Hash": "IwP8lKww7Sc=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\snddrivers\\mssa3d.m3d"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "R19YG6c2Phc=",
+    "Meta": null,
+    "Name": "Zone4.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone4.tga",
+      "Hash": "R19YG6c2Phc=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone4.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "gb9SBDxa6BI=",
+    "Meta": null,
+    "Name": "fgamex86.dll",
+    "Size": 1863168,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\fgamex86.dll",
+      "Hash": "gb9SBDxa6BI=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\fgamex86.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "273b0xYEjl4=",
+    "Meta": null,
+    "Name": "renderer.lib",
+    "Size": 2586756,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "lib\\renderer.lib",
+      "Hash": "273b0xYEjl4=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|lib\\renderer.lib"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "rGRL2+wEjNk=",
+    "Meta": null,
+    "Name": "bind_pc.scr",
+    "Size": 2844,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\bind_pc.scr",
+      "Hash": "rGRL2+wEjNk=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\bind_pc.scr"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aBbcAoBxkco=",
+    "Meta": null,
+    "Name": "controls_pc_deu.urc",
+    "Size": 30787,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\controls_pc_deu.urc",
+      "Hash": "aBbcAoBxkco=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\controls_pc_deu.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xyVIX03fnHQ=",
+    "Meta": null,
+    "Name": "config.cfg",
+    "Size": 1527,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\config.cfg",
+      "Hash": "xyVIX03fnHQ=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\config.cfg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Lq2mofzH/uU=",
+    "Meta": null,
+    "Name": "config_pc_fra.cfg",
+    "Size": 1527,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\config_pc_fra.cfg",
+      "Hash": "Lq2mofzH/uU=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\config_pc_fra.cfg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "trZMoh57Too=",
+    "Meta": null,
+    "Name": "controls_pc_int.urc",
+    "Size": 28980,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\controls_pc_int.urc",
+      "Hash": "trZMoh57Too=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\controls_pc_int.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZGbZPAOFnWs=",
+    "Meta": null,
+    "Name": "pak1_large.pk3",
+    "Size": 157856770,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\pak1_large.pk3",
+      "Hash": "ZGbZPAOFnWs=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\pak1_large.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "m06EE53+ExA=",
+    "Meta": null,
+    "Name": "base_f.pk3",
+    "Size": 107158377,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\loc\\base_f.pk3",
+      "Hash": "m06EE53+ExA=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\loc\\base_f.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "aSYW95QBl2Q=",
+    "Meta": null,
+    "Name": "controls2.urc",
+    "Size": 19241,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\controls2.urc",
+      "Hash": "aSYW95QBl2Q=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\controls2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "j+r+jnZ/L90=",
+    "Meta": null,
+    "Name": "legalplate.tga",
+    "Size": 224155,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\legalplate.tga",
+      "Hash": "j+r+jnZ/L90=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\legalplate.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "2w2qE90B2ks=",
+    "Meta": null,
+    "Name": "main2.urc",
+    "Size": 5343,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\main2.urc",
+      "Hash": "2w2qE90B2ks=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\main2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "Q7NXhoCmsL0=",
+    "Meta": null,
+    "Name": "audio_video.tga",
+    "Size": 65080,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\audio_video.tga",
+      "Hash": "Q7NXhoCmsL0=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\audio_video.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ZL1OtwHkuy4=",
+    "Meta": null,
+    "Name": "credits2.urc",
+    "Size": 15200,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\credits2.urc",
+      "Hash": "ZL1OtwHkuy4=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\credits2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "qE7GE2MnsQw=",
+    "Meta": null,
+    "Name": "quit2.urc",
+    "Size": 5173,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\quit2.urc",
+      "Hash": "qE7GE2MnsQw=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\quit2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hAR9+XEeDts=",
+    "Meta": null,
+    "Name": "title.urc",
+    "Size": 1126,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\ESN\\title.urc",
+      "Hash": "hAR9+XEeDts=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\esn\\title.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "cCmf05jNzhA=",
+    "Meta": null,
+    "Name": "Zone8.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone8.tga",
+      "Hash": "cCmf05jNzhA=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone8.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "zhlxD7AGeGA=",
+    "Meta": null,
+    "Name": "Zone5.tga",
+    "Size": 262188,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\Zone5.tga",
+      "Hash": "zhlxD7AGeGA=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\zone5.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "mHszdhNwmuE=",
+    "Meta": null,
+    "Name": "fgame.dll",
+    "Size": 1999360,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\fgame.dll",
+      "Hash": "mHszdhNwmuE=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\fgame.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "ddMfKqqu6DE=",
+    "Meta": null,
+    "Name": "alice.exe",
+    "Size": 1668472,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\alice.exe",
+      "Hash": "ddMfKqqu6DE=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\alice.exe"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "8sUQjZyZVbg=",
+    "Meta": null,
+    "Name": "cgamex86.dll",
+    "Size": 536064,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\cgamex86.dll",
+      "Hash": "8sUQjZyZVbg=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\cgamex86.dll"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "eudaI7Y+EYo=",
+    "Meta": null,
+    "Name": "border1_left.tga",
+    "Size": 345644,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\border1_left.tga",
+      "Hash": "eudaI7Y+EYo=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\border1_left.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "KB7+vOVZvZc=",
+    "Meta": null,
+    "Name": "controls_pc.tga",
+    "Size": 2050574,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\controls_pc.tga",
+      "Hash": "KB7+vOVZvZc=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\controls_pc.tga"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "62fiRxM7hkM=",
+    "Meta": null,
+    "Name": "default_pc.cfg",
+    "Size": 1625,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\default_pc.cfg",
+      "Hash": "62fiRxM7hkM=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\default_pc.cfg"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "c4R0QRv5N14=",
+    "Meta": null,
+    "Name": "controls_pc_fra.urc",
+    "Size": 29768,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\controls_pc_fra.urc",
+      "Hash": "c4R0QRv5N14=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\controls_pc_fra.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "z52/KAsvK+0=",
+    "Meta": null,
+    "Name": "controls_pc_esn.urc",
+    "Size": 30290,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\controls_pc_esn.urc",
+      "Hash": "z52/KAsvK+0=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\controls_pc_esn.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "iqLM0BM1C60=",
+    "Meta": null,
+    "Name": "pak3.pk3",
+    "Size": 93026431,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\pak3.pk3",
+      "Hash": "iqLM0BM1C60=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\pak3.pk3"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "hiCAnC3cbaQ=",
+    "Meta": null,
+    "Name": "newgame2.urc",
+    "Size": 4390,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\newgame2.urc",
+      "Hash": "hiCAnC3cbaQ=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\newgame2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "xbmwVXB2Z60=",
+    "Meta": null,
+    "Name": "main2.urc",
+    "Size": 5842,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\INT\\main2.urc",
+      "Hash": "xbmwVXB2Z60=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\int\\main2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "uEggdApCsbU=",
+    "Meta": null,
+    "Name": "loadsave2.urc",
+    "Size": 12760,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\base\\FRA\\loadsave2.urc",
+      "Hash": "uEggdApCsbU=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\base\\fra\\loadsave2.urc"
+    }
+  },
+  {
+    "$type": "Archive, Wabbajack.Lib",
+    "Hash": "0+6rD8sqVy8=",
+    "Meta": null,
+    "Name": "cgame.dll",
+    "Size": 532480,
+    "State": {
+      "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+      "Game": "AmericanMcGeesAlice",
+      "GameFile": "bin\\cgame.dll",
+      "Hash": "0+6rD8sqVy8=",
+      "GameVersion": "1.0",
+      "PrimaryKeyString": "GameFileSourceDownloader\u002BState|AmericanMcGeesAlice|1.0|bin\\cgame.dll"
+    }
+  }
+]
