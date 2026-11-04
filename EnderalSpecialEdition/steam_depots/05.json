@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "BQFoMYBAVBE=",
+    "Size": 968,
+    "Path": "Data\\Scripts\\Input.pex",
+    "Sha1": "56FC834FDEEB1F4ABC532A711E0A1ACC445893BF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "BWH3Q2S8h1I=",
+    "Size": 191827554,
+    "Path": "Data\\Skyrim.esm",
+    "Sha1": "4477089E7F64B2E6DC32E82902A4995A95BDDEE8",
+    "App": 976620,
+    "Depot": 1574103,
+    "Manifest": 6090138831677211187
+  },
+  {
+    "Hash": "Ba9kLkv8ktc=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Kredo_n.dds",
+    "Sha1": "12ED32D5367C08B2468D05208C4665D88919C63F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Bd19ohBXi+k=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\TheaterPromo3.dds",
+    "Sha1": "A45A74EBED3E13330A3A1744C3EA8A21E3EF4A58",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "BWtUr+/LGkA=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\signs\\totheater.dds",
+    "Sha1": "65E05D89107CE7B4C13356CA8517D368D7B0F381",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

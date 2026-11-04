@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "LIaSL/FPDxA=",
+    "Size": 114560,
+    "Path": "Data\\meshes\\actors\\character\\characters\\defaultmale.hkx",
+    "Sha1": "CF8A102EF6A0D81F97366FE581B3085CA10996C4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "LIaSL/FPDxA=",
+    "Size": 114560,
+    "Path": "Data\\meshes\\actors\\character\\characters\\defaultmale.hkx",
+    "Sha1": "CF8A102EF6A0D81F97366FE581B3085CA10996C4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "LDmDFxgXkvM=",
+    "Size": 1124,
+    "Path": "Data\\Scripts\\ColorForm.pex",
+    "Sha1": "1996CC0B45EF0111A5B3C9B1D9CD478E6FFADE0C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "LF6I5cn7SbQ=",
+    "Size": 312,
+    "Path": "Data\\Source\\Scripts\\Flora.psc",
+    "Sha1": "D20A5EFDEA7DF1399AA8B2348724A05B9BB65E25",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "LFa08tgp7Hk=",
+    "Size": 953212,
+    "Path": "Data\\Strings\\enderal - forgotten stories_english.dlstrings",
+    "Sha1": "2E16EEF8CC1316D3A4279FFD0A517FF4B03A6272",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "LCU9bFL3kKI=",
+    "Size": 328266,
+    "Path": "Data\\Strings\\enderal - forgotten stories_german.ilstrings",
+    "Sha1": "9330301E48990BE0CD604C2943D0488694122C9F",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "LLPF2V8mdDw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesElementalism_n.dds",
+    "Sha1": "86EDAD2919DD094AD65FB9A2C3D73848F9ACDC94",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "LGjOw3Kn6zw=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\castlebleakstar.dds",
+    "Sha1": "3F81571F9D5EB66FEEE5DE7C0BD3CEB711BE68A1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "ysZLmJuRgUg=",
+    "Size": 1537227568,
+    "Path": "Data\\E - Meshes.bsa",
+    "Sha1": "A8C1F8C2301151AC8B5DA665FE52F06DA0D3A639",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "ykUbSxvWcVQ=",
+    "Size": 197912,
+    "Path": "Data\\Strings\\enderal - forgotten stories_english.strings",
+    "Sha1": "3FC7EBB36BAEEC4C9B35AD64B5E66EBE284177E0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "ykDdVYQ/cwc=",
+    "Size": 910725,
+    "Path": "Data\\Strings\\skyrim_chinese.dlstrings",
+    "Sha1": "AB8694200BF9A58CAC7DB304C18C19A4E05FB7D9",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "ypwjeHXXQpU=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\AccountUnknownTraveler02.dds",
+    "Sha1": "00FF29AEA2186AFCF19938688FE376C6142F6E12",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

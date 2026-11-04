@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "0XJaoo78mhY=",
+    "Size": 396252,
+    "Path": "Data\\meshes\\actors\\character\\character assets\\skeleton.xml",
+    "Sha1": "C3D8093FA0D91E7BFB26FF4AE9FF1A3597DD2554",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "0TV1PgVJ/Go=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MouseMitata.dds",
+    "Sha1": "CDC65999259D7C149E40BDCFE9021EB2EEB99002",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "0TGirDFViVY=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue03.dds",
+    "Sha1": "A5FCE78EAA95AD905A94E4DC561B1B8A853D84D1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

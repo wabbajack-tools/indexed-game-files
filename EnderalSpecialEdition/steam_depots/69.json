@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "aWKtPL8WGCk=",
+    "Size": 651253,
+    "Path": "Data\\Strings\\skyrim_english.strings",
+    "Sha1": "D4A0C7689B16ED06493EFB008E8BB77A3D7923EE",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "aZ+Z1y+CvoI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesFarmersCoast_n.dds",
+    "Sha1": "2043891497B93322C9ED92E90CB349DB28613E8E",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

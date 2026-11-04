@@ -1,0 +1,164 @@
+[
+  {
+    "Hash": "Utr1f5O9tEY=",
+    "Size": 15552,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\mt_shout_exhale_long.hkx",
+    "Sha1": "BD70CE5E27D537DA3CE6AB976F51CE39F7B56EBE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Utr1f5O9tEY=",
+    "Size": 15552,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\mt_shout_exhale_long.hkx",
+    "Sha1": "BD70CE5E27D537DA3CE6AB976F51CE39F7B56EBE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "UjBMqf2MbyM=",
+    "Size": 76288,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_whirlwindsprint_medium.hkx",
+    "Sha1": "50300AB1E08425556C6255CA9E52AAFB8B533D40",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "UjBMqf2MbyM=",
+    "Size": 76288,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_whirlwindsprint_medium.hkx",
+    "Sha1": "50300AB1E08425556C6255CA9E52AAFB8B533D40",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "UjBlplcbqVU=",
+    "Size": 14592,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\whirlwindsprint_short.hkx",
+    "Sha1": "86A45EE3178736A0836CD1964BD4E6E61AE4F8AD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "UjBlplcbqVU=",
+    "Size": 14592,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\whirlwindsprint_short.hkx",
+    "Sha1": "86A45EE3178736A0836CD1964BD4E6E61AE4F8AD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Utr1f5O9tEY=",
+    "Size": 15552,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_throw.hkx",
+    "Sha1": "BD70CE5E27D537DA3CE6AB976F51CE39F7B56EBE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Utr1f5O9tEY=",
+    "Size": 15552,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_throw.hkx",
+    "Sha1": "BD70CE5E27D537DA3CE6AB976F51CE39F7B56EBE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "UrhOZAzkPXg=",
+    "Size": 39121,
+    "Path": "Data\\Scripts\\SKI_ConfigMenu.pex",
+    "Sha1": "BC4A29C67059406DDB9E1A7552EDCACBF57B5AA7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "UiL63aqbepg=",
+    "Size": 523065091,
+    "Path": "Data\\Skyrim - Textures5.bsa",
+    "Sha1": "DAFDF2E378D51F60102A57D5EF838BA58666B888",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "UiL63aqbepg=",
+    "Size": 523065091,
+    "Path": "Data\\Skyrim - Textures5.bsa",
+    "Sha1": "DAFDF2E378D51F60102A57D5EF838BA58666B888",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "Us8GWfI+/W4=",
+    "Size": 7444,
+    "Path": "Data\\Source\\Scripts\\JArray.psc",
+    "Sha1": "499A98BA70FAD1A5E3D99B6D90984389DD90D173",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Ug+DIFRu0Wo=",
+    "Size": 187021,
+    "Path": "Data\\Strings\\enderal - forgotten stories_french.strings",
+    "Sha1": "32A041AA256A957EFB9F6260D6361DB7A2C64D86",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "UirXOShEZ0A=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath06_n.dds",
+    "Sha1": "309909AC4FB60A717BDDFC318421E407115F3DD1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Ug46Sg8/U9A=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue02.dds",
+    "Sha1": "D5A934DE877A3C707F93DAC6C581D16DC0DFA785",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "UoDRAh2Fkes=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\farmlands\\theredcow3.dds",
+    "Sha1": "E57FE2BDE24B1DFA8C87C921C4E9542B60AFB490",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Us6Y+w2qIYM=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\castlebleakstar.dds",
+    "Sha1": "3E744EB55FEE41931E2C7A2D9C4C3E4398DF5067",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "UsRZu4fhhU8=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignucmain.dds",
+    "Sha1": "9E0A813BD7C67AE5B548F7AC03CBFA3283C89A69",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

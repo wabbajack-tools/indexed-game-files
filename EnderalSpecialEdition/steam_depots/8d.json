@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "jb7QfSpaSi8=",
+    "Size": 574,
+    "Path": "Data\\Scripts\\Book.pex",
+    "Sha1": "976FD84B8537EEC9986B18329659C30B04F65B37",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "jeds1PDjAlI=",
+    "Size": 802,
+    "Path": "Data\\Scripts\\LeveledSpell.pex",
+    "Sha1": "88F9E0C627D0D406A8A4358ECD098320F22F9D2E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "jX/soE0oC+o=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesFarmersCoast.dds",
+    "Sha1": "C8EA9CA0FE63B9DE49B543581F75F086AB643C0F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "jSdtHlbFvm8=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk08.dds",
+    "Sha1": "300F4B12716141B4196ED50D6C49050B7099D4DA",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

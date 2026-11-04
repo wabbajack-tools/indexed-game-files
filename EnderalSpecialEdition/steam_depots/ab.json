@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "q1aarklUUeA=",
+    "Size": 1898,
+    "Path": "Data\\Scripts\\GameData.pex",
+    "Sha1": "A625AC7CC57942DA325E3F00530B1ABD867B1EC3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "q4egitVmehk=",
+    "Size": 3575,
+    "Path": "Data\\Scripts\\JArray.pex",
+    "Sha1": "7410367D4B082D1501375B487C2E5F8D4D2B871E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qwaXVreFzYA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HolyOrder_n.dds",
+    "Sha1": "3733FBE84A0E4FAD86EE623F12C470B2DA2ECD56",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "qxH3SwVN4yo=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ShareholderCertificate.dds",
+    "Sha1": "D49660CC1A9B153D544C705BC6A079514FF522E4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "q1aKxkIFco0=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\tomarketplace_n.dds",
+    "Sha1": "25B8AB300C0A0FB508938D80AF9E8DE523FBEF69",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "q0LIWT0s2ns=",
+    "Size": 1210120,
+    "Path": "skse64_1_7_104.dll",
+    "Sha1": "FDB02156BE3018C00ED879E41ECFBFB203956E64",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  }
+]

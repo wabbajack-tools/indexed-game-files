@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "PAFi82X4b9c=",
+    "Size": 320000,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_chacha.hkx",
+    "Sha1": "F5D3137234AAACE1807A25DBFD1330CCE28E597F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "PAFi82X4b9c=",
+    "Size": 320000,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_chacha.hkx",
+    "Sha1": "F5D3137234AAACE1807A25DBFD1330CCE28E597F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "PM0baJBhrIs=",
+    "Size": 4983,
+    "Path": "Data\\Scripts\\Armor.pex",
+    "Sha1": "066F315897E05FC321C490887F4FBB9F97B7BFCF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "PFlbCMVo7Xg=",
+    "Size": 12913,
+    "Path": "Data\\SKSE\\Plugins\\JCData\\InternalLuaScripts\\jc.lua",
+    "Sha1": "3A09A2638F2A0683A5F07B1D471F5518B85B82C1",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "PDVHLK2W12M=",
+    "Size": 1345109830,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "B1B58553AF157A147692AB67EB8BD46E8735DA42",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "PG4O0EOHBs4=",
+    "Size": 175,
+    "Path": "Data\\Source\\Scripts\\SoulGem.psc",
+    "Sha1": "5DDB8D50A662A2D18331A68384FEA33E33624C5B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "PPlbX8T/kPw=",
+    "Size": 303674,
+    "Path": "Data\\Strings\\enderal - forgotten stories_polish.ilstrings",
+    "Sha1": "FD8E419F512215EA8C1CCE4621F063562B9B69F4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "POFnCcDv0ew=",
+    "Size": 174920,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignuctarpit.dds",
+    "Sha1": "3C721467431C9ECD3D67295956CD14BD4FD90BF6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "PJMJLiaO22Y=",
+    "Size": 916509890,
+    "Path": "Data\\_ResourcePack.bsa",
+    "Sha1": "D6BC357CEFA06F6E61C6C5B89D22D5319D13E954",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  }
+]

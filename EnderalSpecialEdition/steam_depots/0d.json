@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "DUEKSwD2bv0=",
+    "Size": 1830988101,
+    "Path": "Data\\E - Textures1.bsa",
+    "Sha1": "27B14833B488C5EF29CD09A431A7E7BC6320A4E3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "DUQMaB3htOg=",
+    "Size": 43717,
+    "Path": "Data\\Enderal Credits.txt",
+    "Sha1": "D2B52E38F9C4C5C418B1E3644198A76EE3624E21",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "DaZqH3d65l0=",
+    "Size": 9276,
+    "Path": "Data\\Interface\\translations\\skyui_se_korean.txt",
+    "Sha1": "C388AAC5071F2A1C79181AC307193C73D0EA161A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "DcvyW4BFw0o=",
+    "Size": 1022,
+    "Path": "Data\\Scripts\\LeveledItem.pex",
+    "Sha1": "323EA39B7EFBA20719890C9052F0D660F192BA10",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "De4n04wQ3vo=",
+    "Size": 1156673,
+    "Path": "Data\\Strings\\skyrim_korean.dlstrings",
+    "Sha1": "94820AC68F19B56104111EE5A2AEEB472FBB48AF",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "DQYKtXR8Ats=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\CrystalJellyfish_n.dds",
+    "Sha1": "7F80DB50BE7562C603DF4B643BBE32246E995D27",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "DZcQlRud2O8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\KingLewd_n.dds",
+    "Sha1": "1ADC141CDE5305A11BB418BFCB43A7686F14221B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "DUNhdyEIfRw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath06_n.dds",
+    "Sha1": "6E314B099E272BD62D9B61DA14252780BCA01F11",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "DawGc0L04VE=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\TheSilverCloudPromo1.dds",
+    "Sha1": "2B960D176B847D0809CBAA593CBC6015255F4E51",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "DVshPrIFgu4=",
+    "Size": 174920,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignarena.dds",
+    "Sha1": "CB3E99D6A06C4B06687A97F117CC4F2F2CC9ABD7",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

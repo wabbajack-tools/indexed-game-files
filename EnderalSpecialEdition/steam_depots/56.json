@@ -1,0 +1,110 @@
+[
+  {
+    "Hash": "ViYz+eGc42U=",
+    "Size": 3370006,
+    "Path": "Data\\Interface\\Enderal_jpfp_console.swf",
+    "Sha1": "F3181F6A50CEF5E3548264946AC74AFA412C6B0E",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "ViYz+eGc42U=",
+    "Size": 3370006,
+    "Path": "Data\\Interface\\Enderal_jpfp_console.swf",
+    "Sha1": "F3181F6A50CEF5E3548264946AC74AFA412C6B0E",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "VivOMjIgpfc=",
+    "Size": 14000,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\cast_magic_easy.hkx",
+    "Sha1": "E84E3B2FE5439513CDE938919F44A1492FC652FB",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "VivOMjIgpfc=",
+    "Size": 14000,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\cast_magic_easy.hkx",
+    "Sha1": "E84E3B2FE5439513CDE938919F44A1492FC652FB",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "VsMDKgjgIcs=",
+    "Size": 1122309,
+    "Path": "Data\\Strings\\enderal - forgotten stories_japanese.dlstrings",
+    "Sha1": "BE61C626AD602FA4707EA7AF9C283F77E3952B9B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Vi9A+l6k/9k=",
+    "Size": 937520,
+    "Path": "Data\\Strings\\skyrim_spanish.dlstrings",
+    "Sha1": "F955E7107E2EAB57494ECD8F950C11A380772C53",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "VsCfbrEQR0E=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ChroniclesGoldenford.dds",
+    "Sha1": "FE9E486A0156545CD9A3A729A738805FEDC5585F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "VtWoq4Myo0k=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer08.dds",
+    "Sha1": "479CFEC5FAEE72BAADC71B03D5FD32877265967B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "VskMoBvr19c=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk02_n.dds",
+    "Sha1": "E52136FD232ED530E51B4338C89819140845DD58",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "VmIkH76P6AU=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\arenapromo1_n.dds",
+    "Sha1": "4BCADDFDDF1DD05510769FF51C1BE5A4E35DBA1A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "VjBEjJ9AovI=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\playlist.dds",
+    "Sha1": "B3259E585B3242B245D86264C4D05F99828F4CC8",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Vs4AF8MW9vs=",
+    "Size": 1398228,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\totheater_n.dds",
+    "Sha1": "EEED886241FE78FB671857881E3AFF331A0C37A4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

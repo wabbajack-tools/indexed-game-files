@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "xOvOAP0hQXM=",
+    "Size": 7102,
+    "Path": "Data\\Interface\\Translations\\hdtHighHeel_HUNGARIAN.txt",
+    "Sha1": "F848361260C297E86B3E03F78312F23B77BF0221",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "xO6OHLMZ4Ek=",
+    "Size": 567120,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_onspot_slow.hkx",
+    "Sha1": "EF55C6F99BAAC38511888BB7BFA14DB08CC1E799",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "xO6OHLMZ4Ek=",
+    "Size": 567120,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_onspot_slow.hkx",
+    "Sha1": "EF55C6F99BAAC38511888BB7BFA14DB08CC1E799",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "xBKwvePrMPo=",
+    "Size": 236,
+    "Path": "Data\\SKSE\\Plugins\\YesImSure.json",
+    "Sha1": "F41DF417FF2B0D08ABE6281336899B24783C0995",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "xLSou6Qmkpk=",
+    "Size": 695816,
+    "Path": "Data\\Textures\\Enderal\\forgottenstories\\books\\fs_nq02\\fs_nq02_map.jpg",
+    "Sha1": "566CB2979D6D704F6939EBA2BD7A85181D225605",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

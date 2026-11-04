@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "KQQjJdOuhXQ=",
+    "Size": 612237,
+    "Path": "Data\\Interface\\NanumSquareB.swf",
+    "Sha1": "6681A12E37F58329C8D1994D10A68D5BFCB02976",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "Kc1lr4fO/4o=",
+    "Size": 2700600,
+    "Path": "Data\\SKSE\\Plugins\\msdia140.dll",
+    "Sha1": "F74156427A29DD65C70ED4452C9FEDB07766B49D",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "Kc1lr4fO/4o=",
+    "Size": 2700600,
+    "Path": "Data\\SKSE\\Plugins\\msdia140.dll",
+    "Sha1": "F74156427A29DD65C70ED4452C9FEDB07766B49D",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "KaD1wQsOlPU=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Skinner_n.dds",
+    "Sha1": "4B4F84956096500DA87539912A7A9087693DC6CF",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "KdGe3bRM2gM=",
+    "Size": 262272,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\theaterpromo1_n.dds",
+    "Sha1": "F94E158DB24413E3FC30825FC8DA07F517B4D4A0",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "0PxDvE7trG8=",
+    "Size": 2608,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "E270F5A29C633BDFC3DE8BBB742D2488F68CCF70",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  },
+  {
+    "Hash": "0DbAUxR1qdI=",
+    "Size": 87972,
+    "Path": "Data\\Interface\\translate_french.txt",
+    "Sha1": "27119A3F63380B48E33373068C0F5B45A13099A6",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "0Op1ufzV9LY=",
+    "Size": 39102,
+    "Path": "Data\\Scripts\\SKI_ConfigMenu.pex",
+    "Sha1": "E837622E303E677E35A0ECA2143326F98B951B02",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "0L6Ml+AijHg=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignarkwrittenon_n.dds",
+    "Sha1": "EFE963F60FD289514550294776BA7F65315BDEA2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "0MjyQZSvD4Q=",
+    "Size": 67579960,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "12DE3D2B0E3C00142637CF9FB722D35ACD23850C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "0MjyQZSvD4Q=",
+    "Size": 67579960,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "12DE3D2B0E3C00142637CF9FB722D35ACD23850C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  }
+]

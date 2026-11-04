@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "QcZSG9VO0X8=",
+    "Size": 18974838,
+    "Path": "Data\\Interface\\fonts_en.swf",
+    "Sha1": "CD9323B9D9A5F53CAA3B6D2915019EAA07A70232",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "QcZSG9VO0X8=",
+    "Size": 18974838,
+    "Path": "Data\\Interface\\fonts_en.swf",
+    "Sha1": "CD9323B9D9A5F53CAA3B6D2915019EAA07A70232",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 7645486740413014461
+  },
+  {
+    "Hash": "QTfYUYmRQnE=",
+    "Size": 1398248,
+    "Path": "Data\\Textures\\clutter\\books\\NoteFahlsternMap.dds",
+    "Sha1": "36AD2127CAAF417CD1766AA6FBBE5F63A82201A6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "QZEO4JuEVgU=",
+    "Size": 6465,
+    "Path": "skse64_readme.txt",
+    "Sha1": "569F81B7BB83F816B0DABE94ACC2EC29643B3778",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "QZEO4JuEVgU=",
+    "Size": 6465,
+    "Path": "skse64_readme.txt",
+    "Sha1": "569F81B7BB83F816B0DABE94ACC2EC29643B3778",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

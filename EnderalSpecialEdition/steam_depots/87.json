@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "h6Om/shIhII=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HoffnungLeid_n.dds",
+    "Sha1": "4A7C928DF893B05A152B9CA1CCCF639B861E8E63",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "hweQGSHhscY=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\Enderal\\Misc\\PosterPowdercliff_n.dds",
+    "Sha1": "CCA4A796292D85D5046FE1179597092923E5492B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "h0pxtI2SYeY=",
+    "Size": 21462,
+    "Path": "skse64_whatsnew.txt",
+    "Sha1": "BC18587C8E07EB8CCFF34C53AA32AB30D48761F5",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "h0pxtI2SYeY=",
+    "Size": 21462,
+    "Path": "skse64_whatsnew.txt",
+    "Sha1": "BC18587C8E07EB8CCFF34C53AA32AB30D48761F5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

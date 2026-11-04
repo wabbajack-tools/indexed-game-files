@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "TaCqHgrVDYI=",
+    "Size": 389575,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "31F1BB910A43C6B7B29E35C928CB853C68401F3B",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "TaCqHgrVDYI=",
+    "Size": 389575,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "31F1BB910A43C6B7B29E35C928CB853C68401F3B",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  },
+  {
+    "Hash": "TWgf9+Ml028=",
+    "Size": 10697,
+    "Path": "Data\\Scripts\\Game.pex",
+    "Sha1": "BE721439EC03F7F181F891D394847D4C5B9FA608",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "TQwIxXAENCk=",
+    "Size": 3338240,
+    "Path": "Data\\SKSE\\Plugins\\JContainers64.dll",
+    "Sha1": "197B0002856280AF6464F03230CDBA6B7EB1CBF4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Te56PzRXj9M=",
+    "Size": 3187,
+    "Path": "Data\\Source\\Scripts\\JFormMap.psc",
+    "Sha1": "CB26DBE9FC082556C99966DF598BAE4927C704EE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "TbQPyak/oOk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\NutritiousnessMeat_n.dds",
+    "Sha1": "D7DF03E44AE52BEE0FEF8A92372836C88E2F0B81",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "TaKxHyCVnqw=",
+    "Size": 174904,
+    "Path": "Data\\Textures\\Enderal\\architecture\\Ark\\bathinghouse.dds",
+    "Sha1": "5BF37F58E6FE0C9C3215918840DAFB8BDCE4BC68",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

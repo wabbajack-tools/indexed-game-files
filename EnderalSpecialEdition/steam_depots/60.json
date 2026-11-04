@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "YBdkk9Hb6uU=",
+    "Size": 131470,
+    "Path": "Data\\Interface\\translate_czech.txt",
+    "Sha1": "3226EA4AE5D2D865C1F0A109C4EC174FCC7B67AC",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "YOLeAlXhVGY=",
+    "Size": 174904,
+    "Path": "Data\\Textures\\enderal\\architecture\\silvergrove\\SilentSleepInn.dds",
+    "Sha1": "930F3ECE3197F226767B8811628686F154FE22F4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

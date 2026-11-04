@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "8h00RlByQg8=",
+    "Size": 24622,
+    "Path": "Data\\Interface\\dialoguemenu.swf",
+    "Sha1": "AC9ED41E8C22BA7E7CF12A88160678BB9961242C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "8h00RlByQg8=",
+    "Size": 24622,
+    "Path": "Data\\Interface\\dialoguemenu.swf",
+    "Sha1": "AC9ED41E8C22BA7E7CF12A88160678BB9961242C",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "8j4nKvEUw58=",
+    "Size": 1160,
+    "Path": "Data\\Source\\Scripts\\Camera.psc",
+    "Sha1": "83F6F24EB537EDC5512AC96CC76BA8AFDD1281C7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "8jc3sUxXTvQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HolinessOrder_n.dds",
+    "Sha1": "A7B5D1DE2C42484DCDFA03CCBFC5CFA00B20C598",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "8rZS6gncwyc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\MouseMitata.dds",
+    "Sha1": "ECC6E7A3EAAB2F1FCAF10B3BB080E3E75865D6A0",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "8sYF37/Xwy0=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThroatstoneNotes.dds",
+    "Sha1": "83895C9C06EF4019D40633BF377B53A4275C9286",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "8ifwePNUbnY=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\thesilvercloudpromo1_n.dds",
+    "Sha1": "2B8EC82D1A09D4F7A72B6BC730DBF27CED8DD007",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "8hnWHG5nU8I=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\signs\\apothekarii_n.dds",
+    "Sha1": "9F8042CB27F01B9A1951DE2B3FDB50B6A01F85DC",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "8iPX1dhv7+E=",
+    "Size": 34769792,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "001C5ADD65383E188DC863C7ACC9A3FDE548019E",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "8iPX1dhv7+E=",
+    "Size": 34769792,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "001C5ADD65383E188DC863C7ACC9A3FDE548019E",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

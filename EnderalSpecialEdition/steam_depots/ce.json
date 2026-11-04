@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "zjY0n8piCxA=",
+    "Size": 1673,
+    "Path": "Data\\Scripts\\Spell.pex",
+    "Sha1": "C7912826F2ED5F9EB5D732F5B9B5377CB02E1961",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "znL7ciJh58w=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath01_n.dds",
+    "Sha1": "9F520770B3BAD1296EEF4E5864134D7E3B3BD944",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "zpTktGLOu1A=",
+    "Size": 2663,
+    "Path": "Enderal_default.ini",
+    "Sha1": "AB1847A57A9AA86C1331A0387F40E58C22863E56",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  }
+]

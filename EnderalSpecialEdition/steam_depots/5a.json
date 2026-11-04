@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "WqFzlF8tfnY=",
+    "Size": 10813252,
+    "Path": "Data\\Enderal - Forgotten Stories.esm",
+    "Sha1": "AD0418D3AE6896BB94318902768785627CC9EA5B",
+    "App": 976620,
+    "Depot": 1574103,
+    "Manifest": 6090138831677211187
+  },
+  {
+    "Hash": "Wr/eLnSwWMY=",
+    "Size": 2608,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "01BA7E06BC50AFD5B34827E3CE68925EB50333B4",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 8926416149302246495
+  },
+  {
+    "Hash": "Wg1KBQgWP1M=",
+    "Size": 12762,
+    "Path": "Data\\Interface\\translations\\skyui_se_polish.txt",
+    "Sha1": "A50BDDC2DE9F37715919384BE6A1B2F94CD2631D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "WsO+bCpWJjQ=",
+    "Size": 1451091005,
+    "Path": "Data\\L - Voices.bsa",
+    "Sha1": "5C81CA2DA557D04F8F541A1A26FACDFC282B3291",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "WsO+bCpWJjQ=",
+    "Size": 1451091005,
+    "Path": "Data\\L - Voices.bsa",
+    "Sha1": "5C81CA2DA557D04F8F541A1A26FACDFC282B3291",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 8647797636031883444
+  },
+  {
+    "Hash": "Wv+LEnBZwc0=",
+    "Size": 574,
+    "Path": "Data\\SKSE\\Plugins\\CrashLogger.ini",
+    "Sha1": "4B2D08600C011E7032B2A11AC0C0E31668D18C57",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "Wv+LEnBZwc0=",
+    "Size": 574,
+    "Path": "Data\\SKSE\\Plugins\\CrashLogger.ini",
+    "Sha1": "4B2D08600C011E7032B2A11AC0C0E31668D18C57",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "Wnm6hjArBks=",
+    "Size": 29,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "19F899C150C322C1664B98972BE4C5BB5C2F8211",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "WuIbk7M5mao=",
+    "Size": 267449,
+    "Path": "Data\\Strings\\enderal - forgotten stories_russian.strings",
+    "Sha1": "401A3C8F2168BD4ACA8D0F949C7D1566DAC51795",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "WubvK1NY+uE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MountainPass_n.dds",
+    "Sha1": "8D2378C14E654333F57AD4B4BE66097D79782CE6",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "tfu0nnpyjEQ=",
+    "Size": 81516,
+    "Path": "Data\\Interface\\translate_chinese.txt",
+    "Sha1": "7C591C7ABBF16063098A2E1A06E9CDB7C907FF7A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "tcdnuUdhoaI=",
+    "Size": 198144,
+    "Path": "Data\\SKSE\\Plugins\\SkyrimRedirector.dll",
+    "Sha1": "087B99C6F066A21F104220766177B5C5B4B9313C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "tcaLSOzJLXo=",
+    "Size": 1146699,
+    "Path": "Data\\Strings\\skyrim_french.ilstrings",
+    "Sha1": "8B3406D0E27FB3544571765D09718C7AE9E2D574",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "teMRoBMxC9Q=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath12.dds",
+    "Sha1": "A7E0A0F2A71EFC64E98BC1BE0F37A26A8DEF6BC8",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "tY7v08eqPNA=",
+    "Size": 174904,
+    "Path": "Data\\Textures\\enderal\\decals\\BloodSmear_HeIsStillHere.dds",
+    "Sha1": "4FEBA25B907C2A6DC5A55E9437411AB67EBF7840",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

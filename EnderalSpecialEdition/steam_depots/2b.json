@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "K1/I7EQ456M=",
+    "Size": 34979,
+    "Path": "Data\\Interface\\statssheetmenu.swf",
+    "Sha1": "53C90E98478B887CC6F40C02451E57BEF9457376",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "K1/I7EQ456M=",
+    "Size": 34979,
+    "Path": "Data\\Interface\\statssheetmenu.swf",
+    "Sha1": "53C90E98478B887CC6F40C02451E57BEF9457376",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "K3jEseiI8KE=",
+    "Size": 7497,
+    "Path": "Data\\Scripts\\ActiveMagicEffect.pex",
+    "Sha1": "2DADB0A5AD910468B5D8027CDFA917481CAF5639",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "K3/EOb0cahM=",
+    "Size": 766,
+    "Path": "Data\\Scripts\\Shout.pex",
+    "Sha1": "CC20CDCEE6465AF38450E653DC99D63677C7FAD2",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "K4pCY8HjesQ=",
+    "Size": 933,
+    "Path": "Data\\Source\\Scripts\\ConstructibleObject.psc",
+    "Sha1": "564776B07F533552257BB166D0CC86AC01A4DF2F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "K/n1A34sNJ0=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\ArenaPromo1_n.dds",
+    "Sha1": "45CAC16BA8B0FB7A461210B093B897C3E20B7648",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Ky332nDTkXk=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignucbarracks_n.dds",
+    "Sha1": "9622845AE6AF02B323FFE14D16481963E0821732",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "K0XeMyoMe2U=",
+    "Size": 1858,
+    "Path": "Skyrim_Default.ini",
+    "Sha1": "60F7725E2B20CD73AAE5033B08E2C54D960B038B",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "K0XeMyoMe2U=",
+    "Size": 1858,
+    "Path": "Skyrim_Default.ini",
+    "Sha1": "60F7725E2B20CD73AAE5033B08E2C54D960B038B",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

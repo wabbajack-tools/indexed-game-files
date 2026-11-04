@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "boWXTKa45n8=",
+    "Size": 14869,
+    "Path": "Data\\Scripts\\Actor.pex",
+    "Sha1": "AB05CB0A978CF7CE7A78C1DE620EDBAD40985F5B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "blH3KM2TF8o=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\JournalApothecarii.dds",
+    "Sha1": "DF7E11A8B64F7AC72630F693ED058B68771F79B7",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "bi47XMirsy0=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\castlebleakstar_n.dds",
+    "Sha1": "4311666D64F8E5AC803551B0F46AA8BBD1356F9A",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

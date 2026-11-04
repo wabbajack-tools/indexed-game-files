@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "OX29ZYdsz3Q=",
+    "Size": 81248,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\child_jumping_backandforth.hkx",
+    "Sha1": "C83E750913F40C44DAEFCD585AC52071A9578A7E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "OX29ZYdsz3Q=",
+    "Size": 81248,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\child_jumping_backandforth.hkx",
+    "Sha1": "C83E750913F40C44DAEFCD585AC52071A9578A7E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "OZSwJhDG9io=",
+    "Size": 1373,
+    "Path": "Data\\Scripts\\JDB.pex",
+    "Sha1": "8AE4DC325BCC9F24BB46C6D4E116E01D664FA78A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "OYRKdGKmOoA=",
+    "Size": 581,
+    "Path": "Data\\Source\\Scripts\\LeveledSpell.psc",
+    "Sha1": "599B24EC7DE5E52F70CC15B4595CB8C8FBA4D5AE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "OSZC3XyG3qw=",
+    "Size": 863332,
+    "Path": "Data\\Strings\\enderal - forgotten stories_czech.dlstrings",
+    "Sha1": "581561FB3277A5CEA84F8927150EBEFD64664C74",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "OctCT1CbDrM=",
+    "Size": 959748,
+    "Path": "Data\\Strings\\skyrim_czech.dlstrings",
+    "Sha1": "E940EF4B27667E1C407E48CC3FA24200536289F2",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "OYeo8uV78lQ=",
+    "Size": 174928,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\closed.dds",
+    "Sha1": "5F32E2BB56292406C56345E30060E2DE06FBC046",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

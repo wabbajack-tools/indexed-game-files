@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "7H69fEpXio8=",
+    "Size": 19152,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrossleggedenter.hkx",
+    "Sha1": "05AFA33102C312C875D5EF25AD72F849BA543E7F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "7H69fEpXio8=",
+    "Size": 19152,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrossleggedenter.hkx",
+    "Sha1": "05AFA33102C312C875D5EF25AD72F849BA543E7F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "7H69fEpXio8=",
+    "Size": 19152,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrossleggedenter.hkx",
+    "Sha1": "05AFA33102C312C875D5EF25AD72F849BA543E7F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "7H69fEpXio8=",
+    "Size": 19152,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrossleggedenter.hkx",
+    "Sha1": "05AFA33102C312C875D5EF25AD72F849BA543E7F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "7HFZBrSQNwk=",
+    "Size": 1265325033,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "AB76C91F40C809C65E0F5996FD36404BCB5F3594",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "7Ino/Fqlii4=",
+    "Size": 1225486,
+    "Path": "Data\\Strings\\skyrim_japanese.dlstrings",
+    "Sha1": "A195A3988AAE9BF5424ECE52CB55B7744D786B0A",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "7Gs7hXBrofQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath09_n.dds",
+    "Sha1": "3CEE4B67B37E437C9F9CEC57A874A9CCD17DC779",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "7BLxGbKaaCY=",
+    "Size": 291478884,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "02BE91672CDE3ABA7F947259147D275B91549235",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "7BLxGbKaaCY=",
+    "Size": 291478884,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "02BE91672CDE3ABA7F947259147D275B91549235",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 8926416149302246495
+  }
+]

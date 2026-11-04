@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "0nai8FEFPxo=",
+    "Size": 657,
+    "Path": "Data\\Source\\Scripts\\ColorForm.psc",
+    "Sha1": "F3FA3A3D339C5524D9A1815744A7DB5B11045189",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "0pse98ts5JQ=",
+    "Size": 973,
+    "Path": "Data\\Source\\Scripts\\FormList.psc",
+    "Sha1": "AE4CCD536F18E2E2430C59D4B250BBAA99042EBB",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "0uLQPogcJ2c=",
+    "Size": 1479,
+    "Path": "Data\\Source\\Scripts\\Input.psc",
+    "Sha1": "6D35FDAA5BD0E728EDE57E8722E54DDB560CE394",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "0raj1/qtr2Q=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HolyOrder.dds",
+    "Sha1": "2170358302FA7BDA9B7C228642C64A041705E58D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "0u6O2CgvGeI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MouseMitata_n.dds",
+    "Sha1": "A8513CD4B982952464072F816210B5B345F59766",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "0o/QkiiJSEY=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk03_n.dds",
+    "Sha1": "3B976F9C70BC31F4C3C45B7058178FCB8DE9CB6B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "0jUYHK85cDM=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "9F7E0161D2A8F75DC45A4D31B5491BA6DED0B1C0",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "0srPS1AnLWc=",
+    "Size": 2664,
+    "Path": "Enderal_default.ini",
+    "Sha1": "B7FAAD8BFC05DFC34C681B19B26C04C641F62093",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  }
+]

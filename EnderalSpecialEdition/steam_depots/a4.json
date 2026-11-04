@@ -1,0 +1,101 @@
+[
+  {
+    "Hash": "pKbwzO0fxA8=",
+    "Size": 209505,
+    "Path": "Data\\Interface\\fonts_console.swf",
+    "Sha1": "120C7E71077E714048A248B5D669018E51DCB06B",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "pKbwzO0fxA8=",
+    "Size": 209505,
+    "Path": "Data\\Interface\\fonts_console.swf",
+    "Sha1": "120C7E71077E714048A248B5D669018E51DCB06B",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  },
+  {
+    "Hash": "pGAVgD+Qy+w=",
+    "Size": 3662,
+    "Path": "Data\\Interface\\translate_HUNGARIAN - egyszer\u0171s\u00EDtett\\Translations\\taverngames_HUNGARIAN.txt",
+    "Sha1": "376828E14C7101F0C45CF8F3D71DB32F02951FE1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "pM2GneFjTiY=",
+    "Size": 27188,
+    "Path": "Data\\Interface\\Translations\\racemenu_hungarian.txt",
+    "Sha1": "38E06B30B5EB89AEBE1997B705439BA7C1E92BCB",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "pB0ZR7p1A+o=",
+    "Size": 5314,
+    "Path": "Data\\Scripts\\Quest.pex",
+    "Sha1": "F70D031F7A3B6FE0485296A2FA9C7D06EE35BE5C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "pMcnB4MhvEg=",
+    "Size": 986630,
+    "Path": "Data\\Strings\\enderal - forgotten stories_german.dlstrings",
+    "Sha1": "0A19E4CD598FBB42E360DC981B2B6822AC1EB2AE",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "pJ8JoLHKYwo=",
+    "Size": 1149984,
+    "Path": "Data\\Strings\\skyrim_french.ilstrings",
+    "Sha1": "29CDAD2E4A99E6BF5DC90515025BF2D7FB707394",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "pLfioiVuMZc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\StrangeFriend.dds",
+    "Sha1": "D016C163CF69C1FC16E87A89101DDA7562957D02",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "pDyrOlIPmM4=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk09.dds",
+    "Sha1": "4954BBECC797FE16F003CE09D5B4627E7739D699",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "pDDxRKJl/d4=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath01.dds",
+    "Sha1": "B0FF065E76EE7E4932B1E71FA9DFA82E6F5F7AB3",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "pAew54WNRO8=",
+    "Size": 1398228,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\silvercloud_n.dds",
+    "Sha1": "84954328C7948780A51F3F9861038551FFEDC3C8",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

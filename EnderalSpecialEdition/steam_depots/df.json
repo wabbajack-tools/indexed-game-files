@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "38IFTzdQoOI=",
+    "Size": 396252,
+    "Path": "Data\\meshes\\actors\\character\\character assets female\\skeleton_female.xml",
+    "Sha1": "04AEC0D6AF2B1D9435DA010D563BA51BB25E5356",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "3483DrJ3Ze0=",
+    "Size": 197,
+    "Path": "Data\\Source\\Scripts\\EquipSlot.psc",
+    "Sha1": "C03B03E14355437A89F26FEF2DCEDF6249406A92",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "3+HTuBP0Tk0=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\Playlist.dds",
+    "Sha1": "E28FCEE50E0AFF05EB46601EFF0851E122096CB3",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "378VPekBfzE=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\signs\\tomarketplace_n.dds",
+    "Sha1": "424A8669981E92330937F342806AE89BA9675CF0",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "394H0LYbiyY=",
+    "Size": 291556940,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "01F5AE78360AD0A3AD5BCE9F08B01141D7DBA25B",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  }
+]

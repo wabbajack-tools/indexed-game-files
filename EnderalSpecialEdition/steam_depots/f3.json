@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "8wnmyRot6rw=",
+    "Size": 643095,
+    "Path": "Data\\Interface\\fonts_ru.swf",
+    "Sha1": "C3BD47DA9DAB668E027587E197C65287338890F1",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  },
+  {
+    "Hash": "8xhD6mKiIH4=",
+    "Size": 32,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "674FEB6CB829B29741A5C9859CBF253D79DCDE1F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "86sqGOYiMrA=",
+    "Size": 2960,
+    "Path": "Data\\Source\\Scripts\\WornObject.psc",
+    "Sha1": "C5409220990B74860F34E7E3D71290F6FE1ECA81",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "8zcyRa5fLKE=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\LyricalGushes.dds",
+    "Sha1": "A5CB2D49E8D2FA5C4799A5B776D5951BE109E831",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "88KWufWNJIE=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer08.dds",
+    "Sha1": "379B11EFD93C0218A7CB15F2EB659AE428045169",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "86L1D1engXg=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\totheater.dds",
+    "Sha1": "A9C73555E7596FC0B358BA43E9118B76F68078D0",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "80Um4m2pm4g=",
+    "Size": 174920,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignback.dds",
+    "Sha1": "BF8621FAE3C0A0FFDABACCEA9CB4BFBDCBE2605E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "8/E77AANJK4=",
+    "Size": 1385251036,
+    "Path": "Data\\Video\\Enderal_Credits.bik",
+    "Sha1": "C16C83FF38766B2FFE4BB64FDED70B28ED1D9B73",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  }
+]

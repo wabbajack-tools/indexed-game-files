@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "IuTD0GaFtZk=",
+    "Size": 40912,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\faint.hkx",
+    "Sha1": "28D0A893F8CF3E0DF00ED9232F380FFFDA27C46A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "IuTD0GaFtZk=",
+    "Size": 40912,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\faint.hkx",
+    "Sha1": "28D0A893F8CF3E0DF00ED9232F380FFFDA27C46A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "IvMRs4YvnMk=",
+    "Size": 1042931,
+    "Path": "Data\\Strings\\skyrim_french.dlstrings",
+    "Sha1": "1A6C4EF8FA62A48FCCD05311F81116A2DEB081CE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "IrVcpR5Xp1U=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesElementalism.dds",
+    "Sha1": "97D9B07D9738E4CFFEE8CEEAE43CEC8E50EC81C3",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Ija6Ed9cLsg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer01_n.dds",
+    "Sha1": "90E1C1DD72F808DE10E75CB67D536345881E41A9",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "IhD6rnoulLo=",
+    "Size": 2663,
+    "Path": "Enderal_default.ini",
+    "Sha1": "E98E6A65236263B27AE9ADA0CEBEB3384BC466D0",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  }
+]

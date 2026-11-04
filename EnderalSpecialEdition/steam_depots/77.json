@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "d4rDuaoC88U=",
+    "Size": 1149,
+    "Path": "Data\\Scripts\\Enchantment.pex",
+    "Sha1": "406EFE23C28621A315DEA8656E68EF3781140BA2",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "d9qj/W1MrtM=",
+    "Size": 5827,
+    "Path": "Data\\Source\\Scripts\\FormType.psc",
+    "Sha1": "AA2A0DAC8589DD0AB7D304405A50A2CBB4BDA7C9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "d2zx3o/jOfA=",
+    "Size": 368,
+    "Path": "Data\\Source\\Scripts\\TextureSet.psc",
+    "Sha1": "AEDB18C9DE2875547C37CA6AF612DF36A110BF09",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "dzwztbjTAak=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\HolyOrder.dds",
+    "Sha1": "6452750D47E164051356A702EA866A6AB150FC84",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "dwN5KIpFDYE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk10_n.dds",
+    "Sha1": "53ECE0AD492D0A20F982E513F795E84B5C8534C2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

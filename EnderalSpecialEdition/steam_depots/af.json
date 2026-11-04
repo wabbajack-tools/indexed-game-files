@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "rwpjky2BkiU=",
+    "Size": 9344,
+    "Path": "Data\\Interface\\translations\\skyui_se_japanese.txt",
+    "Sha1": "1168A570DE0471D68401159F14F7F8422B5C479C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "r+7ibmcnbvA=",
+    "Size": 16720,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\stomp.hkx",
+    "Sha1": "F0649968F801C82D6673659E598FAEC7C289AD4C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "r+7ibmcnbvA=",
+    "Size": 16720,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\stomp.hkx",
+    "Sha1": "F0649968F801C82D6673659E598FAEC7C289AD4C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "r8lE/k6uIwc=",
+    "Size": 907,
+    "Path": "Data\\Scripts\\SpawnerTask.pex",
+    "Sha1": "AB82CAAA63B32BB873852CDD48B51B05273AD554",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "r5GLNIFyZB8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ShareholderCertificate_n.dds",
+    "Sha1": "8649CC714F18A35E2A61B3FBC26610DD021785A7",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

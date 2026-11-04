@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "kH/ysveCQy8=",
+    "Size": 20,
+    "Path": "Data\\SKSE\\Plugins\\EnderalVersion.ini",
+    "Sha1": "49C91256F57C8A6734A691F623FDE58523A725AD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "kJv2YKH/hJw=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TraumblumeAbhandlung.dds",
+    "Sha1": "54D1FD8C88F30F921FC491C0FEE370A156D5BECA",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "kOEZm5kqrlE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TraumblumeAbhandlung_n.dds",
+    "Sha1": "A42FA100E3C93F52A84A9A2E001D96824295B4A4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "kLYbvAVIND0=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\FalseDog_n.dds",
+    "Sha1": "25E40D5EB0C45D566DDF82240E7B819FD307494A",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "kGWsLugsOno=",
+    "Size": 308888260,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "D2C8A7DC1D92E8AEECF8B857A9E759B9DC79FCA4",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "kGWsLugsOno=",
+    "Size": 308888260,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "D2C8A7DC1D92E8AEECF8B857A9E759B9DC79FCA4",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "kCf0Lhf4aYE=",
+    "Size": 628954160,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "9BFEB65AA20088CCA7B21DF0479F026EE94E13CE",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "kCf0Lhf4aYE=",
+    "Size": 628954160,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "9BFEB65AA20088CCA7B21DF0479F026EE94E13CE",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 8926416149302246495
+  }
+]

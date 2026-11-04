@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "1twJU4dg+/8=",
+    "Size": 13156,
+    "Path": "Data\\Interface\\translations\\skyui_se_spanish.txt",
+    "Sha1": "682EFEF216DA832F158EFBCB2D37B1394B31DAD6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "1rcVwn6EXLk=",
+    "Size": 14101,
+    "Path": "Data\\Scripts\\JContainers_DomainExample.pex",
+    "Sha1": "B09A91A4127B725E47C224928752EFD0A5DBF8C2",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "1kzxuNFE61M=",
+    "Size": 971,
+    "Path": "Data\\Source\\Scripts\\HeadPart.psc",
+    "Sha1": "C6728F14520B4EF8024412E5B319AD3761E93467",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "1lvLtZep43c=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ArtCrispyMeat_n.dds",
+    "Sha1": "5A7DEE3C82E48B45D8F513FB669BF1B04C82BDE4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "1nnmf5k8JhQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LyricalGushes_n.dds",
+    "Sha1": "CA1F47BBAF64C878D8066E346320D5A506DD9AED",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "1jQxGBADQv8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath05_n.dds",
+    "Sha1": "082AE316A8354F3ED6E0D0C496756267DE947FE4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

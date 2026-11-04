@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "hQffTn8GhFU=",
+    "Size": 2607,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "427CBFD4927C010A3F2DACDC0AEB4E1871C600E7",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 8647797636031883444
+  },
+  {
+    "Hash": "hXRtef6usP8=",
+    "Size": 196979,
+    "Path": "Data\\Strings\\enderal - forgotten stories_korean.strings",
+    "Sha1": "7B4C57DDEB209FF3503EE05DAB206DBEC42902B9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "hcQcWljfEsI=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\MythsBlindMiner.dds",
+    "Sha1": "32D5B08E8341FAD56A5AAEC265B907471B0FFADE",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "hS+/baIYV4M=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath09.dds",
+    "Sha1": "F10C77226CF4DB799C4DDFDFC311438B849DB1C5",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "hacNPSfoiAY=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\decals\\bloodsmear_heisstillhere.dds",
+    "Sha1": "C14C4B8331CC1FD5138E87F800077FE6050C2C17",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

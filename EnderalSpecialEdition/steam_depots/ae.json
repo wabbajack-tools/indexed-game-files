@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "rh9JSTODl20=",
+    "Size": 43100,
+    "Path": "Data\\Enderal Credits.txt",
+    "Sha1": "B577F6E1F0F6266D407E83190284577C54FECB19",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "rs9iBunqVdg=",
+    "Size": 85842,
+    "Path": "Data\\Interface\\translate_hungarian.txt B",
+    "Sha1": "E751A92807D2BE6159577A415689CED85455449C",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "rrUVwQz1vRg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesPowderDesert_n.dds",
+    "Sha1": "77AAFFAFB07E8E2A49DAEDA1148B191FCD1B9698",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "rlqCL+zlUao=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LostBrigand.dds",
+    "Sha1": "EC3A79AFCC96BE6B71CFD283E434D1A302BCA9B4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "ru6sYkJeBPY=",
+    "Size": 1398248,
+    "Path": "Data\\Textures\\clutter\\books\\NoteFahlsternMap.dds",
+    "Sha1": "17ED94AFA9A9D4F5548C44BFE945C4801988BDE1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "roi+6wrTZD4=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk01.dds",
+    "Sha1": "87536EF474C3B30687D013134A5FB734F3DF46D1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "rqLzq0dKuHk=",
+    "Size": 211968,
+    "Path": "skse64_loader.exe",
+    "Sha1": "A6744548FA10EBD02D9FF82121550D9751BC7EF0",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "rqLzq0dKuHk=",
+    "Size": 211968,
+    "Path": "skse64_loader.exe",
+    "Sha1": "A6744548FA10EBD02D9FF82121550D9751BC7EF0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

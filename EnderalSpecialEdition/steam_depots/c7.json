@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "x2K0LUdJQtw=",
+    "Size": 275181,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "DA03FB7402FFB88404B25B04A5E236799BAE4BD6",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  },
+  {
+    "Hash": "x/qDVPXbEls=",
+    "Size": 2238,
+    "Path": "Data\\Interface\\taverngames_japanese.txt",
+    "Sha1": "3951A9F90057414D30DF7F99FCE8B897F8E454DB",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "x9A3DKlsEa0=",
+    "Size": 87654,
+    "Path": "Data\\Interface\\translate_spanish.txt",
+    "Sha1": "92227DDF48A561B5CEA2E8C3C830A903E1A4949C",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "x3GP867oOqs=",
+    "Size": 971432,
+    "Path": "Data\\Strings\\Skyrim_hungarian.ILSTRINGS",
+    "Sha1": "9FE93FA9E53BC457DA92EA3672C4EF066B10B3FC",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "x4ZOJwvYZyw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Traumblume_n.dds",
+    "Sha1": "E659B2219FCA02AF8F380903995EA81D716E98DA",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "xy174TT2AXo=",
+    "Size": 188928,
+    "Path": "skse64_steam_loader.dll",
+    "Sha1": "F1162F2976F8AF98C59987D64EA242D2547A9952",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "xy174TT2AXo=",
+    "Size": 188928,
+    "Path": "skse64_steam_loader.dll",
+    "Sha1": "F1162F2976F8AF98C59987D64EA242D2547A9952",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

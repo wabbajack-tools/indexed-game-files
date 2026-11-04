@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "oQYB8sAR4cQ=",
+    "Size": 146988,
+    "Path": "Data\\Interface\\translate_HUNGARIAN - egyszer\u0171s\u00EDtett\\SkyrimSE 2023-08-14 10-39-04-42.jpg",
+    "Sha1": "96C874BAC4D5DE560AF8EBD790A71102C899679A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "oXiStCQlYMM=",
+    "Size": 69994754,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "6E84863C70F29A5F86E2F1A16D983E2E72E3D509",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 5720885084233845834
+  },
+  {
+    "Hash": "oXiStCQlYMM=",
+    "Size": 69994754,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "6E84863C70F29A5F86E2F1A16D983E2E72E3D509",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "oZRy4K+g0To=",
+    "Size": 2972,
+    "Path": "Data\\Source\\Scripts\\MagicEffect.psc",
+    "Sha1": "4550ED5517998747F1CF17474543779A28ECA859",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "ocYuNDlO7xM=",
+    "Size": 166361,
+    "Path": "Data\\Strings\\enderal - forgotten stories_chinese.strings",
+    "Sha1": "3848065F4D5CF2F73C4E65E2E6352D5985F40091",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "oZBhn26f2Yc=",
+    "Size": 896442,
+    "Path": "Data\\Strings\\enderal - forgotten stories_italian.dlstrings",
+    "Sha1": "3AD7D1E5C1841252334B2E6FE75AA9DC31EE0891",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "oaYqW+GXTFg=",
+    "Size": 178993,
+    "Path": "Data\\Strings\\enderal - forgotten stories_italian.strings",
+    "Sha1": "8083F93261D457B4D12276E02C9F8B60C44502AD",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "oap0qfR7X8w=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath01_n.dds",
+    "Sha1": "2D3E1B988940D316DE80A926493824D7415A5000",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "oa/t5PDIhYI=",
+    "Size": 174904,
+    "Path": "Data\\Textures\\enderal\\architecture\\Ark\\dancingnomadinnsign.dds",
+    "Sha1": "DD66C3983A5FB7B7CA744A52DF2A26F2B54A88F9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

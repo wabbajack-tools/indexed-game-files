@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "xVXaPXMQcI8=",
+    "Size": 845,
+    "Path": "Data\\Scripts\\SKSE.pex",
+    "Sha1": "B6892CE8DB041BBF5F0BC1BB2385E990146EAFEC",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "xR1tU7QVu34=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\AccountUnknownTraveler03_n.dds",
+    "Sha1": "88093104CCCA009BCAC7A3B3EA62A27D1D0DC8AC",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "xaMzMVK4sSs=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\Bauplan.dds",
+    "Sha1": "232D4A5F4769DC3DD4343CFD0F95038C17471E12",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "xW5wmT4UsnI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsAshWidow_n.dds",
+    "Sha1": "CB2EA425B0B0222415EBD5E72D9678516FD3EB51",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "xZ6XRUfGqTI=",
+    "Size": 1315328,
+    "Path": "skse64_1_5_97.dll",
+    "Sha1": "C8D8712B41B89662146EC3600D0C7218ACB55E72",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "xZ6XRUfGqTI=",
+    "Size": 1315328,
+    "Path": "skse64_1_5_97.dll",
+    "Sha1": "C8D8712B41B89662146EC3600D0C7218ACB55E72",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

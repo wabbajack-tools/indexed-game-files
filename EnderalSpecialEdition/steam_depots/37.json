@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "N+YMU+VlySM=",
+    "Size": 313078,
+    "Path": "Data\\Interface\\quest_journal.swf",
+    "Sha1": "D7FC1551C2E3DC8B5E5C3AB6EDD3609C6C292797",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Ny9NV/912lE=",
+    "Size": 17061,
+    "Path": "Data\\Source\\Scripts\\ActiveMagicEffect.psc",
+    "Sha1": "519AD3922E401787D09081DF6D52A5905953E78B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "N0JKXtjAST4=",
+    "Size": 302297,
+    "Path": "Data\\Strings\\enderal - forgotten stories_polish.ilstrings",
+    "Sha1": "8D5527D22851D32F331B6C985EE4EFB2E772A694",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Nze7YCOc+/4=",
+    "Size": 1077849,
+    "Path": "Data\\Strings\\skyrim_italian.ilstrings",
+    "Sha1": "330ED28A929415AA34FE08622C593D492033C70A",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "N5dZO13t91g=",
+    "Size": 262272,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\theaterpromo1.dds",
+    "Sha1": "8FEA2AC58E141BBFE2C566DD81A6818E5B8B078D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "NwpjjnjvXfM=",
+    "Size": 266172908,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "F85B61E1E5BD931D0620D3F077DE3E5839C82C33",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "NwpjjnjvXfM=",
+    "Size": 266172908,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "F85B61E1E5BD931D0620D3F077DE3E5839C82C33",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  }
+]

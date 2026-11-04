@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "P7Fy6nAP8Pw=",
+    "Size": 1436,
+    "Path": "Data\\Scripts\\Math.pex",
+    "Sha1": "A6AC5BAADBBA2853EDF1EBC0E6F14916484C823A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "P0cxtcxYnnA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\AboutWhispertrees_n.dds",
+    "Sha1": "535A5614BE36776D17290D80B483D599E555CA7B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "P3fWF1S/pnI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk04_n.dds",
+    "Sha1": "5F8DD1B1EFFC8EA84E7AB020DD1F0745A131C8E6",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

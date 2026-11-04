@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "rENi4TDkFjY=",
+    "Size": 1318023565,
+    "Path": "Data\\Skyrim - Textures3.bsa",
+    "Sha1": "C4F6BBD2DD4A9348FE12E8FDF184BF5BCAD73F26",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "rENi4TDkFjY=",
+    "Size": 1318023565,
+    "Path": "Data\\Skyrim - Textures3.bsa",
+    "Sha1": "C4F6BBD2DD4A9348FE12E8FDF184BF5BCAD73F26",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "rJBeg5hgPQs=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\AccountUnknownTraveler01_n.dds",
+    "Sha1": "131A760DBE627FCFA468CBBA7951D40E037799CD",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "rJspYjCy7VA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsArveldhiin_n.dds",
+    "Sha1": "DAF5DD31EB6C1DA817E5C628A6DC69888B413B3B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

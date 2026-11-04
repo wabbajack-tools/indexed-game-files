@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "pkX9e9AR9QU=",
+    "Size": 34870,
+    "Path": "Data\\Source\\Scripts\\ObjectReference.psc",
+    "Sha1": "28C9D7457A7E9B01E65F8CCF68F4D4281E55E232",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "pud/imiezmQ=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\GoldenFord.dds",
+    "Sha1": "111377F616C6F73EA255F56D464ADB96F99F2F16",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "plFiYscUY3c=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk09.dds",
+    "Sha1": "FAFD777CF4B6D0511489A9ABEA10B83ADC4CF294",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "pu+WEBvUy1A=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath10_n.dds",
+    "Sha1": "6D327B43A57DA55A8C83D2979D2BA658F6E17A5A",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "pnOL2dvQIEA=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\AdreyuVonMith1.dds",
+    "Sha1": "33FCF6F889E8AB68D0494C034D1E11CDF4034029",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

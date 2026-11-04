@@ -1,0 +1,110 @@
+[
+  {
+    "Hash": "kTOpVTGXBi4=",
+    "Size": 88576,
+    "Path": "d3dx9_42.dll",
+    "Sha1": "A24FDD75861A1D5364007D23744C8322651CCB2A",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "kTOpVTGXBi4=",
+    "Size": 88576,
+    "Path": "d3dx9_42.dll",
+    "Sha1": "A24FDD75861A1D5364007D23744C8322651CCB2A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "kQDPKZ4y4wc=",
+    "Size": 52640,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_whirlwindsprint_long.hkx",
+    "Sha1": "6D18A5796094948A38AAB9A7AF37773B1BF88F16",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "kQDPKZ4y4wc=",
+    "Size": 52640,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_whirlwindsprint_long.hkx",
+    "Sha1": "6D18A5796094948A38AAB9A7AF37773B1BF88F16",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "keDOcNStxmU=",
+    "Size": 738304,
+    "Path": "Data\\SKSE\\Plugins\\EnderalSE.dll",
+    "Sha1": "EA52C8A1CDEC47B26623CB1E884BAA9B58FF4A93",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "kX9UFltG4+s=",
+    "Size": 116177491,
+    "Path": "Data\\Skyrim - Animations.bsa",
+    "Sha1": "BAAF8E17A51228773F177E1FA82F4697D748D3A5",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "kX9UFltG4+s=",
+    "Size": 116177491,
+    "Path": "Data\\Skyrim - Animations.bsa",
+    "Sha1": "BAAF8E17A51228773F177E1FA82F4697D748D3A5",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "kXAfFsxwwww=",
+    "Size": 118,
+    "Path": "Data\\Source\\Scripts\\Art.psc",
+    "Sha1": "7C7511E97CE67C95ECEBA7F905CA71B6C0A55021",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "kUiikCF5eE8=",
+    "Size": 10750,
+    "Path": "Data\\Source\\Scripts\\Form.psc",
+    "Sha1": "29898B508EFF65F430FF20C5FA5D91AA57B8E5D7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "kUTFwprGj9I=",
+    "Size": 946092,
+    "Path": "Data\\Strings\\enderal - forgotten stories_french.dlstrings",
+    "Sha1": "9D50DAB81837F7B968E55EC0AED8DA8F93444A9C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "kQA9qO+qT00=",
+    "Size": 1099755,
+    "Path": "Data\\Strings\\skyrim_german.ilstrings",
+    "Sha1": "549A57EDCED4B6AF37822D808C715AD5F6D44567",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "kTywA9N6DNI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Lethonia_n.dds",
+    "Sha1": "264D4FE0BE4B64A5DCAFC72CB00ED0B3F00030A2",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

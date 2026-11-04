@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "6TQxJVj0xt0=",
+    "Size": 1599114916,
+    "Path": "Data\\E - Meshes.bsa",
+    "Sha1": "9D17D3E7499537A6F444089ACD984A1EA9B4A849",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "6QCrQS3JUhU=",
+    "Size": 1113600,
+    "Path": "Data\\SKSE\\Plugins\\EnderalSE.dll",
+    "Sha1": "49B932ED6ED188C86554D6DA43BE051040D96A81",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "6X7N9bzm6Vo=",
+    "Size": 296475,
+    "Path": "Data\\Strings\\enderal - forgotten stories_italian.ilstrings",
+    "Sha1": "F3351BD9A60945F5777E882EBDB41E94A09E5C6E",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "6fo8+dcc1xE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\BlackStones_n.dds",
+    "Sha1": "6F6BA3A700D2124F040A1FA359721285F2EC81E4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "6cCnTv3kcQk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HoffnungLeid_n.dds",
+    "Sha1": "083D3115548A67179660AF11C8109CE8EDDD8A73",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "6Yk3GmOsTAg=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk06.dds",
+    "Sha1": "DCA16A19A9563DDABFE25AEBFAAE466C9A25B3E7",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "6eLWRThIEoc=",
+    "Size": 5592532,
+    "Path": "Data\\Textures\\enderal\\food\\DalSarkerHoneywine_n.dds",
+    "Sha1": "0E56B953348C9C981B1E94E7E6F05AAF02E9F0BC",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

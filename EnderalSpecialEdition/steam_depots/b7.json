@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "t4Cp1esXCgA=",
+    "Size": 8828,
+    "Path": "Data\\Interface\\translations\\skyui_se_japanese.txt",
+    "Sha1": "31B054041C062A4ED00A7060BB0D68B1B734CA4D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "t4Cp1esXCgA=",
+    "Size": 8828,
+    "Path": "Data\\Interface\\translations\\skyui_se_japanese.txt",
+    "Sha1": "31B054041C062A4ED00A7060BB0D68B1B734CA4D",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "txuyhfUCpzA=",
+    "Size": 1973,
+    "Path": "Data\\Scripts\\JAtomic.pex",
+    "Sha1": "2C8A90D4671CC1533C3141F6C9B83F0E69C00CA3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "t+BCIFhmJdw=",
+    "Size": 764318,
+    "Path": "Data\\SKSE\\Plugins\\versionlib-1-6-640-0.bin",
+    "Sha1": "3439C77050A47FF091455701A66B677B2381FA41",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "t2YKLIKtjUw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\NutritiousnessMeat.dds",
+    "Sha1": "46AB1A914FC4E57B42FAC65E08D5853D3BE470E2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "t9Rqu6drEsw=",
+    "Size": 628445268,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "5F836AA28B3568CBB790578DD936865FF0E6C9EB",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 5720885084233845834
+  },
+  {
+    "Hash": "t9Rqu6drEsw=",
+    "Size": 628445268,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "5F836AA28B3568CBB790578DD936865FF0E6C9EB",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  }
+]

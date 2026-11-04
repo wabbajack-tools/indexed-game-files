@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "cpyUmfKOivE=",
+    "Size": 27184,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\chair_idlecrosslegged_enter.hkx",
+    "Sha1": "25087B9F864F5668940EF1FCEEFA99EF4F783D14",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "cpyUmfKOivE=",
+    "Size": 27184,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\chair_idlecrosslegged_enter.hkx",
+    "Sha1": "25087B9F864F5668940EF1FCEEFA99EF4F783D14",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "coN4p/SfFPk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesGoldenforst_n.dds",
+    "Sha1": "425B13AC8B5CCB6313F289538B3A94A7039D75F6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "ctI54GjAdgQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Order.dds",
+    "Sha1": "B0ADD1ED5268E8F69D3D54BCE9B68E3F4BDADE38",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "clbTJLl+4HQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThroatstoneReport_n.dds",
+    "Sha1": "F170F813ECACA8FC7EE0DFC95B01816F02833C0B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "UW3FRF333FM=",
+    "Size": 1719,
+    "Path": "Data\\Source\\Scripts\\ArmorAddon.psc",
+    "Sha1": "6B55BD6A74E2495E67CD2421973478B1A28B558B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "UbBkBFlyKN4=",
+    "Size": 3905,
+    "Path": "Data\\Source\\Scripts\\JAtomic.psc",
+    "Sha1": "091066A9E3D2BDE8D2CA5544F12EA7539FB5B405",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "UaKyvjCXELE=",
+    "Size": 297649,
+    "Path": "Data\\Strings\\enderal - forgotten stories_chinese.ilstrings",
+    "Sha1": "8E0729848AFE2D08C67C8166BBE6C5C6F4E135BE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Ucd7Ykrtf4E=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MountainPass.dds",
+    "Sha1": "7D878529A3820307AD4CBBBD9C98F76786A07C03",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

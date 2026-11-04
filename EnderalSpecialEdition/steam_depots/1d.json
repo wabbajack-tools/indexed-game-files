@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "HSlDN1woG7s=",
+    "Size": 47242,
+    "Path": "Data\\Interface\\credits_plru.txt",
+    "Sha1": "5D5E9CE1854FE7EBF49245F205FC18BFF6482166",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "HWs0Ij44Xyw=",
+    "Size": 1061216,
+    "Path": "Data\\Strings\\enderal - forgotten stories_korean.dlstrings",
+    "Sha1": "41E2F6D40AFD38B749BD7822C32B003E0788AC7D",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "HZ5iydeex4k=",
+    "Size": 1081498,
+    "Path": "Data\\Strings\\skyrim_english.ilstrings",
+    "Sha1": "FB7571474C277E2CA1E0524D861373FF518E5CA5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "HW9hySU1dMs=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\GoldenHouse_n.dds",
+    "Sha1": "63D19EDE268EC7EBD9C4678A320F65E750687C1C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "HS1UlF7rpAg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LegacyPyreans.dds",
+    "Sha1": "831578F3C52E4D0844758F818970CD7C9B8A249F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "HaoeIvHg4Dc=",
+    "Size": 174904,
+    "Path": "Data\\Textures\\enderal\\architecture\\Ark\\bathinghouse.dds",
+    "Sha1": "C57CF27B27B1157E33FBC41762652744C9528F32",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "HRcZ0/yIAPM=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\playlist_n.dds",
+    "Sha1": "2B057979F329826097C1E6F188623CD81528B0F5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "HQ4q3K05494=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsigngrainfields.dds",
+    "Sha1": "F6C45D69406231BFF5853ED438830134A706EE54",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "vsp4Eo/wdT4=",
+    "Size": 259472,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_sensual_a.hkx",
+    "Sha1": "EC7EB99E60260A9623B6AE83CF0204EBA437032A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "vsp4Eo/wdT4=",
+    "Size": 259472,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_sensual_a.hkx",
+    "Sha1": "EC7EB99E60260A9623B6AE83CF0204EBA437032A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "vqBDijaC8CY=",
+    "Size": 89455,
+    "Path": "Data\\meshes\\actors\\character\\character assets female\\skeletonbeast_female.nif",
+    "Sha1": "6E1582E2617771F2AB521710A744188C1C4F0D86",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "vqBDijaC8CY=",
+    "Size": 89455,
+    "Path": "Data\\meshes\\actors\\character\\character assets female\\skeletonbeast_female.nif",
+    "Sha1": "6E1582E2617771F2AB521710A744188C1C4F0D86",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "vkYZpIgHQxU=",
+    "Size": 1344319627,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "8D36B3AED723F1847653A7A0345A316E48A4A631",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "vkYZpIgHQxU=",
+    "Size": 1344319627,
+    "Path": "Data\\Skyrim - Textures2.bsa",
+    "Sha1": "8D36B3AED723F1847653A7A0345A316E48A4A631",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

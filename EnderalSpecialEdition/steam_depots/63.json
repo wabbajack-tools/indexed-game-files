@@ -1,0 +1,119 @@
+[
+  {
+    "Hash": "Y3Thz2AbfcE=",
+    "Size": 15541,
+    "Path": "Data\\Interface\\exported\\widgets\\skyui\\followerpanel.swf",
+    "Sha1": "29951EDE77F17D67FF9339C7CA5FAFA66B712BCD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "YwqJtswb3Lk=",
+    "Size": 372144,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrosslegged.hkx",
+    "Sha1": "20F251A15CDDB900D6EF6A2419FBFE2EDB742A3D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "YwqJtswb3Lk=",
+    "Size": 372144,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrosslegged.hkx",
+    "Sha1": "20F251A15CDDB900D6EF6A2419FBFE2EDB742A3D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "YwqJtswb3Lk=",
+    "Size": 372144,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrosslegged.hkx",
+    "Sha1": "20F251A15CDDB900D6EF6A2419FBFE2EDB742A3D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "YwqJtswb3Lk=",
+    "Size": 372144,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrosslegged.hkx",
+    "Sha1": "20F251A15CDDB900D6EF6A2419FBFE2EDB742A3D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Y59hIUgFxAc=",
+    "Size": 7963,
+    "Path": "Data\\Scripts\\FormType.pex",
+    "Sha1": "10E8AF2FD98AF11DB1AAC5788BD096D1C34A2AEA",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Y/f+fA/eYQw=",
+    "Size": 3209728,
+    "Path": "Data\\SKSE\\Plugins\\CrashLogger.dll",
+    "Sha1": "A25E5FBF91F9FE158A0EB9F7FD17B6F57B9D6E60",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "Y/f+fA/eYQw=",
+    "Size": 3209728,
+    "Path": "Data\\SKSE\\Plugins\\CrashLogger.dll",
+    "Sha1": "A25E5FBF91F9FE158A0EB9F7FD17B6F57B9D6E60",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "Yy4e+VMlzTA=",
+    "Size": 23393,
+    "Path": "Data\\SKSE\\Plugins\\SSEDisplayTweaks.ini",
+    "Sha1": "8443EF7FF26E42429E10AE366AABB26F596DA930",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "Yy4e+VMlzTA=",
+    "Size": 23393,
+    "Path": "Data\\SKSE\\Plugins\\SSEDisplayTweaks.ini",
+    "Sha1": "8443EF7FF26E42429E10AE366AABB26F596DA930",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "Y8Yk3IUEpCo=",
+    "Size": 786,
+    "Path": "Data\\Source\\Scripts\\LeveledItem.psc",
+    "Sha1": "8C9E2AA7419C2F2293B043A43D41ECAD8737600D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Y2HDZZIIZKg=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath05.dds",
+    "Sha1": "5131AB414C12C06ED9903C651AC9C13F53101001",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Y25A/8Az888=",
+    "Size": 603,
+    "Path": "installscript.vdf",
+    "Sha1": "96326E8B6F7ECB35EF290A1DC4F21EFC25ACFEF6",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "B3x35ZIJJ38=",
+    "Size": 515,
+    "Path": "Data\\Scripts\\EquipSlot.pex",
+    "Sha1": "695BE8B92F6A38B2AECBE2BC7879777160F2085D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "BzPtdzUWtxc=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\NightBad.dds",
+    "Sha1": "EE05E27428D2C57207271594430B1E45EF24B827",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "B9jQoLuV3nc=",
+    "Size": 2796368,
+    "Path": "Data\\Textures\\clutter\\books\\notetreasuremap_n.dds",
+    "Sha1": "1A49F787768E2A5D5850564F8E8DF4F9D5CF2145",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "B9jQoLuV3nc=",
+    "Size": 2796368,
+    "Path": "Data\\Textures\\clutter\\books\\notetreasuremap_n_n.dds",
+    "Sha1": "1A49F787768E2A5D5850564F8E8DF4F9D5CF2145",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "B0t9LXVqNnM=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\PrudentBoy_n.dds",
+    "Sha1": "9C12C35B0A0C976E21208B14BC37F20C1758075D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "B0CuwGcpebg=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath04.dds",
+    "Sha1": "3943C5453D8BFC2655C8C98810BC4923FB20EAD9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "B/d/ozB/hiY=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\Pechgrube_n.dds",
+    "Sha1": "49351339BCDF6B4903615CB9DB7F13AE4D2CC1C9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "B8gCGjFCufg=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\TheaterPromo3.dds",
+    "Sha1": "BD977B440956EEC6748D76A25334FE1BFD80ACE4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "B7O5YQXZ4bU=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsigneisbrecherwarte.dds",
+    "Sha1": "ED1C82EE2F9E61BE559E9CF285BA4E845E8CCCDF",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Bx4RmBaK8Eo=",
+    "Size": 5592560,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\signs_small_n.dds",
+    "Sha1": "F0D789150C221B0679FB979B0145B7620318CA63",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "bEy6irtsChE=",
+    "Size": 1402332394,
+    "Path": "Data\\E - Sounds.bsa",
+    "Sha1": "5DC3E693495C8553F662DDFFDED39182E9CB3F54",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "bEy6irtsChE=",
+    "Size": 1402332394,
+    "Path": "Data\\E - Sounds.bsa",
+    "Sha1": "5DC3E693495C8553F662DDFFDED39182E9CB3F54",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "bPCBhrYUZdw=",
+    "Size": 1669,
+    "Path": "Data\\Scripts\\JMap.pex",
+    "Sha1": "3D5012F469EADD9DFF930F50BFB55F063DEAECE3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "bKE+yEWgqAM=",
+    "Size": 5487,
+    "Path": "Data\\Source\\Scripts\\Faction.psc",
+    "Sha1": "0BCC44E6EEC4D2079103113B9DEA9BBBEF538EF7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "bA2vU/n9npk=",
+    "Size": 695,
+    "Path": "Data\\Source\\Scripts\\Sound.psc",
+    "Sha1": "A293572C409D19F3D68E6F73607F9C13048E8561",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "bK/SF72UjYI=",
+    "Size": 403499,
+    "Path": "Data\\Strings\\enderal - forgotten stories_japanese.ilstrings",
+    "Sha1": "5F67F5B0FB31E37E7FD01B1B4AA9F1296DAEDED8",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "bI+uuvYJA6s=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Order_n.dds",
+    "Sha1": "6E320295415AE1264079B2998330AD69A0D187C5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "bNAJEALvkBI=",
+    "Size": 497252352,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "0FB20C8658A801D3AA8D3D3244A0C8CA6721AA1A",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "bNAJEALvkBI=",
+    "Size": 497252352,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "0FB20C8658A801D3AA8D3D3244A0C8CA6721AA1A",
+    "App": 976620,
+    "Depot": 1574103,
+    "Manifest": 1229243494617756025
+  }
+]

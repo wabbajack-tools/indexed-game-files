@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "9zmsUd64NYs=",
+    "Size": 1162,
+    "Path": "Data\\Scripts\\JLua.pex",
+    "Sha1": "D097964CC5A77D3E1865A2ED289B9587F820B0E2",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "95Y8U2nJ+nY=",
+    "Size": 1744,
+    "Path": "Data\\Scripts\\Location.pex",
+    "Sha1": "070D3DBEB9480AC3E47C0BD45D92CEE13C05ADB6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "9ygQVKgCNt4=",
+    "Size": 267,
+    "Path": "Data\\SKSE\\Plugins\\JCData\\lua\\testing\\init.lua",
+    "Sha1": "54CB189A86292DC1CC2BC1A35CA7F17CC450D30E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "9xPFHPchf3c=",
+    "Size": 409,
+    "Path": "Data\\Source\\Scripts\\Shout.psc",
+    "Sha1": "CFCF524730516AC050C8D6BFBF38579CD9464175",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "9z5sxTyTNpI=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\Enderal\\architecture\\farmlands\\hafnershofladensign.dds",
+    "Sha1": "65E674C5DF6FB0A26458C35641D6EB8D967D8A93",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "9/u9rf2P5jY=",
+    "Size": 174920,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsigneisbrecherwarte.dds",
+    "Sha1": "89959000DB538D4EE5B3481836AB06721011C49F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

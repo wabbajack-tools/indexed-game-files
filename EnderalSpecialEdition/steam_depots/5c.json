@@ -1,0 +1,128 @@
+[
+  {
+    "Hash": "XFFXJMs99ak=",
+    "Size": 754,
+    "Path": "Data\\Interface\\Japanese_Credits.txt",
+    "Sha1": "01E1016474A7242E3926DECA1834FDC1ED41C306",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "XFFXJMs99ak=",
+    "Size": 754,
+    "Path": "Data\\Interface\\Japanese_Credits.txt",
+    "Sha1": "01E1016474A7242E3926DECA1834FDC1ED41C306",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "XFglgznkStY=",
+    "Size": 176400,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_belly.hkx",
+    "Sha1": "DE7C6AC994D15C29CE693006B16B7D1689470FBD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "XFglgznkStY=",
+    "Size": 176400,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_belly.hkx",
+    "Sha1": "DE7C6AC994D15C29CE693006B16B7D1689470FBD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "XJcjCb900s8=",
+    "Size": 16656,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\mt_shout_exhale.hkx",
+    "Sha1": "96EA363A431E308740DA14CB25E73D569CC3C22A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "XJcjCb900s8=",
+    "Size": 16656,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\mt_shout_exhale.hkx",
+    "Sha1": "96EA363A431E308740DA14CB25E73D569CC3C22A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "XB7hSkZ0hp0=",
+    "Size": 1607856,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_hugb.hkx",
+    "Sha1": "658F675A9854FF6CF37689766A94E4697A8D87FD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "XB7hSkZ0hp0=",
+    "Size": 1607856,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_hugb.hkx",
+    "Sha1": "658F675A9854FF6CF37689766A94E4697A8D87FD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "XAyEw8mOLiY=",
+    "Size": 1369,
+    "Path": "Data\\Scripts\\Ingredient.pex",
+    "Sha1": "21279A93A8797EB4C8425714FC2ABD74491FB267",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "XOwc0/VkGeQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HoffnungLeid.dds",
+    "Sha1": "5D9CBFF7ED3CED3088A74158B76BC80C0B1DD163",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "XIkiWiBTTLc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\Lethonia.dds",
+    "Sha1": "7CAA5E56AC610211F78948F0F3805875B7B58BE5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "XJ5x2O+UcQc=",
+    "Size": 1398228,
+    "Path": "Data\\Textures\\enderal\\architecture\\Ark\\bathinghouse_n.dds",
+    "Sha1": "F52EA816F8CF3BFC8929F56C5109F3AD27D64AFF",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "XEqXAcAgOQ8=",
+    "Size": 206760,
+    "Path": "steam_api64.dll",
+    "Sha1": "59AC74F6293B7FABE1A3023846EBC74EC97B1F1C",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "XEqXAcAgOQ8=",
+    "Size": 206760,
+    "Path": "steam_api64.dll",
+    "Sha1": "59AC74F6293B7FABE1A3023846EBC74EC97B1F1C",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

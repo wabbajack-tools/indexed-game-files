@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "3DLSg8k1gBU=",
+    "Size": 2926841,
+    "Path": "Data\\ScriptsEnderal.zip",
+    "Sha1": "FB7AA42DD007414639B9D456923384BC219C1EC9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "3NjKQrjc7Oc=",
+    "Size": 289341720,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "42F4F763BD13CC11D4297F318045123F49B06893",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "3NjKQrjc7Oc=",
+    "Size": 289341720,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "42F4F763BD13CC11D4297F318045123F49B06893",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  }
+]

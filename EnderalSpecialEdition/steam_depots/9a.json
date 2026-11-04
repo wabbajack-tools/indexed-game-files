@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "mjtVnmYOLhw=",
+    "Size": 12835601,
+    "Path": "Data\\ccQDRSSE001-SurvivalMode.bsa",
+    "Sha1": "2C353C53CFEC612A67595FF0512848FF829D902E",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "mtBbAKUtbhY=",
+    "Size": 456,
+    "Path": "Data\\Source\\Scripts\\SoundDescriptor.psc",
+    "Sha1": "9FB8322545802695D2F2C8FF843755BA1B32C968",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "mgolRUiJrhI=",
+    "Size": 1599125,
+    "Path": "Data\\Strings\\skyrim_russian.dlstrings",
+    "Sha1": "6D3595A5036E71CD8B1B2F72215EA95E15A40A77",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "miqLV8gg0Lg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesFarmersCoast.dds",
+    "Sha1": "666FDD27DC806ECF52981421173258EA3C9A2E59",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "muhF0yCdX+0=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsAshWidow_n.dds",
+    "Sha1": "55297ADB486FA4AEF77FD3E09936DA3877E30002",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "mmUD0LCGunA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk10_n.dds",
+    "Sha1": "BBFF4FD6307F1D95C2658F8D25E07E816609B800",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "mpAECOnYLes=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\VynOverview.dds",
+    "Sha1": "697C07F9BA1D6948994F5A81D3F0DF43F158D72A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

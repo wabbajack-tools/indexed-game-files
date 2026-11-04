@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "JFFxwA+ektk=",
+    "Size": 1772,
+    "Path": "Data\\Source\\Scripts\\Weather.psc",
+    "Sha1": "BBF8B5A9A1035E140216C3E2A3B85880F495B044",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "JHKtVm9kP3w=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk08.dds",
+    "Sha1": "F56238DA0F9D4B4B3CDF6D24E762C75B71D0AE52",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

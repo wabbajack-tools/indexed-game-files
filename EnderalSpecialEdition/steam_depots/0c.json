@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "DG3YZQj7xwk=",
+    "Size": 111740475,
+    "Path": "Data\\ccBGSSSE037-Curios.bsa",
+    "Sha1": "9989C34826D51D393E9FCF911602B6D0914D1EB2",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "DL2/rHEuhw8=",
+    "Size": 2609,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "54D99E7705AA83C21B56932A6A9CBFEC1131EDC6",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "DBJpRG1bmIg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ArtCrispyMeat.dds",
+    "Sha1": "88A25415710B1120688929F2F82B23F1F2CCDDF1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "DACcM6j77aI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\VynOverview.dds",
+    "Sha1": "E1F3EF934FC10E0B7DE62A89F4AFD60A5999B570",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

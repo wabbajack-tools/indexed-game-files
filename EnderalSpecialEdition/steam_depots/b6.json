@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "toOZGdclBLw=",
+    "Size": 66,
+    "Path": "Data\\ccBGSSSE037-Curios.esl",
+    "Sha1": "90431A565F0D6AABFC4B35427D352AA21A44A2B0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "toOZGdclBLw=",
+    "Size": 66,
+    "Path": "Data\\ccQDRSSE001-SurvivalMode.esl",
+    "Sha1": "90431A565F0D6AABFC4B35427D352AA21A44A2B0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "tnPikQ7FSvc=",
+    "Size": 1007,
+    "Path": "Data\\SKSE\\Plugins\\JCData\\lua\\testing\\misc.lua",
+    "Sha1": "855778AD59AC790BDE6F62C30073BE8ACA59103F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "tnM38/g7yUU=",
+    "Size": 35811,
+    "Path": "Data\\Source\\Scripts\\Actor.psc",
+    "Sha1": "550BFF1742B45B1400920F3B4354CF3EABCA1764",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "tg6Jf0woiGY=",
+    "Size": 549318,
+    "Path": "Data\\Strings\\skyrim_czech.strings",
+    "Sha1": "F1B864B6C0E90ADE3FBC0D4BB5D4CCE9366A0D83",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "th4qKl04bwY=",
+    "Size": 1090085,
+    "Path": "Data\\Strings\\skyrim_german.dlstrings",
+    "Sha1": "2C0CC3235DBD8355E79BD6FD86DD40E0F7B76EF0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "tmONvPPNz/4=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\BlackStones.dds",
+    "Sha1": "73C2590D426C0E46664BEC8707E44239358B3C23",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "trk4YB/arJo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\WaywardWanderer_n.dds",
+    "Sha1": "62F651B69F608350F38ECC6A8900E9915601B0C4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "tgzRQ48qPd4=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\TheaterPromo2_n.dds",
+    "Sha1": "383F141642DE26CDF344FC3C796A8954A9925EB6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "toOZGdclBLw=",
+    "Size": 66,
+    "Path": "Data\\_ResourcePack.esl",
+    "Sha1": "90431A565F0D6AABFC4B35427D352AA21A44A2B0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  }
+]

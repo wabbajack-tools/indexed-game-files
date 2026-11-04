@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "X+EOC3i6rbs=",
+    "Size": 2922,
+    "Path": "Data\\Interface\\taverngames_german.txt",
+    "Sha1": "4D552E7AC4E6179EB5149103AD5E838F473427C3",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "X+EOC3i6rbs=",
+    "Size": 2922,
+    "Path": "Data\\Interface\\taverngames_russian.txt",
+    "Sha1": "4D552E7AC4E6179EB5149103AD5E838F473427C3",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "X+EOC3i6rbs=",
+    "Size": 2922,
+    "Path": "Data\\Interface\\taverngames_spanish.txt",
+    "Sha1": "4D552E7AC4E6179EB5149103AD5E838F473427C3",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "XxECMRuXAeg=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\LegacyPyreans.dds",
+    "Sha1": "411AD6B95E0DAB7309C81D20FC35D05C628C0CAB",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Xzaq/HRG6t0=",
+    "Size": 40148896,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "7BA918FC8214C25D10EAAC60816757B71F960C54",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "Xzaq/HRG6t0=",
+    "Size": 40148896,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "7BA918FC8214C25D10EAAC60816757B71F960C54",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "Xzaq/HRG6t0=",
+    "Size": 40148896,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "7BA918FC8214C25D10EAAC60816757B71F960C54",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 8643872016002582824
+  },
+  {
+    "Hash": "Xzaq/HRG6t0=",
+    "Size": 40148896,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "7BA918FC8214C25D10EAAC60816757B71F960C54",
+    "App": 976620,
+    "Depot": 1574103,
+    "Manifest": 1229243494617756025
+  }
+]

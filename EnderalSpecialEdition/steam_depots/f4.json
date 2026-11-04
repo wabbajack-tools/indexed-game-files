@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "9M3qO+Wt/A0=",
+    "Size": 66671,
+    "Path": "Data\\Interface\\startmenu.swf",
+    "Sha1": "AFA39AA3F28B6A7D73F20B5EBEA588069888C4E4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "9MRR42/vTxw=",
+    "Size": 15088,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wall_pipesmoking_loop.hkx",
+    "Sha1": "3F4C05D6703AB76ADE62356954BC3E22F5A0DA29",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "9MRR42/vTxw=",
+    "Size": 15088,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wall_pipesmoking_loop.hkx",
+    "Sha1": "3F4C05D6703AB76ADE62356954BC3E22F5A0DA29",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "9EMbeJHh4RU=",
+    "Size": 1764,
+    "Path": "Data\\Source\\Scripts\\Cell.psc",
+    "Sha1": "FFC48567AD094094A8F72DBD17E3E086CBB61B9B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "9PlKgndtsBo=",
+    "Size": 2723,
+    "Path": "Data\\Source\\Scripts\\JDB.psc",
+    "Sha1": "BC47EE6516568AA5C75C55D879D80520D5278F0A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "9AHnmxCjusA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsArveldhiin.dds",
+    "Sha1": "494CDC90FF8DFF2D7488DE713C4B331ED653010D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "9NuZa3ZewuA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue01_n.dds",
+    "Sha1": "3FA6DB4EA910BBB994B4EF1D6AD51F8E7DCD4506",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

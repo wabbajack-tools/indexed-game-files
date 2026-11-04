@@ -1,0 +1,110 @@
+[
+  {
+    "Hash": "bww5zcsanLw=",
+    "Size": 53834,
+    "Path": "Data\\Enderal SE v2.1.4.4 Changelog.txt",
+    "Sha1": "FD950363695FBC1836AFB387D908BE1FF726CB94",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "b6Zj+jObrAk=",
+    "Size": 1172,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "E0710D844119BB4C7BC94D31B1918C5A5CA2B06E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "b6Zj+jObrAk=",
+    "Size": 1172,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "E0710D844119BB4C7BC94D31B1918C5A5CA2B06E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  },
+  {
+    "Hash": "b6Zj+jObrAk=",
+    "Size": 1172,
+    "Path": "Data\\Interface\\fontconfig_pl.txt",
+    "Sha1": "E0710D844119BB4C7BC94D31B1918C5A5CA2B06E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "b6Zj+jObrAk=",
+    "Size": 1172,
+    "Path": "Data\\Interface\\fontconfig_pl.txt",
+    "Sha1": "E0710D844119BB4C7BC94D31B1918C5A5CA2B06E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  },
+  {
+    "Hash": "bxdtPBkBkJ4=",
+    "Size": 1158432,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\mt_behavior.hkx",
+    "Sha1": "98018C886DE05B49A008469DB9CDF60FA9E008DC",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "bxdtPBkBkJ4=",
+    "Size": 1158432,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\mt_behavior.hkx",
+    "Sha1": "98018C886DE05B49A008469DB9CDF60FA9E008DC",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "bzNmBQ/6nUk=",
+    "Size": 1139,
+    "Path": "Data\\Scripts\\UICallback.pex",
+    "Sha1": "9910CFBC105E57A322DB3E3BEE70ACE65CB21135",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "b2ZyQvo1IQA=",
+    "Size": 3787,
+    "Path": "Data\\SKSE\\Plugins\\JCData\\lua\\jc\\init.lua",
+    "Sha1": "D08ED7F040BCBED7E062841E927887AA5C0F578C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "b16Okd0GdQo=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\Traumblume_n.dds",
+    "Sha1": "30C5DA92B280EFDDCD3A6191451CC5E93A82D237",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "b/eVuy28kXU=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\Ark\\dancingnomadinnsign.dds",
+    "Sha1": "CCC84B812E77879DDFAAB6487856E86EB7C8FC1F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "b6g5NBS4myw=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "17BCE1BB7589272F62D4EBE89AAAD240163AB694",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

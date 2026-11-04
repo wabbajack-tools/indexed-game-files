@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "g/BbTylVQVc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesLightMagic.dds",
+    "Sha1": "1AF1BC1DE88F1E99FAB377E753DD9205318E5817",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "g2Ql2k4zeII=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HolyOrderWarpings.dds",
+    "Sha1": "A89DB76A2E907754473481FEA70106216A728FC5",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "g5PMFgvgZJM=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignsilvergrove.dds",
+    "Sha1": "F30A978F58DCF691382C182D7D9AB4C984A060FE",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "gx2JdvqTGt0=",
+    "Size": 2666,
+    "Path": "Enderal_default.ini",
+    "Sha1": "AB838D986E97F06610824F2B44DF24B119AF158C",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "I3vmL0B28sk=",
+    "Size": 60144,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\fit_of_rage.hkx",
+    "Sha1": "39D747FC9C1CCA905BA7B966593229E2D0545890",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "I3vmL0B28sk=",
+    "Size": 60144,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\fit_of_rage.hkx",
+    "Sha1": "39D747FC9C1CCA905BA7B966593229E2D0545890",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "I/RvZuWWjn0=",
+    "Size": 3473392,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pa_calia_massacre.hkx",
+    "Sha1": "6FCFC57394EBA5EC16F74658D49D4F027C8C9C2F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "I/RvZuWWjn0=",
+    "Size": 3473392,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pa_calia_massacre.hkx",
+    "Sha1": "6FCFC57394EBA5EC16F74658D49D4F027C8C9C2F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "I6YwuXLt/5s=",
+    "Size": 77536,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_shout_exhale_medium.hkx",
+    "Sha1": "56363BE515246BBFB88CAF2A99B16F1CB1FBFAED",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "I6YwuXLt/5s=",
+    "Size": 77536,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_shout_exhale_medium.hkx",
+    "Sha1": "56363BE515246BBFB88CAF2A99B16F1CB1FBFAED",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "I/I5oY0Swxk=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\CrystalJellyfish.dds",
+    "Sha1": "B3903EC6DDABB9BDC82B0CA4410737FA8C531A73",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "I+1E6kHvrz8=",
+    "Size": 667808,
+    "Path": "Data\\Textures\\enderal\\forgottenstories\\books\\fs_nq02\\fs_nq02_map.dds",
+    "Sha1": "7013E9036A83BBC260A5F52CCA7BB460A1CF22FD",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

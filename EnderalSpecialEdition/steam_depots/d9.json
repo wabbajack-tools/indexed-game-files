@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "2fbrMqzPJVA=",
+    "Size": 813,
+    "Path": "Data\\Scripts\\FormList.pex",
+    "Sha1": "0C8920DCCF8C6B4AE65D794D2B500469C4E7321B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "2VtDSMEGa+8=",
+    "Size": 521553,
+    "Path": "Data\\Strings\\skyrim_chinese.strings",
+    "Sha1": "02EB45625E6B11D0E63F9271624755AA308109F5",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "2aKyOhK/1D0=",
+    "Size": 566591,
+    "Path": "Data\\Strings\\skyrim_polish.strings",
+    "Sha1": "71ED3864BF82C0EB4B0D7DDE9AE09E07F35F143C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "2TunOESkVGM=",
+    "Size": 931884,
+    "Path": "Data\\Strings\\skyrim_spanish.dlstrings",
+    "Sha1": "656FA38DF72E5AFD341290300D11E5BD4CF14229",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "2f3oYX/P97Y=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesPsionics.dds",
+    "Sha1": "E6C26F03CBEA35711D10FCA688AF6125C0F0100C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "2Z+BbXF0Uj8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer08_n.dds",
+    "Sha1": "986148D4F75EEBBAB61DC5AFE19410DA41349C9B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "2bTdZs5hL9Y=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TraumblumeAbhandlung_n.dds",
+    "Sha1": "37703FE7BEA23A642EEB4EAC15B4CA017F683FED",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "2ZCRsSdSBTs=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\zorkbanandsons.dds",
+    "Sha1": "91D44E40DD809E4C12C81F6782746ADCAFBB40F5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "6MIw5kp01k8=",
+    "Size": 164176,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_cicerodance1.hkx",
+    "Sha1": "40D11A626D573BC512AC390266302C9273DF44BB",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "6MIw5kp01k8=",
+    "Size": 164176,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_cicerodance1.hkx",
+    "Sha1": "40D11A626D573BC512AC390266302C9273DF44BB",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "6M/agXTz6Tc=",
+    "Size": 567537,
+    "Path": "Data\\Strings\\skyrim_italian.strings",
+    "Sha1": "D16B3A040FF82A5123F40259C65AB3D5ECF93D8A",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "6BBjkmQWpNI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\WaywardWanderer.dds",
+    "Sha1": "74AE09F1B7DB42CF3D8440AB967714C8A01D499C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "6BODjuCSFxM=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\TheaterPromo3_n.dds",
+    "Sha1": "FE5188FB669B4D42DE7EC318AA25AB180CC9B482",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "6O8iluWGG/Y=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignuctarpit.dds",
+    "Sha1": "59CA86A2BBFAD8E6FED6C7FC182EDF58655D0838",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

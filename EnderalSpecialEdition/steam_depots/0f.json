@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "D6iL4g6WEqI=",
+    "Size": 19088,
+    "Path": "Data\\Source\\Scripts\\Game.psc",
+    "Sha1": "42BF5078389515FC3CDD5C0E1CF55216C01AB4B0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "D+aQMEHpvMo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue04_n.dds",
+    "Sha1": "40AC89BFF3AFB6E48E0F6888DE6754B79808BC00",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

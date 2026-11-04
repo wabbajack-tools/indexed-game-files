@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "lPE6jqvNcYA=",
+    "Size": 380287,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "4E3E0BE8C62B0783D5645C98089C875957BF8EBA",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "lPE6jqvNcYA=",
+    "Size": 380287,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "4E3E0BE8C62B0783D5645C98089C875957BF8EBA",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 7645486740413014461
+  },
+  {
+    "Hash": "lFGoqzCmrcM=",
+    "Size": 163441797,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "CD5DEA14B03D92B8A136F84D409356C2281F8DCD",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "lFGoqzCmrcM=",
+    "Size": 163441797,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "CD5DEA14B03D92B8A136F84D409356C2281F8DCD",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 8643872016002582824
+  },
+  {
+    "Hash": "lE307NqZ27U=",
+    "Size": 10255,
+    "Path": "Data\\Scripts\\Game.pex",
+    "Sha1": "A7F42DE738E2C0DCDCCDEF8859B9B1B244E9002A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "lGyfuYtnMQs=",
+    "Size": 2929,
+    "Path": "Data\\Scripts\\NetImmerse.pex",
+    "Sha1": "FD7C959BC6486DCE4681AF8440B9AD44CF15396C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "lOlr/cc6StQ=",
+    "Size": 3259,
+    "Path": "Data\\Scripts\\Weapon.pex",
+    "Sha1": "C587BFA4D510968A60CE6298DF9AB78516675DE3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "lBniQR/pKIA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer02_n.dds",
+    "Sha1": "28FE46D3FC1E89C6F8984CC5089535F00DDE2B95",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

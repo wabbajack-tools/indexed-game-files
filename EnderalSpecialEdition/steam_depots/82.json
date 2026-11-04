@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "ggfuwl4fAGQ=",
+    "Size": 451341,
+    "Path": "Data\\Interface\\fonts_pl.swf",
+    "Sha1": "6E2C6C1BEE395947EFA28836F906782A18256425",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "ggfuwl4fAGQ=",
+    "Size": 451341,
+    "Path": "Data\\Interface\\fonts_pl.swf",
+    "Sha1": "6E2C6C1BEE395947EFA28836F906782A18256425",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  },
+  {
+    "Hash": "gjVn4unp7OI=",
+    "Size": 804014,
+    "Path": "Data\\meshes\\animationsetdatasinglefile.txt",
+    "Sha1": "DEE7EACC10E5A21DB721F7C20C1B28D676E04B2B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "gjVn4unp7OI=",
+    "Size": 804014,
+    "Path": "Data\\meshes\\animationsetdatasinglefile.txt",
+    "Sha1": "DEE7EACC10E5A21DB721F7C20C1B28D676E04B2B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "giTfe+sElPQ=",
+    "Size": 1355383619,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "E9A5019A8243A1DF233E8C53759299CE403BE016",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "giTfe+sElPQ=",
+    "Size": 1355383619,
+    "Path": "Data\\Skyrim - Textures4.bsa",
+    "Sha1": "E9A5019A8243A1DF233E8C53759299CE403BE016",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "ggQmljHN0ko=",
+    "Size": 265327,
+    "Path": "Data\\Strings\\enderal - forgotten stories_russian.strings",
+    "Sha1": "FA4EB7B0C7CC02BBE728C4C52A21A15647158C0F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "gqQsVB5waqI=",
+    "Size": 1068433,
+    "Path": "Data\\Textures\\Enderal\\forgottenstories.7z",
+    "Sha1": "7EF4C818C71CCD8759C47842C735DA316CC39AE1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

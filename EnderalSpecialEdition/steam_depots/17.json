@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "FzOWAbVOqI0=",
+    "Size": 1559,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "0A98437C352A4D798315E48285A9F2CBDFC6F42F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "FwqYdlFERZg=",
+    "Size": 1318,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "E198B13D6ED9FDEE489697F1D63DC61A753D17EB",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  },
+  {
+    "Hash": "FwqYdlFERZg=",
+    "Size": 1318,
+    "Path": "Data\\Interface\\fontconfig_ru.txt",
+    "Sha1": "E198B13D6ED9FDEE489697F1D63DC61A753D17EB",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  },
+  {
+    "Hash": "FzUUO+HmWIg=",
+    "Size": 540,
+    "Path": "Data\\Scripts\\DefaultObjectManager.pex",
+    "Sha1": "7D53886D2A8B41D28DADF6BAF80D3A8672D6CA49",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "FxkTeC+v0DM=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer02.dds",
+    "Sha1": "559A78901F254466C9E65141879850495A3BF7F7",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

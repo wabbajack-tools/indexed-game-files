@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "Z1mkIDbq6Fg=",
+    "Size": 44291,
+    "Path": "Data\\Dawnguard.esm",
+    "Sha1": "5CA54711316E0F5FF0F3AE18433672CC5F325603",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "ZzR2B7jK1Ww=",
+    "Size": 45520,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_bedroll_frontexit.hkx",
+    "Sha1": "E51BC1B69CF35BCB6D0089C895AF5C37D6A3AC55",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "ZzR2B7jK1Ww=",
+    "Size": 45520,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_bedroll_frontexit.hkx",
+    "Sha1": "E51BC1B69CF35BCB6D0089C895AF5C37D6A3AC55",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Z2t0y5dtsQQ=",
+    "Size": 2162,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\fnis_pipesmoking_list.txt",
+    "Sha1": "454592EC810D9443BC64989606110C4A45833CC7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Z2t0y5dtsQQ=",
+    "Size": 2162,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\fnis_pipesmoking_list.txt",
+    "Sha1": "454592EC810D9443BC64989606110C4A45833CC7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Z4g922xRrlw=",
+    "Size": 723,
+    "Path": "Data\\Scripts\\Sound.pex",
+    "Sha1": "5C05341E99CC06F5C95004E5E19B2C8EEFF8628E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Zxiy31E39hU=",
+    "Size": 2512,
+    "Path": "Data\\Source\\Scripts\\ActorValueInfo.psc",
+    "Sha1": "DA875FAE1F052A10A01D7D306750A838E5364A58",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Z/uI7yj6UGc=",
+    "Size": 252,
+    "Path": "Data\\Source\\Scripts\\TreeObject.psc",
+    "Sha1": "8B17805D19A2941240CDDA6E1C440134FC4FBEA9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Z6W+KQ1Knro=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath06.dds",
+    "Sha1": "F457531ADEDAFBD7F569ADA01C5C2670E9DB757D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

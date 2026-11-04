@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "k6mNJ6kA664=",
+    "Size": 93424,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_shaman.hkx",
+    "Sha1": "A45708528A1C308EA188229C154B1B04075710F0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "k6mNJ6kA664=",
+    "Size": 93424,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_shaman.hkx",
+    "Sha1": "A45708528A1C308EA188229C154B1B04075710F0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "k772WEhITog=",
+    "Size": 12656,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_cicerohappy.hkx",
+    "Sha1": "F516482F0763CE4DC4A7B31F22C1763E4E921783",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "k772WEhITog=",
+    "Size": 12656,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_cicerohappy.hkx",
+    "Sha1": "F516482F0763CE4DC4A7B31F22C1763E4E921783",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "k5EWx/9Woqg=",
+    "Size": 65726709,
+    "Path": "Data\\Skyrim - Interface.bsa",
+    "Sha1": "A2F5624340EF2A4A9CD22EDE4C6D54C3E9369977",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "k5EWx/9Woqg=",
+    "Size": 65726709,
+    "Path": "Data\\Skyrim - Interface.bsa",
+    "Sha1": "A2F5624340EF2A4A9CD22EDE4C6D54C3E9369977",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "kwX/uQyU+F0=",
+    "Size": 659448974,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "EFEF66137AFCD45EC7D8FC1A48364144C4560426",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "kyndA6JvM7Q=",
+    "Size": 173383,
+    "Path": "Data\\Strings\\enderal - forgotten stories_spanish.strings",
+    "Sha1": "FD9267238331361A7EEF1C6E1F0A1EA6F9888537",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "k84GiqSdJiM=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath04.dds",
+    "Sha1": "CB3640AEA9BA9F5B3E7866664A8E9E6014C90140",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "k4fAiUE270U=",
+    "Size": 629642708,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "E7F904A4FEE93DADCA5451D9594370894221D04A",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  }
+]

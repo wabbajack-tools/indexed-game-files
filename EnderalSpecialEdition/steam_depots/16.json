@@ -1,0 +1,110 @@
+[
+  {
+    "Hash": "FicndV+QCqE=",
+    "Size": 87840,
+    "Path": "Data\\meshes\\actors\\character\\character assets\\skeleton.hkx",
+    "Sha1": "DA361B8B4C29C13E418AFEE9AF3E1E6559F4A0C8",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "FicndV+QCqE=",
+    "Size": 87840,
+    "Path": "Data\\meshes\\actors\\character\\character assets\\skeleton.hkx",
+    "Sha1": "DA361B8B4C29C13E418AFEE9AF3E1E6559F4A0C8",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Fh1hbirWs+g=",
+    "Size": 2643,
+    "Path": "Data\\Scripts\\ActorBase.pex",
+    "Sha1": "9440BD1C0258407D4ABE1B388A30116540A2A6BD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Fuz5MFkzJ4M=",
+    "Size": 1637,
+    "Path": "Data\\Source\\Scripts\\ModEvent.psc",
+    "Sha1": "1A19F72565D612A96201986054FB9BBDE4916E70",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Fn+ER6LvwiU=",
+    "Size": 211209,
+    "Path": "Data\\Strings\\enderal - forgotten stories_japanese.strings",
+    "Sha1": "07A87A986B58B5E04E1F385EB30F4326B7B9AC8C",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "Fv4zRDRew4w=",
+    "Size": 1598536,
+    "Path": "Data\\Strings\\skyrim_russian.dlstrings",
+    "Sha1": "FDE0C1A6BD1660B671EABA49E9EE01D649FBD195",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Ft4Z9tSF1YY=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesElementalism_n.dds",
+    "Sha1": "BC5824D328A3812C71B357515D1191289A46C2B2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "FubNLf6QPxQ=",
+    "Size": 311592820,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "864C20E1E0730A943336F36CDDAACB3255B40ABA",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "FubNLf6QPxQ=",
+    "Size": 311592820,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "864C20E1E0730A943336F36CDDAACB3255B40ABA",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 8647797636031883444
+  },
+  {
+    "Hash": "FoT+hvqRkw8=",
+    "Size": 629112752,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "5E2D27567CF1BCC86D1092FA376F66BA28024F58",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "FoT+hvqRkw8=",
+    "Size": 629112752,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "5E2D27567CF1BCC86D1092FA376F66BA28024F58",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "FhWzXOHtX8Q=",
+    "Size": 37910440,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "2F784A183F884067A9A41338664B55F6DC198A48",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  }
+]

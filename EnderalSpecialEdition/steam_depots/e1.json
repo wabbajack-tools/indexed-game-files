@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "4ZPeQGQ8DNY=",
+    "Size": 176576,
+    "Path": "Data\\Strings\\enderal - forgotten stories_polish.strings",
+    "Sha1": "1D349B320A2341F6F3B6B85FFFB60CC262D847AF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "4TcATGsjIrg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesLightMagic_n.dds",
+    "Sha1": "53E716ED80D144E89C83F454B9E16DC6EE708BDE",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "4X0QHgDSciI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsSteelWarden.dds",
+    "Sha1": "67EA595AFAE3463D8F56D53119A8B3249211DA5F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "4UhrjdwebFQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue03_n.dds",
+    "Sha1": "4387F9357DC682D4D5D904C73A4098B6DAB3C449",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

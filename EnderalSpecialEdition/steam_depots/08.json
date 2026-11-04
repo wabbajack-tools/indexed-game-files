@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "CMCfz1pHQZc=",
+    "Size": 20917,
+    "Path": "Data\\Interface\\fonts_pl2.swf",
+    "Sha1": "2246154E6C32D4F4205B41717CBD7C8B79861CD2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "CMCfz1pHQZc=",
+    "Size": 20917,
+    "Path": "Data\\Interface\\fonts_pl2.swf",
+    "Sha1": "2246154E6C32D4F4205B41717CBD7C8B79861CD2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  },
+  {
+    "Hash": "CAAibOUPgwM=",
+    "Size": 796422,
+    "Path": "Data\\SKSE\\Plugins\\versionlib-1-6-1179-0.bin",
+    "Sha1": "044BC7AF162AA919C8B7B2CB6494BC209C583853",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "CET7o4qUefA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Kredo.dds",
+    "Sha1": "5EFD229B16B2EF24315256E8302D16DD40A5C1CE",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "CFQSHrrZRps=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk02_n.dds",
+    "Sha1": "2B656F1FFE9AAF278668C62509EAF0551DAC41FE",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

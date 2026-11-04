@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "QharDoHW8eo=",
+    "Size": 23376,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wall_pipesmoking_blaze.hkx",
+    "Sha1": "ECFAB4A2FDB613927E051425D9DF21CBF0DBBCBF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "QharDoHW8eo=",
+    "Size": 23376,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wall_pipesmoking_blaze.hkx",
+    "Sha1": "ECFAB4A2FDB613927E051425D9DF21CBF0DBBCBF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Qtlrc61pKag=",
+    "Size": 949667,
+    "Path": "Data\\Strings\\enderal - forgotten stories_french.dlstrings",
+    "Sha1": "C1406C1A6C4DDCA9738F88B73B50BF4D080BE8FB",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "QhgrcsB6fyM=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath07_n.dds",
+    "Sha1": "BBFEF12E33708D9988166ED1274D567D9B3B3813",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "QmNcD5XPpcU=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath11.dds",
+    "Sha1": "CA968763DF576F163250A0361A8980C75E9EEE3D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

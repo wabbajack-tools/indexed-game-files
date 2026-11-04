@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "geC7YEf02wc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\LostBrigand.dds",
+    "Sha1": "B7D1EDA3B0B0517A6B9648EAD7268C2ECD4B37D9",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "gWCOf1mtHkM=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\WaywardWanderer.dds",
+    "Sha1": "58E1310D13482180496E2FDA17F7AEA1D4E04028",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

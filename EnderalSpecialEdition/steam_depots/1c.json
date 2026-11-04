@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "HEdwqavMWog=",
+    "Size": 1791,
+    "Path": "Data\\Scripts\\ActorValueInfo.pex",
+    "Sha1": "F8B784B0D6535EFFE6D534BE442304F78B870223",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "HJQl28+Isvg=",
+    "Size": 20072,
+    "Path": "Data\\Source\\Scripts\\JContainers_DomainExample.psc",
+    "Sha1": "C9DE0450D5C535889199883CC0319D4D3E74D3FE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "HLh7FILi/NM=",
+    "Size": 5420,
+    "Path": "Data\\Source\\Scripts\\NetImmerse.psc",
+    "Sha1": "FE228AA70CC515B907CB5E3519F841784AFC0984",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "HITkYDcFK+M=",
+    "Size": 652432,
+    "Path": "Data\\Strings\\skyrim_english.strings",
+    "Sha1": "3378CC2D0F40FA84AC6261D825E96A06558500D6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "HH1tqY5eo4Q=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LyricalGushes_n.dds",
+    "Sha1": "F6792F37BDF0361E93427395353CA3201FDB61D3",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

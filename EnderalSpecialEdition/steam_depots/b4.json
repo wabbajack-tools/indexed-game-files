@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "tP/2kaFzcBM=",
+    "Size": 805,
+    "Path": "Data\\Scripts\\LeveledActor.pex",
+    "Sha1": "97BB7A584ECBF2EC8B82A26265517D632FF0CFAF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "tIR0krBT1Ik=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignucbarracks_n.dds",
+    "Sha1": "551D52E510BB02AD6E4589A33CB1CD75BE7512C4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "tGh3ujCbBmQ=",
+    "Size": 3418,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "867FF636438E7F618D0804BFBA6A3272D9E0ED75",
+    "App": 976620,
+    "Depot": 1574102,
+    "Manifest": 8022836713238303484
+  },
+  {
+    "Hash": "tBVeSwhhyNk=",
+    "Size": 898,
+    "Path": "medium.ini",
+    "Sha1": "2057781E4AC78BC99C74D7B0704FB17A9C353D1A",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "tBVeSwhhyNk=",
+    "Size": 898,
+    "Path": "Medium.ini",
+    "Sha1": "2057781E4AC78BC99C74D7B0704FB17A9C353D1A",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "tBVeSwhhyNk=",
+    "Size": 898,
+    "Path": "medium.ini",
+    "Sha1": "2057781E4AC78BC99C74D7B0704FB17A9C353D1A",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

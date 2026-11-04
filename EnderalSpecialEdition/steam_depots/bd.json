@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "vZ2+d/PKbck=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ChroniclesGoldenford_n.dds",
+    "Sha1": "A31058CE880851FA76D3BCE8285167D57BC9D82E",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "vWYH4N7hu2c=",
+    "Size": 74707964,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "883EF61E709AA9F74B178E0CA8F1015D5664275B",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "vWYH4N7hu2c=",
+    "Size": 74707964,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "883EF61E709AA9F74B178E0CA8F1015D5664275B",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  }
+]

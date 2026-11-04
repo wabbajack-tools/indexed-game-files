@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "RT3hx5d9w6o=",
+    "Size": 1184,
+    "Path": "Data\\Scripts\\JContainers.pex",
+    "Sha1": "8A7215FF8A4C532D0A8808269F2A2E27EF198A82",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "RZRHVHedHe0=",
+    "Size": 1511492648,
+    "Path": "Data\\Skyrim - Textures1.bsa",
+    "Sha1": "23DE3EFF8B70A5F601B9ED0BEE10A004470AFC98",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "RUPqlSYcM2o=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\MeddoksFischerei.dds",
+    "Sha1": "4B534D061285A1EB033C804C548E7C2328DA4944",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

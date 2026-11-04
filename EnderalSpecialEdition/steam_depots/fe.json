@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "/gcdD56qwDQ=",
+    "Size": 2096322,
+    "Path": "Data\\Interface\\Enderal_jpfp.swf",
+    "Sha1": "F8451EF5705A70C2EFF81468C2E396C709FE3401",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "/gcdD56qwDQ=",
+    "Size": 2096322,
+    "Path": "Data\\Interface\\Enderal_jpfp.swf",
+    "Sha1": "F8451EF5705A70C2EFF81468C2E396C709FE3401",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "/kdAVuecQJE=",
+    "Size": 11830,
+    "Path": "Data\\Source\\Scripts\\DefaultObjectManager.psc",
+    "Sha1": "6178E2EB31F9B8E9B1F5F9F52E6BAE8E7CCC0FA7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

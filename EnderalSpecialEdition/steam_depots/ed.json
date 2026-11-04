@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "7bRsYXJZPQ0=",
+    "Size": 1675,
+    "Path": "Data\\Scripts\\JFormMap.pex",
+    "Sha1": "B5C06BD315B62C4542A1CD094E4DD5A8C92E79E2",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "7b/kwa92TfM=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\EncyclopediaArcana02.dds",
+    "Sha1": "93AD33C6B0D85B37D45B4B2D3B8BBB2326882CAF",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "7XVwY9n8MLw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Skinner.dds",
+    "Sha1": "265993CA8857A2838B7773C03D9CC3D712E1CE99",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "7TbRSA/DYbo=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath10.dds",
+    "Sha1": "70D8D8D46723704D5071B9F64695AE0CAC9BAE1F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

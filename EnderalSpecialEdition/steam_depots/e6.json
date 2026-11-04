@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "5tJ5CyhiZWQ=",
+    "Size": 81662,
+    "Path": "Data\\Dragonborn.esm",
+    "Sha1": "0F550AD29DE8B168C98EEF94FF55012FA5974952",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "5qg9pvEfcJM=",
+    "Size": 2134,
+    "Path": "Data\\Source\\Scripts\\Location.psc",
+    "Sha1": "7F7BFCEA5D87685B6A0F2E831DF8EC1DFDF5C81A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "5pk0GIpXHJo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HolinessOrder_n.dds",
+    "Sha1": "C14016298FB3F0E2C359D09C50CD7776AACE70DE",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "5ieNMypt3Qw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\YeroMemorial_n.dds",
+    "Sha1": "F3AA6FAB49D9FE2CE4CBD5F84730DA8477984E3C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "5lIPFrR8LJk=",
+    "Size": 289349272,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "9CB45DD4B6D6C3D5D25AB3AF02A32CA5ED078918",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 5720885084233845834
+  },
+  {
+    "Hash": "5lIPFrR8LJk=",
+    "Size": 289349272,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "9CB45DD4B6D6C3D5D25AB3AF02A32CA5ED078918",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "5qmZ2HlpeyE=",
+    "Size": 167,
+    "Path": "Skyrim.ccc",
+    "Sha1": "34351F7759552052C1066A06E1DC68217343C41A",
+    "App": 976620,
+    "Depot": 1574102,
+    "Manifest": 8022836713238303484
+  },
+  {
+    "Hash": "5oXN+2KZ6Jk=",
+    "Size": 401280,
+    "Path": "tbb.dll",
+    "Sha1": "ECBEC761236FCD800A07C7787AE82726B764396C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "5kDZjon2p5c=",
+    "Size": 246656,
+    "Path": "tbbmalloc.dll",
+    "Sha1": "B02BBC6B5B96839BC186711074CB63369A6131BF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

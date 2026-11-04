@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "+1MCHbRZziE=",
+    "Size": 12208,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\whirlwindsprint_longest - original.hkx",
+    "Sha1": "3643C150B64ABA8F26A481D991D199F408E161D3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "+1MCHbRZziE=",
+    "Size": 12208,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\whirlwindsprint_longest - original.hkx",
+    "Sha1": "3643C150B64ABA8F26A481D991D199F408E161D3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "+1d9jo0uQiI=",
+    "Size": 922624,
+    "Path": "Data\\SKSE\\Plugins\\SSEDisplayTweaks.dll",
+    "Sha1": "900B1EBA54D0548BB978D9802B1B9426B0F27966",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "+6Ok4mk2ce4=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LegacyPyreans_n.dds",
+    "Sha1": "35DFD86607943B373E271872647AF47CC71BDD9E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "+6Ub71Ig2bw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath03_n.dds",
+    "Sha1": "9314825068F7F210A54BEB5D5673E8E6CCF48AD7",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "ONlnEtWZ3J4=",
+    "Size": 129806,
+    "Path": "Data\\Interface\\translate_english.txt",
+    "Sha1": "6263D0C2600D66E673A4DC5C32EE6480378AAA05",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "OFROx6i7hZg=",
+    "Size": 78,
+    "Path": "Data\\SKSE\\Plugins\\EnderalSteam.ini",
+    "Sha1": "CE18FD43F144012D1D95B0F8EEF08900FB306CCA",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

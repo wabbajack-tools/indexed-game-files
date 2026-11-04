@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "5HQ06d+st8Q=",
+    "Size": 128729360,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "C2F8826B13C9EC93F3E4AB76943755F43456BA3E",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "5HQ06d+st8Q=",
+    "Size": 128729360,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "C2F8826B13C9EC93F3E4AB76943755F43456BA3E",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 8926416149302246495
+  },
+  {
+    "Hash": "5LzKvZDXrmw=",
+    "Size": 588794,
+    "Path": "Data\\Strings\\skyrim_french.strings",
+    "Sha1": "204389CDCD548BC381FEE8E80B92E4C8694CA670",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "5DyPBUjdN0o=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk07_n.dds",
+    "Sha1": "E6A06BBD3AC7A68BE19B1DE820BD2524DEE45770",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "5MpDI6CR1WU=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsigngrainfields_n.dds",
+    "Sha1": "30D6028E93DAC999106A597B2411C17A26039D9D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "SzlanL54128=",
+    "Size": 1600928,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_kiss_female_male.hkx",
+    "Sha1": "EC9911BFEBE567FE650034CAFED0887D4600F377",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "SzlanL54128=",
+    "Size": 1600928,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_kiss_female_male.hkx",
+    "Sha1": "EC9911BFEBE567FE650034CAFED0887D4600F377",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "S8YE//PoRFI=",
+    "Size": 168591797,
+    "Path": "Data\\Skyrim - Textures6.bsa",
+    "Sha1": "4E47798D7FDAF9FD6C38DD826BD11EC411CD6D61",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "S8YE//PoRFI=",
+    "Size": 168591797,
+    "Path": "Data\\Skyrim - Textures6.bsa",
+    "Sha1": "4E47798D7FDAF9FD6C38DD826BD11EC411CD6D61",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "S9J6WgHAqtI=",
+    "Size": 786,
+    "Path": "Data\\Source\\Scripts\\JString.psc",
+    "Sha1": "109018A734389A499FBB17E6A1C98048E28F11EC",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

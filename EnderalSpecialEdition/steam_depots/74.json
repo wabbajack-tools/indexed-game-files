@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "dFLn+q0m2ic=",
+    "Size": 824377007,
+    "Path": "Data\\Skyrim - Textures7.bsa",
+    "Sha1": "D24CD1274A7FE084B8F8870986FAB7672C7E82E5",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "dFLn+q0m2ic=",
+    "Size": 824377007,
+    "Path": "Data\\Skyrim - Textures7.bsa",
+    "Sha1": "D24CD1274A7FE084B8F8870986FAB7672C7E82E5",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "dDSC82nbmVA=",
+    "Size": 892899,
+    "Path": "Data\\Strings\\enderal - forgotten stories_italian.dlstrings",
+    "Sha1": "7B50CDE442247DA3D60CFB87562BCAE6CDB390C0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "dE/EO4U6xYE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\GlimmerdustApplication.dds",
+    "Sha1": "F0EBC30FCF9AD2673D9DCF482C13E688030C3432",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "dKz2YYlyfPY=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\VillageInTurmoil.dds",
+    "Sha1": "427FDF2952D703969416505FF1FBCBFE954DB933",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "dNQky/0gqGQ=",
+    "Size": 1391498912,
+    "Path": "Data\\Video\\Enderal_Credits.bik",
+    "Sha1": "C5792B50F71E864686CF15D32B96C4E6526A2D2D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "dNQky/0gqGQ=",
+    "Size": 1391498912,
+    "Path": "Data\\Video\\Enderal_Credits.bik",
+    "Sha1": "C5792B50F71E864686CF15D32B96C4E6526A2D2D",
+    "App": 976620,
+    "Depot": 1574103,
+    "Manifest": 1229243494617756025
+  },
+  {
+    "Hash": "dJ6jIWIn6yM=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "95D6B8A489D070DDA52E8B7227B82D9060ABB889",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  }
+]

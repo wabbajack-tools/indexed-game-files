@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "GG4pOfUmiRA=",
+    "Size": 166880326,
+    "Path": "Data\\Skyrim - Patch.bsa",
+    "Sha1": "5609F6A4018D90D847E1889F5CE4650D13A0A637",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "GG4pOfUmiRA=",
+    "Size": 166880326,
+    "Path": "Data\\Skyrim - Patch.bsa",
+    "Sha1": "5609F6A4018D90D847E1889F5CE4650D13A0A637",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "GKLI/OLsgIQ=",
+    "Size": 3215,
+    "Path": "Data\\Source\\Scripts\\JMap.psc",
+    "Sha1": "770F9BD4C13D4B43A16B26EE6C83C34B3A1DECF0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "GN8aMz7fnT8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\JournalOldYogosh.dds",
+    "Sha1": "285E89D45380011F07A1FCD7E8C7EB316D5F1D0D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "GM0lHRrJUGI=",
+    "Size": 2796368,
+    "Path": "Data\\Textures\\clutter\\books\\NoteJesparMap.dds",
+    "Sha1": "899556DD0564A6FB685C03AFC1A84148C0A458F8",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "GHv1+YL4A34=",
+    "Size": 107834,
+    "Path": "Data\\Update.esm",
+    "Sha1": "11B38AF9B8C44058D58D4033CA34F9E534333169",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "GBPCpTLf38M=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "179D3D76ADDF398ED21A4FAC3433C5009A92DEDE",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  }
+]

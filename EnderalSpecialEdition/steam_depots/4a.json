@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "Ss+YmfIuTYc=",
+    "Size": 74995,
+    "Path": "Data\\meshes\\actors\\character\\character assets\\skeleton.nif",
+    "Sha1": "1DFFF91EEC77C7B226165B82EC122BE58B568E5C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Ss+YmfIuTYc=",
+    "Size": 74995,
+    "Path": "Data\\meshes\\actors\\character\\character assets\\skeleton.nif",
+    "Sha1": "1DFFF91EEC77C7B226165B82EC122BE58B568E5C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "StHw9XhAQkQ=",
+    "Size": 329714,
+    "Path": "Data\\Strings\\enderal - forgotten stories_german.ilstrings",
+    "Sha1": "C36E9293805E668B1B1D41DF690A526AF7EE1980",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Sj/WQUnOPL8=",
+    "Size": 1026784,
+    "Path": "Data\\Strings\\skyrim_english.ilstrings",
+    "Sha1": "7653F8EC881DB79AF48E2DCCCBCA6C0E50B31208",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "SowxavKBChc=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesPsionics_n.dds",
+    "Sha1": "FAE4486EF493A7ED6F9C9227DEC518A02F9C38E1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "SgMnID5Cois=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath08_n.dds",
+    "Sha1": "92B935DC6489759D514EDABF8D6B43B58B346988",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "SvyHaziaIEg=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThroatstoneReport.dds",
+    "Sha1": "480D8568436444AEB48206D5DC31495593DBD03B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "StQPU7IOD2U=",
+    "Size": 628563368,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "FEC3C0532680616999AF0B1EF7C331C5C27B216B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "StQPU7IOD2U=",
+    "Size": 628563368,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "FEC3C0532680616999AF0B1EF7C331C5C27B216B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  }
+]

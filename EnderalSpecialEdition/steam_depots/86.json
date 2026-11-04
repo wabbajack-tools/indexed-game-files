@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "hmI0nyy7ToU=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk02.dds",
+    "Sha1": "716F4C4064496A0AE506177D99933AA8C3D01314",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "hlssGCoBND8=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignucmain.dds",
+    "Sha1": "FC19CCFB500BD51B224EACC39A6B79901EC22D9F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

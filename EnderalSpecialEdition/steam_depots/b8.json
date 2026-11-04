@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "uCs6O/Z6bHY=",
+    "Size": 1328134,
+    "Path": "Data\\Interface\\Enderal_jpfp_Menu.swf",
+    "Sha1": "E364BF7C927A8BCC6132F88A7943968356EBE8BD",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "uCs6O/Z6bHY=",
+    "Size": 1328134,
+    "Path": "Data\\Interface\\Enderal_jpfp_Menu.swf",
+    "Sha1": "E364BF7C927A8BCC6132F88A7943968356EBE8BD",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "uOo+wFz2LZY=",
+    "Size": 13296,
+    "Path": "Data\\Interface\\translations\\skyui_se_russian.txt",
+    "Sha1": "FCEB8C8F9575365989611D2F5B980F29B970B1CA",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "uDe2HpIsjYE=",
+    "Size": 2070,
+    "Path": "Data\\Scripts\\UI.pex",
+    "Sha1": "A63294CF7692C571265E0B2A83EF6A36F0506F98",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "uHJnIcx3si0=",
+    "Size": 1171324,
+    "Path": "Data\\Strings\\skyrim_english.dlstrings",
+    "Sha1": "D5D26793A3F54E25F9EA449C90B25850E396CE95",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "uIFzLPX1LCI=",
+    "Size": 824895,
+    "Path": "Data\\Strings\\skyrim_russian.strings",
+    "Sha1": "5C54D4C4A35E0450D81127C167D243DD6065AE7F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "uK+QQPOVdk0=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue04.dds",
+    "Sha1": "1E262887219C9C2994CE12EBB9673366885F2BED",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "uHrBfnuLkTE=",
+    "Size": 699192,
+    "Path": "Data\\Textures\\Enderal\\Misc\\PosterCroccoWanted.dds",
+    "Sha1": "AA04EF236185A04970CC18148103CC26DCC020FB",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

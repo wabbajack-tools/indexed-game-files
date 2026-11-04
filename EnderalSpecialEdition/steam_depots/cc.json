@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "zJtgdWTUg2E=",
+    "Size": 1016196,
+    "Path": "Data\\Strings\\skyrim_chinese.ilstrings",
+    "Sha1": "C45AE61EB9B98BCFC42B511ED840CBC02593D698",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "zIRF7MkMHIg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\EncyclopediaArcana03_n.dds",
+    "Sha1": "B887A98FCB3D6AC4F409B98DF32C3FEF60AFD08F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "zOR6jnIkCBQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThroatstoneNotes_n.dds",
+    "Sha1": "BD27D452A47353F075362A46377C1765D029805F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

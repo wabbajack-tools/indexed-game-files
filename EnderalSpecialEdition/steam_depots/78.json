@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "eDtPA56Cr7Q=",
+    "Size": 174,
+    "Path": "Data\\SKSE\\Plugins\\YesImSure.ini",
+    "Sha1": "333AEB6C47E6853BCD7B8681A9637493F4858F54",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "eDtPA56Cr7Q=",
+    "Size": 174,
+    "Path": "Data\\SKSE\\Plugins\\YesImSure.ini",
+    "Sha1": "333AEB6C47E6853BCD7B8681A9637493F4858F54",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "eN9rU4PSvEs=",
+    "Size": 373427426,
+    "Path": "Data\\Skyrim - Meshes1.bsa",
+    "Sha1": "86D7C3C543F5D71235B3E2C2E0DC6B9F1C015F31",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "eN9rU4PSvEs=",
+    "Size": 373427426,
+    "Path": "Data\\Skyrim - Meshes1.bsa",
+    "Sha1": "86D7C3C543F5D71235B3E2C2E0DC6B9F1C015F31",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "eAH7tArm+v8=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsigneisbrecherwarte_n.dds",
+    "Sha1": "A3EDE1994576E54FC8D7DDDFBBFFE1C081CEFC52",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

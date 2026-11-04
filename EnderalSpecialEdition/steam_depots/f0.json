@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "8EpRV2L6s9Q=",
+    "Size": 44440,
+    "Path": "Data\\Dragonborn.esm",
+    "Sha1": "6CA62BCBCBA021169D9C981F81EC7DBEC46E7B0B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "8OqXoImhmkQ=",
+    "Size": 3260,
+    "Path": "Data\\Scripts\\CombatStyle.pex",
+    "Sha1": "DB528726D5D26B8CBBF53705094EE3283514FFCC",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "8LzXRU4x9Sw=",
+    "Size": 1535523399,
+    "Path": "Data\\Skyrim - Sounds.bsa",
+    "Sha1": "E5D1E906AC3C4E06B4A7B1853DDAC346CE7BC893",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "8LzXRU4x9Sw=",
+    "Size": 1535523399,
+    "Path": "Data\\Skyrim - Sounds.bsa",
+    "Sha1": "E5D1E906AC3C4E06B4A7B1853DDAC346CE7BC893",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "8IyOE6hsEbs=",
+    "Size": 765,
+    "Path": "Data\\Source\\Scripts\\SKSE.psc",
+    "Sha1": "06C0A72461B5D09A1DE1D044AE0B88EED7E2A54E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

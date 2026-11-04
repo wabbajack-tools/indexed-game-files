@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "fxXaHBK0Wnk=",
+    "Size": 5509729,
+    "Path": "Data\\Interface\\NanumBrush.swf",
+    "Sha1": "D4819F1118C378B812F921008027668756B72BA8",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "fzZzTlkID6Q=",
+    "Size": 86118,
+    "Path": "Data\\Interface\\translate_hungarian.txt",
+    "Sha1": "19ACC0F98925C467D0D35C822C553A9ABFE5603A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "f/Olm80dnGs=",
+    "Size": 38544,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\mq105_silentbow.hkx",
+    "Sha1": "67029546120DFE3BAEF74DF3DD3B06A6A737B003",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "f/Olm80dnGs=",
+    "Size": 38544,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\mq105_silentbow.hkx",
+    "Sha1": "67029546120DFE3BAEF74DF3DD3B06A6A737B003",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "f5EqC2bbvEU=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignfrostclifftavern.dds",
+    "Sha1": "792B0362ADD2F1D532FEF5165FCF76F89CD1ABC5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

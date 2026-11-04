@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "p5Dqs2pnGf8=",
+    "Size": 1211,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "E9F5F63FD837C8EE58892211F82BB43FCD66C28C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "p2Xek11LqGk=",
+    "Size": 568128,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\bagpipe.hkx",
+    "Sha1": "5440F0DB876FA28C1597685B21318CE7EDB1698D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "p2Xek11LqGk=",
+    "Size": 568128,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\bagpipe.hkx",
+    "Sha1": "5440F0DB876FA28C1597685B21318CE7EDB1698D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "p88IptSNiMw=",
+    "Size": 1398248,
+    "Path": "Data\\Textures\\clutter\\books\\NoteTreasureMap.dds",
+    "Sha1": "D44215570D099FC3F7C23947432E0BEBD6682CD9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "pyn23dkwWg0=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\TheaterPromo3_n.dds",
+    "Sha1": "18B7805F6B315A2C013EBEAE8FF3C035D381B40D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "p1bVR8/5gSE=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\Enderal\\food\\dalsarkerhoneywine.dds",
+    "Sha1": "9F761255E680E27B6C866F8F8BA6E30A0ECF41DD",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

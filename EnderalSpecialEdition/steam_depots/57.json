@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "V7rgsHB5zjc=",
+    "Size": 145436,
+    "Path": "Data\\Interface\\translate_german.txt",
+    "Sha1": "8F75B528EE42619AE935273878FA65AD237E6A57",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Vwg96XZRvew=",
+    "Size": 1495360,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_sensual_b_base.hkx",
+    "Sha1": "C8C30DE3DB473CFBA2F872EAA3225A332BEFA26A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Vwg96XZRvew=",
+    "Size": 1495360,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_sensual_b_base.hkx",
+    "Sha1": "C8C30DE3DB473CFBA2F872EAA3225A332BEFA26A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "V/Otvg6Mda8=",
+    "Size": 2433,
+    "Path": "Data\\SkyUI_SE.esp",
+    "Sha1": "C63793D2EB60ECB19552EAF350469CAA53799125",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "V/Otvg6Mda8=",
+    "Size": 2433,
+    "Path": "Data\\SkyUI_SE.esp",
+    "Sha1": "C63793D2EB60ECB19552EAF350469CAA53799125",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "V7eFDM1tOE0=",
+    "Size": 4298,
+    "Path": "Data\\Source\\Scripts\\UI.psc",
+    "Sha1": "B1B76A4A3ACF11A0C1E7FFE9FC7E71E2077BDC2F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "VwpAR0HDknI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsBlindMiner_n.dds",
+    "Sha1": "C6BC26D3338223ED0F67C90AF95C3888382EAFEB",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "V1t6+bWHcB4=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\sharimrhalata.dds",
+    "Sha1": "8FDCBE6CD3FAB46DCE7D46F225E09673BC0D4BE0",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

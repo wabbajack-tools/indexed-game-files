@@ -1,0 +1,101 @@
+[
+  {
+    "Hash": "T899zwzXqGw=",
+    "Size": 19056,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_gamblingchairsittingidle.hkx",
+    "Sha1": "2B1459CBF61330B6D0CDE4EBAFFE33FFDA68C24D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "T899zwzXqGw=",
+    "Size": 19056,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_gamblingchairsittingidle.hkx",
+    "Sha1": "2B1459CBF61330B6D0CDE4EBAFFE33FFDA68C24D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "T3/WpHN2qnM=",
+    "Size": 505,
+    "Path": "Data\\Scripts\\Outfit.pex",
+    "Sha1": "FB5D681A6E17898ED9F4AB15D3905141470F7CC0",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "T+QpXKL3BTg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HolyOrder_n.dds",
+    "Sha1": "AD172CEAC23AA620DAA463586A149609EC07F798",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Twr4BhK9c3Y=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\KingLewd_n.dds",
+    "Sha1": "4D20C347DEC35BCBBBC3BF9A57AEAD644854702A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "T3OmOD67O/o=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Kredo_n.dds",
+    "Sha1": "9EBA3679B108D52430D09BE0DA7BD8923EFB571F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "T5SdyTbDczM=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LostBrigand_n.dds",
+    "Sha1": "5DACE0981A59E49EF1247ECBECE38D11E05A05E4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "T7oqhhVOarY=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\MountainPass.dds",
+    "Sha1": "9128F99656CF0F7CDE7D388AA63CE5F6843A2B29",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "TxYX5lOn0f4=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ShareholderCertificate_n.dds",
+    "Sha1": "D7628D51F7AEB1AD0FCEE913AE9D2F77EAF4A17E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "TyGPkV8XxCI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer01.dds",
+    "Sha1": "C6B917A782B72B8BD8BA39B76F25716D2F9E6010",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "T9bMBTLdbSU=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignucmain_n.dds",
+    "Sha1": "9CC0B102EB35B393666DE11E7A49989D8A1F2EAE",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

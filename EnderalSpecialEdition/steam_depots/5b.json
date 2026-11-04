@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "W3t/PsDWd9E=",
+    "Size": 1012454,
+    "Path": "Data\\Strings\\skyrim_spanish.ilstrings",
+    "Sha1": "4C5C9D26910E8968B867F86F4AD41B56BA71D664",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "W1zxWfLNeD8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MothersPain_n.dds",
+    "Sha1": "7E758D9B0BB5A47AAA1063DCA2B138709F9B83BC",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "WwgZH7Qtdqs=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk03.dds",
+    "Sha1": "C142F13A639C567F9C04AA9333BDECEE48B9B751",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "W+Rt74sjtSM=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk04.dds",
+    "Sha1": "DE68892447D56C792ACC3D060C3C2694F93B715D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "2C5pJanDPV8=",
+    "Size": 81572,
+    "Path": "Data\\Interface\\translate_english.txt",
+    "Sha1": "F45AF38D49D0CF690613C5D3671C2B88E0772D16",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "2OILs7lD9r0=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk07.dds",
+    "Sha1": "C3DEBD7933A5870B29ABFBCF23B75AA8347968D5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "2OmTQXJGXN4=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\barnabassunlightspromo1.dds",
+    "Sha1": "70565B32CC8BEABAC6FEF63B595DE8965EEAE753",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "2OFjgBOhmqM=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\TheaterPromo2.dds",
+    "Sha1": "907794A8359662D32D73EE7E9769494E26C655D5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "eumne0H38EQ=",
+    "Size": 158672,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\shadowboxing.hkx",
+    "Sha1": "4B8128D9CE225CA2E2BA736A98A40C929F66AB84",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "eumne0H38EQ=",
+    "Size": 158672,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\shadowboxing.hkx",
+    "Sha1": "4B8128D9CE225CA2E2BA736A98A40C929F66AB84",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "eg40LQMjF+I=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\BookOfPoetry_n.dds",
+    "Sha1": "721BCFA5977C9911BEAD7F96560240648A004DB1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "es0JXwxmse4=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignarkwrittenon.dds",
+    "Sha1": "24FBBAB6B15BF78829986679A4CA14C850AC1FFF",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "ehWxpbXw29w=",
+    "Size": 633232644,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "D635620880CCEEC438F98993F5B8CFD064742E7C",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  }
+]

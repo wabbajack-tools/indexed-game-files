@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "dp/yZJPSgmE=",
+    "Size": 11488,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wounded_idle.hkx",
+    "Sha1": "5E44C527B00EF45724A19CD96D8AFB98801E6E6A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "dp/yZJPSgmE=",
+    "Size": 11488,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wounded_idle.hkx",
+    "Sha1": "5E44C527B00EF45724A19CD96D8AFB98801E6E6A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "dr4dBdv5bxk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ArtCrispyMeat_n.dds",
+    "Sha1": "D810657E23460F11518308AAE00D89A3F62F03AB",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "dlrX/mhogtc=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MouseMitata_n.dds",
+    "Sha1": "AFEC6D50ABE327B52C50FC7AA4B817E018B3B75F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "di6ghbHF3O8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue01.dds",
+    "Sha1": "2AB4B0C81407F1C88FDDF14316D152B01B0E1105",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

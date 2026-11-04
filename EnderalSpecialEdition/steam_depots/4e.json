@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "TtQdtH6VRo8=",
+    "Size": 44059,
+    "Path": "Data\\Dawnguard.esm",
+    "Sha1": "0BC7CCFE9CA995C7397C5F0F06983DE60B0E72B6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "TkvwTf/eDGM=",
+    "Size": 121,
+    "Path": "Data\\E - Update.bsa",
+    "Sha1": "6BB2B8E07BCCDCF5755063AEADC495D07DB603FD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "TkvwTf/eDGM=",
+    "Size": 121,
+    "Path": "Data\\E - Update.bsa",
+    "Sha1": "6BB2B8E07BCCDCF5755063AEADC495D07DB603FD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "TqW3aggJODU=",
+    "Size": 2608,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "1956F0B84F9A5E646A2F3DC5D1BA244851844D82",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 3308423357158402493
+  },
+  {
+    "Hash": "TjnCAiBjnbk=",
+    "Size": 1490796,
+    "Path": "Data\\SKSE\\Plugins\\version-1-5-97-0.bin",
+    "Sha1": "65497DD8118257DEE2082A22A4F0F24BBF38F250",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "TjnCAiBjnbk=",
+    "Size": 1490796,
+    "Path": "Data\\SKSE\\Plugins\\version-1-5-97-0.bin",
+    "Sha1": "65497DD8118257DEE2082A22A4F0F24BBF38F250",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "TkvwTf/eDGM=",
+    "Size": 121,
+    "Path": "Data\\Skyrim - Misc.bsa",
+    "Sha1": "6BB2B8E07BCCDCF5755063AEADC495D07DB603FD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "TldqXQF0nlU=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath12.dds",
+    "Sha1": "3233F04A76126333CBA5FABCE489B986B97E364F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Tux1kKIylnw=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "04E9D91EF669DC732D0B842ADA01262C954187E0",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  }
+]

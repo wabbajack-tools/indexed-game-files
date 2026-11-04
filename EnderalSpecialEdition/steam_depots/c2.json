@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "wmUZGQr3Mh0=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\AccountUnknownTraveler03.dds",
+    "Sha1": "C460AD2C6582C09B62132779D4398166D6609023",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "wgwve6UJVYs=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesMentalism_n.dds",
+    "Sha1": "4B4F6E615EDC91BBF0B4F9A96DC1A61738F5A490",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "wpUlGh175pw=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\ArenaPromo1.dds",
+    "Sha1": "61DCDF401A3A6CF8EA8235F1A06C5B11623C562B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "whsa+VK7Flc=",
+    "Size": 174928,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\signs\\closed_n.dds",
+    "Sha1": "4B6612DCD85C0DD9BD9D2532A3B4B0075302B4EB",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

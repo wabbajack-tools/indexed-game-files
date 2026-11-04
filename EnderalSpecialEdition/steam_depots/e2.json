@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "4tq1eHbMESI=",
+    "Size": 53816,
+    "Path": "Data\\Interface\\translate_japanese.txt",
+    "Sha1": "1A10FD963A48DC33C36A8A1B1F21B1459840FE6E",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "4od4mz0GVF8=",
+    "Size": 2452992,
+    "Path": "Data\\SKSE\\Plugins\\EngineFixes.dll",
+    "Sha1": "3019CAF54E1DD508E035037DF2B22D35A30197A2",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "4rm/dQuvpuw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsGargantuanLizard_n.dds",
+    "Sha1": "EF57C0FE4C172B3BC5DE353CDC21BD6D3492406A",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "4rC2UlTokAM=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\NightBad_n.dds",
+    "Sha1": "3889EEA9005284EA607471AF9A9D159D7A7C15F7",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "4nbtrIPsJTI=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\Order.dds",
+    "Sha1": "2C50894EFFDC98EBE9B0F2425CD2832025EEB62B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "4hx6opd9+Tw=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk02.dds",
+    "Sha1": "1576F60578E8FE4028B3C4522E0063F5C3D52E3D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "4h6pitvPG0E=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk06_n.dds",
+    "Sha1": "D0FDA989CB02D18C5826E982843EBBF84A2B6A05",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

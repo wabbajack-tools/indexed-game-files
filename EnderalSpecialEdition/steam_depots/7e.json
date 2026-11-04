@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "fqZ8xE/exGo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Traumblume.dds",
+    "Sha1": "EE460F46C4B7B9CEEBF203DAB094FF4896524DF8",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "fiMS7vbbpNE=",
+    "Size": 3498,
+    "Path": "Skyrim\\SkyrimPrefs.ini",
+    "Sha1": "4EAA983A47B3F057ECF09B4E719CD30F3CAA0140",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "fiMS7vbbpNE=",
+    "Size": 3498,
+    "Path": "Skyrim\\SkyrimPrefs.ini",
+    "Sha1": "4EAA983A47B3F057ECF09B4E719CD30F3CAA0140",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "fiMS7vbbpNE=",
+    "Size": 3498,
+    "Path": "Skyrim\\SkyrimPrefs.ini",
+    "Sha1": "4EAA983A47B3F057ECF09B4E719CD30F3CAA0140",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

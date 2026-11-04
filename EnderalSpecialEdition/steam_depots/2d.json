@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "LdKChV1YXuQ=",
+    "Size": 40101,
+    "Path": "Data\\Scripts\\2023-menu.JPG",
+    "Sha1": "85035C483084CA0E3A1F4E301DA620EC293A701B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "LXTkQPldr1I=",
+    "Size": 1933,
+    "Path": "Data\\Scripts\\JFormDB.pex",
+    "Sha1": "357DB5E3D3500F5B4479E8D22C8BE08AEB1659B3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "LZjsxcfC5n8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\AboutWhispertrees.dds",
+    "Sha1": "62D6869F5FCCD69FB4F6DFD822C6E3A6D40B9D05",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "LaGJYjEDh30=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\NightBad_n.dds",
+    "Sha1": "6450B2880228766EFE69CD75F4F2762108B982AA",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Le74enBB7oY=",
+    "Size": 27452789,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\signs_small.zip",
+    "Sha1": "155538BB8D25A0138BDAD6BDB936B20938BD4FE8",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "LS0nck2eLfs=",
+    "Size": 23917,
+    "Path": "skse64_whatsnew.txt",
+    "Sha1": "E3943AE347D581A91F2E62056EEBE4F91A5BDD53",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "ZUWuvPNyi1o=",
+    "Size": 1898,
+    "Path": "Data\\Interface\\taverngames_chinese.txt",
+    "Sha1": "F3E221625C69E8FB8FFED84C1B0EE984638F2274",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "ZSLzriRVgDQ=",
+    "Size": 13506,
+    "Path": "Data\\Interface\\translations\\skyui_se_italian.txt",
+    "Sha1": "088C759A0055013DBE1214A9B4F5C24DCF845C5E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "ZVV3Qri6TWo=",
+    "Size": 1047,
+    "Path": "Data\\Scripts\\ConstructibleObject.pex",
+    "Sha1": "14C8C249DBED6B6784A8CE2763BE45E5B794DEA4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "ZbZen9S/rUo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk04.dds",
+    "Sha1": "9B4C99C57C70F3830207E0A2F76AEC6204D9CF81",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Zc+cbVke7UY=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk10.dds",
+    "Sha1": "B6569D8000B2D215631C2E81D6D27F867A3E3AF2",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

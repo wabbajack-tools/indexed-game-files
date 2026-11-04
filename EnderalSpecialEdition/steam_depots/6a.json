@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "avE5/BA8W+c=",
+    "Size": 19728,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\chair_idlecrosslegged_loop.hkx",
+    "Sha1": "CBA5F07EADE045DF600540368DAD42DFF7AAF2F3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "avE5/BA8W+c=",
+    "Size": 19728,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\chair_idlecrosslegged_loop.hkx",
+    "Sha1": "CBA5F07EADE045DF600540368DAD42DFF7AAF2F3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "aqjcxsECB8c=",
+    "Size": 162528,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_chinese.hkx",
+    "Sha1": "2901110DE5F4DC7F228B3871D5405770E1FAEF58",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "aqjcxsECB8c=",
+    "Size": 162528,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_chinese.hkx",
+    "Sha1": "2901110DE5F4DC7F228B3871D5405770E1FAEF58",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "aiEWYo9C3Co=",
+    "Size": 204800,
+    "Path": "Data\\SKSE\\Plugins\\SkyrimRedirector.dll",
+    "Sha1": "DADC73B5B8DDF6FB9D9EDD306AAD6F584233BDAA",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "aiEWYo9C3Co=",
+    "Size": 204800,
+    "Path": "Data\\SKSE\\Plugins\\SkyrimRedirector.dll",
+    "Sha1": "DADC73B5B8DDF6FB9D9EDD306AAD6F584233BDAA",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "ajfNoYUoQBE=",
+    "Size": 8191,
+    "Path": "Data\\Source\\Scripts\\Alias.psc",
+    "Sha1": "A6E596FDB65BF3149FED1559E0546FB20BAE4824",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "agDyqga8e3Y=",
+    "Size": 369299,
+    "Path": "Data\\Strings\\enderal - forgotten stories_korean.ilstrings",
+    "Sha1": "8513A51981D419C4F069632261E571630410DDD9",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "anEctwilf48=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath11.dds",
+    "Sha1": "D6B58DFBCEFE9B6411DF999EFF1CF2060C01E3BC",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "apIejWcEaLQ=",
+    "Size": 2796344,
+    "Path": "Data\\Textures\\enderal\\misc\\CardAtlas.dds",
+    "Sha1": "2BA41AF9F2C633E658EDB6B631B12895D58F2510",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

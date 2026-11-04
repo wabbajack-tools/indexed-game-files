@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "WIgx6r7yZP4=",
+    "Size": 37465,
+    "Path": "Data\\Enderal SE v2.0.12.4 Changelog.txt",
+    "Sha1": "56C58C83DB72B4C667D6539758CCF8CA4542461C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "WO+ej0HbOdQ=",
+    "Size": 53366,
+    "Path": "Data\\Interface\\translate_korean.txt",
+    "Sha1": "8918098ED538ED859D4C8F6A3762DA27E195EFF2",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "WAdnUx1Txkw=",
+    "Size": 48,
+    "Path": "Data\\SKSE\\Plugins\\EnderalSE.ini",
+    "Sha1": "40290169995AD9C52BD70E0334F1EA518452ECFE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "WEZ94AJTl1I=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesElementalism.dds",
+    "Sha1": "A03626E8E8079F025E7A1A73AB223ECE30F5E39C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]
