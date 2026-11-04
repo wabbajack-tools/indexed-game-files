@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "PhD8oIab9wE=",
+    "Size": 2607,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "9DD33A46DE952E0ED1F6A47694730D3AE55E7998",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  },
+  {
+    "Hash": "PnRlV/VOeLI=",
+    "Size": 1400,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "595AEA3411DA867CE9D2BE571864FD1A7B6CEEF4",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  },
+  {
+    "Hash": "Pv1SP027iuw=",
+    "Size": 25248518,
+    "Path": "Data\\Skyrim - Textures8.bsa",
+    "Sha1": "4E485BBD160B07B375F58CCCC7B67156E0A7922B",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "Pv1SP027iuw=",
+    "Size": 25248518,
+    "Path": "Data\\Skyrim - Textures8.bsa",
+    "Sha1": "4E485BBD160B07B375F58CCCC7B67156E0A7922B",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "PjWKUxM+BXI=",
+    "Size": 171492,
+    "Path": "Data\\Strings\\enderal - forgotten stories_czech.strings",
+    "Sha1": "C4BB7A3D8CB90D8806C0D390C55EA3D8128A9B2D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "PtI9wRrHZKQ=",
+    "Size": 966938,
+    "Path": "Data\\Strings\\enderal - forgotten stories_english.dlstrings",
+    "Sha1": "21386000FDAB1515A5FECBA5F96116DD353C14F1",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "PnBALwCwV0A=",
+    "Size": 1058559,
+    "Path": "Data\\Strings\\skyrim_polish.ilstrings",
+    "Sha1": "D6DC6D8964083F6F07DD2149DECE6A4A3CE76E90",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  }
+]

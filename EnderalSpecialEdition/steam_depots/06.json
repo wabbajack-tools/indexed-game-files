@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "Br7V/aAMtRU=",
+    "Size": 613202,
+    "Path": "Data\\Strings\\skyrim_korean.strings",
+    "Sha1": "43DFF4899AB096DA4C89BCD74A6FB0BDA704203B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "BsBSGsQO85A=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesMentalism.dds",
+    "Sha1": "3F570FA25FB94BA168C9685C0C75002E1C3F3EB2",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Bo3vsCiZGlE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath11_n.dds",
+    "Sha1": "E20CFE1B73F93D36C5D4348BE52EC7F120915F25",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "BhcFDsHfVmM=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\ZorkbanAndSons.dds",
+    "Sha1": "65375CB968B74D60FD4A09578AF43A7D07A952A4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "BiQeKA8ykvg=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "8EBABF5BD2D67C8CFBECD4EB211BF551190DB460",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  }
+]

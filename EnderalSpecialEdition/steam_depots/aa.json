@@ -1,0 +1,110 @@
+[
+  {
+    "Hash": "qsbUBoGZID4=",
+    "Size": 16848,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\1hm_shout_exhale_medium.hkx",
+    "Sha1": "89755CD9E2F3FB885CAE435C9953CA5B9D1FCC1F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qsbUBoGZID4=",
+    "Size": 16848,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\1hm_shout_exhale_medium.hkx",
+    "Sha1": "89755CD9E2F3FB885CAE435C9953CA5B9D1FCC1F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "qsbUBoGZID4=",
+    "Size": 16848,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\cast_to_target.hkx",
+    "Sha1": "89755CD9E2F3FB885CAE435C9953CA5B9D1FCC1F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qsbUBoGZID4=",
+    "Size": 16848,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\cast_to_target.hkx",
+    "Sha1": "89755CD9E2F3FB885CAE435C9953CA5B9D1FCC1F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "qo9uXK3FdQE=",
+    "Size": 237310,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\fnis_enderal_list.txt",
+    "Sha1": "390F8C457535A3F3F50351E9D5BE95BCE0A67403",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qo9uXK3FdQE=",
+    "Size": 237310,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\fnis_enderal_list.txt",
+    "Sha1": "390F8C457535A3F3F50351E9D5BE95BCE0A67403",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "qsbUBoGZID4=",
+    "Size": 16848,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\mt_shout_exhale_medium.hkx",
+    "Sha1": "89755CD9E2F3FB885CAE435C9953CA5B9D1FCC1F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qsbUBoGZID4=",
+    "Size": 16848,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\mt_shout_exhale_medium.hkx",
+    "Sha1": "89755CD9E2F3FB885CAE435C9953CA5B9D1FCC1F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "qsbUBoGZID4=",
+    "Size": 16848,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\shout_casttotarget.hkx",
+    "Sha1": "89755CD9E2F3FB885CAE435C9953CA5B9D1FCC1F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qsbUBoGZID4=",
+    "Size": 16848,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\shout_casttotarget.hkx",
+    "Sha1": "89755CD9E2F3FB885CAE435C9953CA5B9D1FCC1F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "qu4RmGQ5ofI=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\Skinner.dds",
+    "Sha1": "738192139BEC90C38E80B3B1349BB237FB0681F6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "qn8awl7y0qo=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue04_n.dds",
+    "Sha1": "AC31B1F1DED9665E6A9026D0C64DACA9A2E44AEF",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

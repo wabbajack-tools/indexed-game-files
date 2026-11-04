@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "vNlstCdrWaE=",
+    "Size": 139498,
+    "Path": "Data\\Interface\\translate_italian.txt",
+    "Sha1": "58633BE334747A905C715986BC2F37234F4D5340",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "vIwrulfLrlI=",
+    "Size": 141770424,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "4B4DD731167A6752685333A2E26243C0F603497F",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "vIwrulfLrlI=",
+    "Size": 141770424,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "4B4DD731167A6752685333A2E26243C0F603497F",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "vMMbLyKbWiI=",
+    "Size": 215748,
+    "Path": "Data\\Strings\\enderal - forgotten stories_polish.strings",
+    "Sha1": "E84FAE4BD864056F8C4042D573D2C4005A9F77BD",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

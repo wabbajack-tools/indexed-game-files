@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "qdalpKKp8Bc=",
+    "Size": 929632,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sing_and_drink.hkx",
+    "Sha1": "8DE1F227591BC381446776D56A0EC17FADDE8CFE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qdalpKKp8Bc=",
+    "Size": 929632,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sing_and_drink.hkx",
+    "Sha1": "8DE1F227591BC381446776D56A0EC17FADDE8CFE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "qd9rdq4WdwE=",
+    "Size": 6618,
+    "Path": "Data\\Scripts\\Race.pex",
+    "Sha1": "7E323EE7518FDBD2961EB06ACAD64B2587D38D77",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qfqjD1dP9SI=",
+    "Size": 65155583,
+    "Path": "Data\\Skyrim - Animations.bsa",
+    "Sha1": "CF5DB82A0641CA126429DB4A0EE4989EAB7C7348",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "qW1BJ28E8Ew=",
+    "Size": 286574,
+    "Path": "Data\\Strings\\enderal - forgotten stories_spanish.ilstrings",
+    "Sha1": "8540EA83D525621BC78EB5B8812F121D020E527A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "qSi7i27aI8g=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer02_n.dds",
+    "Sha1": "FE34D0CD4322C9DC7B860E218303E8245AC4512F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "qQBJtQaGq80=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\Ark\\bathinghouse_n.dds",
+    "Sha1": "0B1A469B57E4453BFC9929100EC06AF21B309050",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

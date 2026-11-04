@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "XTaNNFIm3eM=",
+    "Size": 1152069673,
+    "Path": "Data\\Skyrim - Meshes0.bsa",
+    "Sha1": "7A832CDDC07AD8BF751BEB692F140308FB978103",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "XTaNNFIm3eM=",
+    "Size": 1152069673,
+    "Path": "Data\\Skyrim - Meshes0.bsa",
+    "Sha1": "7A832CDDC07AD8BF751BEB692F140308FB978103",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "XSCRo3SRbc0=",
+    "Size": 550764,
+    "Path": "Data\\Strings\\skyrim_spanish.strings",
+    "Sha1": "92BEAE485BC108E936124419B755E135F5648E65",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "Xdx8ZEcg4IA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\GoldenFord_n.dds",
+    "Sha1": "378A59E7E028D4841501616F6C345970FC0B8603",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "XXr3+DBaxiA=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "6ED6E51C1B4A21F24705A2039307D4B23222F902",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  }
+]

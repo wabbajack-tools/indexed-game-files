@@ -1,0 +1,101 @@
+[
+  {
+    "Hash": "G5VWJ4OtbLY=",
+    "Size": 620909,
+    "Path": "Data\\Interface\\NanumSquareR.swf",
+    "Sha1": "8EF70DB6151E837D78BC60A90F64180206932CEA",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "G6E4hSa9eDQ=",
+    "Size": 12644,
+    "Path": "Data\\Interface\\translations\\skyui_se_czech.txt",
+    "Sha1": "2DE7E3D22AD5E41CFE523E278855B6FDE714CEEF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "G/si9YLwIoc=",
+    "Size": 2336,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\FNIS_FNISBase_Behavior.hkx",
+    "Sha1": "1065F7DB45EB7F651593F035DC44036C100CA74F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "G/si9YLwIoc=",
+    "Size": 2336,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\FNIS_FNISBase_Behavior.hkx",
+    "Sha1": "1065F7DB45EB7F651593F035DC44036C100CA74F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Gz/Sx9ltxtY=",
+    "Size": 524433,
+    "Path": "Data\\Strings\\skyrim_chinese.strings",
+    "Sha1": "E55C0B6E73D9C1FA34229E2E65BF075637801786",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "GynvMDO7eB0=",
+    "Size": 933490,
+    "Path": "Data\\Strings\\Skyrim_hungarian.DLSTRINGS",
+    "Sha1": "BA75341A6A124CF13F214F7EADD3803A11854AAD",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "G+HzS2b385s=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MountainPass_n.dds",
+    "Sha1": "D3807BB2B8C8F540EAF83F63F3B26A102DAD4157",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "G6ANutGhs7c=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsBlindMiner_n.dds",
+    "Sha1": "642A7C50A77955DC4749C09D384E3924FEC155D2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "G25n7emZIyo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer07_n.dds",
+    "Sha1": "F14939880CC21336A155FC65D1560FCAFFF37B02",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "G+pDM2vw3eM=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\MeddoksFischerei_n.dds",
+    "Sha1": "D178311A382044B782D058E3B47CA26574013ED4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "G5Ep/BzKy8Q=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\TheSilverCloudPromo1_n.dds",
+    "Sha1": "34A82DB85B218187DB530E268521E680BCFA4551",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

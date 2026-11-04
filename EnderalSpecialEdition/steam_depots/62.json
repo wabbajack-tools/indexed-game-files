@@ -1,0 +1,101 @@
+[
+  {
+    "Hash": "YmhnZoFYvUY=",
+    "Size": 2608,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "5D7595AF9A1539FFAEF4D03A1224619D495468D0",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5270870577870650441
+  },
+  {
+    "Hash": "YmhnZoFYvUY=",
+    "Size": 2608,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "5D7595AF9A1539FFAEF4D03A1224619D495468D0",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 588471063898050075
+  },
+  {
+    "Hash": "Yq6lFcWHQdk=",
+    "Size": 183888,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_samba_a.hkx",
+    "Sha1": "8507494075A358F57C0D0114AE1E536323DBB241",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Yq6lFcWHQdk=",
+    "Size": 183888,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_samba_a.hkx",
+    "Sha1": "8507494075A358F57C0D0114AE1E536323DBB241",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "YuV8SEkRAwk=",
+    "Size": 64176,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_whirlwindsprint_longest.hkx",
+    "Sha1": "2078BDF72714296AFF56BD15292629D9BDAC3F42",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "YuV8SEkRAwk=",
+    "Size": 64176,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_whirlwindsprint_longest.hkx",
+    "Sha1": "2078BDF72714296AFF56BD15292629D9BDAC3F42",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "YoCSOeWmBSc=",
+    "Size": 1100,
+    "Path": "Data\\Scripts\\StringUtil.pex",
+    "Sha1": "DB99684F31B503D00627B59A250632DF00007DFB",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "YsNS2q0ea0w=",
+    "Size": 275915,
+    "Path": "Data\\Strings\\Enderal - Forgotten Stories_hungarian.ILSTRINGS",
+    "Sha1": "F26B6689D8C78979E588AA5CCF2D800655F51CAD",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "YvG94DCUYH8=",
+    "Size": 1002486,
+    "Path": "Data\\Strings\\skyrim_italian.dlstrings",
+    "Sha1": "8BFD71D74A694F6727EE19432887E273D754397F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "YhlPT+avCvo=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignthalgard_n.dds",
+    "Sha1": "17BF380DB3FB2CF0D2076A6A54027CE49FDEA667",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "YqQMj5KFw5M=",
+    "Size": 66921828,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "7DB75F34E5925891E7DDF26F685203ACB93FEB2D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

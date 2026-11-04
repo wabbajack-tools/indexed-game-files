@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "7s7j96utZBc=",
+    "Size": 1607552,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_kiss_2female.hkx",
+    "Sha1": "B6F330AB83D69B6A9D7899A9B43D5B12F8F4950B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "7s7j96utZBc=",
+    "Size": 1607552,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_kiss_2female.hkx",
+    "Sha1": "B6F330AB83D69B6A9D7899A9B43D5B12F8F4950B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "7mljmoKj3vE=",
+    "Size": 79934,
+    "Path": "Data\\SKSE\\Plugins\\fs_src.zip",
+    "Sha1": "25CA58732D49CB4D984A5EC61100C2E6C47D3A9F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "7oB4hVGUQXU=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\HolyOrderWarpings_n.dds",
+    "Sha1": "A328E47D708662336802B971E5F0C331C1A9D0B1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

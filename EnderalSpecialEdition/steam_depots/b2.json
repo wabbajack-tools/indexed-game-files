@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "svdytElNZZc=",
+    "Size": 656384,
+    "Path": "Data\\SKSE\\Plugins\\YesImSure.dll",
+    "Sha1": "1E4F3FD6D20A3E5825021337EF2CF5E4F53DE193",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "snS8fzjvSG8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsSteelWarden_n.dds",
+    "Sha1": "6F1B06F181E2B78CE92ECDD77043D016F6C52A9E",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "sgjqo03N3Qs=",
+    "Size": 5592560,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\signs_atlas_n.dds",
+    "Sha1": "0449900FC437E08B6F96E593552F00F605561EEE",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

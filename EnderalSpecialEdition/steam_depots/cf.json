@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "zw6dFhYwq0w=",
+    "Size": 3360,
+    "Path": "Data\\Interface\\taverngames_italian.txt",
+    "Sha1": "A1378944E1A4BA01A364428D176C0D0D59D27C79",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "z9ozNuQMZls=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath12_n.dds",
+    "Sha1": "CFE3B0D938AC542EA120371ED2668734B8511FC5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "z/PvangcXSE=",
+    "Size": 288740968,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "920FDDF96A150DC7E39334024FC64D67FB99B987",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "z/PvangcXSE=",
+    "Size": 288740968,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "920FDDF96A150DC7E39334024FC64D67FB99B987",
+    "App": 976620,
+    "Depot": 1574103,
+    "Manifest": 1229243494617756025
+  },
+  {
+    "Hash": "zxyMLMixCKA=",
+    "Size": 6772,
+    "Path": "skse64_readme.txt",
+    "Sha1": "CC0F1DD7388861A981EBAD9DE125E59C96FE5A21",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  }
+]

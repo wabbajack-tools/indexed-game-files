@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "bbBrVpiS6Co=",
+    "Size": 147491,
+    "Path": "Data\\Interface\\translate_HUNGARIAN - egyszer\u0171s\u00EDtett\\SkyrimSE 2023-08-14 10-39-37-04.jpg",
+    "Sha1": "D0F519A3A34050A5D71D665F76421C909298C023",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "beiAoy8vvjc=",
+    "Size": 1610592,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_kiss_2male.hkx",
+    "Sha1": "03B332A31FAA57AEC3281D20B7DCC3500F9AF9C6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "beiAoy8vvjc=",
+    "Size": 1610592,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_kiss_2male.hkx",
+    "Sha1": "03B332A31FAA57AEC3281D20B7DCC3500F9AF9C6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "bTjHxh7/tUQ=",
+    "Size": 74,
+    "Path": "Data\\Report a bug in Enderal SE.url",
+    "Sha1": "111A1E610A6374F2F403C8875BB3B7F3BB1C9866",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "bZ2UqHdptvg=",
+    "Size": 16307,
+    "Path": "Data\\Scripts\\ObjectReference.pex",
+    "Sha1": "9659114D75E3F687B8F9A08126C1893E44CA1361",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "bfmATsbnbkQ=",
+    "Size": 184847,
+    "Path": "Data\\Strings\\enderal - forgotten stories_german.strings",
+    "Sha1": "B3A6FD7519A9EA7F2A43975FB85C2F0417A6B8CA",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "bfSBGy+GPaY=",
+    "Size": 2665,
+    "Path": "Enderal_default.ini",
+    "Sha1": "663D41DD63B362792B7800EBCB606AFF9C8A14A0",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "Nv7d4YgpZVg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsArveldhiin_n.dds",
+    "Sha1": "C9353811CA4FCB44D6135A295F79A2DD3614222E",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "NiFrRvoztro=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\signs\\tomarketplace.dds",
+    "Sha1": "BC5D8E82BDCC40E658A2A46B5C4B50E0D0CBF522",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Nogjgqu+g5I=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignsilvergrove_n.dds",
+    "Sha1": "558ADA462AFBB1509DA10730B03390620D56A066",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

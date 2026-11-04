@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "JRN4IcIW8JQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\VynOverview_n.dds",
+    "Sha1": "4DF456B663241CD36755D8FF1CA12F6BF98EF1BD",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "JZNJb8g3rqE=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\enderal\\forgottenstories\\Posters\\DarkCornersOfOurMind.dds",
+    "Sha1": "AED6625D017A1AB4581525F8EE59BD1D2A7C58BF",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "JbYP1w8FSfY=",
+    "Size": 1859,
+    "Path": "Skyrim_Default.ini",
+    "Sha1": "71142431F6D1913D589CFB09B86DE1C2E3AFFD2B",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  }
+]

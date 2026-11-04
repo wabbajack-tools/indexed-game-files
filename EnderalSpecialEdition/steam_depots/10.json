@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "EIcsv9rT1yA=",
+    "Size": 80,
+    "Path": "Data\\ccBGSSSE001-Fish.esm",
+    "Sha1": "8E4F7045EBB44A2E6BF8FC929F7D72C4477C47C6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "EIcsv9rT1yA=",
+    "Size": 80,
+    "Path": "Data\\ccBGSSSE025-AdvDSGS.esm",
+    "Sha1": "8E4F7045EBB44A2E6BF8FC929F7D72C4477C47C6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "EIcsv9rT1yA=",
+    "Size": 80,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "8E4F7045EBB44A2E6BF8FC929F7D72C4477C47C6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "EIcsv9rT1yA=",
+    "Size": 80,
+    "Path": "Data\\HearthFires.esm",
+    "Sha1": "8E4F7045EBB44A2E6BF8FC929F7D72C4477C47C6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "EF1EwcCENic=",
+    "Size": 651,
+    "Path": "Data\\Scripts\\Flora.pex",
+    "Sha1": "B91CCD075BD3176B13FB8EC4009089FA42365A44",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "EAw/Ja8MyOI=",
+    "Size": 1043067,
+    "Path": "Data\\Strings\\skyrim_french.dlstrings",
+    "Sha1": "B44089CAD3E2D49777D217DF383839C91C4F363F",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "EF8g2lS560I=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\MythsAshWidow.dds",
+    "Sha1": "5DC573E19A98EC1C236875799BE23F33F13E79AF",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "ENF+W1aArOI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\NightGood_n.dds",
+    "Sha1": "4B960D9FA32B0EEE656A5EFEEB34A7AF6FA4A7C1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "EEGgkqd/k/4=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignucbarracks.dds",
+    "Sha1": "A49584132E7C5A223A7CCA650B376BD66D8660CE",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "EMIAySDLQKA=",
+    "Size": 298384,
+    "Path": "steam_api64.dll",
+    "Sha1": "39CAC2889D8CA497EE0D8434FC9F6966F18FA336",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  }
+]

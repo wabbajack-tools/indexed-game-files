@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "RuTNx9AvJeY=",
+    "Size": 19,
+    "Path": "Data\\SKSE\\Plugins\\EnderalVersion.ini",
+    "Sha1": "499076257254DB1C37FE0F36AEB90D36DA02680A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "RhCFyXJZNzU=",
+    "Size": 30,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "6898F6726DEED6E81955DF1D5B6D0FAFE4E0F830",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "RjsCRJjnDiM=",
+    "Size": 916142,
+    "Path": "Data\\Strings\\enderal - forgotten stories_polish.dlstrings",
+    "Sha1": "4184E4F66B4E1FA5304C5727DBA4783B3097D6B1",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "RjlEw5kmYKc=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\FalseDog.dds",
+    "Sha1": "DBE88403AD93DB7D4E4AB2152309B6E2240E28F4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "RoUjGL4Ela8=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\castlebleakstar_n.dds",
+    "Sha1": "1CB9489C1BB5852FD4EA65BA6F3E2623A26D89F8",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "RjZJlPBgiFU=",
+    "Size": 176683,
+    "Path": "Data\\Update.esm",
+    "Sha1": "C13D4C61A2B98F5C11B39243016C3169BAA3C207",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  }
+]

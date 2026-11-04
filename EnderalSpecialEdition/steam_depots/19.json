@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "GehnRYKUzMM=",
+    "Size": 8364,
+    "Path": "Data\\Interface\\translations\\skyui_se_chinese.txt",
+    "Sha1": "CA7E3F02B3038557F4E1F2A76554F37430500910",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "GVao9w31UNk=",
+    "Size": 699192,
+    "Path": "Data\\Textures\\enderal\\food\\DalSarkerHoneywine.dds",
+    "Sha1": "E9334B4D97D75F1D63097A7C5611D8C9D4105300",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "GYi44q/vptA=",
+    "Size": 628207872,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "9175F1D75D326535F68D08C3E640ED02AB2DE26D",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "GYi44q/vptA=",
+    "Size": 628207872,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "9175F1D75D326535F68D08C3E640ED02AB2DE26D",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 8643872016002582824
+  },
+  {
+    "Hash": "GYi44q/vptA=",
+    "Size": 628207872,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "9175F1D75D326535F68D08C3E640ED02AB2DE26D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

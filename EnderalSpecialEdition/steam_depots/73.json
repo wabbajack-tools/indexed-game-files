@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "c2Q1Ed7NuVQ=",
+    "Size": 3687,
+    "Path": "Data\\Source\\Scripts\\ActorBase.psc",
+    "Sha1": "9FAA02F0E2C45AF1E4040BE77B01F16123321DDA",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "c9EgHOT6hdU=",
+    "Size": 1398248,
+    "Path": "Data\\Textures\\clutter\\books\\NoteJesparMap.dds",
+    "Sha1": "7D8AFDE7C33A69BB30D71E8B689DE95EAF442C63",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "c7eTBG9vEFQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath11_n.dds",
+    "Sha1": "AD285B359956315483282AFEE536DFD3CF0C814A",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "cxhATZ/sirY=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\VillageInTurmoil_n.dds",
+    "Sha1": "9015AC1F35CF19B84F0925D82F9EFF02A0921EE6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

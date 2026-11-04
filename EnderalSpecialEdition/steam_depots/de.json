@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "3mGTh3nTQGE=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\TheaterPromo2.dds",
+    "Sha1": "1BED7F96C9F21E7C3A584960B268DFA0BA1446EF",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "3rfEx56jehA=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\TheaterPromo2_n.dds",
+    "Sha1": "10F7FF7187715AC20699582596CF9A3FCE640E2F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

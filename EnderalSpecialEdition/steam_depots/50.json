@@ -1,0 +1,101 @@
+[
+  {
+    "Hash": "UJ1RiCEC/Oc=",
+    "Size": 8008943,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "3444343A7836435699F31066984D950476814F86",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 3308423357158402493
+  },
+  {
+    "Hash": "UJ1RiCEC/Oc=",
+    "Size": 8008943,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "3444343A7836435699F31066984D950476814F86",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "UFthNVFm1wg=",
+    "Size": 3950,
+    "Path": "Data\\Interface\\Translations\\taverngames_hungarian.txt",
+    "Sha1": "6E5433BF32AAAC575911BDD5453368A824FC206F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "UP6IdxUus8U=",
+    "Size": 1274,
+    "Path": "Data\\Scripts\\HeadPart.pex",
+    "Sha1": "D7FC9C54643CD313F925297408DBCDC5498AD14C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "UL8kIAbukEE=",
+    "Size": 8771,
+    "Path": "Data\\Scripts\\ski_configmanager.pex",
+    "Sha1": "95E132B829EA914D41F8643A881EEC3AE231B1AE",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "UKiT0GSPW4o=",
+    "Size": 659313,
+    "Path": "Data\\Strings\\skyrim_japanese.strings",
+    "Sha1": "64F525E1156F6E488CF6F9EF3D67ED08CB87A288",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "UCf6AU14sZc=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\BlackStones_n_n.dds",
+    "Sha1": "4AE5B135195B067F980BB49E66904FEDB83B8215",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "UO7fUAtAZ1A=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\CrystalJellyfish.dds",
+    "Sha1": "FB7C43A34EDDBFD0CE6743FFDB153C44205FAA99",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "UAp629X81yk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesGoldenforst_n.dds",
+    "Sha1": "6BBCA856A25AB6F6C70723DE7CBD8C106EE0E86A",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "UGJZd6a3G+g=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsGargantuanLizard.dds",
+    "Sha1": "511B25BDE4CA8F45D6DFB62EBD261613A91B265F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "UMb6yZMuy1Y=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\thesilvercloudpromo1.dds",
+    "Sha1": "64A3D249B17CFE7096A322BD17F9B98FC5C86CF4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

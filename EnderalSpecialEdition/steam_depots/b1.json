@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "sR5wJBWyqIc=",
+    "Size": 2310,
+    "Path": "Data\\Source\\Scripts\\SpawnerTask.psc",
+    "Sha1": "8CCF005FA5E965AABAA95E2FADF648003D65ABFB",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "se/xg21Dr6c=",
+    "Size": 1057833,
+    "Path": "Data\\Strings\\enderal - forgotten stories_korean.dlstrings",
+    "Sha1": "2F248B03D0D849AA7CD7F515D0BFA4CACC2B80E6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "sUtWW0WI07E=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\CrystalJellyfish_n.dds",
+    "Sha1": "BDD177394CA0C1E1349281A7E66726DFC7F00053",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "sSZWZN/b6MI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\KingLewd.dds",
+    "Sha1": "C6C852AD5C921F1A81B8C8C4004A459679D279EF",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "seL2nxCT7dE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer01_n.dds",
+    "Sha1": "F8E84E852A52E2000E1D6D53FF4AF13155D1BA23",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "scItf6Kw0/M=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue01_n.dds",
+    "Sha1": "2B72D772DF97FFA7209BBE7B9CD448212B34CA03",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "sYeZqbvc52s=",
+    "Size": 1398228,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\apothekarii_n.dds",
+    "Sha1": "F8A729377F7CF903C98E34949C5DB634D71C0A6D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "sWwxEMWDJCo=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignarkwrittenon_n.dds",
+    "Sha1": "B5D425AE7597F0AE2CB8555DFC6959B38DEDAE17",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "seb38uCYnhM=",
+    "Size": 5592560,
+    "Path": "Data\\Textures\\Enderal\\Misc\\PosterAtlas_n.dds",
+    "Sha1": "B4950F12034EE8C44D4C7CDAF7230F6CBB68F35B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

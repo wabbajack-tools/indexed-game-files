@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "H33SIrLYgng=",
+    "Size": 85950,
+    "Path": "Data\\Interface\\translate_HUNGARIAN - egyszer\u0171s\u00EDtett\\translate_HUNGARIAN.txt",
+    "Sha1": "432AFE98E36BDAF30A27ADA1BC2D18BA1EA3CB55",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "H/WZReGKGuc=",
+    "Size": 25008,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrossleggedexit.hkx",
+    "Sha1": "DEA8A994B14979CED441C1DA3110A3F4E667FC4A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "H/WZReGKGuc=",
+    "Size": 25008,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrossleggedexit.hkx",
+    "Sha1": "DEA8A994B14979CED441C1DA3110A3F4E667FC4A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "H/WZReGKGuc=",
+    "Size": 25008,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrossleggedexit.hkx",
+    "Sha1": "DEA8A994B14979CED441C1DA3110A3F4E667FC4A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "H/WZReGKGuc=",
+    "Size": 25008,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrossleggedexit.hkx",
+    "Sha1": "DEA8A994B14979CED441C1DA3110A3F4E667FC4A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "H4LHe5cJ/Xw=",
+    "Size": 319760,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\idlebehavior.hkx",
+    "Sha1": "83CC20A19D3F77CDBE800A97BF50A706C9F21D7B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "H4LHe5cJ/Xw=",
+    "Size": 319760,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\idlebehavior.hkx",
+    "Sha1": "83CC20A19D3F77CDBE800A97BF50A706C9F21D7B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "H+MhnzYgnlQ=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\AboutWhispertrees_n.dds",
+    "Sha1": "0FDD1D3F9B9FC5FA2372BCC24712AE12562CEDFC",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Hw2j7mkvujw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\BlindMan_n.dds",
+    "Sha1": "621CBF10E5A5286304ED0C95F4A7C8D50A0D5568",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "H1H0rBmumwo=",
+    "Size": 699176,
+    "Path": "Data\\Textures\\enderal\\dungeons\\keltyzar\\signs\\signs_n.dds",
+    "Sha1": "1B6411CF0C4B737A398DA3DEA0770ECA230EF8E1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

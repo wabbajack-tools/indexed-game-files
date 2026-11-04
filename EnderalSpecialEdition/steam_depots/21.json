@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "IWbsMHJQYS4=",
+    "Size": 2606,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "29139A7AB70025AB6690A7932A35F81E3EFF1AD9",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  },
+  {
+    "Hash": "IQGmYy7EboI=",
+    "Size": 3553440,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_calia_massacre.hkx",
+    "Sha1": "1D7ABB22528D8656762F3BB111B483C96B9BBB43",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "IQGmYy7EboI=",
+    "Size": 3553440,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\paired_calia_massacre.hkx",
+    "Sha1": "1D7ABB22528D8656762F3BB111B483C96B9BBB43",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "IWyE5kjxwKU=",
+    "Size": 10560,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wall_pipesmoking.hkx",
+    "Sha1": "D7F9850AF8D0426E23A076544B6C7B6D75BDAA2D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "IWyE5kjxwKU=",
+    "Size": 10560,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wall_pipesmoking.hkx",
+    "Sha1": "D7F9850AF8D0426E23A076544B6C7B6D75BDAA2D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "IegZZFxfXTs=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue03_n.dds",
+    "Sha1": "EC7C6856FB17700F7536CCA2970D8C8BF3FB1557",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "IVunyUhWHDk=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignsilvergrove_n.dds",
+    "Sha1": "72696B685CCFEFC066284D8EFE931EB7784B6862",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "IWbCqYq9PMY=",
+    "Size": 2666,
+    "Path": "Enderal_default.ini",
+    "Sha1": "7E30DFF89ADBE24841FCF05A1A509B30977640F6",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  }
+]

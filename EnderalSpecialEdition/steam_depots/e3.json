@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "48qt/UnNi2Q=",
+    "Size": 982480,
+    "Path": "Data\\Strings\\enderal - forgotten stories_german.dlstrings",
+    "Sha1": "A05D2BF70FAC782F44E3F6EC3C31345FA6E6D3D4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "41ZImRqVtQE=",
+    "Size": 1451445,
+    "Path": "Data\\Strings\\enderal - forgotten stories_russian.dlstrings",
+    "Sha1": "289937CA2D7D5D44927D03AE8E4CC0BDEEAA7D7A",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "403WnFqFz44=",
+    "Size": 888430,
+    "Path": "Data\\Strings\\skyrim_chinese.dlstrings",
+    "Sha1": "9AEF2BB913B92C42CDE0EF0C6A1486FF4DC337C6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "4zdtHDP7bnY=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ManualDreamsVisions.dds",
+    "Sha1": "D833C37B5EFD514F4AFAACB28EC8D5008AAF492E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "46xsFq0QZNk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\WaywardWanderer_n.dds",
+    "Sha1": "85E9B5519620B4EE7599CECEF5AC9F13ADB87A0A",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "45ZbxNXVb28=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\adreyuvonmith1.dds",
+    "Sha1": "726A587143780BFC881599B7BB1A8702A8EF2170",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

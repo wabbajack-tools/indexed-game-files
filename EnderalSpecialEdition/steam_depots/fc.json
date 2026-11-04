@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "/Oj0mog0THE=",
+    "Size": 409312,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_onspot_enthusiastic.hkx",
+    "Sha1": "555F7E8A3D20BCD07DF92B0740DEC83EEEC08683",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "/Oj0mog0THE=",
+    "Size": 409312,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_onspot_enthusiastic.hkx",
+    "Sha1": "555F7E8A3D20BCD07DF92B0740DEC83EEEC08683",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "/H+f6EhfgYo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\NightGood.dds",
+    "Sha1": "35E2DF191EDC2ECDADDA01E9626016A7510EA5A9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "/PM72BCLtnY=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThroatstoneNotes_n.dds",
+    "Sha1": "A42F561C8F627A37E0E55EF25335D1A9E46490C5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "/H0R99I1usM=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\barnabassunlightspromo1_n.dds",
+    "Sha1": "2E0E6D5CA6B1D1E467648C3C55EF98AF48BE62BA",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

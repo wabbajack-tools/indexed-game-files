@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "idtrhoB60RQ=",
+    "Size": 55936,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wounded_enter.hkx",
+    "Sha1": "E350C82CF204A366DC86AFA9F93E6697349D8897",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "idtrhoB60RQ=",
+    "Size": 55936,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wounded_enter.hkx",
+    "Sha1": "E350C82CF204A366DC86AFA9F93E6697349D8897",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "iRk9lORWip0=",
+    "Size": 9119,
+    "Path": "Data\\SKSE\\Plugins\\EngineFixes.toml",
+    "Sha1": "2B0E4C40E4F01F2730F30F577750562EE8B54378",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "idbk6F5I7dc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath03.dds",
+    "Sha1": "ECEF648F2C85E2A508655011BFFB9F57F32A9DD9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "iV8UwZWsLcM=",
+    "Size": 69010552,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "11DAF6A8EB05598CC075D8EF4F1392DD40439D0F",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  },
+  {
+    "Hash": "ia6Y2mEquMg=",
+    "Size": 906,
+    "Path": "high.ini",
+    "Sha1": "9CC819D3BBD7B16EDE914E04B5C8463DD8A0BFBD",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "ia6Y2mEquMg=",
+    "Size": 906,
+    "Path": "High.ini",
+    "Sha1": "9CC819D3BBD7B16EDE914E04B5C8463DD8A0BFBD",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "ia6Y2mEquMg=",
+    "Size": 906,
+    "Path": "high.ini",
+    "Sha1": "9CC819D3BBD7B16EDE914E04B5C8463DD8A0BFBD",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

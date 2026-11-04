@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "1eFBqi9PbaU=",
+    "Size": 35200,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\FNIS_PaleTest04_Behavior.hkx",
+    "Sha1": "0A228FF9FA6BEE5C3FDDB6937704D6734AC0381E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "1eFBqi9PbaU=",
+    "Size": 35200,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\FNIS_PaleTest04_Behavior.hkx",
+    "Sha1": "0A228FF9FA6BEE5C3FDDB6937704D6734AC0381E",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "1TWBp2uvCHk=",
+    "Size": 650,
+    "Path": "Data\\Scripts\\TreeObject.pex",
+    "Sha1": "A80D70A6D7EFBDCA58A38114D86ED75093840B8B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "1ZGHq6BI8lU=",
+    "Size": 1703,
+    "Path": "Data\\Source\\Scripts\\Potion.psc",
+    "Sha1": "666C348B63D72DE67C83571AB73056254EC66FA7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "1U++kU9hyPk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk03_n.dds",
+    "Sha1": "A3E67E3C7B50D3668BE40B8CEB7ACE8740037E7B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "1dGNVXTsW8Q=",
+    "Size": 288168644,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "2D0231229BB89A0BCDA5BAEDE6FB1DFBC05C1AA0",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "1dGNVXTsW8Q=",
+    "Size": 288168644,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "2D0231229BB89A0BCDA5BAEDE6FB1DFBC05C1AA0",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 8643872016002582824
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "VJuJyjzmDnM=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer03.dds",
+    "Sha1": "81E97585A65A8EF3F619007A543DA62A57C93F89",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "VIS/zbGv5SA=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\tomarketplace.dds",
+    "Sha1": "6F000565F78812844904959931B234F2D089D6C3",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

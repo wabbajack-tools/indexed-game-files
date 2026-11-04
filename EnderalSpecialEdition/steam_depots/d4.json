@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "1NVGDGmRPeo=",
+    "Size": 33021,
+    "Path": "Data\\Interface\\fonts_en2.swf",
+    "Sha1": "1AEF6214457163D984BDC43D358424BF5E095FA6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "1NVGDGmRPeo=",
+    "Size": 33021,
+    "Path": "Data\\Interface\\fonts_en2.swf",
+    "Sha1": "1AEF6214457163D984BDC43D358424BF5E095FA6",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "1IX7xaScjnk=",
+    "Size": 179726,
+    "Path": "Data\\Strings\\enderal - forgotten stories_german.strings",
+    "Sha1": "DB7CD343A52819FCA6DA38C8D088048C2CDCBBD7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "1HGOtr1VsPc=",
+    "Size": 467671,
+    "Path": "Data\\Strings\\enderal - forgotten stories_russian.ilstrings",
+    "Sha1": "C31D574BB56359E175369A4131EE241E1628C5BE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "1HNRW6rEr90=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesEntropy_n.dds",
+    "Sha1": "3EC1E62B2EAB74E2E1B972F4A323F97690AD098F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "1LhVtcFeDr8=",
+    "Size": 1398248,
+    "Path": "Data\\Textures\\clutter\\books\\NoteTreasureMap.dds",
+    "Sha1": "D1BE4D7BAA3914EEA54A80D4C6C2B46A4F3ED37C",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "1ND1K0HkKbs=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer07.dds",
+    "Sha1": "32D87FCFA3B370B174C32AF35A45F0D4F00A89BC",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "1BYtyz4wNGY=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue03.dds",
+    "Sha1": "1C2722BB90DA6F5756A332FCCAC54504389D41E4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "1DnmTKid9hI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TraumblumeAbhandlung.dds",
+    "Sha1": "A49D5154AF574BE8EA3C88F96C6A1B2BB0E8056D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

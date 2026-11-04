@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "U5iRogeRzeo=",
+    "Size": 2589,
+    "Path": "Data\\Scripts\\JValue.pex",
+    "Sha1": "331B28481E4B8585DA0252C31C89E99DF1432FC5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "U6PEi4LSjUA=",
+    "Size": 1869,
+    "Path": "Data\\SKSE\\Plugins\\JCData\\InternalLuaScripts\\api_for_lua.h",
+    "Sha1": "5886968D0B1E31B7DFF3926414982B2A468C808D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "UzTrLBRL3/g=",
+    "Size": 1446072,
+    "Path": "Data\\Strings\\enderal - forgotten stories_russian.dlstrings",
+    "Sha1": "960E1CBC87FE5C5F1ECCEDCDCC7E745D8F175220",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "U9vvDLLJeKA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk05_n.dds",
+    "Sha1": "577D7A89EC6128EC6C9983FE3EB6772B0E849CBE",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "U4RtzvtF7cc=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\YeroMemorial.dds",
+    "Sha1": "DC872187F84D23DCE6172BB7A408DC918AA3C736",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "U5vuU3+NIEI=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignfrostclifftavern.dds",
+    "Sha1": "90BFB6BFDEB75A0A78E6A0069402BD525A9DBE38",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "U1VRD2jCltk=",
+    "Size": 1048704,
+    "Path": "Data\\Textures\\Enderal\\Misc\\PosterPowdercliff.dds",
+    "Sha1": "8B54319141298CADD75C0255903F116E1AF3431D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "mK37/FrRi3E=",
+    "Size": 85770,
+    "Path": "Data\\Interface\\translate_polish.txt",
+    "Sha1": "7102D94AA7D605DEDA55805445AF0745C020C311",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "mFtEGmyLkpI=",
+    "Size": 73428,
+    "Path": "Data\\meshes\\terrain\\Vyn\\vyn.32.-5.9.btr",
+    "Sha1": "8B16AA8813F9736E65FF57AE9FD8D93A52988294",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "mFtEGmyLkpI=",
+    "Size": 73428,
+    "Path": "Data\\meshes\\terrain\\Vyn\\vyn.32.-5.9.btr",
+    "Sha1": "8B16AA8813F9736E65FF57AE9FD8D93A52988294",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "mFFD2FUeZQc=",
+    "Size": 2118,
+    "Path": "Data\\Source\\Scripts\\GameData.psc",
+    "Sha1": "2F83867471D1AD669A11B8E98C5B4C8816588970",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "mLQMrs5e2r4=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ManualDreamsVisions.dds",
+    "Sha1": "B39F92B5BD4384DE879AAE1347A588F4876A0233",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

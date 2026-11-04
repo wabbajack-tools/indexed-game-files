@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "fLdv4JKxfCs=",
+    "Size": 2013,
+    "Path": "Data\\Source\\Scripts\\Math.psc",
+    "Sha1": "F3C79C152DFDD3A09F83F74C0D08723FDDE73710",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "fDI+6ofZjfo=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\BookOfPoetry.dds",
+    "Sha1": "FBB124BF10FD95A0999F38A860CAFF8BC0D1D23A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "fOMD0/cPSLE=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\BarnabasSunlightsPromo1.dds",
+    "Sha1": "B533F48315CD1AA7659859AB916D43F1E0F4B4AF",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

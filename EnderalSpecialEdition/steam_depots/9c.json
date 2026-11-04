@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "nA6V3uMvUYw=",
+    "Size": 12778,
+    "Path": "Data\\Interface\\translations\\skyui_se_french.txt",
+    "Sha1": "3F5F559F357361C08F284942128DB057B60C7EA7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "nBT03QO5Qf8=",
+    "Size": 900,
+    "Path": "Data\\Scripts\\SoundDescriptor.pex",
+    "Sha1": "30D225EF2664611B010A625C95C65486471496E4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "nOKNxsp1v/s=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\EncyclopediaArcana01.dds",
+    "Sha1": "E26C4E10B6BF45E891C86851045AB6FD62875B5C",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "nKhkUyWhb1E=",
+    "Size": 2888,
+    "Path": "Enderal_default.ini",
+    "Sha1": "DC92391A531069AF9F4505EB4D84B9C6094CA503",
+    "App": 976620,
+    "Depot": 1574102,
+    "Manifest": 8022836713238303484
+  }
+]

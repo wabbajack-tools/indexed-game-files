@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "8YWDWBXnot8=",
+    "Size": 2608,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "22EB53AA884462C51D0FAC81CFF20A3A85B27530",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 5720885084233845834
+  },
+  {
+    "Hash": "8YNtUrOMPxo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Bauplan_n_n.dds",
+    "Sha1": "0916DC78F8C33F3910E709C1DCC6EE2E77EF91D3",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "8X6odJQ8WVg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\GlimmerdustApplication_n.dds",
+    "Sha1": "8FD549C579ADCCC3C07B807A5FE283BA8E79F523",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "8VhaZZJzb58=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\GoldenFord_n.dds",
+    "Sha1": "B883485EFC0BB7BDBD7B2B434D709BD8014B098C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "8TRrKWsXuDI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ManualDreamsVisions_n.dds",
+    "Sha1": "28ABFD317182E6FF5854CAD30D852AE328056406",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "8Tk9wN0tUpk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\PrudentBoy.dds",
+    "Sha1": "6B146ED9A11DFF45B073B13E83340008ACABAD69",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "8TTemLhGptw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer04_n.dds",
+    "Sha1": "E241524A5A79106117A0871FD5054FCCA69A4B9F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

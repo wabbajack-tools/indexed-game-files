@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "nmLGAukV2Lw=",
+    "Size": 1394,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "00E9E6AD6F57E5793135C3DF99685126096AEAE5",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "npnMoxYe8wU=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\silvergrove\\silentsleepinn.dds",
+    "Sha1": "5E8C9666F161016FF6A544A44DC3A8143A0743A6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "ngammCZnYMs=",
+    "Size": 5592560,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\signs_atlas.dds",
+    "Sha1": "56081FE5E75ED40CA7BADC91B4E565C8C8FB836F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "ngGpRpV+3ik=",
+    "Size": 294580208,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "4917BB6445AEDD0E363D66610029A1D6EFEE1F45",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 3308423357158402493
+  },
+  {
+    "Hash": "ngGpRpV+3ik=",
+    "Size": 294580208,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "4917BB6445AEDD0E363D66610029A1D6EFEE1F45",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "njeUAEtZ4ts=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "F15E03A03EE61DDA1B917EECAA3D2CBAFC599303",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  }
+]

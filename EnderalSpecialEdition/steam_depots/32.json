@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "MgzgE2A5P8E=",
+    "Size": 68992,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_shout_exhale_long.hkx",
+    "Sha1": "88BA86CE0190F9210290A8D893F143451B2C85AF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "MgzgE2A5P8E=",
+    "Size": 68992,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\sneak1hm_shout_exhale_long.hkx",
+    "Sha1": "88BA86CE0190F9210290A8D893F143451B2C85AF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "MokJfy07S/8=",
+    "Size": 3819,
+    "Path": "Data\\Scripts\\Faction.pex",
+    "Sha1": "C3F3E2DF2F96F14FD3136CC55B8AAE8A75F537F9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Mq6ySkkrD/o=",
+    "Size": 5057,
+    "Path": "Data\\Scripts\\Form.pex",
+    "Sha1": "B74D1279CFA50DCCA6DCF382E6369C3A6A276F83",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "MoS+FCNe/h4=",
+    "Size": 1406304717,
+    "Path": "Data\\Skyrim - Textures3.bsa",
+    "Sha1": "884078F407C153C152897F11FF97B7C7DA56A0D5",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "MjQ7f/XkwgM=",
+    "Size": 30,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "94D37143D258CCB2E520F1E050BC4883C83AE1B1",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "MuyKbqtwCzc=",
+    "Size": 2985,
+    "Path": "Data\\Source\\Scripts\\JFormDB.psc",
+    "Sha1": "2B51DA75FFA8E363853072055DC57614A99D8EBD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "MsN/Vih4EyA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\BlindMan.dds",
+    "Sha1": "8CB71F820DC48539FDB33618D97E8C31CC622E02",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "MoscT2fFTrY=",
+    "Size": 2796368,
+    "Path": "Data\\Textures\\clutter\\books\\notefahlsternmap_n.dds",
+    "Sha1": "4E7AFEBA329BFA17C80D2B030ECC8E587095F7DD",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "MoscT2fFTrY=",
+    "Size": 2796368,
+    "Path": "Data\\Textures\\clutter\\books\\notefahlsternmap_n_n.dds",
+    "Sha1": "4E7AFEBA329BFA17C80D2B030ECC8E587095F7DD",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

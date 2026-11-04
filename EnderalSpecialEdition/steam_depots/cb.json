@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "y4ZiBFs5Gi8=",
+    "Size": 2607,
+    "Path": "Data\\Enderal - Forgotten Stories.ini",
+    "Sha1": "5204DF4E632AF5B9FAD782D4C7F10486B6788789",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 7645486740413014461
+  },
+  {
+    "Hash": "y+3ibYZmUTE=",
+    "Size": 220912,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrossleggedblazed.hkx",
+    "Sha1": "1682D738D80B14DF1DF91389A81545A7C2CB73F9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "y+3ibYZmUTE=",
+    "Size": 220912,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrossleggedblazed.hkx",
+    "Sha1": "1682D738D80B14DF1DF91389A81545A7C2CB73F9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "y+3ibYZmUTE=",
+    "Size": 220912,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrossleggedblazed.hkx",
+    "Sha1": "1682D738D80B14DF1DF91389A81545A7C2CB73F9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "y+3ibYZmUTE=",
+    "Size": 220912,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrossleggedblazed.hkx",
+    "Sha1": "1682D738D80B14DF1DF91389A81545A7C2CB73F9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "y/JLMLunLR8=",
+    "Size": 1387383,
+    "Path": "Data\\Strings\\skyrim_japanese.ilstrings",
+    "Sha1": "30E01ECA2F875DC7336D117F03B2EB921A5A5938",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "yxTZrrNZyNE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesEntropy.dds",
+    "Sha1": "013483D9F3820B5E814AC3F1A438FF344C72CCB9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "yw810rloPSI=",
+    "Size": 5592560,
+    "Path": "Data\\Textures\\Enderal\\Misc\\PosterAtlas.dds",
+    "Sha1": "9E65A60B2314FD26DC2CE13309B62E80EB57AE9A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

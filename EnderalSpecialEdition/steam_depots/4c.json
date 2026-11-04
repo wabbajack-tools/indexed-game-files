@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "TJKd4BrMR7o=",
+    "Size": 1848081,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "36451FF93CB55B1D4CF72903481D2AA9D42352DD",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "TJKd4BrMR7o=",
+    "Size": 1848081,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "36451FF93CB55B1D4CF72903481D2AA9D42352DD",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "TGz5dmNaPL0=",
+    "Size": 41486,
+    "Path": "Data\\Interface\\credits.txt",
+    "Sha1": "96D53A27BAFF2C3C952852C47A49D71C2D9B8990",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "TJOxolcfO54=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesLightMagic.dds",
+    "Sha1": "1C99C58FAC5128D20CD9782634D83727E6AEEB0B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "TCqQL06yDrs=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath01.dds",
+    "Sha1": "40302A182D2B5EA7C7388C24EBDE424E2B867995",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "TFcLq2YiJXs=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath10.dds",
+    "Sha1": "D5D29F32EFAAA3BFE5CD11446A95E6AD3633BAC4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "TA0M7qSdSAQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThroatstoneReport.dds",
+    "Sha1": "5E09634454A605623B821FF82A4C1645D6C150D9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "TDcXAmDt6+Q=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\AdreyuVonMith1_n.dds",
+    "Sha1": "5D24B2B2F23C4549529918EC8BB3CDC4F94D1690",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

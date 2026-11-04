@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "NEfClmVq9B4=",
+    "Size": 1509673333,
+    "Path": "Data\\Skyrim - Textures1.bsa",
+    "Sha1": "AACEA08AC9853588DEF2B23A746C5DDE7A56306E",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "NEfClmVq9B4=",
+    "Size": 1509673333,
+    "Path": "Data\\Skyrim - Textures1.bsa",
+    "Sha1": "AACEA08AC9853588DEF2B23A746C5DDE7A56306E",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "NLgHYbifej8=",
+    "Size": 759,
+    "Path": "Data\\Source\\Scripts\\ColorComponent.psc",
+    "Sha1": "DE1C4EFBCAB3F5D7B609487EF0E7DF36ED95A22B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

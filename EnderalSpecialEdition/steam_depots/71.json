@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "cZBluAHjfXM=",
+    "Size": 31676,
+    "Path": "Data\\Interface\\Translations\\xpmse_HUNGARIAN.txt",
+    "Sha1": "69EA953C62339AD83413BD714AC1F5AE7C5886B6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "cRoWDIBjZU8=",
+    "Size": 593,
+    "Path": "Data\\Scripts\\TextureSet.pex",
+    "Sha1": "E511A6721B889459AB64C1433DBBED43A080A5E3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "cdcIPE8uhBg=",
+    "Size": 31,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "E8BF54FFF3372D198D0215DDFEE8C49FB2C311B7",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "cYMszEX96q0=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\AboutWhispertrees.dds",
+    "Sha1": "4C06BCFB532D30E1C3F9BEA15AFDE06864897011",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "cQYtMYitlrA=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ArtCrispyMeat.dds",
+    "Sha1": "EED1C103CC1CA7A2053E44F64320EA52C93EE6B0",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "cWro9ABzWDw=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesGoldenforst.dds",
+    "Sha1": "75E34D48DD86A0C579A4E6E8DDF7714039DA767B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "cQDl884lKTI=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\MythsArveldhiin.dds",
+    "Sha1": "1261F9A7D7D085DFD2832CD48D2430B0B4AA15FF",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "cScUEBwbthQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk09_n.dds",
+    "Sha1": "1FC30A54A90BE773289734C719CC3AD78FC0FE6C",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "cWygnKjf+5A=",
+    "Size": 5592560,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\signs_small.dds",
+    "Sha1": "78799EFABF32535F0A1CAF00EFBE3FF7D5A691C4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

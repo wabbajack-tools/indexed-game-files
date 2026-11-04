@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "IKSGGltxiSM=",
+    "Size": 103618909,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "50719704C3131E4E440237B440785BBFDC2AFC82",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  },
+  {
+    "Hash": "IHnVNXAvuOw=",
+    "Size": 854016,
+    "Path": "Data\\SKSE\\Plugins\\EnderalSteam.dll",
+    "Sha1": "47099FC1A54BE3C9D91BB9E10FBA60982BF7395A",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "IGnSauAhno8=",
+    "Size": 106921497,
+    "Path": "Data\\Skyrim - Interface.bsa",
+    "Sha1": "443D15650DB3D9BEB892A4F23F2891D470F3A4D1",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "IA7uauILNjE=",
+    "Size": 4342,
+    "Path": "Data\\Source\\Scripts\\Utility.psc",
+    "Sha1": "1622892CD5487850B6ADF8476A2D0D930190AED4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "IP7t0GohfxA=",
+    "Size": 325088,
+    "Path": "Data\\Strings\\enderal - forgotten stories_french.ilstrings",
+    "Sha1": "C1457144CD862AA670B36FC47F2AC83E567E1A3C",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "IFLA+T5IBkE=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\NutritiousnessMeat_n.dds",
+    "Sha1": "CF3D77B32D7AE4BBD9D4E238F5669D515275ACE1",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "IM6gKTydboU=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue01.dds",
+    "Sha1": "3343B0B30BC735A8B36F954B9F7E8AE6CD8B218E",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Hash": "KKXyjdlzclM=",
+    "Size": 1855049520,
+    "Path": "Data\\E - Textures2.bsa",
+    "Sha1": "9767A2E9DF2C79FAE16FE92DF2BAEF79A5ECC4B3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "KMaPGnGI+ro=",
+    "Size": 1257,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "FB9CF392FC2FAE8631F802083C250D317E8E7C07",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "KMaPGnGI+ro=",
+    "Size": 1257,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "FB9CF392FC2FAE8631F802083C250D317E8E7C07",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "KH+Nzu051wc=",
+    "Size": 1264,
+    "Path": "Data\\Scripts\\Cell.pex",
+    "Sha1": "A27568EC69EF5B050E98242D1D6322D0062FEB3F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "KPF4nGlqIyw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Lethonia.dds",
+    "Sha1": "1BB2FFA08AA4A1D787421C8ACD523D44471323B9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "KLr9lmrSMqc=",
+    "Size": 3302,
+    "Path": "EnderalPrefs_default.ini",
+    "Sha1": "E748D7413AF60A6902CDE52E6BB422C31DE47265",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

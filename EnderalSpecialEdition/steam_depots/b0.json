@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "sAExHvAV0K4=",
+    "Size": 11146,
+    "Path": "Data\\Interface\\Translations\\skyui_se_hungarian.txt",
+    "Sha1": "7444AEF337109B91928483BAD7DE4B05BC842242",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "sJmOq1/W5rU=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\BookOfPoetry.dds",
+    "Sha1": "3ABFBBA2AF3E336B49ADB052F74DA74B0EEAB051",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "sPf+v2Td+KQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer03.dds",
+    "Sha1": "8F3812E1B25209572BE1A216F876ED2DB53E58BC",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "sH9gsxzmEBM=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath08.dds",
+    "Sha1": "1FF599224CB8FA9D4DD653828E20A6EA409E4C7A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

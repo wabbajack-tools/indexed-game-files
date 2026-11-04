@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "A7LiY+z0AJI=",
+    "Size": 5557,
+    "Path": "Data\\Source\\Scripts\\Armor.psc",
+    "Sha1": "E74FDAAA10ECA57DC2BF07096FADA7E37EC7A046",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "AxPiu/rrDSM=",
+    "Size": 168738,
+    "Path": "Data\\Strings\\enderal - forgotten stories_chinese.strings",
+    "Sha1": "C47F03FB29E31B18C9B4DE73B17887EF102340EE",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "A9xyZbHTKcM=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesLightMagic_n.dds",
+    "Sha1": "7E933D1FADE6C17C58F05FB40053B9F9B839749C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "A4yBQatxa4Q=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath10_n.dds",
+    "Sha1": "A9A8E7C5CED5DE0DCFE196E8A320DB6517E644BF",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "A7Fz/ikpoWc=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\falsedog.dds",
+    "Sha1": "AF9157BB7D35BAF1FAA6C889BFBB38E6851BEF1C",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

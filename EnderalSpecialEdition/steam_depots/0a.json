@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "CqJeCU1V10I=",
+    "Size": 372484,
+    "Path": "Data\\Interface\\hudmenu.swf",
+    "Sha1": "748188CD65BC6C4B093A0C65AD6AD02214190003",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "ChyMeHwxwQI=",
+    "Size": 116682,
+    "Path": "Data\\Interface\\translate_HUNGARIAN - egyszer\u0171s\u00EDtett\\SkyrimSE 2023-08-14 10-39-15-46.jpg",
+    "Sha1": "1F0DAC9336B389B15392E7FF1405887088AE5178",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "CmbmFbdaP3M=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\KingLewd.dds",
+    "Sha1": "72C91008C9C8A2BF4448897C54A39CD375B12821",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "CvOV4iOpT4I=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "C6AECAF716A50952E008BEF7324A52083AC000BC",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  }
+]

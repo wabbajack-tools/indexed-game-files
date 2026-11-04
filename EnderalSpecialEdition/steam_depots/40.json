@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "QO474TaGVKE=",
+    "Size": 285432,
+    "Path": "Data\\Strings\\enderal - forgotten stories_spanish.ilstrings",
+    "Sha1": "D67964D6E4428CC9E12BD563ABDFDE17BC32A264",
+    "App": 976620,
+    "Depot": 976622,
+    "Manifest": 3571225253294452255
+  },
+  {
+    "Hash": "QCQPZ4oBbg0=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Bauplan.dds",
+    "Sha1": "A8CFF824E284DBB7FD41804B183E3BCCFA953568",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "QFQnCY3Z5JY=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\EncyclopediaArcana04.dds",
+    "Sha1": "8C5887575CBD2F68D572DB639D54F7E3023E8C25",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "QAZXANUDwq8=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\GoldenHouse.dds",
+    "Sha1": "2AF7F365AB7217AC327158E96A8EF9E2170B4E0C",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "QDfkSZOjL4E=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\meddoksfischerei_n.dds",
+    "Sha1": "E0F81071CBE087D9DB400342B9E8ABAD19E2EC3F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "QJZ5QuBl2t4=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "8856D415E3C011432057E6D669639868ABFD9091",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

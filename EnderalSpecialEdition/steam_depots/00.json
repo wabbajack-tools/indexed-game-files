@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "APi0XxPy4sw=",
+    "Size": 19051,
+    "Path": "Data\\SKSE\\Plugins\\SSEDisplayTweaks.ini",
+    "Sha1": "377591F390CBC170E4244261051FE23C064887FF",
+    "App": 976620,
+    "Depot": 1574102,
+    "Manifest": 6436646842199889361
+  },
+  {
+    "Hash": "AB1ojK9UUc8=",
+    "Size": 1234711,
+    "Path": "Data\\SkyUI_SE.bsa",
+    "Sha1": "B11A930FC9C1FFEF843CC04800D2733D9DC174D1",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "AEJFsuG9e9U=",
+    "Size": 519674,
+    "Path": "Data\\Strings\\Skyrim_hungarian.STRINGS",
+    "Sha1": "F3E061F5B0577B98BD3D64B0ABAA3D2B9DEEE790",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "AFIjRzFXeWo=",
+    "Size": 1236064,
+    "Path": "Data\\Strings\\skyrim_korean.ilstrings",
+    "Sha1": "B2D5BC8547136483EB9457171A9C26F3D3400837",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "ADpLiIFDYxg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\BlackStones.dds",
+    "Sha1": "580A579EA457E206B138C13911A2CA0B7BBEBF2F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "ADxojCScFnA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ChroniclesGoldenford_n.dds",
+    "Sha1": "F72247428D59C9FC8A7620AE7B47E7778F6AE6B3",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "AGG27rhhIhc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\HolinessOrder.dds",
+    "Sha1": "E79B045CDDD46CFCC8BA0FCB1EDC6F98D4166A3D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "AKlyfv6HWkU=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer08_n.dds",
+    "Sha1": "C05ACBB25676ABC45962864DC0449A019D1A6EAB",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

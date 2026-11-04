@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "BPCm/Y0913U=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\NightGood_n.dds",
+    "Sha1": "06C5DFCF7D89C5A73F698B0456343F9169B67E39",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "BOzl32WYuYs=",
+    "Size": 174920,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsigngrainfields.dds",
+    "Sha1": "E24559DD1D1C5E099B818895D05D2838D9877F16",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "BMfq9Mr0kjc=",
+    "Size": 5592560,
+    "Path": "Data\\Textures\\enderal\\misc\\posteratlas.dds",
+    "Sha1": "C8B0B5C8CF43FCB8F49F042B31058D625EFAC83C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

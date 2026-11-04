@@ -1,0 +1,119 @@
+[
+  {
+    "Hash": "FC+yJIfHEZY=",
+    "Size": 377675522,
+    "Path": "Data\\ccBGSSSE001-Fish.bsa",
+    "Sha1": "2435B2895C8D60350306E5AA8AF8C1521F9EA506",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "FE0MP7JeMh8=",
+    "Size": 11152,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\whirlwindsprint_long - kopie.hkx",
+    "Sha1": "3E17DF574EA3D0137F7BE7C46696EDD65E8141F6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "FE0MP7JeMh8=",
+    "Size": 11152,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\whirlwindsprint_long - kopie.hkx",
+    "Sha1": "3E17DF574EA3D0137F7BE7C46696EDD65E8141F6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "FMz7Flws/dA=",
+    "Size": 3949,
+    "Path": "Data\\Scripts\\Alias.pex",
+    "Sha1": "EBE30300DABD81DEAD007E8C8A88B2B432513D3C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "FGxwgXZAVmo=",
+    "Size": 795129,
+    "Path": "Data\\SKSE\\Plugins\\versionlib-1-6-1170-0.bin",
+    "Sha1": "2E4E8DC4C841C9B4FBF083F1F2214E79FFC10A9A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "FL4xORAgPY4=",
+    "Size": 295065,
+    "Path": "Data\\Strings\\enderal - forgotten stories_chinese.ilstrings",
+    "Sha1": "8C6C92C904810EB88433D32E202D5D50394D4F57",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "FGuc2erlhRs=",
+    "Size": 850079,
+    "Path": "Data\\Strings\\Enderal - Forgotten Stories_hungarian.DLSTRINGS",
+    "Sha1": "CA278D9B59C9A4AE9ED89164CAE2FE1A543A0826",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "FFMK+HDKzV8=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\PrudentBoy.dds",
+    "Sha1": "192BFDE7965E44199FACD627BE1F181D83012B69",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "FPGEIUl5cyU=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\meddoksfischerei.dds",
+    "Sha1": "2DA0946039262235C16BBE4DCC34206FE05BBA9A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "FJreyIXCVcc=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\silvercloud.dds",
+    "Sha1": "794D7959FD29B47A204D16EF8766F7C78CF6F0BA",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "FO7lEPzuL3k=",
+    "Size": 75195060,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "DA3ABD1A49D2A7CABC00E9C6647BBAE4B742AAB6",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "FO7lEPzuL3k=",
+    "Size": 75195060,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "DA3ABD1A49D2A7CABC00E9C6647BBAE4B742AAB6",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  },
+  {
+    "Hash": "FBtqtlebxyw=",
+    "Size": 33,
+    "Path": "Skyrim.ccc",
+    "Sha1": "E170BC47FAC700E40175A4AFAA0AD36F4CF332E3",
+    "App": 976620,
+    "Depot": 1574103,
+    "Manifest": 6090138831677211187
+  }
+]

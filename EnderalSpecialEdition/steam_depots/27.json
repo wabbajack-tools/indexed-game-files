@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "Jz6n73+NKxA=",
+    "Size": 3194,
+    "Path": "Data\\Interface\\Translations\\taverngames_hungarian.txt B",
+    "Sha1": "C390468D1F4CF1A7D3E9F11E5741224E25680934",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "J8N+Ct9aUEw=",
+    "Size": 964,
+    "Path": "Data\\SKSE\\Plugins\\JCData\\lua\\testing\\jc-tests.lua",
+    "Sha1": "C84D8B408E8996F033A52F275F33E5812F9DE2B5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "J83rGygHJkY=",
+    "Size": 30,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "8A7103F488F4E6FDE910469138AABF7D57ACBBBF",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "J5Do59BViB4=",
+    "Size": 1014814,
+    "Path": "Data\\Strings\\skyrim_czech.ilstrings",
+    "Sha1": "1863DC77C6323CE3734340C9438587BB0DD7FA5C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Jyn0kEsynEk=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\EncyclopediaArcana01_n.dds",
+    "Sha1": "203BC6734076C4FE571984CFF2AB493C8906FB78",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "J29PpkOc2l0=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\GlimmerdustApplication_n.dds",
+    "Sha1": "CB8CD47FD9CFDAC70C4305D6D128300929866BD0",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "JyS2QG6n8Ho=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\sharimrhalata_n.dds",
+    "Sha1": "33E744867EF19B48C7A19173B3E8A91A85DF0AFD",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

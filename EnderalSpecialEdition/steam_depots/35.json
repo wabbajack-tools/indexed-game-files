@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "NaQ3yLL15/c=",
+    "Size": 30,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "2F962F836ED0355951A60705646843A637975266",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  },
+  {
+    "Hash": "NTL1h0sRwYc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesPowderDesert.dds",
+    "Sha1": "825736E2F414A4E6FAF2E46942F5AA41EB5918B1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "NU3UIxzO8qs=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\NutritiousnessMeat.dds",
+    "Sha1": "A9CA11EC5E5A49CB8C4C2EBA3FBF736A0CFE6CA6",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "NUxUzTRQ6o4=",
+    "Size": 174928,
+    "Path": "Data\\Textures\\Enderal\\dungeons\\keltyzar\\signs\\signs.dds",
+    "Sha1": "CFF1F4C2CA4BA767F2DB9EEC76B467CF26CD140F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "NfJoclY1vUw=",
+    "Size": 70008568,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "CB44FFE96E332F08284872FBC3B29782980984C1",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 5720885084233845834
+  },
+  {
+    "Hash": "NfJoclY1vUw=",
+    "Size": 70008568,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "CB44FFE96E332F08284872FBC3B29782980984C1",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "yOqnWImk3mM=",
+    "Size": 174928,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\closed_n.dds",
+    "Sha1": "EBA5C302CF2E086674F4C8E29EFA0580E768693C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "yLhCbCSfkuE=",
+    "Size": 1605,
+    "Path": "Skyrim.ccc",
+    "Sha1": "2A04D6C1D8E12FE67C17898901ADDE4D61363863",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  }
+]

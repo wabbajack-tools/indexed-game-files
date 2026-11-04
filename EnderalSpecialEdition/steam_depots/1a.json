@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "Gik9TyKkskY=",
+    "Size": 55,
+    "Path": "Data\\Report a bug in Enderal SE.url",
+    "Sha1": "747014A889015F092D51B75FB2E34D5CC5CB3D6D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "GvMfSoR47dU=",
+    "Size": 2796368,
+    "Path": "Data\\Textures\\clutter\\books\\notejesparmap_n.dds",
+    "Sha1": "07BC14867C755ABF75CD773F65B07800F372035B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "GvMfSoR47dU=",
+    "Size": 2796368,
+    "Path": "Data\\Textures\\clutter\\books\\notejesparmap_n_n.dds",
+    "Sha1": "07BC14867C755ABF75CD773F65B07800F372035B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "Gl/aXEjnOJM=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Order_n.dds",
+    "Sha1": "570137DE098FC110A4F5A01DFA84A4F83D8F820C",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "GqLl4FUXV1Q=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk05_n.dds",
+    "Sha1": "6DB3DE4FBD5F66862464881A6B408DBCCDD49FD1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "GryBTjP+6LE=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\Ark\\fatleoransign.dds",
+    "Sha1": "C16D932553A17C61E8B1C106D251909CCB79A511",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

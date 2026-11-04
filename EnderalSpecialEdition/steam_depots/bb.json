@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "u+xNC7wzvmM=",
+    "Size": 199851,
+    "Path": "Data\\Strings\\enderal - forgotten stories_korean.strings",
+    "Sha1": "9F99A52270891A91A3DADB7E6D5F1A953C1061B6",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "u7T8HyCt3c8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath09_n.dds",
+    "Sha1": "46B7FDDB9A70DAD32A323C383B7C238377C5A665",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

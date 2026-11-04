@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "pQyjVJvuk18=",
+    "Size": 1217,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "8F61B0B552B8E5A93F4226E4055E8B3AEEEBF9BC",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "pWrtZbNj18M=",
+    "Size": 53488,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wounded_exit.hkx",
+    "Sha1": "861362A1AD69C74A0F6ABBD272A93DBF3A464D1D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "pWrtZbNj18M=",
+    "Size": 53488,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wounded_exit.hkx",
+    "Sha1": "861362A1AD69C74A0F6ABBD272A93DBF3A464D1D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "pSKwI9VggQw=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\PrudentBoy_n.dds",
+    "Sha1": "4B8357C81BB1F232266FB9DD7A40931FA9A25395",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "pWOUUrmGhr8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ShareholderCertificate.dds",
+    "Sha1": "7B0B44E03BEDEDB0B0249461BB1842EF2AB19EA3",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

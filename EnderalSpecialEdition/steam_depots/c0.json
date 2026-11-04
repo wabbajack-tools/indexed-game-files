@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "wMAVoMwbaCk=",
+    "Size": 1316,
+    "Path": "Data\\Interface\\fontconfig.txt",
+    "Sha1": "38D2CB8795E929D0B92FD906172351FC2B9897A4",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 7645486740413014461
+  },
+  {
+    "Hash": "wEJQRCV0e+g=",
+    "Size": 549,
+    "Path": "Data\\Scripts\\Ammo.pex",
+    "Sha1": "29F924DDC2A02F9496CFEE8617B99A77E25C71A3",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "wGJMLwojFwQ=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignuctarpit_n.dds",
+    "Sha1": "C02873906EA38DB734FC9CF1771A9333739903FC",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

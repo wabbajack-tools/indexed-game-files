@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "YcqvXCD/+PI=",
+    "Size": 55872,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_gamblingchairsittingplaying.hkx",
+    "Sha1": "04E18704E9DC4F48BE0075BD8EBF873594B282E7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "YcqvXCD/+PI=",
+    "Size": 55872,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_gamblingchairsittingplaying.hkx",
+    "Sha1": "04E18704E9DC4F48BE0075BD8EBF873594B282E7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "YdGhQ+cFSI0=",
+    "Size": 565759,
+    "Path": "Data\\Strings\\skyrim_polish.strings",
+    "Sha1": "B4DB22CC329AF1FD9C380103A2B452628A0CC2C2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Ydwaq58n25M=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsSteelWarden_n.dds",
+    "Sha1": "18FB0655F77D555A6FFDE9C101CC7ACAE19BB2A8",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "YZzjtQDO6ww=",
+    "Size": 3244032,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "32B627CAB174F55A097789117D3A077298131BDB",
+    "App": 976620,
+    "Depot": 976624,
+    "Manifest": 5877117207518776126
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "+Z5AsPKBFUw=",
+    "Size": 56330855,
+    "Path": "Data\\E - Misc.bsa",
+    "Sha1": "49EF11FA9162C54F595C6C389369BA50A3A1CE07",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "+QAR+pK0S9E=",
+    "Size": 135744,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\testidle.hkx",
+    "Sha1": "DD46D82CFD62EB0082DCFB4BFE9B9859661CD868",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "+QAR+pK0S9E=",
+    "Size": 135744,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\testidle.hkx",
+    "Sha1": "DD46D82CFD62EB0082DCFB4BFE9B9859661CD868",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "+aozIETX3/0=",
+    "Size": 952,
+    "Path": "Data\\Scripts\\ModEvent.pex",
+    "Sha1": "C1BAD0951C4309FAAEC8E46F6C4546C09A071102",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "+e0WSfQ0FHQ=",
+    "Size": 206427,
+    "Path": "Data\\Strings\\enderal - forgotten stories_japanese.strings",
+    "Sha1": "F2F74E4383722948F4C59C557478DEAF733001B2",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "+W89CmwVSJo=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\accountunknowntraveler01to03_n.dds",
+    "Sha1": "9F5848128265FEAAB4129D6BDC9BA961263255A7",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "+cWfb6YgpRw=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\Enderal\\Misc\\PosterCroccoWanted_n.dds",
+    "Sha1": "29B4DA3EA45AEDD9DE2C6C42F9FE6DD181AE9993",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

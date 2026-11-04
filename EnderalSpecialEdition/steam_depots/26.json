@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "JiSw0RNQkrA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\EncyclopediaArcana04_n.dds",
+    "Sha1": "D20F38D997EBC494EC8CD466791829A61C82AA66",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "JvRSFPIsMP8=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\JournalOldYogosh.dds",
+    "Sha1": "3B797D9CC7F0EA1ED3DB764C8EF7909BE86330BF",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "JhOiFFharXw=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignucbarracks.dds",
+    "Sha1": "C8EA6E326A87D23A007A56E01E1E715EEA577E75",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "JmKjQH7WWfE=",
+    "Size": 72167116,
+    "Path": "Data\\Video\\MQP03NearDeathExperience.bik",
+    "Sha1": "0D45363A37391383DF27E0DC312DF26D8E7D7805",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  }
+]

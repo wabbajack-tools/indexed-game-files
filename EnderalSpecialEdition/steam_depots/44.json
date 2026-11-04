@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "RPIKCSukIMk=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath02.dds",
+    "Sha1": "0BAA80D68E75A0A51A972BD72A81BF274452D69C",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "RJ97PCj9qsw=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath09.dds",
+    "Sha1": "62282A4ECE3CCCC2DFCB220E8D43CE285D90A577",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "RP+Qf481ulY=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\Enderal\\architecture\\farmlands\\hafnershofladensign_n.dds",
+    "Sha1": "8B66535A88F657A19B37D40BF31ACED86E32444B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

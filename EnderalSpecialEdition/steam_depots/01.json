@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "AfRoImUusd0=",
+    "Size": 8064,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\FNIS_PipeSmoking_Behavior.hkx",
+    "Sha1": "789699C454E70011F9DAF37ABCBAC076F1D2F9DE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "AfRoImUusd0=",
+    "Size": 8064,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\FNIS_PipeSmoking_Behavior.hkx",
+    "Sha1": "789699C454E70011F9DAF37ABCBAC076F1D2F9DE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "AR41zcPMcGg=",
+    "Size": 714,
+    "Path": "Data\\Scripts\\Keyword.pex",
+    "Sha1": "BFBFBFD705928E4CADCC4511D2CB15DDAF9CDABF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "AWbA22Wp2/8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Bauplan_n.dds",
+    "Sha1": "221D1CAAFF9C98265914336A745B299823E6911F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Aa61xTTZzEA=",
+    "Size": 2796328,
+    "Path": "Data\\Textures\\clutter\\books\\HolyOrderWarpings_n.dds",
+    "Sha1": "DDDC8C745ECE1B7FCF487DBBC6784AB4AC7A612D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "AU3tXfsf544=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsBlindMiner.dds",
+    "Sha1": "6D746A3D236DDB966EE406BF263DE477168C7465",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "AcQKvOJwtQc=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer07.dds",
+    "Sha1": "993B16D8B37A8E8AEF285F5AE90F562E13416559",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

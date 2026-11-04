@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "+OB0m871uiw=",
+    "Size": 141718580,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "0FCC8E0149CB66AA7397637468FDA4049F69CBB7",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "+OB0m871uiw=",
+    "Size": 141718580,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "0FCC8E0149CB66AA7397637468FDA4049F69CBB7",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 7645486740413014461
+  },
+  {
+    "Hash": "+Cu6sKRNSl0=",
+    "Size": 522,
+    "Path": "Data\\Scripts\\Apparatus.pex",
+    "Sha1": "DE4E029EB1AC643AAA7C01B0AFBA61E48AAF0396",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "+Hd+biaQHIU=",
+    "Size": 165304,
+    "Path": "Data\\Strings\\Enderal - Forgotten Stories_hungarian.STRINGS",
+    "Sha1": "4BE5DACE4FC604F5FB4292D739915870FE5F8D5B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "+DYoSHj+zek=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\StrangeFriend.dds",
+    "Sha1": "A38341C8828211134AAABBB76DE6BBF85CB03BA9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "+Aq+hH4eex4=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk07_n.dds",
+    "Sha1": "80833A42F7BE037AAEBB7D13EBF1D96D5AAE368E",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "+B0UEJ9H9wQ=",
+    "Size": 289900952,
+    "Path": "Data\\Video\\EnderalIntro.bik",
+    "Sha1": "FE8C771985ADFFA9E5189866123B70294DF3825E",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  }
+]

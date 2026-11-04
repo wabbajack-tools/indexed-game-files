@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "3bdvkez0mEE=",
+    "Size": 156528,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrossleggedstartblaze.hkx",
+    "Sha1": "9F9A8C46E5E0820263C91328211F3DCAB2DE0096",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "3bdvkez0mEE=",
+    "Size": 156528,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\pipesmokingcrossleggedstartblaze.hkx",
+    "Sha1": "9F9A8C46E5E0820263C91328211F3DCAB2DE0096",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "3ZLl7EQCvxc=",
+    "Size": 17840,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wall_pipesmoking_exit.hkx",
+    "Sha1": "4C95AC959B1F6CAABF2D3B76DBC42807C295BF81",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "3ZLl7EQCvxc=",
+    "Size": 17840,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\wall_pipesmoking_exit.hkx",
+    "Sha1": "4C95AC959B1F6CAABF2D3B76DBC42807C295BF81",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "3bdvkez0mEE=",
+    "Size": 156528,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrossleggedstartblaze.hkx",
+    "Sha1": "9F9A8C46E5E0820263C91328211F3DCAB2DE0096",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "3bdvkez0mEE=",
+    "Size": 156528,
+    "Path": "Data\\meshes\\actors\\character\\animations\\pipesmoking\\pipesmokingcrossleggedstartblaze.hkx",
+    "Sha1": "9F9A8C46E5E0820263C91328211F3DCAB2DE0096",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "3X68q2nYk08=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesMentalism.dds",
+    "Sha1": "1B23A58C02BAF082B90E024CC0C4610D8D93D624",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "3TOnV8E4E8c=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\Traumblume.dds",
+    "Sha1": "827C6E2C6DFA1B62DC5136D5BBD6463FEF7812FD",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "3YEj+kod5No=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\signs\\apothekarii.dds",
+    "Sha1": "92FADAB20447B89B215C6A17028587DCD97EFE55",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

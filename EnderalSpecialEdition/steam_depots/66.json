@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "Zt26OqcT96w=",
+    "Size": 2191,
+    "Path": "Data\\Source\\Scripts\\JLua.psc",
+    "Sha1": "20998311A250A5855BD7CE371C63E25A77477885",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "ZivILeRhisU=",
+    "Size": 465702,
+    "Path": "Data\\Strings\\enderal - forgotten stories_russian.ilstrings",
+    "Sha1": "DDE111E3BF84ED3E055F5973CF4BB979FFFDB610",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "ZnWSVj/TRfQ=",
+    "Size": 169258,
+    "Path": "Data\\Strings\\enderal - forgotten stories_spanish.strings",
+    "Sha1": "18CB2461606D1B94749CA81A673E1B58625FD07D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "ZqmJhMidnCI=",
+    "Size": 568968,
+    "Path": "Data\\Strings\\skyrim_german.strings",
+    "Sha1": "F454A0AB831DE3470381B6C5C640BE0424007ED4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  }
+]

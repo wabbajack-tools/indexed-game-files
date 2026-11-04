@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "77DexdML4+s=",
+    "Size": 1868267776,
+    "Path": "Data\\E - Textures2.bsa",
+    "Sha1": "AC8BA6C511998BFD09DC154A1BB550620322B3E5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "76V9qgD6/Yg=",
+    "Size": 2388,
+    "Path": "Data\\SkyUI_SE.esp",
+    "Sha1": "76F99109CFAD23B140DE8C9C3049EFE97E77AC82",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "75CpxvcntHg=",
+    "Size": 182465,
+    "Path": "Data\\Strings\\enderal - forgotten stories_french.strings",
+    "Sha1": "173E3E37F7ADA1CF2E5511CB21F130DBBA2A988B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "7wwaCp/05PY=",
+    "Size": 174433,
+    "Path": "Data\\Strings\\enderal - forgotten stories_italian.strings",
+    "Sha1": "C476A6EBBD87DE926F3C6545BAF3A750933D3CD7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "7+rjG8KFXTQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk01_n.dds",
+    "Sha1": "11A724C1FADAD460BCDE627B8D75A886AD942EEB",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "73/mnsumJO4=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk08_n.dds",
+    "Sha1": "02E713EA35670EF93C0EB36C4B802DF9AF00C899",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "75zETk3s1Ag=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignsilvergrove.dds",
+    "Sha1": "07EE9FE290C678B6CA3C63BA465A73C03311A5F4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

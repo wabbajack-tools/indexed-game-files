@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "j0hFTvytPg8=",
+    "Size": 760,
+    "Path": "Data\\Interface\\Translations\\AddItemMenu2_HUNGARIAN.txt",
+    "Sha1": "712DA9140E4AC1D9C9CC1FCD35D5367FF16E8B90",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "jyJPC/FexRg=",
+    "Size": 1241,
+    "Path": "Data\\Source\\Scripts\\JContainers.psc",
+    "Sha1": "E5FACD2CB1AA41A7C872179413D9826655D95A3A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "j9tivdQu4ss=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath06.dds",
+    "Sha1": "FE0D7FAE59B286A3E030CCBB6C00937C89167159",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "j/vQIWVUWq0=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignarena.dds",
+    "Sha1": "3F33E616F1BA8F0B4C0CCE5E92EA3E85E0072707",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

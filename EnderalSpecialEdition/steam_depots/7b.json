@@ -1,0 +1,119 @@
+[
+  {
+    "Hash": "e0e3I/sApcE=",
+    "Size": 12377,
+    "Path": "Data\\Interface\\1.5.9.0patchnote and Japanes localization updates.txt",
+    "Sha1": "5E0A693C32D64F9F3315D1D95C0A6F1DE177286F",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "e0e3I/sApcE=",
+    "Size": 12377,
+    "Path": "Data\\Interface\\1.5.9.0patchnote and Japanes localization updates.txt",
+    "Sha1": "5E0A693C32D64F9F3315D1D95C0A6F1DE177286F",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "e4cCnMyEkOE=",
+    "Size": 135824,
+    "Path": "Data\\Interface\\translate_polish.txt",
+    "Sha1": "DB5462E049BF4E4594E898B3F975D98AC45262D5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "e9roBiZA8Bk=",
+    "Size": 94,
+    "Path": "Data\\Interface\\Translations\\buriedtreasure_hungarian.txt",
+    "Sha1": "ED25F905D81DDE6FCF3E881162989D8171CD7768",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "e4ritBQ1OF4=",
+    "Size": 403072,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_onspot_side.hkx",
+    "Sha1": "7A602A506D9E9977503414E9824127DD7C963436",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "e4ritBQ1OF4=",
+    "Size": 403072,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\dancing_onspot_side.hkx",
+    "Sha1": "7A602A506D9E9977503414E9824127DD7C963436",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "e2vzCl1NJzo=",
+    "Size": 1169,
+    "Path": "Data\\Scripts\\ArmorAddon.pex",
+    "Sha1": "A431DFD32F427D5FE3CF58D9B12A98552A430583",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "e41v6aSV9tg=",
+    "Size": 29,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "5EB6AC67B1D70D0D6241F43088CF83A5E33C5359",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "e5GxG2i/dQc=",
+    "Size": 2478,
+    "Path": "Data\\Source\\Scripts\\StringUtil.psc",
+    "Sha1": "6AD579A71EFD3CDE67CC926B77BD574F920A05CC",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "e7dtiJmpwSI=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\MythsSteelWarden.dds",
+    "Sha1": "831C5C215B067518F90631214CD3DA4B67746AD1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "e63Mic1Ebi0=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath07.dds",
+    "Sha1": "AE1E33039881546E1271FA90332A991265F70419",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "e2f+4n9dYaQ=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\TheaterPromo1.dds",
+    "Sha1": "C51F77E87D2F69AA72D72B84C86C5950092ABA57",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "e5tbWCwxlLc=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignucmain_n.dds",
+    "Sha1": "368996347F470BB6FFD29203241F09214129C193",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

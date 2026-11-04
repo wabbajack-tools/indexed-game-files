@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "KoR1y1akn/g=",
+    "Size": 33200,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\sprintbehavior.hkx",
+    "Sha1": "BDA1B19DCCA777C9E76921EF60454841410701D6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "KoR1y1akn/g=",
+    "Size": 33200,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\sprintbehavior.hkx",
+    "Sha1": "BDA1B19DCCA777C9E76921EF60454841410701D6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Kn32RyN2Sag=",
+    "Size": 214496000,
+    "Path": "Data\\Skyrim - Textures8.bsa",
+    "Sha1": "7F96C5BCDB5E13248049EE90A0E8EA0740954101",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "KgQdTNSvT4c=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\AccountUnknownTraveler02.dds",
+    "Sha1": "4198EF11C6CBD6493ECBE462C5DE77AA1C5A2173",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "KkNkK47Ob8s=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk05.dds",
+    "Sha1": "36434DF9141F2441821FD1D88D01276350C6015E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "KiI0aKPNAys=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath02_n.dds",
+    "Sha1": "1296DB989B14365BB35808CC7F1C2E23864485D2",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "KifM+5e5JsU=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignfrostclifftavern_n.dds",
+    "Sha1": "7FC3A228BDEFDFA9B160F8CF8B3E6B6617E25822",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "KhdYxN8F9SA=",
+    "Size": 1398228,
+    "Path": "Data\\Textures\\enderal\\decals\\BloodSmear_HeIsStillHere_n.dds",
+    "Sha1": "96FDBB40D8C5E94C1F5463E86B48F3A8D4C198A4",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Kh6Ce5tyTUA=",
+    "Size": 634262056,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "2A4F0C717B4E14A813B3B0C67FC38A1EFA2524E8",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 3308423357158402493
+  },
+  {
+    "Hash": "Kh6Ce5tyTUA=",
+    "Size": 634262056,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "2A4F0C717B4E14A813B3B0C67FC38A1EFA2524E8",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  }
+]

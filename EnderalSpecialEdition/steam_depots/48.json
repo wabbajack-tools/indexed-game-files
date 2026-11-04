@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "SAZY56vK0r8=",
+    "Size": 21632,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_waveover.hkx",
+    "Sha1": "ED0697A82F57168792FAC18A126E1F97D74873C9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "SAZY56vK0r8=",
+    "Size": 21632,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_waveover.hkx",
+    "Sha1": "ED0697A82F57168792FAC18A126E1F97D74873C9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "SPR2RhudR2Q=",
+    "Size": 30,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "269D7CAFAAF63688CFF2703CD92C51B61F545669",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "SJ4vHSqxYL8=",
+    "Size": 185,
+    "Path": "Data\\Source\\Scripts\\Apparatus.psc",
+    "Sha1": "B9FFDA2BF3B6F0F84DB8332D061AB698C9025EB8",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "SFLB9KesQaY=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\AccountUnknownTraveler02_n.dds",
+    "Sha1": "73BCAB21EA85579466C4645B8AF9E43E02F2967A",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "SHpDXuM0zx8=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk05.dds",
+    "Sha1": "A894DBABA2DD63F1F8F0C6FECB215A8BF6BDF80B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "SBCQpjE/0Kw=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath07.dds",
+    "Sha1": "A2E9119ACB353DB8BCBDE696809389A057FD926E",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

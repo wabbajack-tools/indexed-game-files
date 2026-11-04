@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "EwvbU7wcUUo=",
+    "Size": 655189115,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "BBD18B650C9580833B3C3E7B4F986F6AD7AFECA8",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "EwvbU7wcUUo=",
+    "Size": 655189115,
+    "Path": "Data\\Skyrim - Textures0.bsa",
+    "Sha1": "BBD18B650C9580833B3C3E7B4F986F6AD7AFECA8",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "E+D5M0+Sdjg=",
+    "Size": 344,
+    "Path": "Data\\Source\\Scripts\\Ammo.psc",
+    "Sha1": "D6C24DA75226A6AFA3CD40B5888A5D233E68DD95",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "E4zsY5QpPNc=",
+    "Size": 1160837,
+    "Path": "Data\\Strings\\skyrim_korean.dlstrings",
+    "Sha1": "D517573A09052BB1AE5AF76B520D664C11D02DD5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "E5UFUdoSkTo=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\GlimmerdustApplication.dds",
+    "Sha1": "ADE7B98C9A0F81225712AE3BE26CE9811B657576",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "E7fAmjKhhaI=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\HolinessOrder.dds",
+    "Sha1": "302EAB5D20DA73750F71D8DBF38BCDDB0B616615",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "E9u4UUNWD8E=",
+    "Size": 1398228,
+    "Path": "Data\\Textures\\enderal\\architecture\\silvergrove\\SilentSleepInn_n.dds",
+    "Sha1": "BF4E5F4EFCF39858F6E46E4515DBA506C79CD2EF",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

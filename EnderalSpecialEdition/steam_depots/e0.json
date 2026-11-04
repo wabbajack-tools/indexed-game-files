@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "4MzIKgZwWxE=",
+    "Size": 274419,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "087A2BE2A0792DF38D3556C588E8E27201ABA49B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "4MzIKgZwWxE=",
+    "Size": 274419,
+    "Path": "Data\\Interface\\00E_heromenu.swf",
+    "Sha1": "087A2BE2A0792DF38D3556C588E8E27201ABA49B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  },
+  {
+    "Hash": "4A2zgSbX8jQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\Lethonia_n.dds",
+    "Sha1": "8CD25104EDB9D84D784B867576EBA2C4441A23C9",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "4OAzm+z6IRw=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TorganWhispertongue02.dds",
+    "Sha1": "2C082AA4F4521B97292BBFFFBA99EFFF68D7B854",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

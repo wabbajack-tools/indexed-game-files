@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "rUDbvTK6Xyw=",
+    "Size": 2564608,
+    "Path": "Data\\SKSE\\Plugins\\EngineFixes.dll",
+    "Sha1": "3B05E766D937BD26D49238224B9D096290F3388E",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "rUltf8GWGVU=",
+    "Size": 29,
+    "Path": "Data\\SkyUI_SE.ini",
+    "Sha1": "DBBD50209044ADDE2FF70CB3BEADE19C89546C69",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "rTFob8Bwac0=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath08_n.dds",
+    "Sha1": "7271135C4FB8A647B6DD2C04C12C18EF3634307B",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "rcuume/thtI=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\falsedog_n.dds",
+    "Sha1": "409DD0E0EA46D82E0713FFB1E9A40AC585CAE2B8",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

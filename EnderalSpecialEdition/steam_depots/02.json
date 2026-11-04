@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "AvbDlhTqVBc=",
+    "Size": 154299859,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "4E8C79391DB118C10721466115E748E0AA26F5B5",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "AvbDlhTqVBc=",
+    "Size": 154299859,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "4E8C79391DB118C10721466115E748E0AA26F5B5",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 7744297449815737703
+  },
+  {
+    "Hash": "Ar2oANjZCXw=",
+    "Size": 77745,
+    "Path": "Data\\meshes\\actors\\character\\character assets\\skeletonbeast.nif",
+    "Sha1": "3F50BF470A5BC34EC1118FDA9B12A6D3357D8DAF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Ar2oANjZCXw=",
+    "Size": 77745,
+    "Path": "Data\\meshes\\actors\\character\\character assets\\skeletonbeast.nif",
+    "Sha1": "3F50BF470A5BC34EC1118FDA9B12A6D3357D8DAF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "AsfgNnJgEJo=",
+    "Size": 944,
+    "Path": "Data\\Scripts\\JString.pex",
+    "Sha1": "99AA3B5D33178AA1A74D38D35808C4CA97E4CC92",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Aqyl77ahgUM=",
+    "Size": 1830,
+    "Path": "Data\\Source\\Scripts\\Scroll.psc",
+    "Sha1": "B002AFA67B78E5E15B5176D8FDD676040FD92A2F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "AksSmeaVLm4=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesFarmersCoast_n.dds",
+    "Sha1": "C9D0603A22E699DDAA2CF63F8479AA389CD087E6",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "AhLshVDTJhA=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\VillageInTurmoil.dds",
+    "Sha1": "A8EF5A909AA708A52C2C0B165F82D8E45DA1FF58",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Anszaxjfndc=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\ZorkbanAndSons_n.dds",
+    "Sha1": "25F801D20FBD9F0E885726F7EAAC24D512D37073",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "6s9PHQ62Plg=",
+    "Size": 1672,
+    "Path": "Data\\Scripts\\JIntMap.pex",
+    "Sha1": "82D1A56F5B8BC2DB331ABB6EF2881FE28F135A9B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "6n+UdS1Y8jw=",
+    "Size": 67768230,
+    "Path": "Data\\Skyrim - Shaders.bsa",
+    "Sha1": "5F6B0C024E5F05C55A64B47A7AD0F5E212FEEF07",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "6vAHYPnY2A8=",
+    "Size": 6142,
+    "Path": "Data\\Source\\Scripts\\JValue.psc",
+    "Sha1": "7F85DD04BF20683C384044DA96D4275F358457CE",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "6mZdBG3hj/c=",
+    "Size": 6187,
+    "Path": "Data\\Source\\Scripts\\Race.psc",
+    "Sha1": "EEEA0771EAACF277A63E1DB66955027986C11139",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "6lDha1lNkRY=",
+    "Size": 297758,
+    "Path": "Data\\Strings\\enderal - forgotten stories_italian.ilstrings",
+    "Sha1": "CEE1A50D02B688BE431E414B19DADC84C33B337F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "6vb7Hbb1vIQ=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\BlackStones_n.dds",
+    "Sha1": "402CB957D6F69CDE02EE9E44D94AEED8BF0CF42A",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "6kS6vgJkB38=",
+    "Size": 2665,
+    "Path": "Enderal_default.ini",
+    "Sha1": "6B197946697D6F743FDE92582751D0E174E3E8D5",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  }
+]

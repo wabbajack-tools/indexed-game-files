@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "5V9L91+EcMw=",
+    "Size": 5121,
+    "Path": "Data\\SKSE\\Plugins\\JCData\\lua\\testing\\basic.lua",
+    "Sha1": "86E406023193895A9A12A1DA7AF4960BFB7A6FC5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "5apulDhVgYk=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\HolyOrderWarpings.dds",
+    "Sha1": "01C04B38C97B53F1B365EDA6D09CFE557527CB37",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

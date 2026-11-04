@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "nzgX+2u3f3I=",
+    "Size": 3006,
+    "Path": "Data\\Interface\\taverngames_french.txt",
+    "Sha1": "BE2775111FA3164B6578142770A5D9A760C12461",
+    "App": 976620,
+    "Depot": 976628,
+    "Manifest": 3164078863630040097
+  },
+  {
+    "Hash": "n5bpwQhvbQQ=",
+    "Size": 142154,
+    "Path": "Data\\Interface\\translate_spanish.txt",
+    "Sha1": "17B8087B1DE80573D4B34EB1604145AB234C7F64",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "n5GCPUnU6w0=",
+    "Size": 550,
+    "Path": "Data\\Interface\\Translations\\racemenuhh_HUNGARIAN.txt",
+    "Sha1": "EF290B18130713CA8B002043AB4AB4A997DA74C0",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "n7bHiwvcdaM=",
+    "Size": 158384,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_cicerodance3.hkx",
+    "Sha1": "8ADCAA73C205E1EA5990C76DE6AD739CA1BA799B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "n7bHiwvcdaM=",
+    "Size": 158384,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_cicerodance3.hkx",
+    "Sha1": "8ADCAA73C205E1EA5990C76DE6AD739CA1BA799B",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "n/QyU0xKrGM=",
+    "Size": 63264,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_gamblingchairsittingenter.hkx",
+    "Sha1": "F98C8C52370BFD0893EB94DDDF7B23CDD67D476C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "n/QyU0xKrGM=",
+    "Size": 63264,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\_00e_gamblingchairsittingenter.hkx",
+    "Sha1": "F98C8C52370BFD0893EB94DDDF7B23CDD67D476C",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "nykNUmMvrMI=",
+    "Size": 1247495,
+    "Path": "Data\\Strings\\skyrim_korean.ilstrings",
+    "Sha1": "6D882043A284DE83BD4D0EDF2C15A326CD45A3B9",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "nzgfh0D2cy8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\GoldenHouse_n.dds",
+    "Sha1": "C5AF9BA5F6F1C653CE0D67393B96E784CD4E724D",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "nwmY3HS9FmU=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\VynOverview_n.dds",
+    "Sha1": "8F0DBFB355BCDCA5D513E7E14AD9865B8A1A1A11",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "cHK1TcL4AqE=",
+    "Size": 378759883,
+    "Path": "Data\\Skyrim - Meshes1.bsa",
+    "Sha1": "15215A58D07C84D4EF295365832FEBA427C405BE",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "cIGoZ9I8L/Q=",
+    "Size": 1021066,
+    "Path": "Data\\Strings\\skyrim_chinese.ilstrings",
+    "Sha1": "8B40A809451B97287A69527B7EA7386967B1351D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "cNJ4GBrjuHk=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath05.dds",
+    "Sha1": "5CE1647C898FE6F06F9CD7DB7BADB7E3E11A274F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "cNW1EeaGNQ8=",
+    "Size": 174928,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\signs\\closed.dds",
+    "Sha1": "AEAAF47E8907B30E3F9D4D917DDB2E89C7C956F2",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "cDu4N4xRiwc=",
+    "Size": 22369776,
+    "Path": "Data\\Textures\\map\\enderal_main.dds",
+    "Sha1": "A228162C1275810969BBF1D9956F3019FDAAC1F6",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

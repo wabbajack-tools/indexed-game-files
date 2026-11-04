@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "FZXovxp8lX0=",
+    "Size": 298496,
+    "Path": "binkw64.dll",
+    "Sha1": "B40E183A1C785403B9A760C87D436AE03662EC3B",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "FZXovxp8lX0=",
+    "Size": 298496,
+    "Path": "binkw64.dll",
+    "Sha1": "B40E183A1C785403B9A760C87D436AE03662EC3B",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "FdJsdfCn0VI=",
+    "Size": 29440,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\chair_idlecrosslegged_exit.hkx",
+    "Sha1": "DF08A19CF2C3CFF8591C58B52DCCA7A915992FE5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "FdJsdfCn0VI=",
+    "Size": 29440,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\chair_idlecrosslegged_exit.hkx",
+    "Sha1": "DF08A19CF2C3CFF8591C58B52DCCA7A915992FE5",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Fd7HH+5BmL8=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath08.dds",
+    "Sha1": "B5A6566E10586DA2108DBA4CFF864ADA636C84B8",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Fa5nGkqd82c=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\signs\\apothekarii.dds",
+    "Sha1": "349190D10C4B3F4D42B3CD47C4D1C3D0436FEB0F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "FUW+sBmqHiw=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\enderal\\clutter\\signage\\roadsignfrostclifftavern_n.dds",
+    "Sha1": "411F58FE89ADB20AF5FEDEBA749316B97527CB51",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "FYgvrbTPEWI=",
+    "Size": 627191024,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "61B252D9AE38789A42D7AE7EE7D08D49D097208B",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "FYgvrbTPEWI=",
+    "Size": 627191024,
+    "Path": "Data\\Video\\MQ17BlackGuardian.bik",
+    "Sha1": "61B252D9AE38789A42D7AE7EE7D08D49D097208B",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "fRkd7whfvik=",
+    "Size": 4432793,
+    "Path": "Data\\Interface\\NanumPen.swf",
+    "Sha1": "8D833823D2B06C224B87B0D5E1FDAC01C298385E",
+    "App": 976620,
+    "Depot": 1574101,
+    "Manifest": 2633064824186014807
+  },
+  {
+    "Hash": "fcr2TWUrWwM=",
+    "Size": 114752,
+    "Path": "Data\\meshes\\actors\\character\\characters female\\defaultfemale.hkx",
+    "Sha1": "1CE2D7E21E9ED3CD430E5E73E6BE721A0148EA1D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "fcr2TWUrWwM=",
+    "Size": 114752,
+    "Path": "Data\\meshes\\actors\\character\\characters female\\defaultfemale.hkx",
+    "Sha1": "1CE2D7E21E9ED3CD430E5E73E6BE721A0148EA1D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "fVclM5w+n7Q=",
+    "Size": 793967,
+    "Path": "Data\\SKSE\\Plugins\\versionlib-1-6-1130-0.bin",
+    "Sha1": "938BF6E9ED73D9016F5650931437305916BAED2D",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "fRcLeNGk0vc=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath07_n.dds",
+    "Sha1": "E7B9254164695C20FF2B59D2B7AA73CE2A12161C",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "fTV+8VOyZSs=",
+    "Size": 255752,
+    "Path": "skse64_loader.exe",
+    "Sha1": "92157550004F962515D6D28360565838ADB2329F",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  }
+]

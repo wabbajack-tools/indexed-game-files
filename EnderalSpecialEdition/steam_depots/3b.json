@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "O2bbnQBZLPw=",
+    "Size": 66683,
+    "Path": "Data\\Interface\\startmenu.swf",
+    "Sha1": "EA6DEE0020A4C78638F962130BF8453FC34BC2B7",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Oxh5CTn/s48=",
+    "Size": 37368,
+    "Path": "Data\\Interface\\translate_chinese.txt",
+    "Sha1": "9FD7B57E67B92622981305D138CCFEC890DBEB82",
+    "App": 976620,
+    "Depot": 1574100,
+    "Manifest": 5402019798809705967
+  },
+  {
+    "Hash": "O8s0Kt7ufZo=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\NightGood.dds",
+    "Sha1": "3979BA96E9E6AE52D518B3CEE2C6381524EA5591",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "O4JrW60FQTQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk07.dds",
+    "Sha1": "6884CA8A3996233F07BBEC78B5F39E9AB3E7770F",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "O5kJ576V0KY=",
+    "Size": 898,
+    "Path": "low.ini",
+    "Sha1": "A95D00379824C11C92BADF3A7A56DBC73A42D565",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "O5kJ576V0KY=",
+    "Size": 898,
+    "Path": "Low.ini",
+    "Sha1": "A95D00379824C11C92BADF3A7A56DBC73A42D565",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "O5kJ576V0KY=",
+    "Size": 898,
+    "Path": "low.ini",
+    "Sha1": "A95D00379824C11C92BADF3A7A56DBC73A42D565",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

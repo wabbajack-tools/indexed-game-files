@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "jppOsKZF6nY=",
+    "Size": 450488,
+    "Path": "Data\\Interface\\fonts_cs.swf",
+    "Sha1": "8B8C59E548B5C51533FD1F2DCCC5A66ED1E35FFA",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  },
+  {
+    "Hash": "juiZfO+q+3M=",
+    "Size": 87069,
+    "Path": "Data\\meshes\\actors\\character\\character assets female\\skeleton_female.nif",
+    "Sha1": "19CF34657E36B26A18933BD59769844F5B0A5C15",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "jmvtP+n3Rfo=",
+    "Size": 40,
+    "Path": "Data\\SKSE\\SKSE.ini",
+    "Sha1": "0552F57A59C4CAF595A64ACFB99AFBEE4CB0E99A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "jmvtP+n3Rfo=",
+    "Size": 40,
+    "Path": "Data\\SKSE\\SKSE.ini",
+    "Sha1": "0552F57A59C4CAF595A64ACFB99AFBEE4CB0E99A",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "jlyyNFmFyXM=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesPsionics.dds",
+    "Sha1": "FCBCA79253C69F43CF967B7C18D6728C2F73E7E9",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "jtj2r2lSCk0=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\Pechgrube_n.dds",
+    "Sha1": "0BE4D40270A1BDA8875607A748AAD79B134DA587",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "joAkOFfS7Wc=",
+    "Size": 911,
+    "Path": "ultra.ini",
+    "Sha1": "105913329BA0B872809E5D25D81285FD004F8279",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 983124346035775263
+  },
+  {
+    "Hash": "joAkOFfS7Wc=",
+    "Size": 911,
+    "Path": "Ultra.ini",
+    "Sha1": "105913329BA0B872809E5D25D81285FD004F8279",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "joAkOFfS7Wc=",
+    "Size": 911,
+    "Path": "ultra.ini",
+    "Sha1": "105913329BA0B872809E5D25D81285FD004F8279",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  }
+]

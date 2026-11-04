@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "CfIviwSg4eI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TheButcherOfArk06.dds",
+    "Sha1": "AA6EEFC7E0741BB686AE71985D45E13A545D4FA8",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "CTGTsD2IHPc=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\Pechgrube.dds",
+    "Sha1": "F26C21EC8E169890CC9209B2A4DD67C14ADF0BC2",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "Cc7ni04L2cs=",
+    "Size": 1903616,
+    "Path": "Enderal Launcher.exe",
+    "Sha1": "4CAFEDB6691B44C975A586D829BBDD8EDCD460F5",
+    "App": 976620,
+    "Depot": 1574102,
+    "Manifest": 8022836713238303484
+  }
+]

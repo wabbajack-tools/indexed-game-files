@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "iI1HxPeuJoQ=",
+    "Size": 8492,
+    "Path": "Data\\Interface\\controls\\pc\\controlmap.txt",
+    "Sha1": "62020B6175C4AD3308EF30CA5BF575A6923D119F",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "iHiN1maCiAg=",
+    "Size": 1539206,
+    "Path": "Data\\Interface\\Enderal_jpfp_Handwritten.swf",
+    "Sha1": "710EF99749E158D0AF6C26DFAF5B04577D5EA3D4",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 3685010293807507863
+  },
+  {
+    "Hash": "iHiN1maCiAg=",
+    "Size": 1539206,
+    "Path": "Data\\Interface\\Enderal_jpfp_Handwritten.swf",
+    "Sha1": "710EF99749E158D0AF6C26DFAF5B04577D5EA3D4",
+    "App": 976620,
+    "Depot": 976629,
+    "Manifest": 5500700008429994983
+  },
+  {
+    "Hash": "iL1f+neeGIg=",
+    "Size": 34605,
+    "Path": "Data\\Interface\\fonts_cs2.swf",
+    "Sha1": "7C11976AA49B98473693983D1B17124AA5F2F93D",
+    "App": 976620,
+    "Depot": 1574106,
+    "Manifest": 1777065262507105747
+  },
+  {
+    "Hash": "iP1wuNI3zK4=",
+    "Size": 1917,
+    "Path": "Data\\Source\\Scripts\\Ingredient.psc",
+    "Sha1": "C8A336E28586D0796B566A2525D656290769AD83",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "+kQpceJwwiY=",
+    "Size": 88120,
+    "Path": "Data\\Interface\\translate_italian.txt",
+    "Sha1": "81C6754E16B3FD1518AE4527520BC3B3908C4FE1",
+    "App": 976620,
+    "Depot": 976626,
+    "Manifest": 6678449903511624132
+  },
+  {
+    "Hash": "+js6gqg79HM=",
+    "Size": 3001,
+    "Path": "Data\\Source\\Scripts\\CombatStyle.psc",
+    "Sha1": "50B7EA4A0187701892ABDBC3A5DD707C971E5138",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "+kruZFoU9Vg=",
+    "Size": 3526,
+    "Path": "Data\\Source\\Scripts\\Weapon.psc",
+    "Sha1": "8AF7CD4D029AE450EDA6632DB2E9408F663DB609",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "+l1/t0HSSNE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\MythsAshWidow.dds",
+    "Sha1": "867811ECE3A25A1F104BFD0B837A68DC53C5216E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "+uOAxMUZDcA=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\Enderal\\forgottenstories\\Posters\\DarkCornersOfOurMind.dds",
+    "Sha1": "267A59BB3BBCDE7E866CCA36D5D1B1F380E315B5",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

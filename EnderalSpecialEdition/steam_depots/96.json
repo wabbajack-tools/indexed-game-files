@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "ltalclMmGEo=",
+    "Size": 139943801,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "157A958265E5B3651A7A2E8E6B3C80169BDDA4C6",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "ltalclMmGEo=",
+    "Size": 139943801,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "157A958265E5B3651A7A2E8E6B3C80169BDDA4C6",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 8647797636031883444
+  },
+  {
+    "Hash": "llca+nqD+to=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\DisciplinesEntropy_n.dds",
+    "Sha1": "825DDAA277A43DDC091788F7D2DC13888C793F8B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "lg6AL2D23yQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath03_n.dds",
+    "Sha1": "1BE4CDD077434B691D2175867A0C0AA236BA8B15",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "VTFw7kmYtLs=",
+    "Size": 1092876237,
+    "Path": "Data\\ccBGSSSE025-AdvDSGS.bsa",
+    "Sha1": "3C1918963F810BA070AB3D24D0489B2C5221858D",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "VdzvropN44s=",
+    "Size": 91358,
+    "Path": "Data\\Interface\\translate_german.txt",
+    "Sha1": "426AC973BA03C304EB8714583D05C7AF4185E050",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "VVZ5CcEAze4=",
+    "Size": 180555538,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "EC3BB75EDD254887DF2E30963C83657E57AD5579",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "VVZ5CcEAze4=",
+    "Size": 180555538,
+    "Path": "Data\\L - Textures.bsa",
+    "Sha1": "EC3BB75EDD254887DF2E30963C83657E57AD5579",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 4566972869277443379
+  },
+  {
+    "Hash": "VeK8wLwdB10=",
+    "Size": 5468,
+    "Path": "Data\\SKSE\\Plugins\\JCData\\InternalLuaScripts\\init.lua",
+    "Sha1": "242DE0E3D51F386FC061D8DB7DB0A7941AFE9AC2",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "Vfe7bNbxsq4=",
+    "Size": 202099845,
+    "Path": "Data\\Skyrim.esm",
+    "Sha1": "EC31819B323A77279005D56535CC29163CB7C841",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "Vekcbn5dqbQ=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LegacyPyreans_n.dds",
+    "Sha1": "8D132A793AAE840E9DF0288CED36C8754CE1327E",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

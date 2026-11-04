@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "wb7Rh2v7rWU=",
+    "Size": 86972,
+    "Path": "Data\\Interface\\translate_russian.txt",
+    "Sha1": "B67F0E2D7159DE0BDF9B38133C7711FE628A49F0",
+    "App": 976620,
+    "Depot": 976627,
+    "Manifest": 3789921182536976239
+  },
+  {
+    "Hash": "wUJd2bV2cKk=",
+    "Size": 87051,
+    "Path": "Data\\meshes\\actors\\character\\character assets female\\skeleton_female.nif",
+    "Sha1": "0F971494EB7D1D3322359497122277D5F08761CD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "wdT5NT/4FYQ=",
+    "Size": 2319028,
+    "Path": "Data\\meshes\\animationdatasinglefile.txt",
+    "Sha1": "A77C389EAD34D69AD700E847D2D07BF0167FF100",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "wdT5NT/4FYQ=",
+    "Size": 2319028,
+    "Path": "Data\\meshes\\animationdatasinglefile.txt",
+    "Sha1": "A77C389EAD34D69AD700E847D2D07BF0167FF100",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "wTnfZZrULTg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer03_n.dds",
+    "Sha1": "6C0F46BDCC057FD8EEE8926B95E5A08F398B1A2B",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "waRtIm1da3A=",
+    "Size": 1398256,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\adreyuvonmith1_n.dds",
+    "Sha1": "11774518F68FD19ED3437E182EC206E7A4EF9D6F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

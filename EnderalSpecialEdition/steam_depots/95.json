@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "la5CSkqmuDA=",
+    "Size": 799,
+    "Path": "Data\\Source\\Scripts\\Keyword.psc",
+    "Sha1": "C3F2F4BFA180C775F9CFA623E892535DA2F8CD91",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "lcGIzx6bjS8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer04.dds",
+    "Sha1": "76607166E0EA74DA8E5BBCACE7CC61A786F7D79E",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "lbmqihVqr+0=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer04.dds",
+    "Sha1": "F1A2B142A81DE2A2892DF9DC8B543F653F35E110",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "lV0v918DWdE=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\ThePath04_n.dds",
+    "Sha1": "9B229842A280AA82409C9DDD8FE5FD414A2E3926",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "lV6E4JDbIgw=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\enderal\\architecture\\undercity\\Promotion\\Playlist_n.dds",
+    "Sha1": "0A8687F20B01094F45517D58C4D05E76C514A367",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

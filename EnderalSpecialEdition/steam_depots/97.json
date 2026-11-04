@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "l+Yj9mWvb/o=",
+    "Size": 3844,
+    "Path": "Data\\Interface\\Translations\\uiextensions_hungarian.txt B",
+    "Sha1": "177ACCF0C88295CB38456531AD65F78645058EE9",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "l+Ny8Em1lvo=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\ChroniclesGoldenford.dds",
+    "Sha1": "ECE5F65EC966F1FC8CCBEA4DBDFC08264B7CC42F",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "l4K4ZK9c7fg=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\enderal\\architecture\\farmlands\\hafnershofladensign.dds",
+    "Sha1": "B5899A208600CD275AA063ECDE07F3B1C7AE9457",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "Hash": "hP8AbQ5uopA=",
+    "Size": 500,
+    "Path": "Data\\Scripts\\Art.pex",
+    "Sha1": "0651967FB23DBBB93252180A9B813C111BE2C1A6",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "hGCRt1tQdOQ=",
+    "Size": 882176,
+    "Path": "Data\\SKSE\\Plugins\\YesImSure.dll",
+    "Sha1": "FF118BEF5CE4F9C47BCE4CB1DCA658C0E20E62AC",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "hGCRt1tQdOQ=",
+    "Size": 882176,
+    "Path": "Data\\SKSE\\Plugins\\YesImSure.dll",
+    "Sha1": "FF118BEF5CE4F9C47BCE4CB1DCA658C0E20E62AC",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 4529923620283399347
+  },
+  {
+    "Hash": "hKnTlTmM5G0=",
+    "Size": 306497,
+    "Path": "Data\\Strings\\enderal - forgotten stories_english.ilstrings",
+    "Sha1": "663231B5DB45F2FC0C410F33E1C0EC6AC65D4AEB",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "hOiuc9dxMvk=",
+    "Size": 1171505,
+    "Path": "Data\\Strings\\skyrim_english.dlstrings",
+    "Sha1": "DAF554A80697D06DEBB4F967057DA289397E8050",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "hE3NVJH14cY=",
+    "Size": 589357,
+    "Path": "Data\\Strings\\skyrim_french.strings",
+    "Sha1": "75983931445B051D554E72E11920CCABE37193DF",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "hLfKVteAKV8=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\LandscapesPowderDesert_n.dds",
+    "Sha1": "10B00E92E8E446AFE89F37ACEC6FA790FD64408D",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  },
+  {
+    "Hash": "hF6C7gVuPOs=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\StrangeFriend_n.dds",
+    "Sha1": "8BCDEC33688480BDE24F880DF9789FACF8503085",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "hC4RaVIOUBo=",
+    "Size": 349680,
+    "Path": "Data\\Textures\\Enderal\\architecture\\undercity\\Promotion\\Pechgrube.dds",
+    "Sha1": "4D0BE85B54CDFEEFB97B6158CCB4A0C5719233B1",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "hINQ0MKlx3o=",
+    "Size": 349712,
+    "Path": "Data\\Textures\\Enderal\\clutter\\signage\\roadsignarena_n.dds",
+    "Sha1": "69859D7D7D728C534B0E8BE497204E787E6538E9",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

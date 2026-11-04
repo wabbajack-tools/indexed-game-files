@@ -1,0 +1,74 @@
+[
+  {
+    "Hash": "oirsT6SM2BI=",
+    "Size": 251264,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\examine_wall.hkx",
+    "Sha1": "522A81B8CB8740CB2F8B46057C1A4DE97D0A10DD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "oirsT6SM2BI=",
+    "Size": 251264,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\examine_wall.hkx",
+    "Sha1": "522A81B8CB8740CB2F8B46057C1A4DE97D0A10DD",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "ouoW4T2S1hk=",
+    "Size": 325776,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_cicerodance2.hkx",
+    "Sha1": "E07ED0FED608F1DF7970DB9165A09C2DA097A583",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "ouoW4T2S1hk=",
+    "Size": 325776,
+    "Path": "Data\\meshes\\actors\\character\\animations\\enderal\\special_cicerodance2.hkx",
+    "Sha1": "E07ED0FED608F1DF7970DB9165A09C2DA097A583",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "on8h2URPrbk=",
+    "Size": 55360,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\FNIS_Enderal_Behavior.hkx",
+    "Sha1": "EBDC487888E66DD1BB0BB492AFABCE3CAEDEA661",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "on8h2URPrbk=",
+    "Size": 55360,
+    "Path": "Data\\meshes\\actors\\character\\behaviors\\FNIS_Enderal_Behavior.hkx",
+    "Sha1": "EBDC487888E66DD1BB0BB492AFABCE3CAEDEA661",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "orfNXdFbGuc=",
+    "Size": 1629,
+    "Path": "Data\\Scripts\\WornObject.pex",
+    "Sha1": "BA19F2C69DA69B830D0F35324274BEAD26026514",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "ogx/WxX99Rk=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\TalesWanderer02.dds",
+    "Sha1": "5413EB21E8F9E72CD9A5901C063F09A627A253FE",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "qGsvjFtp+os=",
+    "Size": 586,
+    "Path": "Data\\Source\\Scripts\\LeveledActor.psc",
+    "Sha1": "6FC63572038E2149B1CA71DFB3C1FC8C4DE89D60",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qO7dZKjr/F4=",
+    "Size": 2021,
+    "Path": "Data\\Source\\Scripts\\UICallback.psc",
+    "Sha1": "A982734CAD874366509DE9DA57535EAF076505A4",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 4737953337756678336
+  },
+  {
+    "Hash": "qMMyFgiAUuM=",
+    "Size": 568368,
+    "Path": "Data\\Strings\\skyrim_italian.strings",
+    "Sha1": "5FF3AB2D3C143FB10AC829489C5AC659018FEFED",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "qFZ6OrZSYaI=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\VillageInTurmoil_n.dds",
+    "Sha1": "F7FC78E731F2F3EFF2331BB37E6A0224488C53FC",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]

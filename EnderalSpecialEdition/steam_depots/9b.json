@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "mwn/6JZusTk=",
+    "Size": 12818,
+    "Path": "Data\\Interface\\translations\\skyui_se_german.txt",
+    "Sha1": "609876BE9371639E9F85E33E80D762931A638BD9",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "m0ot/YQtTLY=",
+    "Size": 365803,
+    "Path": "Data\\SKSE\\Plugins\\fs_steam_src.zip",
+    "Sha1": "163C936A4901510C3869869E863B805B94D03A97",
+    "App": 976620,
+    "Depot": 976623,
+    "Manifest": 8744577126264013138
+  },
+  {
+    "Hash": "m3LEwpI4hcc=",
+    "Size": 700871549,
+    "Path": "Data\\Skyrim - Textures7.bsa",
+    "Sha1": "C36BE221220715777CC5C4F0E748D55939EF0C60",
+    "App": 976620,
+    "Depot": 976621,
+    "Manifest": 1537144631432878023
+  },
+  {
+    "Hash": "m3FdS2GpZVc=",
+    "Size": 1106154,
+    "Path": "Data\\Strings\\skyrim_german.ilstrings",
+    "Sha1": "8ACFA81970233A860398940965CBB3E201FCC3EC",
+    "App": 976620,
+    "Depot": 976625,
+    "Manifest": 3810569725633000181
+  },
+  {
+    "Hash": "m210UNLE3EE=",
+    "Size": 349672,
+    "Path": "Data\\Textures\\clutter\\books\\AccountUnknownTraveler03.dds",
+    "Sha1": "5C455E259CDE181AFB5A92F301D28773868B75A4",
+    "App": 976620,
+    "Depot": 1574105,
+    "Manifest": 2199581265650988325
+  },
+  {
+    "Hash": "m/mT7EtqFss=",
+    "Size": 699216,
+    "Path": "Data\\Textures\\clutter\\books\\BlindMan_n.dds",
+    "Sha1": "FF61D8013FE01049D61E4FDEF7E834720F9AC8F6",
+    "App": 976620,
+    "Depot": 1574104,
+    "Manifest": 3380003380266562213
+  }
+]
